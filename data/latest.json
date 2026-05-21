@@ -1,0 +1,306 @@
+{
+  "title": "OpenClaw Tech Brief",
+  "generatedAt": "2026-05-21T02:12:09.106Z",
+  "dateLabel": "20/05/2026 23:12",
+  "summary": "Briefing diario com noticias globais e papers recentes de tecnologia, ranqueados por relevancia, fonte e recencia.",
+  "topTopics": [
+    "ai",
+    "model",
+    "agent",
+    "openai",
+    "nvidia"
+  ],
+  "counts": {
+    "total": 14,
+    "news": 12,
+    "papers": 2
+  },
+  "items": [
+    {
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "source": "TechCrunch",
+      "type": "news",
+      "publishedAt": "2026-05-20T20:28:27.000Z",
+      "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+      "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+      "score": 55.8
+    },
+    {
+      "title": "I Gave My OpenClaw Agent a Physical Body",
+      "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+      "source": "Wired",
+      "type": "news",
+      "publishedAt": "2026-05-20T18:00:00.000Z",
+      "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+      "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+      "score": 52
+    },
+    {
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "source": "TechCrunch",
+      "type": "news",
+      "publishedAt": "2026-05-21T00:28:31.000Z",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+      "score": 50.8
+    },
+    {
+      "title": "Anthropic and OpenAI take their beef to the midterm elections",
+      "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
+      "source": "The Verge",
+      "type": "news",
+      "publishedAt": "2026-05-20T17:50:00.000Z",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the car crashes piling up on a daily basis at the Washington-based intersection of technology and politics. If you're not a subscriber, sign up for our fine editorial enterprise today, es",
+      "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+      "score": 50
+    },
+    {
+      "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
+      "url": "https://arxiv.org/abs/2605.19099",
+      "source": "arXiv: Artificial Intelligence",
+      "type": "paper",
+      "publishedAt": "2026-05-20T04:00:00.000Z",
+      "summary": "arXiv:2605.19099v1 Announce Type: new Abstract: We introduce DecisionBench, a benchmark substrate for emergent delegation in long-horizon agentic workflows. The substrate fixes a task suite (GAIA, tau-bench, BFCL multi-turn), a peer-model pool (11 models, 7 ve",
+      "insight": "Paper util para acompanhar novos benchmarks, datasets e sinais tecnicos que podem virar produto.",
+      "score": 48.5
+    },
+    {
+      "title": "Nvidia says it has ‘largely conceded’ China’s AI chip market to Huawei - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWUxVmpJajg3cVRIQ21DTWo5MzB5TFRTbUlZVXV6QjAtMFZtZ1hiTkh2OUtGbW5ETzd3aWl4SjJHQWgtdU83aVo3bjY1Q3pndlVZeExSVU01WUJMMjg0YXJFZlNUZU5sQmVsSmZiS1VGZ0h6M1V6M2lKTWpab1J0V0JsWnJLX19seEExX9IBkgFBVV95cUxOYzJacWhqay0wYTVaUEtENFM4bTY2QWpDYkZRVjVqZl9QOFFMTDJkWm5mTnJaYVhvUzl2TWlUSGVQYkg5Q3NLN1BlaWRnSjVPMVBDVExFczkwbUJQVHQzUXBSRDhSdS10c05ram4xNmQ1Mlc0Um80aWd2SzU4N2tLYUtldDgtY0RHbHVIVk1ldkR1QQ?oc=5",
+      "source": "Google News: Semiconductors",
+      "type": "news",
+      "publishedAt": "2026-05-21T00:54:00.000Z",
+      "summary": "Nvidia says it has ‘largely conceded’ China’s AI chip market to Huawei CNBC",
+      "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+      "score": 47.8
+    },
+    {
+      "title": "CIA, Industry Officials Warn Advanced AI Models Reshaping Federal Cybersecurity - executivegov.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZVNsVzNoSUF1STVQNmFXRDBXZUFWalFfeEJnTW51X2Nsa0tRWnFHUm1DUk93U0M0ZFR4UVRueXU5R05MbE14MndjM1RwSWYtVXRFTGhiakFMa21Yd0g5d1Y3LTNaMEE4VkpYc2xVRDNZa1F4VXpBODR2OTJlMHpkLWVn?oc=5",
+      "source": "Google News: Cybersecurity",
+      "type": "news",
+      "publishedAt": "2026-05-20T19:59:06.000Z",
+      "summary": "CIA, Industry Officials Warn Advanced AI Models Reshaping Federal Cybersecurity executivegov.com",
+      "insight": "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.",
+      "score": 47.5
+    },
+    {
+      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+      "source": "Ars Technica",
+      "type": "news",
+      "publishedAt": "2026-05-20T17:31:04.000Z",
+      "summary": "Google's AI search evolution is accelerating at I/O 2026.",
+      "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+      "score": 47
+    },
+    {
+      "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+      "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+      "source": "TechCrunch",
+      "type": "news",
+      "publishedAt": "2026-05-20T21:23:02.000Z",
+      "summary": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
+      "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+      "score": 46
+    },
+    {
+      "title": "Agent Security is a Systems Problem",
+      "url": "https://arxiv.org/abs/2605.18991",
+      "source": "arXiv: Cryptography and Security",
+      "type": "paper",
+      "publishedAt": "2026-05-20T04:00:00.000Z",
+      "summary": "arXiv:2605.18991v1 Announce Type: new Abstract: We take the position that agent security must be approached as a systems problem: the AI model powering the agent must be treated as an untrusted component, and security invariants must be enforced at the system ",
+      "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
+      "score": 45.5
+    },
+    {
+      "title": "Alibaba launches new AI chip to strengthen domestic semiconductor ambitions (BABA) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWHFCOWNBdnZFS1NFREhxQmNYY2Jyb1V3dlhBZDQweVlUbE9tZFJ3dmJta1NzYmJlV3ZGNlNvS244TEZHS1pVcWdtRWNsaUlKdmp4UlFYQ3RrNmxLWXJzelJwc3I4YXp1bmJZb0dkZkRaajdadDg4RWRjUlJVamtfT3BJSXEydlFyUjJMMS12eXFweXhCTHZTZGNzREJFcXRVQzdIT2NIWQ?oc=5",
+      "source": "Google News: Semiconductors",
+      "type": "news",
+      "publishedAt": "2026-05-20T10:29:49.000Z",
+      "summary": "Alibaba launches new AI chip to strengthen domestic semiconductor ambitions (BABA) Yahoo Finance",
+      "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+      "score": 45.3
+    },
+    {
+      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+      "source": "MIT Technology Review",
+      "type": "news",
+      "publishedAt": "2026-05-19T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether",
+      "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+      "score": 45
+    },
+    {
+      "title": "Alibaba Launches Zhenwu M890 AI Chip to Challenge Nvidia in Global Race - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwT1F2SVI2bGFNZ3dYS28xaXdDUlVRZl9WaFZvRTQ2djgxRERYRVJoWDhPSnhEYjJTQlg1clZpUmxaMHEtN0FrVw?oc=5",
+      "source": "Google News: Semiconductors",
+      "type": "news",
+      "publishedAt": "2026-05-20T14:04:54.000Z",
+      "summary": "Alibaba Launches Zhenwu M890 AI Chip to Challenge Nvidia in Global Race MEXC",
+      "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+      "score": 43
+    },
+    {
+      "title": "Alibaba Unveils Powerful New AI Chip As China Pushes To Reduce Dependence On Nvidia - Arise News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlZrMG1HOU9XaWcwMzh2dzkzQmNkTGtPN1BYZm5GU2JabmF2bFBjWjFpSzdQaXRqSWtqNEgtajZJeGszQ0ZsREhnYVQ3RC10TTJhTUNnNVY4M0E4MnRfNWxrV0RTVHFHVDNrLWNPN1ZWcUx5cEFDczdWU01EdTdZaERRMXFRcUZCMEZiSmFFLURTVkt3WjZpbHIySHh3Nk1nb1lZUW9mN00?oc=5",
+      "source": "Google News: Semiconductors",
+      "type": "news",
+      "publishedAt": "2026-05-20T09:45:38.000Z",
+      "summary": "Alibaba Unveils Powerful New AI Chip As China Pushes To Reduce Dependence On Nvidia Arise News",
+      "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+      "score": 42
+    }
+  ],
+  "sections": {
+    "news": [
+      {
+        "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+        "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+        "source": "TechCrunch",
+        "type": "news",
+        "publishedAt": "2026-05-20T20:28:27.000Z",
+        "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+        "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+        "score": 55.8
+      },
+      {
+        "title": "I Gave My OpenClaw Agent a Physical Body",
+        "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+        "source": "Wired",
+        "type": "news",
+        "publishedAt": "2026-05-20T18:00:00.000Z",
+        "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+        "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+        "score": 52
+      },
+      {
+        "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+        "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+        "source": "TechCrunch",
+        "type": "news",
+        "publishedAt": "2026-05-21T00:28:31.000Z",
+        "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+        "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+        "score": 50.8
+      },
+      {
+        "title": "Anthropic and OpenAI take their beef to the midterm elections",
+        "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
+        "source": "The Verge",
+        "type": "news",
+        "publishedAt": "2026-05-20T17:50:00.000Z",
+        "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the car crashes piling up on a daily basis at the Washington-based intersection of technology and politics. If you're not a subscriber, sign up for our fine editorial enterprise today, es",
+        "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+        "score": 50
+      },
+      {
+        "title": "Nvidia says it has ‘largely conceded’ China’s AI chip market to Huawei - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWUxVmpJajg3cVRIQ21DTWo5MzB5TFRTbUlZVXV6QjAtMFZtZ1hiTkh2OUtGbW5ETzd3aWl4SjJHQWgtdU83aVo3bjY1Q3pndlVZeExSVU01WUJMMjg0YXJFZlNUZU5sQmVsSmZiS1VGZ0h6M1V6M2lKTWpab1J0V0JsWnJLX19seEExX9IBkgFBVV95cUxOYzJacWhqay0wYTVaUEtENFM4bTY2QWpDYkZRVjVqZl9QOFFMTDJkWm5mTnJaYVhvUzl2TWlUSGVQYkg5Q3NLN1BlaWRnSjVPMVBDVExFczkwbUJQVHQzUXBSRDhSdS10c05ram4xNmQ1Mlc0Um80aWd2SzU4N2tLYUtldDgtY0RHbHVIVk1ldkR1QQ?oc=5",
+        "source": "Google News: Semiconductors",
+        "type": "news",
+        "publishedAt": "2026-05-21T00:54:00.000Z",
+        "summary": "Nvidia says it has ‘largely conceded’ China’s AI chip market to Huawei CNBC",
+        "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+        "score": 47.8
+      },
+      {
+        "title": "CIA, Industry Officials Warn Advanced AI Models Reshaping Federal Cybersecurity - executivegov.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZVNsVzNoSUF1STVQNmFXRDBXZUFWalFfeEJnTW51X2Nsa0tRWnFHUm1DUk93U0M0ZFR4UVRueXU5R05MbE14MndjM1RwSWYtVXRFTGhiakFMa21Yd0g5d1Y3LTNaMEE4VkpYc2xVRDNZa1F4VXpBODR2OTJlMHpkLWVn?oc=5",
+        "source": "Google News: Cybersecurity",
+        "type": "news",
+        "publishedAt": "2026-05-20T19:59:06.000Z",
+        "summary": "CIA, Industry Officials Warn Advanced AI Models Reshaping Federal Cybersecurity executivegov.com",
+        "insight": "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.",
+        "score": 47.5
+      },
+      {
+        "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+        "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+        "source": "Ars Technica",
+        "type": "news",
+        "publishedAt": "2026-05-20T17:31:04.000Z",
+        "summary": "Google's AI search evolution is accelerating at I/O 2026.",
+        "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+        "score": 47
+      },
+      {
+        "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+        "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+        "source": "TechCrunch",
+        "type": "news",
+        "publishedAt": "2026-05-20T21:23:02.000Z",
+        "summary": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
+        "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+        "score": 46
+      },
+      {
+        "title": "Alibaba launches new AI chip to strengthen domestic semiconductor ambitions (BABA) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWHFCOWNBdnZFS1NFREhxQmNYY2Jyb1V3dlhBZDQweVlUbE9tZFJ3dmJta1NzYmJlV3ZGNlNvS244TEZHS1pVcWdtRWNsaUlKdmp4UlFYQ3RrNmxLWXJzelJwc3I4YXp1bmJZb0dkZkRaajdadDg4RWRjUlJVamtfT3BJSXEydlFyUjJMMS12eXFweXhCTHZTZGNzREJFcXRVQzdIT2NIWQ?oc=5",
+        "source": "Google News: Semiconductors",
+        "type": "news",
+        "publishedAt": "2026-05-20T10:29:49.000Z",
+        "summary": "Alibaba launches new AI chip to strengthen domestic semiconductor ambitions (BABA) Yahoo Finance",
+        "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+        "score": 45.3
+      },
+      {
+        "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+        "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+        "source": "MIT Technology Review",
+        "type": "news",
+        "publishedAt": "2026-05-19T12:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether",
+        "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+        "score": 45
+      },
+      {
+        "title": "Alibaba Launches Zhenwu M890 AI Chip to Challenge Nvidia in Global Race - MEXC",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwT1F2SVI2bGFNZ3dYS28xaXdDUlVRZl9WaFZvRTQ2djgxRERYRVJoWDhPSnhEYjJTQlg1clZpUmxaMHEtN0FrVw?oc=5",
+        "source": "Google News: Semiconductors",
+        "type": "news",
+        "publishedAt": "2026-05-20T14:04:54.000Z",
+        "summary": "Alibaba Launches Zhenwu M890 AI Chip to Challenge Nvidia in Global Race MEXC",
+        "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+        "score": 43
+      },
+      {
+        "title": "Alibaba Unveils Powerful New AI Chip As China Pushes To Reduce Dependence On Nvidia - Arise News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlZrMG1HOU9XaWcwMzh2dzkzQmNkTGtPN1BYZm5GU2JabmF2bFBjWjFpSzdQaXRqSWtqNEgtajZJeGszQ0ZsREhnYVQ3RC10TTJhTUNnNVY4M0E4MnRfNWxrV0RTVHFHVDNrLWNPN1ZWcUx5cEFDczdWU01EdTdZaERRMXFRcUZCMEZiSmFFLURTVkt3WjZpbHIySHh3Nk1nb1lZUW9mN00?oc=5",
+        "source": "Google News: Semiconductors",
+        "type": "news",
+        "publishedAt": "2026-05-20T09:45:38.000Z",
+        "summary": "Alibaba Unveils Powerful New AI Chip As China Pushes To Reduce Dependence On Nvidia Arise News",
+        "insight": "Sinal relevante para custo, disponibilidade e estrategia de infraestrutura de IA.",
+        "score": 42
+      }
+    ],
+    "papers": [
+      {
+        "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
+        "url": "https://arxiv.org/abs/2605.19099",
+        "source": "arXiv: Artificial Intelligence",
+        "type": "paper",
+        "publishedAt": "2026-05-20T04:00:00.000Z",
+        "summary": "arXiv:2605.19099v1 Announce Type: new Abstract: We introduce DecisionBench, a benchmark substrate for emergent delegation in long-horizon agentic workflows. The substrate fixes a task suite (GAIA, tau-bench, BFCL multi-turn), a peer-model pool (11 models, 7 ve",
+        "insight": "Paper util para acompanhar novos benchmarks, datasets e sinais tecnicos que podem virar produto.",
+        "score": 48.5
+      },
+      {
+        "title": "Agent Security is a Systems Problem",
+        "url": "https://arxiv.org/abs/2605.18991",
+        "source": "arXiv: Cryptography and Security",
+        "type": "paper",
+        "publishedAt": "2026-05-20T04:00:00.000Z",
+        "summary": "arXiv:2605.18991v1 Announce Type: new Abstract: We take the position that agent security must be approached as a systems problem: the AI model powering the agent must be treated as an untrusted component, and security invariants must be enforced at the system ",
+        "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
+        "score": 45.5
+      }
+    ]
+  }
+}

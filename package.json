@@ -1,0 +1,19 @@
+{
+  "name": "tech-newsletter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily technology newsletter dashboard and generator.",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "generate": "node src/generate.js",
+    "build": "node src/build-static.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "rss-parser": "^3.13.0"
+  }
+}
