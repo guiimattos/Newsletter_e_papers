@@ -27,23 +27,38 @@ function normalizeUrl(url = "") {
   }
 }
 
-function cleanText(value = "") {
+function decodeEntities(value = "") {
   return value
     .replace(/<[^>]*>/g, " ")
     .replace(/&nbsp;/g, " ")
     .replace(/&amp;/g, "&")
     .replace(/&#39;/g, "'")
     .replace(/&quot;/g, "\"")
+    .replace(/&ldquo;|&rdquo;/g, '"')
+    .replace(/&lsquo;|&rsquo;/g, "'")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function cleanText(value = "") {
+  return decodeEntities(value);
 }
 
 function stripPublisherSuffix(title = "") {
   return title.replace(/\s[-–]\s[^-–]{2,60}$/u, "").trim();
 }
 
+function normalizeText(value = "") {
+  return cleanText(value).toLowerCase();
+}
+
+function parsePublishedAt(value = "") {
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString();
+}
+
 function publisherBoost(item) {
-  const text = `${item.source} ${item.title}`.toLowerCase();
+  const text = normalizeText(`${item.source} ${item.title}`);
   for (const [publisher, weight] of publisherWeights) {
     if (text.includes(publisher)) return weight;
   }
@@ -51,7 +66,7 @@ function publisherBoost(item) {
 }
 
 function scoreItem(item, sourceWeight) {
-  const text = `${item.title} ${item.summary}`.toLowerCase();
+  const text = normalizeText(`${item.title} ${item.summary}`);
   let score = sourceWeight + publisherBoost(item);
 
   for (const [topic, weight] of topicWeights) {
@@ -59,10 +74,16 @@ function scoreItem(item, sourceWeight) {
   }
 
   const ageHours = Math.max(0, dayjs().diff(dayjs(item.publishedAt), "hour"));
-  score += Math.max(0, 28 - ageHours) / 4;
+  score += Math.max(0, 36 - ageHours) / 4;
 
-  if (text.includes("launch") || text.includes("announces") || text.includes("unveils")) {
+  if (ageHours <= 12) {
+    score += 1;
+  }
+  if (text.includes("launch") || text.includes("announces") || text.includes("unveils") || text.includes("introduces")) {
     score += 4;
+  }
+  if (text.includes("exclusive") || text.includes("breaking")) {
+    score += 2;
   }
 
   if (item.type === "paper") {
@@ -70,13 +91,16 @@ function scoreItem(item, sourceWeight) {
     if (text.includes("survey") || text.includes("benchmark") || text.includes("dataset")) {
       score += 4;
     }
+    if (text.includes("open source") || text.includes("github") || text.includes("code")) {
+      score += 2;
+    }
   }
 
   return Math.round(score * 10) / 10;
 }
 
 function makeInsight(item) {
-  const text = `${item.title} ${item.summary}`.toLowerCase();
+  const text = normalizeText(`${item.title} ${item.summary}`);
 
   if (item.type === "paper") {
     if (text.includes("benchmark") || text.includes("dataset")) {
@@ -85,8 +109,12 @@ function makeInsight(item) {
     if (text.includes("security") || text.includes("privacy") || text.includes("attack")) {
       return "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.";
     }
+    if (text.includes("open source") || text.includes("github") || text.includes("implementation")) {
+      return "Tecnica ou modelo com codigo aberto que facilita experimentacao e integracao rapida.";
+    }
     return "Pesquisa recente que pode antecipar tecnicas, arquiteturas ou limites que ainda nao chegaram ao mercado.";
   }
+
   if (text.includes("cyber") || text.includes("ransomware") || text.includes("breach")) {
     return "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.";
   }
@@ -96,31 +124,39 @@ function makeInsight(item) {
   if (text.includes("regulation") || text.includes("antitrust") || text.includes("government")) {
     return "Pode mudar regras de mercado, compliance e disponibilidade de produtos.";
   }
-  if (text.includes("agent") || text.includes("model") || text.includes("openai") || text.includes("anthropic") || text.includes("google")) {
+  if (text.includes("agent") || text.includes("model") || text.includes("openai") || text.includes("anthropic") || text.includes("google") || text.includes("microsoft")) {
     return "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.";
   }
+  if (text.includes("cloud") || text.includes("infrastructure") || text.includes("aws") || text.includes("azure") || text.includes("gcp")) {
+    return "Atualizacao importante para estrategia de nuvem, plataforma e custos de infraestrutura.";
+  }
+  if (text.includes("quantum") || text.includes("robot") || text.includes("drone") || text.includes("semiconductor")) {
+    return "Tecnologia que pode mudar a cadeia de produto e a competitividade de hardware.";
+  }
+
   return "Vale acompanhar pelo impacto potencial em produto, mercado ou arquitetura tecnologica.";
 }
 
 function dedupe(items) {
   const seenUrls = new Set();
-  const titleFingerprints = [];
+  const fingerprints = [];
   const result = [];
 
   for (const item of items) {
-    const titleKey = stripPublisherSuffix(item.title)
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, " ")
-      .trim();
-    const words = new Set(titleKey.split(" ").filter((word) => word.length > 3));
-    const overlapsExisting = titleFingerprints.some((existing) => {
+    const titleKey = normalizeText(stripPublisherSuffix(item.title)).replace(/[^a-z0-9]+/g, " ").trim();
+    const summaryKey = normalizeText(item.summary).replace(/[^a-z0-9]+/g, " ").trim();
+    const words = new Set(
+      [...titleKey.split(" "), ...summaryKey.split(" ")].filter((word) => word.length > 3)
+    );
+
+    const overlapsExisting = fingerprints.some((existing) => {
       const overlap = [...words].filter((word) => existing.has(word)).length;
       return words.size > 0 && overlap / Math.min(words.size, existing.size) >= 0.55;
     });
 
     if (seenUrls.has(item.url) || overlapsExisting) continue;
     seenUrls.add(item.url);
-    titleFingerprints.push(words);
+    fingerprints.push(words);
     result.push(item);
   }
 
@@ -132,7 +168,7 @@ export async function fetchNews() {
     feeds.map(async (feed) => {
       const parsed = await parser.parseURL(feed.url);
       return parsed.items.slice(0, 20).map((entry) => {
-        const publishedAt = entry.isoDate || entry.pubDate || new Date().toISOString();
+        const publishedAt = parsePublishedAt(entry.isoDate || entry.pubDate || "");
         const summary = cleanText(entry.contentSnippet || entry.content || entry.summary || "");
         const item = {
           title: cleanText(entry.title || "Sem titulo"),
@@ -187,9 +223,11 @@ export function buildNewsletter(items) {
 function summarizeTopics(items) {
   const counts = new Map();
   for (const item of items) {
-    const text = `${item.title} ${item.summary}`.toLowerCase();
-    for (const [topic] of topicWeights) {
-      if (text.includes(topic)) counts.set(topic, (counts.get(topic) || 0) + 1);
+    const text = normalizeText(`${item.title} ${item.summary}`);
+    for (const [topic, weight] of topicWeights) {
+      if (text.includes(topic)) {
+        counts.set(topic, (counts.get(topic) || 0) + weight + item.score * 0.1);
+      }
     }
   }
   return [...counts.entries()]
