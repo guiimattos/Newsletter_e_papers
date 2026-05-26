@@ -1,12 +1,12 @@
 {
   "title": "OpenClaw Tech Brief",
-  "generatedAt": "2026-05-25T23:29:28.583Z",
-  "dateLabel": "25/05/2026 20:29",
+  "generatedAt": "2026-05-26T01:12:03.226Z",
+  "dateLabel": "25/05/2026 22:12",
   "summary": "Briefing diario com noticias globais e papers recentes de tecnologia, ranqueados por relevancia, fonte e recencia.",
   "topTopics": [
     "ai",
-    "model",
     "agent",
+    "model",
     "security",
     "cybersecurity"
   ],
@@ -24,7 +24,7 @@
       "publishedAt": "2026-05-25T23:04:09.000Z",
       "summary": "ChartWatch ASX Scans: Global technology ETF bonanza! Asia, Cybersecurity, Artificial Intelligence, Robotics & Automation, Semiconductors Market Index",
       "insight": "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.",
-      "score": 63
+      "score": 62.5
     },
     {
       "title": "Beyond Zero: Enterprise Security for the AI Era",
@@ -34,7 +34,7 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.22985v1 Announce Type: new Abstract: The rise of autonomous AI agents and the accelerating velocity of corporate data access are stretching the application-centric model of zero trust security to its breaking point. This paper introduces Beyond Zero",
       "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-      "score": 54.3
+      "score": 53.8
     },
     {
       "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
@@ -44,7 +44,7 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a sing",
       "insight": "Paper util para acompanhar novos benchmarks, datasets e sinais tecnicos que podem virar produto.",
-      "score": 51.3
+      "score": 50.8
     },
     {
       "title": "The Misattribution Gap: When Memory Poisoning Looks Like Model Failure in Agentic AI Systems",
@@ -54,7 +54,7 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.22842v1 Announce Type: new Abstract: Multi-agent AI pipelines typically assume that agent misconduct originates from model misalignment. We identify a structural failure in this assumption, the \\emph{Misattribution Gap}, where memory-layer attacks p",
       "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-      "score": 48.3
+      "score": 47.8
     },
     {
       "title": "Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks",
@@ -64,7 +64,7 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.23243v1 Announce Type: new Abstract: We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application securi",
       "insight": "Paper util para acompanhar novos benchmarks, datasets e sinais tecnicos que podem virar produto.",
-      "score": 48.3
+      "score": 47.8
     },
     {
       "title": "What ClickUp’s mass layoff tells us about the future of work",
@@ -74,7 +74,7 @@
       "publishedAt": "2026-05-25T16:00:00.000Z",
       "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
       "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
-      "score": 47.3
+      "score": 46.8
     },
     {
       "title": "Security, Privacy, and Ethical Risks in OpenClaw",
@@ -84,17 +84,7 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.23330v1 Announce Type: new Abstract: This paper systematically investigates the security, privacy, and ethical risks, as well as the traceability challenges of OpenClaw, a locally executable AI agent system for natural language interaction and real-",
       "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-      "score": 47.3
-    },
-    {
-      "title": "New AI model raises global concerns over cybersecurity risks - The Herald Insight",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnZG1NMkprNUl2NjljX053R2VUVnBZTjFkbjFXdzV3MGlvODhJRWdReGpEY1FrY1ZUQV83OUZWazRFOGxMdFNoZjFPSTBwRnJ1amJPNTZxYXBmZGxxUWRUcmxDVXhreFBNTVVJRFVpX0c?oc=5",
-      "source": "Google News: Cybersecurity",
-      "type": "news",
-      "publishedAt": "2026-05-25T06:58:51.000Z",
-      "summary": "New AI model raises global concerns over cybersecurity risks The Herald Insight",
-      "insight": "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.",
-      "score": 47
+      "score": 46.8
     },
     {
       "title": "Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models",
@@ -104,7 +94,7 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.22896v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models have emerged as a promising paradigm for robotic manipulation by leveraging pre-trained vision-language representations. However, current VLA training methods suffer from two c",
       "insight": "Pesquisa recente que pode antecipar tecnicas, arquiteturas ou limites que ainda nao chegaram ao mercado.",
-      "score": 46.3
+      "score": 45.8
     },
     {
       "title": "What Does the Server See? Understanding Privacy Leakage from Large Language Models in Split Inference",
@@ -114,7 +104,7 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.23158v1 Announce Type: new Abstract: The deployment of large language models (LLMs) on resource-constrained devices remains challenging, spurring interest in split inference, where models are partitioned between client and server to reduce computati",
       "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-      "score": 45.3
+      "score": 44.8
     },
     {
       "title": "AI Security Research Should Better Incentivize Defense Research",
@@ -124,7 +114,7 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.23448v1 Announce Type: new Abstract: This work examines an imbalance in artificial intelligence (AI) security research: the field tends to produce more work on attacking AI systems than on defending them. Drawing on related academic papers, we find ",
       "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-      "score": 45.3
+      "score": 44.8
     },
     {
       "title": "CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference",
@@ -134,7 +124,17 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.23640v1 Announce Type: new Abstract: Large Language Models (LLMs) rely on Key-Value (KV) caching to accelerate inference, and many serving systems further share the KV cache across users' requests to reduce redundant computation. While widely adopte",
       "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-      "score": 45.3
+      "score": 44.8
+    },
+    {
+      "title": "ESET invests $40 million in AI cybersecurity at ESET World 2026 - Tech Wire Asia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vczhmUnpPUzN1WDFMSXFVeFRHT1c3Ni1wamJqSXZvMXUzVnRtSVlxX0tZdGhRWWljYVZBRFN4LUNEVVRpUExLQ0xYbUhRTkNuVEJDSzVwQ3RPaDlXaW8yV1JFeFF6MVlMbEZ1OGZlYlJ6MGxpWDNvc25Kaw?oc=5",
+      "source": "Google News: Cybersecurity",
+      "type": "news",
+      "publishedAt": "2026-05-25T21:10:21.000Z",
+      "summary": "ESET invests $40 million in AI cybersecurity at ESET World 2026 Tech Wire Asia",
+      "insight": "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.",
+      "score": 43
     },
     {
       "title": "Design and Report Benchmarks for Knowledge Work",
@@ -144,17 +144,17 @@
       "publishedAt": "2026-05-25T04:00:00.000Z",
       "summary": "arXiv:2605.23262v1 Announce Type: new Abstract: The development of LLM agents has led to a growing body of work on knowledge-work AI, including coding, research, and healthcare. However, current knowledge-work evaluation and benchmark design still largely foll",
       "insight": "Paper util para acompanhar novos benchmarks, datasets e sinais tecnicos que podem virar produto.",
-      "score": 43.3
+      "score": 42.8
     },
     {
-      "title": "ESET invests $40 million in AI cybersecurity at ESET World 2026 - Tech Wire Asia",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vczhmUnpPUzN1WDFMSXFVeFRHT1c3Ni1wamJqSXZvMXUzVnRtSVlxX0tZdGhRWWljYVZBRFN4LUNEVVRpUExLQ0xYbUhRTkNuVEJDSzVwQ3RPaDlXaW8yV1JFeFF6MVlMbEZ1OGZlYlJ6MGxpWDNvc25Kaw?oc=5",
-      "source": "Google News: Cybersecurity",
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "source": "TechCrunch",
       "type": "news",
-      "publishedAt": "2026-05-25T18:49:31.000Z",
-      "summary": "ESET invests $40 million in AI cybersecurity at ESET World 2026 Tech Wire Asia",
-      "insight": "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.",
-      "score": 43
+      "publishedAt": "2026-05-24T21:39:21.000Z",
+      "summary": "We're in the transition period -- all of us.",
+      "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+      "score": 42.3
     }
   ],
   "sections": {
@@ -167,7 +167,7 @@
         "publishedAt": "2026-05-25T23:04:09.000Z",
         "summary": "ChartWatch ASX Scans: Global technology ETF bonanza! Asia, Cybersecurity, Artificial Intelligence, Robotics & Automation, Semiconductors Market Index",
         "insight": "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.",
-        "score": 63
+        "score": 62.5
       },
       {
         "title": "What ClickUp’s mass layoff tells us about the future of work",
@@ -177,27 +177,27 @@
         "publishedAt": "2026-05-25T16:00:00.000Z",
         "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
         "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
-        "score": 47.3
-      },
-      {
-        "title": "New AI model raises global concerns over cybersecurity risks - The Herald Insight",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnZG1NMkprNUl2NjljX053R2VUVnBZTjFkbjFXdzV3MGlvODhJRWdReGpEY1FrY1ZUQV83OUZWazRFOGxMdFNoZjFPSTBwRnJ1amJPNTZxYXBmZGxxUWRUcmxDVXhreFBNTVVJRFVpX0c?oc=5",
-        "source": "Google News: Cybersecurity",
-        "type": "news",
-        "publishedAt": "2026-05-25T06:58:51.000Z",
-        "summary": "New AI model raises global concerns over cybersecurity risks The Herald Insight",
-        "insight": "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.",
-        "score": 47
+        "score": 46.8
       },
       {
         "title": "ESET invests $40 million in AI cybersecurity at ESET World 2026 - Tech Wire Asia",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vczhmUnpPUzN1WDFMSXFVeFRHT1c3Ni1wamJqSXZvMXUzVnRtSVlxX0tZdGhRWWljYVZBRFN4LUNEVVRpUExLQ0xYbUhRTkNuVEJDSzVwQ3RPaDlXaW8yV1JFeFF6MVlMbEZ1OGZlYlJ6MGxpWDNvc25Kaw?oc=5",
         "source": "Google News: Cybersecurity",
         "type": "news",
-        "publishedAt": "2026-05-25T18:49:31.000Z",
+        "publishedAt": "2026-05-25T21:10:21.000Z",
         "summary": "ESET invests $40 million in AI cybersecurity at ESET World 2026 Tech Wire Asia",
         "insight": "Impacto direto em risco operacional, resposta a incidentes e prioridades de defesa.",
         "score": 43
+      },
+      {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "source": "TechCrunch",
+        "type": "news",
+        "publishedAt": "2026-05-24T21:39:21.000Z",
+        "summary": "We're in the transition period -- all of us.",
+        "insight": "Mostra a evolucao da camada de IA que devs e empresas vao usar no dia a dia.",
+        "score": 42.3
       }
     ],
     "papers": [
@@ -209,7 +209,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.22985v1 Announce Type: new Abstract: The rise of autonomous AI agents and the accelerating velocity of corporate data access are stretching the application-centric model of zero trust security to its breaking point. This paper introduces Beyond Zero",
         "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-        "score": 54.3
+        "score": 53.8
       },
       {
         "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
@@ -219,7 +219,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a sing",
         "insight": "Paper util para acompanhar novos benchmarks, datasets e sinais tecnicos que podem virar produto.",
-        "score": 51.3
+        "score": 50.8
       },
       {
         "title": "The Misattribution Gap: When Memory Poisoning Looks Like Model Failure in Agentic AI Systems",
@@ -229,7 +229,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.22842v1 Announce Type: new Abstract: Multi-agent AI pipelines typically assume that agent misconduct originates from model misalignment. We identify a structural failure in this assumption, the \\emph{Misattribution Gap}, where memory-layer attacks p",
         "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-        "score": 48.3
+        "score": 47.8
       },
       {
         "title": "Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks",
@@ -239,7 +239,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.23243v1 Announce Type: new Abstract: We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application securi",
         "insight": "Paper util para acompanhar novos benchmarks, datasets e sinais tecnicos que podem virar produto.",
-        "score": 48.3
+        "score": 47.8
       },
       {
         "title": "Security, Privacy, and Ethical Risks in OpenClaw",
@@ -249,7 +249,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.23330v1 Announce Type: new Abstract: This paper systematically investigates the security, privacy, and ethical risks, as well as the traceability challenges of OpenClaw, a locally executable AI agent system for natural language interaction and real-",
         "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-        "score": 47.3
+        "score": 46.8
       },
       {
         "title": "Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models",
@@ -259,7 +259,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.22896v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models have emerged as a promising paradigm for robotic manipulation by leveraging pre-trained vision-language representations. However, current VLA training methods suffer from two c",
         "insight": "Pesquisa recente que pode antecipar tecnicas, arquiteturas ou limites que ainda nao chegaram ao mercado.",
-        "score": 46.3
+        "score": 45.8
       },
       {
         "title": "What Does the Server See? Understanding Privacy Leakage from Large Language Models in Split Inference",
@@ -269,7 +269,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.23158v1 Announce Type: new Abstract: The deployment of large language models (LLMs) on resource-constrained devices remains challenging, spurring interest in split inference, where models are partitioned between client and server to reduce computati",
         "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-        "score": 45.3
+        "score": 44.8
       },
       {
         "title": "AI Security Research Should Better Incentivize Defense Research",
@@ -279,7 +279,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.23448v1 Announce Type: new Abstract: This work examines an imbalance in artificial intelligence (AI) security research: the field tends to produce more work on attacking AI systems than on defending them. Drawing on related academic papers, we find ",
         "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-        "score": 45.3
+        "score": 44.8
       },
       {
         "title": "CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference",
@@ -289,7 +289,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.23640v1 Announce Type: new Abstract: Large Language Models (LLMs) rely on Key-Value (KV) caching to accelerate inference, and many serving systems further share the KV cache across users' requests to reduce redundant computation. While widely adopte",
         "insight": "Pesquisa relevante para seguranca, privacidade e avaliacao de risco em sistemas reais.",
-        "score": 45.3
+        "score": 44.8
       },
       {
         "title": "Design and Report Benchmarks for Knowledge Work",
@@ -299,7 +299,7 @@
         "publishedAt": "2026-05-25T04:00:00.000Z",
         "summary": "arXiv:2605.23262v1 Announce Type: new Abstract: The development of LLM agents has led to a growing body of work on knowledge-work AI, including coding, research, and healthcare. However, current knowledge-work evaluation and benchmark design still largely foll",
         "insight": "Paper util para acompanhar novos benchmarks, datasets e sinais tecnicos que podem virar produto.",
-        "score": 43.3
+        "score": 42.8
       }
     ]
   }
