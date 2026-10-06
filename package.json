@@ -5,10 +5,11 @@
   "type": "module",
   "description": "Daily tech, startups and papers newsletter with notifications.",
   "scripts": {
+    "dev": "vite",
     "start": "node src/server.js",
-    "dev": "node --watch src/server.js",
     "generate": "node src/generate.js",
     "build": "node src/build-static.js",
+    "build:site": "node src/build-static.js --skip-generate",
     "notify": "node src/send.js",
     "daily": "node src/send.js --generate"
   },
@@ -19,5 +20,13 @@
     "node-cron": "^4.2.1",
     "nodemailer": "^10.0.15",
     "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "motion": "^14.0.0",
+    "ogl": "^1.0.11",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "vite": "^8.3.3"
   }
 }

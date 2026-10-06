@@ -6,13 +6,20 @@ Newsletter diaria com as principais noticias de tecnologia, startups e papers. T
 
 | Secao | Fontes |
 | --- | --- |
-| Principais noticias (8) | MIT Technology Review, The Verge, TechCrunch, Ars Technica, Wired, IEEE Spectrum, Hacker News (front page) e Google News |
-| Startups & venture (6) | TechCrunch Startups/Venture, Startups.com.br, Product Hunt, Google News (rodadas no mundo e no Brasil) |
-| Papers em alta (5) | Hugging Face Daily Papers (ranqueados por upvotes da comunidade), com arXiv como reserva |
+| Manchete + Tech (11) | Techmeme, MIT Technology Review, The Verge, TechCrunch, Ars Technica, Wired, IEEE Spectrum, Rest of World, 404 Media, Hacker News, OpenAI, Google DeepMind, Hugging Face |
+| Startups (8) | TechCrunch Startups/Venture, Crunchbase News, Sifted, Y Combinator, Product Hunt, rodadas no Google News |
+| Brasil (6) | Neofeed, Brazil Journal, Startups.com.br, Tecnoblog, Canaltech, rodadas no Google News BR |
+| Papers (6) | Hugging Face Daily Papers (upvotes da comunidade), com arXiv como reserva |
+| Repos (6) | Repositorios criados nesta semana com mais estrelas no GitHub |
+| Leituras (5) | Stratechery, Benedict Evans, Pragmatic Engineer, Simon Willison, Platformer, Import AI, One Useful Thing, Interconnects, Latent Space, Not Boring |
 
-O ranking combina peso da fonte, recencia, temas (IA, chips, seguranca, rodadas, IPOs...), pontos no Hacker News e upvotes dos papers. Ele filtra ruido (ETFs, dicas de acoes, promocoes), remove duplicadas e limita repeticoes da mesma fonte ou do mesmo assunto.
+O ranking combina peso da fonte, recencia, temas, pontos no Hacker News, upvotes dos papers e estrelas no GitHub. Ele filtra ruido (dicas de acoes, promocoes, tutoriais), junta a mesma noticia vinda de fontes diferentes e evita que um assunto ou uma fonte domine a edicao. Cada item recebe tags (IA, Chips, Seguranca, Rodada, M&A...) e as rodadas tem o valor captado extraido do texto.
 
-Com `ANTHROPIC_API_KEY` configurada, o Claude escreve a abertura do dia, de 3 a 5 destaques e traduz cada titulo para portugues com uma frase de "por que importa". Sem a chave, a newsletter funciona normalmente com os titulos originais.
+Com `ANTHROPIC_API_KEY` configurada, o Claude escreve a abertura do dia, 3 a 5 destaques e traduz cada titulo para portugues com uma frase de "por que importa". Sem a chave a newsletter funciona normalmente, com os titulos originais.
+
+## Site
+
+O site e um app React (Vite) em `web/`, com componentes do [React Bits](https://reactbits.dev): LightRays no topo, BlurText na data, CountUp nos numeros do dia e SpotlightCard nos papers. Tem busca, filtro por tema, tema escuro automatico e arquivo de edicoes anteriores (`?edicao=AAAA-MM-DD`).
 
 ## Configurar as notificacoes (escolha um ou mais canais)
 
@@ -52,11 +59,13 @@ Pushes na `main` so republicam o site e nao notificam.
 ```bash
 npm install
 cp .env.example .env   # preencha os canais que quiser
-npm run generate       # gera data/latest.json
+npm run generate       # gera data/latest.json e data/AAAA-MM-DD.json
+npm run dev            # site em modo dev (Vite), lendo as edicoes de data/
+npm run build          # gera a edicao do dia + site estatico em dist/
+npm run build:site     # so recompila o site com as edicoes existentes
 npm run notify         # envia a ultima edicao para os canais configurados
 npm run daily          # gera e envia
-npm start              # dashboard em http://localhost:4321 + agendamento diario local
-npm run build          # gera o site estatico em dist/
+npm start              # serve dist/ em http://localhost:4321 + agendamento diario local
 ```
 
 ## Estrutura
@@ -65,4 +74,5 @@ npm run build          # gera o site estatico em dist/
 - `src/newsletter.js`: coleta, ranking, deduplicacao e montagem das secoes
 - `src/ai.js`: resumo editorial opcional com Claude
 - `src/notify.js`: envio para Telegram, ntfy e e-mail
-- `public/`: dashboard web
+- `src/build-static.js`: gera a edicao, compila o site e monta o arquivo de edicoes
+- `web/`: site em React (`web/src/components/reactbits/` tem os componentes do React Bits)

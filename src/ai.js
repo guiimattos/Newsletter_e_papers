@@ -38,7 +38,7 @@ export async function generateEditorial(items) {
   if (!process.env.ANTHROPIC_API_KEY || items.length === 0) return null;
 
   const listing = items
-    .map((item, id) => `[${id}] (${item.type}) ${item.title} — ${item.source}\n${item.summary}`)
+    .map((item, id) => `[${id}] (${item.section}) ${item.title} — ${item.source}\n${item.summary}`)
     .join("\n\n");
 
   try {
@@ -56,7 +56,7 @@ export async function generateEditorial(items) {
         {
           role: "user",
           content:
-            `Estes sao os itens selecionados hoje (noticias, startups e papers):\n\n${listing}\n\n` +
+            `Estes sao os itens selecionados hoje (manchete, noticias, startups, Brasil, papers e analises):\n\n${listing}\n\n` +
             "Escreva a abertura, os destaques do dia e, para cada item (use o id), um titulo em portugues e uma frase dizendo por que importa."
         }
       ]

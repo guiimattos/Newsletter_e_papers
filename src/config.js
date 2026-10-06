@@ -20,9 +20,12 @@ export const config = {
   newsletterTime: process.env.NEWSLETTER_TIME || "08:00",
   timezone: process.env.NEWSLETTER_TIMEZONE || "America/Sao_Paulo",
   quotas: {
-    news: Number(process.env.NEWSLETTER_NEWS || 8),
-    startups: Number(process.env.NEWSLETTER_STARTUPS || 6),
-    papers: Number(process.env.NEWSLETTER_PAPERS || 5)
+    news: Number(process.env.NEWSLETTER_NEWS || 10),
+    startups: Number(process.env.NEWSLETTER_STARTUPS || 8),
+    brasil: Number(process.env.NEWSLETTER_BRASIL || 6),
+    reads: Number(process.env.NEWSLETTER_READS || 5),
+    papers: Number(process.env.NEWSLETTER_PAPERS || 6),
+    repos: Number(process.env.NEWSLETTER_REPOS || 6)
   },
   maxAgeHours: Number(process.env.NEWSLETTER_MAX_AGE_HOURS || 48),
   siteUrl: process.env.SITE_URL || "",

@@ -6,7 +6,9 @@ import { notifyAll } from "./notify.js";
 
 const app = express();
 
-app.use(express.static("public"));
+// Serves the built site (npm run build:site) and the editions in ./data.
+app.use(express.static("dist"));
+app.use("/data", express.static("data"));
 
 app.get("/api/newsletter", async (_req, res, next) => {
   try {

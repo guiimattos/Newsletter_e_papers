@@ -2,9 +2,11 @@ import nodemailer from "nodemailer";
 import { config } from "./config.js";
 
 const SECTION_LABELS = [
-  ["news", "📰 Principais noticias"],
-  ["startups", "🚀 Startups & venture"],
-  ["papers", "📄 Papers em alta"]
+  ["news", "📰 Tech", 6],
+  ["startups", "🚀 Startups", 5],
+  ["brasil", "🇧🇷 Brasil", 4],
+  ["papers", "📄 Papers em alta", 3],
+  ["reads", "📚 Para ler com calma", 3]
 ];
 
 const TELEGRAM_LIMIT = 4000;
@@ -31,8 +33,13 @@ export function buildTelegramMessages(newsletter) {
   }
   blocks.push(intro);
 
-  for (const [key, label] of SECTION_LABELS) {
-    const items = newsletter.sections?.[key] || [];
+  if (newsletter.lead) {
+    const { lead } = newsletter;
+    blocks.push(`<b>⭐ Manchete</b>\n<a href="${escapeHtml(lead.url)}">${escapeHtml(headline(lead))}</a> <i>(${escapeHtml(lead.source)})</i>`);
+  }
+
+  for (const [key, label, limit] of SECTION_LABELS) {
+    const items = (newsletter.sections?.[key] || []).slice(0, limit);
     if (!items.length) continue;
     const lines = items.map(
       (item) => `• <a href="${escapeHtml(item.url)}">${escapeHtml(headline(item))}</a> <i>(${escapeHtml(item.source)})</i>`
@@ -76,7 +83,11 @@ async function sendTelegram(newsletter) {
 
 async function sendNtfy(newsletter) {
   const server = process.env.NTFY_SERVER || "https://ntfy.sh";
-  const top = [...(newsletter.sections?.news || []).slice(0, 3), ...(newsletter.sections?.startups || []).slice(0, 2)];
+  const top = [
+    newsletter.lead,
+    ...(newsletter.sections?.news || []).slice(0, 2),
+    ...(newsletter.sections?.startups || []).slice(0, 2)
+  ].filter(Boolean);
   const message = [
     newsletter.highlights?.[0] || newsletter.summary,
     "",
@@ -89,7 +100,7 @@ async function sendNtfy(newsletter) {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
       topic: process.env.NTFY_TOPIC,
-      title: `☀️ Tech Brief ${newsletter.dateLabel.split(" ")[0]}: ${newsletter.counts.total} destaques`,
+      title: `☀️ Tech Brief ${newsletter.dateLabel.split(" ")[0]}`,
       message,
       tags: ["newspaper"],
       ...(siteUrl() ? { click: siteUrl() } : {})
@@ -101,6 +112,15 @@ async function sendNtfy(newsletter) {
 // ---------- E-mail ----------
 
 export function buildEmailHtml(newsletter) {
+  const lead = newsletter.lead
+    ? `<div style="margin-top:24px;padding:20px;border-radius:12px;background:#0e1b33;color:#fff">
+        <div style="font-size:13px;color:#ffc89a;font-weight:700">Manchete do dia</div>
+        <a href="${escapeHtml(newsletter.lead.url)}" style="display:block;margin-top:6px;font-size:22px;font-weight:700;line-height:1.2;color:#fff;text-decoration:none">${escapeHtml(headline(newsletter.lead))}</a>
+        <div style="margin-top:8px;font-size:14px;color:#c9d2e3">${escapeHtml(newsletter.lead.summary || "")}</div>
+        <div style="margin-top:8px;font-size:12px;color:#aab6cb">${escapeHtml(newsletter.lead.source)}</div>
+      </div>`
+    : "";
+
   const sections = SECTION_LABELS.map(([key, label]) => {
     const items = newsletter.sections?.[key] || [];
     if (!items.length) return "";
@@ -111,7 +131,7 @@ export function buildEmailHtml(newsletter) {
           <div style="font-size:12px;color:#6b7280;text-transform:uppercase;letter-spacing:.04em">${escapeHtml(item.source)}</div>
           <a href="${escapeHtml(item.url)}" style="font-size:16px;font-weight:600;color:#0b4f6c;text-decoration:none">${escapeHtml(headline(item))}</a>
           ${item.titlePt ? `<div style="font-size:12px;color:#9ca3af">${escapeHtml(item.title)}</div>` : ""}
-          <div style="font-size:14px;color:#374151;margin-top:4px">${escapeHtml(item.insight || "")}</div>
+          <div style="font-size:14px;color:#374151;margin-top:4px">${escapeHtml(item.insight || item.summary || "")}</div>
         </td></tr>`
       )
       .join("");
@@ -131,7 +151,7 @@ export function buildEmailHtml(newsletter) {
     <h1 style="margin:4px 0 0;font-size:26px;color:#111827">Tech Brief</h1>
     <div style="color:#6b7280;font-size:13px">${escapeHtml(newsletter.dateLabel)}</div>
     <p style="font-size:15px;color:#111827;margin-top:16px">${escapeHtml(newsletter.summary)}</p>
-    ${highlights}${sections}${link}
+    ${highlights}${lead}${sections}${link}
   </div></body></html>`;
 }
 
