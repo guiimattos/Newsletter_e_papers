@@ -1,19 +1,23 @@
 {
   "name": "tech-newsletter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
-  "description": "Daily technology newsletter dashboard and generator.",
+  "description": "Daily tech, startups and papers newsletter with notifications.",
   "scripts": {
     "start": "node src/server.js",
     "dev": "node --watch src/server.js",
     "generate": "node src/generate.js",
-    "build": "node src/build-static.js"
+    "build": "node src/build-static.js",
+    "notify": "node src/send.js",
+    "daily": "node src/send.js --generate"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
     "dayjs": "^1.11.13",
     "express": "^4.19.2",
     "node-cron": "^4.2.1",
+    "nodemailer": "^10.0.15",
     "rss-parser": "^3.13.0"
   }
 }

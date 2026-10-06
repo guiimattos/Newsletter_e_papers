@@ -3,6 +3,9 @@ const summary = document.querySelector("#summary");
 const topics = document.querySelector("#topics");
 const newsCount = document.querySelector("#newsCount");
 const paperCount = document.querySelector("#paperCount");
+const startupCount = document.querySelector("#startupCount");
+const startupList = document.querySelector("#startupList");
+const highlights = document.querySelector("#highlights");
 const newsList = document.querySelector("#newsList");
 const paperList = document.querySelector("#paperList");
 const refreshButton = document.querySelector("#refreshButton");
@@ -32,6 +35,8 @@ async function fetchNewsletter(generate) {
   if (generate) {
     throw new Error("Atualizacao ao vivo indisponivel no GitHub Pages. Rode npm run build para publicar uma nova edicao.");
   }
+  // Static build: there is no API to regenerate, so hide the button.
+  refreshButton.hidden = true;
 
   const staticResponse = await fetch("data/latest.json");
   if (!staticResponse.ok) {
@@ -44,8 +49,20 @@ function render(newsletter) {
   dateLabel.textContent = `Atualizado em ${newsletter.dateLabel}`;
   summary.textContent = newsletter.summary;
   const sections = newsletter.sections || splitSections(newsletter.items || []);
+  sections.startups ||= [];
   newsCount.textContent = `${sections.news.length} noticias`;
+  startupCount.textContent = `${sections.startups.length} itens`;
   paperCount.textContent = `${sections.papers.length} papers`;
+
+  const lines = newsletter.highlights || [];
+  highlights.hidden = lines.length === 0;
+  highlights.replaceChildren(
+    ...lines.map((line) => {
+      const li = document.createElement("li");
+      li.textContent = line;
+      return li;
+    })
+  );
 
   topics.replaceChildren(
     ...(newsletter.topTopics.length ? newsletter.topTopics : ["tecnologia"]).map((topic) => {
@@ -56,6 +73,7 @@ function render(newsletter) {
   );
 
   newsList.replaceChildren(...sections.news.map(renderItem));
+  startupList.replaceChildren(...sections.startups.map(renderItem));
   paperList.replaceChildren(...sections.papers.map(renderItem));
 }
 
@@ -66,12 +84,19 @@ function splitSections(items) {
   };
 }
 
+const typeLabels = { news: "noticia", startup: "startup", paper: "paper" };
+
 function renderItem(item) {
   const node = template.content.cloneNode(true);
   node.querySelector(".source").textContent = item.source;
   node.querySelector(".score").textContent = `score ${item.score}`;
-  node.querySelector(".type").textContent = item.type === "paper" ? "paper" : "noticia";
-  node.querySelector("h3").textContent = item.title;
+  node.querySelector(".type").textContent = typeLabels[item.type] || "noticia";
+  node.querySelector("h3").textContent = item.titlePt || item.title;
+  if (item.titlePt) {
+    const original = node.querySelector(".original-title");
+    original.textContent = item.title;
+    original.hidden = false;
+  }
   node.querySelector(".summary").textContent = item.summary || "Sem resumo no feed.";
   node.querySelector(".insight").textContent = item.insight;
   node.querySelector("a").href = item.url;

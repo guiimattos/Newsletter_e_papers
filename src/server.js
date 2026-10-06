@@ -2,6 +2,7 @@ import express from "express";
 import cron from "node-cron";
 import { config } from "./config.js";
 import { generateNewsletter, readLatestNewsletter } from "./newsletter.js";
+import { notifyAll } from "./notify.js";
 
 const app = express();
 
@@ -33,8 +34,9 @@ cron.schedule(
   `${minute} ${hour} * * *`,
   async () => {
     try {
-      await generateNewsletter();
+      const newsletter = await generateNewsletter();
       console.log(`[newsletter] generated daily briefing at ${new Date().toISOString()}`);
+      await notifyAll(newsletter);
     } catch (error) {
       console.error("[newsletter] daily generation failed", error);
     }

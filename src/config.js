@@ -19,6 +19,12 @@ export const config = {
   port: Number(process.env.PORT || 4321),
   newsletterTime: process.env.NEWSLETTER_TIME || "08:00",
   timezone: process.env.NEWSLETTER_TIMEZONE || "America/Sao_Paulo",
-  maxItems: Number(process.env.NEWSLETTER_MAX_ITEMS || 14),
+  quotas: {
+    news: Number(process.env.NEWSLETTER_NEWS || 8),
+    startups: Number(process.env.NEWSLETTER_STARTUPS || 6),
+    papers: Number(process.env.NEWSLETTER_PAPERS || 5)
+  },
+  maxAgeHours: Number(process.env.NEWSLETTER_MAX_AGE_HOURS || 48),
+  siteUrl: process.env.SITE_URL || "",
   dataDir: path.resolve(process.cwd(), "data")
 };

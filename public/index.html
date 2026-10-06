@@ -22,6 +22,7 @@
         <div>
           <p id="dateLabel">Carregando...</p>
           <h2 id="summary">Buscando as noticias mais relevantes de tecnologia.</h2>
+          <ul id="highlights" class="highlights" hidden></ul>
         </div>
         <div class="signal-panel">
           <span class="signal-label">Topicos</span>
@@ -37,9 +38,17 @@
         <div id="newsList" class="news-list"></div>
       </section>
 
+      <section class="startups-section">
+        <div class="section-title">
+          <h2>Startups &amp; venture</h2>
+          <span id="startupCount"></span>
+        </div>
+        <div id="startupList" class="news-list startup-list"></div>
+      </section>
+
       <section class="papers-section">
         <div class="section-title">
-          <h2>Papers relevantes</h2>
+          <h2>Papers em alta</h2>
           <span id="paperCount"></span>
         </div>
         <div id="paperList" class="news-list paper-list"></div>
@@ -54,12 +63,13 @@
         </div>
         <span class="type"></span>
         <h3></h3>
+        <p class="original-title" hidden></p>
         <p class="summary"></p>
         <p class="insight"></p>
         <a target="_blank" rel="noreferrer">Abrir fonte</a>
       </article>
     </template>
 
-    <script src="/app.js" type="module"></script>
+    <script src="app.js" type="module"></script>
   </body>
 </html>

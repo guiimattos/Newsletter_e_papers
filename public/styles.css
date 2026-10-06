@@ -11,6 +11,20 @@
   --danger: #be123c;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #0f1115;
+    --panel: #171a21;
+    --ink: #eceef2;
+    --muted: #9aa3b2;
+    --line: #2a2f3a;
+    --accent: #2dd4bf;
+    --accent-strong: #7dd3fc;
+    --warm: #f59e0b;
+  }
+}
+
 * {
   box-sizing: border-box;
 }
@@ -74,7 +88,7 @@ button {
   border: 1px solid var(--ink);
   border-radius: 8px;
   background: var(--ink);
-  color: white;
+  color: var(--bg);
   padding: 0 16px;
   font: inherit;
   font-weight: 700;
@@ -116,7 +130,7 @@ button:disabled {
   padding: 18px;
   border: 1px solid rgba(15, 118, 110, 0.25);
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.72);
+  background: var(--panel);
 }
 
 .signal-label {
@@ -163,8 +177,33 @@ button:disabled {
   gap: 14px;
 }
 
-.papers-section {
+.papers-section,
+.startups-section {
   margin-top: 34px;
+}
+
+.startup-list .news-card {
+  border-color: rgba(180, 83, 9, 0.28);
+}
+
+.highlights {
+  margin: 16px 0 0;
+  padding-left: 20px;
+  line-height: 1.5;
+}
+
+.highlights li {
+  margin: 4px 0;
+}
+
+.original-title {
+  margin: -6px 0 10px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+[hidden] {
+  display: none !important;
 }
 
 .paper-list .news-card {
