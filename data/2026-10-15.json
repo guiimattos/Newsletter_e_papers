@@ -1,0 +1,1674 @@
+{
+  "title": "OpenClaw Tech Brief",
+  "generatedAt": "2026-10-15T15:30:54.034Z",
+  "date": "2026-10-15",
+  "dateLabel": "15/10/2026 12:30",
+  "summary": "As principais notícias de tecnologia, startups e pesquisa das últimas 48 horas, escolhidas entre dezenas de fontes.",
+  "highlights": [],
+  "tags": [
+    {
+      "tag": "IA",
+      "count": 22
+    },
+    {
+      "tag": "Big Tech",
+      "count": 8
+    },
+    {
+      "tag": "Rodada",
+      "count": 8
+    },
+    {
+      "tag": "Chips",
+      "count": 5
+    },
+    {
+      "tag": "Segurança",
+      "count": 3
+    },
+    {
+      "tag": "Dev",
+      "count": 3
+    },
+    {
+      "tag": "Hardware",
+      "count": 2
+    },
+    {
+      "tag": "Regulação",
+      "count": 1
+    },
+    {
+      "tag": "Cripto",
+      "count": 1
+    },
+    {
+      "tag": "Energia",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "news": 11,
+    "startups": 8,
+    "brasil": 6,
+    "reads": 5,
+    "papers": 6,
+    "repos": 0,
+    "rounds": 7,
+    "sources": 30
+  },
+  "lead": {
+    "title": "Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan",
+    "source": "Bloomberg",
+    "publisher": "Bloomberg",
+    "section": "news",
+    "publishedAt": "2026-10-15T12:10:01.000Z",
+    "summary": "Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person's day …",
+    "image": "",
+    "points": 0,
+    "readingMinutes": 0,
+    "author": "",
+    "id": "42710857e0",
+    "feed": "Techmeme",
+    "tags": [
+      "IA",
+      "Big Tech"
+    ],
+    "score": 59,
+    "insight": ""
+  },
+  "sections": {
+    "news": [
+      {
+        "title": "Documents: Nvidia and Apple each committed $25M, the top contribution amount, to Trump's WH ballroom; Microsoft and Palantir committed $10M, Meta and Amazon $5M",
+        "url": "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyMDM2ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkzNDE5MTk5LCJpYXQiOjE3OTIwMzY4MDAsImp0aSI6IjZiOTgyNjcxLWUwNWQtNDBjMi05MzJlLWYxNjg4ODgwN2I4YSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI2LzEwLzE1L3NlY3JldC1kb2N1bWVudHMtcmV2ZWFsLWRvbm9ycy1iZWhpbmQtMzMwLW1pbGxpb24tdHJ1bXBzLWJhbGxyb29tLyJ9.bwQFjcPhaUaMyVgd-xm4T-gTGikZG8Y5qKSXJnffNqU&itid=gfta",
+        "source": "Washington Post",
+        "publisher": "Washington Post",
+        "section": "news",
+        "publishedAt": "2026-10-15T14:40:01.000Z",
+        "summary": "The records offer a panoramic view of a fundraising campaign that is extraordinary for its size and opacity. &mdash; Loading... $2.5M",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "b88a6b6f04",
+        "feed": "Techmeme",
+        "tags": [
+          "Chips",
+          "Big Tech"
+        ],
+        "score": 50,
+        "insight": ""
+      },
+      {
+        "title": "AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s",
+        "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+        "source": "Astral Codex Ten",
+        "publisher": "Astral Codex Ten",
+        "section": "news",
+        "publishedAt": "2026-10-15T11:15:01.000Z",
+        "summary": "AI companies like Anthropic and OpenAI have long mentioned the possibility that their products could be existentially dangerous …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "e68b97f15b",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Regulação"
+        ],
+        "score": 48.7,
+        "insight": ""
+      },
+      {
+        "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+        "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+        "source": "The Verge",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-15T14:30:00.000Z",
+        "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Tom Warren",
+        "id": "97f8573c58",
+        "feed": "The Verge",
+        "tags": [
+          "IA",
+          "Chips",
+          "Big Tech"
+        ],
+        "score": 48.7,
+        "insight": ""
+      },
+      {
+        "title": "Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating",
+        "url": "https://www.theinformation.com/briefings/exclusive-mueon-raises-65-million-rework-data-centers-put-together",
+        "source": "The Information",
+        "publisher": "The Information",
+        "section": "news",
+        "publishedAt": "2026-10-15T13:55:00.000Z",
+        "summary": "Portland-based startup Mueon raised $65 million to develop a new way to arrange AI server rack components.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "3ef9857d1a",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Chips",
+          "Rodada"
+        ],
+        "score": 47.7,
+        "insight": ""
+      },
+      {
+        "title": "Google’s Universal Cart shopping tool launches in the US",
+        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-15T14:29:33.000Z",
+        "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Lauren Forristal",
+        "id": "b4faeb1cc1",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 40.7,
+        "insight": ""
+      },
+      {
+        "title": "BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos",
+        "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+        "source": "CNBC",
+        "publisher": "CNBC",
+        "section": "news",
+        "publishedAt": "2026-10-15T12:55:01.000Z",
+        "summary": "Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "9783a99f47",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 39.3,
+        "insight": ""
+      },
+      {
+        "title": "AI agents are coming to Rivian’s cars",
+        "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-15T15:02:36.000Z",
+        "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Sean O'Kane",
+        "id": "a040032c19",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA"
+        ],
+        "score": 39,
+        "insight": ""
+      },
+      {
+        "title": "Ledger unveils Atom, an $899 data-only Android-based smartphone companion device launching in summer 2027, as it pauses some sales following hardware tampering",
+        "url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+        "source": "The Verge",
+        "publisher": "The Verge",
+        "section": "news",
+        "publishedAt": "2026-10-15T12:35:02.000Z",
+        "summary": "Atom is a data-only Android device designed to work alongside your smartphone. … Ledger has announced its latest crypto …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "4a83422c50",
+        "feed": "Techmeme",
+        "tags": [
+          "Hardware",
+          "Cripto"
+        ],
+        "score": 38.3,
+        "insight": ""
+      },
+      {
+        "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+        "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+        "source": "Ars Technica",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-14T11:00:30.000Z",
+        "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "\n                    Ashley Belanger\n                ",
+        "id": "9fd67fba7e",
+        "feed": "Ars Technica",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 36.7,
+        "insight": ""
+      },
+      {
+        "title": "An interview with John Ternus on the iPhone Duo, memory shortages, more; he says \"all options should be on the table\" after reports Apple tested Chinese chips",
+        "url": "https://time.com/collection/best-inventions/2026/apple-iphone-duo/",
+        "source": "Time",
+        "publisher": "Time",
+        "section": "news",
+        "publishedAt": "2026-10-15T13:20:06.000Z",
+        "summary": "Andrew R. Chow/Cupertino, Calif. … Just below the broad smile he's been wearing all morning, John Ternus' hands are shaking.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "316e6c070e",
+        "feed": "Techmeme",
+        "tags": [
+          "Chips",
+          "Big Tech",
+          "Hardware"
+        ],
+        "score": 36.3,
+        "insight": ""
+      }
+    ],
+    "startups": [
+      {
+        "title": "North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/15/cloud-spend-northcloud-peakspan",
+        "source": "Axios",
+        "publisher": "Axios",
+        "section": "startup",
+        "publishedAt": "2026-10-15T13:30:02.000Z",
+        "summary": "North.cloud, which helps companies watch their cloud, AI and data spend, closed a $60 million Series B led by PeakSpan Capital, CEO Matt Biringer tells Axios Pro exclusively.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "72f2bebfb2",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 60000000,
+          "round": "Series B"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 51.1,
+        "insight": ""
+      },
+      {
+        "title": "Ramp raised $1.85B led by Dragoneer at a $60B valuation, up from $44B after raising $750M in June, and hits $2B in annualized revenue, up from $1.5B in June",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-15/ramp-completes-funding-at-60-billion-value-as-revenue-surges",
+        "source": "Bloomberg",
+        "publisher": "Bloomberg",
+        "section": "startup",
+        "publishedAt": "2026-10-15T11:00:32.000Z",
+        "summary": "Ramp has surged to $2 billion in annualized revenue, the fintech company plans to announce Thursday &mdash; a milestone that's helped attract fresh investor capital.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "d936767cdb",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 1850000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 49.9,
+        "insight": ""
+      },
+      {
+        "title": "Pasadena Quantum Startup Oratomic Raises $475 Million, Reaching $5.4 Billion Valuation",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFE3TkxCNGFNRUxKQmR2c3RpbklCN3JEYkY2VnhyMkU4M2FVNDA1MDVnYXJ1N3oyWVRkcDdWVngwTzRoMGNCZzRZY201dkt5UU5yZ0NTbC1Cb3ZIdnllXzRTUGc1X1B6UkI0U29mUy00dFlrUkN3ZG5kd2V4MmRQX1k2WmI2MnYwWFp4YmVtOUxsaVEzSE5CWkFQaWdfOWhhQ2NKYXhxQWVQUjFQZkgwSjhB?oc=5",
+        "source": "Pasadena Now",
+        "publisher": "Pasadena Now",
+        "section": "startup",
+        "publishedAt": "2026-10-15T13:12:46.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "607eadb498",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 475000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 44,
+        "insight": ""
+      },
+      {
+        "title": "Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions",
+        "url": "https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/",
+        "source": "Crunchbase News",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-15T11:00:31.000Z",
+        "summary": "New York-based Chariot Claims has raised $10 million in Series A funding led by Silverton Partners to help consumers pursue claims over alleged privacy violations, hidden fees and subscriptions that are difficult to cancel.",
+        "image": "https://news.crunchbase.com/wp-content/uploads/Legal_Tech.jpeg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Judy Rider",
+        "id": "cde2be962f",
+        "feed": "Crunchbase News",
+        "funding": {
+          "currency": "USD",
+          "amount": 10000000,
+          "round": "Series A"
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 43.7,
+        "insight": ""
+      },
+      {
+        "title": "AI cloud startup Modal raises $750M at $15.75B valuation",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmF0ZHk0WGI4b2ZSYTcyQ1ctalFMMW9IQTZFQU12emY0dWNhWFU5WVA5MEZLTjRkaWE5eUZKSjFyYU1FSzAtWmZBc29PQVA3UkYzRmNVbFNfTVZPVHZUWDJFMHdNeExwZjlaVlhKN21Cc2lhU0NUU3pqZ0hOOERvcUYtbUQwZUsyenRqMVBVdjhGTXdKVVE?oc=5",
+        "source": "SiliconANGLE",
+        "publisher": "SiliconANGLE",
+        "section": "startup",
+        "publishedAt": "2026-10-14T20:28:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "7901b06277",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 750000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 42.5,
+        "insight": ""
+      },
+      {
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-15T01:01:32.000Z",
+        "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Aisha Malik",
+        "id": "f86858c1d8",
+        "feed": "TechCrunch Startups",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Chips"
+        ],
+        "score": 40.3,
+        "insight": ""
+      },
+      {
+        "title": "AI startup Parallel Loop launches with $6.6m seed funding",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekI1ZFhfb0NsRGgyLTFNOTlKLW9yelhlLUVuWC12RjQ2YkpJb2RBMmFFR3c5ZUxmYWRPSW9YSXRTWFhzazFQc0p3eEZ3RVJVVEhJXzBIcWY5TXhDYzllSlF0WG5LUV9LTU11VGJ6bUNoLXhJNWpKeTRKMnFWX1FiUXNfQU9WYnp5OERF?oc=5",
+        "source": "DealStreetAsia",
+        "publisher": "DealStreetAsia",
+        "section": "startup",
+        "publishedAt": "2026-10-15T06:31:30.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "efbb937b09",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 6600000,
+          "round": "seed"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 39.2,
+        "insight": ""
+      },
+      {
+        "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+        "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-14T21:00:00.000Z",
+        "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Dominic-Madori Davis",
+        "id": "13af890111",
+        "feed": "TechCrunch Startups",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 38,
+        "insight": ""
+      }
+    ],
+    "brasil": [
+      {
+        "title": "Segurança e auditoria de IA: a nova corrida da OpenAI e Anthropic",
+        "url": "https://startups.com.br/negocios/inteligencia-artificial/seguranca-e-auditoria-de-ia-a-nova-corrida-da-openai-e-anthropic/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-14T16:29:00.000Z",
+        "summary": "Cibersegurança | Foto: Canva Em 48 horas, os dois maiores laboratórios de LLMs fazem movimentos de M&A para trazer camadas de segurança para dentro do negócio O post Segurança e auditoria de IA: a nova corrida da OpenAI e Anthropic apareceu primeiro em Startups.",
+        "image": "https://startups.com.br/wp-content/uploads/2025/07/Ciberseguranca.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Leandro Miguel Souza",
+        "id": "95569d3c62",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 46.3,
+        "insight": ""
+      },
+      {
+        "title": "Android ganha superproteção por IA que esconde senhas na tela e barra mensagens falsas",
+        "url": "https://canaltech.com.br/inteligencia-artificial/android-ganha-superprotecao-por-ia-que-esconde-senhas-na-tela-e-barra-mensagens-falsas/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-15T13:06:00.000Z",
+        "summary": "O Google anunciou novas ferramentas de segurança para o Android e o Google Messages com inteligência artificial (IA) para identificar mensagens suspeitas, combater golpes telefônicos e proteger dados pessoais. As novidades incluem a ocultação automática de senhas durante o compartilhamento de tela,…",
+        "image": "https://tl.ctcdn.com.br/UIlJpm4QwnL3MamZdBWBL2DAW3U=/0x0/filters:format(webp):quality(85)/b5481344-2e66-4646-a421-ca72494cb652.png",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Viviane França",
+        "id": "d11f830a4d",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Segurança",
+          "Big Tech"
+        ],
+        "score": 33.3,
+        "insight": ""
+      },
+      {
+        "title": "Unicórnio de agentes de IA avaliado em US$ 1,2 bi, HappyRobot desembarca no Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUZHRlhJalE0M1FoUExzU254UmRxNm1aWlVtN0p1bGhQbjZKRTBUM2Z4V0dhMVR5dVdrNXNhdEdCWmVZVXd6S2cxRkFOcHdMQ0RieWE4VEo0TnBmbEF2aG1sVk1VRUlOUmk4cXVxNldBWTZiaEhxUzNTS3lMLUk3Y2tFZ25wU3lDWXRmWkdPZ2k3VkgwaWZaRUp0bEVaMnRGODdYeVFZdl9ST0p6N3JzTG81ck9TYlBlUjVUN3pxZGPSAdQBQVVfeXFMUHdGb1AwRnBwVW04SGZYd3pfRnEzZ2NDTVlXb2FjeHd5TjQ3NDA2N1RRbHRVRVM1TXVjQWFjMWFzNV94eWlxT3JkLTJQSkFmblhlMWlqaHMyTHJtV3BtR2JqQzRkeThXcGZYZ0wzM3hpTXdMdEdCLUY5a0lmRFVRMjJUbW4yN1RJeklOMVFORXh5NEEyRWFZbkg4N2lxVTdva1RubEhpQXFBZFlJWElBMEYxTzJUbFg1YTRCZ2V5TVJCdlV3OVNGa2xmMkVzVGxMWGRBRm4?oc=5",
+        "source": "Bloomberg Línea Brasil",
+        "publisher": "Bloomberg Línea Brasil",
+        "section": "brasil",
+        "publishedAt": "2026-10-14T08:00:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "e4565d5a07",
+        "feed": "Google News: Startups BR",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 32.7,
+        "insight": ""
+      },
+      {
+        "title": "Itaú compra 35% da Prisma Capital em uma aposta em ativos alternativos",
+        "url": "https://neofeed.com.br/negocios/itau-compra-35-da-prisma-capital-em-uma-aposta-em-ativos-alternativos/",
+        "source": "Neofeed",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-15T00:13:23.000Z",
+        "summary": "O Itaú Unibanco está comprando uma fatia de 35% da Prisma Capital, gestora de investimentos alternativos fundada em 2017 por Marcelo Hallack, João Mendes e Lucas Canhoto. O aporte na gestora, que tem cerca de R$ 28 bilhões sob gestão, será 100% primário em ações preferenciais, sem direito a voto.…",
+        "image": "https://neofeed.com.br/wp-content/uploads/2026/10/prisma-socios-300x169.jpeg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Guilherme Guilherme",
+        "id": "558c61d174",
+        "feed": "Neofeed",
+        "funding": {
+          "currency": "BRL",
+          "amount": 28000000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 32.4,
+        "insight": ""
+      },
+      {
+        "title": "Cansou de música feita por IA? YouTube Music começa a rotular faixas sintéticas",
+        "url": "https://canaltech.com.br/apps/cansou-de-musica-feita-por-ia-youtube-music-comeca-a-rotular-faixas-sinteticas/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-15T15:12:01.000Z",
+        "summary": "O YouTube Music vai usar um rótulo específico para identificar músicas feitas por inteligência artificial. A marcação é aplicada em faixas que usaram IA generativa em sua maior parte para criar letras ou vocais, por exemplo. O selo aparece no reprodutor do YouTube Music desde a última quarta-feira…",
+        "image": "https://tl.ctcdn.com.br/wo4T_FJIkqPdzHET4V2yYTJlmL0=/0x0/filters:format(webp):quality(85)/f7b30b90-b006-4294-a2ee-0ab41e4dc430.png",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "André Lourenti Magalhães",
+        "id": "6f547b761a",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 30,
+        "insight": ""
+      },
+      {
+        "title": "Sexta revolução tecnológica: a IA inaugura uma nova era ou conclui a revolução digital?",
+        "url": "https://startups.com.br/coluna/sexta-revolucao-tecnologica-a-ia-inaugura-uma-nova-era-ou-conclui-a-revolucao-digital/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-14T20:19:21.000Z",
+        "summary": "A hipótese de uma sexta revolução tecnológica ganhou força com a convergência entre inteligência artificial, biotecnologia, robótica, novos materiais e energia | Foto: Canva O que estaria nascendo não seria simplesmente uma economia “mais verde”, mas um sistema em que informação passa a projetar,…",
+        "image": "https://uploads.startups.com.br/2026/10/Franklin.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Franklin Lacerda",
+        "id": "bab990eb27",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Energia"
+        ],
+        "score": 26.7,
+        "insight": ""
+      }
+    ],
+    "reads": [
+      {
+        "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+        "url": "https://www.latent.space/p/claude-dynamic-workflows",
+        "source": "Latent Space",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-12T18:18:17.000Z",
+        "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+        "image": "https://substack-post-media.s3.amazonaws.com/public/images/dda42c05-6ce1-4e54-b544-f7d1557f04b2_1280x720.jpeg",
+        "points": 0,
+        "readingMinutes": 5,
+        "author": "Richard MacManus",
+        "id": "728a22683c",
+        "feed": "Latent Space",
+        "tags": [
+          "IA",
+          "Dev"
+        ],
+        "score": 42.3,
+        "insight": "Leitura de 5 min."
+      },
+      {
+        "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+        "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
+        "source": "Stratechery",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-15T10:00:00.000Z",
+        "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 51,
+        "author": "Ben Thompson",
+        "id": "7a37a0ad6c",
+        "feed": "Stratechery",
+        "tags": [
+          "IA"
+        ],
+        "score": 34.6,
+        "insight": "Leitura de 51 min."
+      },
+      {
+        "title": "The states come for OpenAI",
+        "url": "https://www.platformer.news/openai-states-lawsuit-liability/",
+        "source": "Platformer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-15T00:52:13.000Z",
+        "summary": "Will the approach that beat Meta in New Mexico work against ChatGPT?",
+        "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2719900129.jpg",
+        "points": 0,
+        "readingMinutes": 8,
+        "author": "Casey Newton",
+        "id": "42dcb400d0",
+        "feed": "Platformer",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 33.8,
+        "insight": "Leitura de 8 min."
+      },
+      {
+        "title": "Uber’s AI infra, from the inside",
+        "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+        "source": "The Pragmatic Engineer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-14T17:06:56.000Z",
+        "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
+        "image": "https://substackcdn.com/image/fetch/$s_!Qhi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1228ff6a-514b-4643-9360-02cda14dc5ac_800x70.png",
+        "points": 0,
+        "readingMinutes": 7,
+        "author": "Gergely Orosz",
+        "id": "bc6f7d6d13",
+        "feed": "The Pragmatic Engineer",
+        "tags": [
+          "IA",
+          "Dev"
+        ],
+        "score": 30.2,
+        "insight": "Leitura de 7 min."
+      },
+      {
+        "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+        "source": "Simon Willison",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-12T18:15:38.000Z",
+        "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features…",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "92f57cbc84",
+        "feed": "Simon Willison",
+        "tags": [
+          "Dev"
+        ],
+        "score": 21.3,
+        "insight": "Análise para ler com calma."
+      }
+    ],
+    "papers": [
+      {
+        "title": "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios",
+        "url": "https://huggingface.co/papers/2610.19698",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "summary": "RuleTrek is a multi-domain benchmark that evaluates large language model agents on identifying, deducing, and applying domain-specific rules across complex, multi-file scenarios, revealing substantial performance gaps.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.19698.png",
+        "upvotes": 60,
+        "github": "https://github.com/yuan247/RuleTrek",
+        "authors": [
+          "Chenhao Yuan",
+          "Bohan Yu",
+          "Yinhao Xu"
+        ],
+        "organization": "",
+        "id": "c591fa196b",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 68,
+        "insight": "Em alta na comunidade, com 60 upvotes no Hugging Face."
+      },
+      {
+        "title": "τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions",
+        "url": "https://huggingface.co/papers/2610.19560",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "summary": "A benchmark and data pipeline evaluate and improve LLM tool-calling agents under emotionally varied user interactions by filtering ineffective trajectories and scaling supervised training.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.19560.png",
+        "upvotes": 13,
+        "github": "https://github.com/sahsaeedi/tau-emotion-bench",
+        "authors": [
+          "Rishitosh Kumar Singh",
+          "Amir Saeidi",
+          "Shamanthak Hegde"
+        ],
+        "organization": "Arizona State University",
+        "id": "bfe0012268",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 62.8,
+        "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+      },
+      {
+        "title": "Hybrid Reasoning Agents",
+        "url": "https://huggingface.co/papers/2610.18861",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "summary": "Hybrid Reasoning Agents combine latent internal reasoning with text-based external interaction via a unified architecture and specialized post-training, improving agent performance while reducing inference cost and token usage.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.18861.png",
+        "upvotes": 25,
+        "github": "https://github.com/togethercomputer/HybridAgent",
+        "authors": [
+          "Jiaru Zou",
+          "Yunzhe Qi",
+          "Sirui Chen"
+        ],
+        "organization": "Stanford University",
+        "id": "5a07b9b11b",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 59.2,
+        "insight": "Em alta na comunidade, com 25 upvotes no Hugging Face."
+      },
+      {
+        "title": "The Thinking Leakage in Reinforcement Learning for LLMs",
+        "url": "https://huggingface.co/papers/2610.14270",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "summary": "Reinforcement learning gains in hybrid reasoning models' NO-THINK mode largely stem from reactivating existing THINK-mode reasoning rather than learning new capabilities.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14270.png",
+        "upvotes": 17,
+        "github": "https://github.com/WenxuanZhu1103/think-leakage",
+        "authors": [
+          "Wenxuan Zhu",
+          "Shuming Liu",
+          "Bang An"
+        ],
+        "organization": "KAUST Center of Excellence in Generative AI",
+        "id": "1ad459b9e3",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 57,
+        "insight": "Vem com código aberto, fácil de experimentar."
+      },
+      {
+        "title": "Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders",
+        "url": "https://huggingface.co/papers/2610.17771",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "summary": "ReMaRk improves reinforcement learning for recommendation by scoring generated lists against all valid replies jointly, reducing training cost while matching or exceeding prior performance.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.17771.png",
+        "upvotes": 39,
+        "github": "https://github.com/LiXin97/ReMaRk",
+        "authors": [
+          "Xin Li",
+          "Hao Jiang",
+          "Jinghao Guo"
+        ],
+        "organization": "Nanyang Technological University",
+        "id": "689dc9c02b",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 57,
+        "insight": "Em alta na comunidade, com 39 upvotes no Hugging Face."
+      },
+      {
+        "title": "ActionOPD: Distilling Decisions, Not Tokens",
+        "url": "https://huggingface.co/papers/2610.19820",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "summary": "ActionOPD aligns smaller language-model agents with teachers via semantic action-level on-policy distillation, improving out-of-distribution tool-use performance without requiring shared tokenizers or teacher probabilities.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.19820.png",
+        "upvotes": 51,
+        "github": "https://github.com/thu-nics/ActionOPD",
+        "authors": [
+          "Huining Yuan",
+          "Xiangmin Yi",
+          "Zelai Xu"
+        ],
+        "organization": "Tsinghua-NICS-EFC",
+        "id": "93a8d6f3d9",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 56,
+        "insight": "Em alta na comunidade, com 51 upvotes no Hugging Face."
+      }
+    ],
+    "repos": []
+  },
+  "items": [
+    {
+      "title": "Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "news",
+      "publishedAt": "2026-10-15T12:10:01.000Z",
+      "summary": "Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person's day …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "42710857e0",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 59,
+      "insight": ""
+    },
+    {
+      "title": "Documents: Nvidia and Apple each committed $25M, the top contribution amount, to Trump's WH ballroom; Microsoft and Palantir committed $10M, Meta and Amazon $5M",
+      "url": "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyMDM2ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkzNDE5MTk5LCJpYXQiOjE3OTIwMzY4MDAsImp0aSI6IjZiOTgyNjcxLWUwNWQtNDBjMi05MzJlLWYxNjg4ODgwN2I4YSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI2LzEwLzE1L3NlY3JldC1kb2N1bWVudHMtcmV2ZWFsLWRvbm9ycy1iZWhpbmQtMzMwLW1pbGxpb24tdHJ1bXBzLWJhbGxyb29tLyJ9.bwQFjcPhaUaMyVgd-xm4T-gTGikZG8Y5qKSXJnffNqU&itid=gfta",
+      "source": "Washington Post",
+      "publisher": "Washington Post",
+      "section": "news",
+      "publishedAt": "2026-10-15T14:40:01.000Z",
+      "summary": "The records offer a panoramic view of a fundraising campaign that is extraordinary for its size and opacity. &mdash; Loading... $2.5M",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "b88a6b6f04",
+      "feed": "Techmeme",
+      "tags": [
+        "Chips",
+        "Big Tech"
+      ],
+      "score": 50,
+      "insight": ""
+    },
+    {
+      "title": "AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s",
+      "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+      "source": "Astral Codex Ten",
+      "publisher": "Astral Codex Ten",
+      "section": "news",
+      "publishedAt": "2026-10-15T11:15:01.000Z",
+      "summary": "AI companies like Anthropic and OpenAI have long mentioned the possibility that their products could be existentially dangerous …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "e68b97f15b",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Regulação"
+      ],
+      "score": 48.7,
+      "insight": ""
+    },
+    {
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "source": "The Verge",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-15T14:30:00.000Z",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the…",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Tom Warren",
+      "id": "97f8573c58",
+      "feed": "The Verge",
+      "tags": [
+        "IA",
+        "Chips",
+        "Big Tech"
+      ],
+      "score": 48.7,
+      "insight": ""
+    },
+    {
+      "title": "Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating",
+      "url": "https://www.theinformation.com/briefings/exclusive-mueon-raises-65-million-rework-data-centers-put-together",
+      "source": "The Information",
+      "publisher": "The Information",
+      "section": "news",
+      "publishedAt": "2026-10-15T13:55:00.000Z",
+      "summary": "Portland-based startup Mueon raised $65 million to develop a new way to arrange AI server rack components.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "3ef9857d1a",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Chips",
+        "Rodada"
+      ],
+      "score": 47.7,
+      "insight": ""
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-15T14:29:33.000Z",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Lauren Forristal",
+      "id": "b4faeb1cc1",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 40.7,
+      "insight": ""
+    },
+    {
+      "title": "BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "source": "CNBC",
+      "publisher": "CNBC",
+      "section": "news",
+      "publishedAt": "2026-10-15T12:55:01.000Z",
+      "summary": "Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "9783a99f47",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 39.3,
+      "insight": ""
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-15T15:02:36.000Z",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Sean O'Kane",
+      "id": "a040032c19",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA"
+      ],
+      "score": 39,
+      "insight": ""
+    },
+    {
+      "title": "Ledger unveils Atom, an $899 data-only Android-based smartphone companion device launching in summer 2027, as it pauses some sales following hardware tampering",
+      "url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+      "source": "The Verge",
+      "publisher": "The Verge",
+      "section": "news",
+      "publishedAt": "2026-10-15T12:35:02.000Z",
+      "summary": "Atom is a data-only Android device designed to work alongside your smartphone. … Ledger has announced its latest crypto …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "4a83422c50",
+      "feed": "Techmeme",
+      "tags": [
+        "Hardware",
+        "Cripto"
+      ],
+      "score": 38.3,
+      "insight": ""
+    },
+    {
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "source": "Ars Technica",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-14T11:00:30.000Z",
+      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "\n                    Ashley Belanger\n                ",
+      "id": "9fd67fba7e",
+      "feed": "Ars Technica",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 36.7,
+      "insight": ""
+    },
+    {
+      "title": "An interview with John Ternus on the iPhone Duo, memory shortages, more; he says \"all options should be on the table\" after reports Apple tested Chinese chips",
+      "url": "https://time.com/collection/best-inventions/2026/apple-iphone-duo/",
+      "source": "Time",
+      "publisher": "Time",
+      "section": "news",
+      "publishedAt": "2026-10-15T13:20:06.000Z",
+      "summary": "Andrew R. Chow/Cupertino, Calif. … Just below the broad smile he's been wearing all morning, John Ternus' hands are shaking.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "316e6c070e",
+      "feed": "Techmeme",
+      "tags": [
+        "Chips",
+        "Big Tech",
+        "Hardware"
+      ],
+      "score": 36.3,
+      "insight": ""
+    },
+    {
+      "title": "North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/15/cloud-spend-northcloud-peakspan",
+      "source": "Axios",
+      "publisher": "Axios",
+      "section": "startup",
+      "publishedAt": "2026-10-15T13:30:02.000Z",
+      "summary": "North.cloud, which helps companies watch their cloud, AI and data spend, closed a $60 million Series B led by PeakSpan Capital, CEO Matt Biringer tells Axios Pro exclusively.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "72f2bebfb2",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 60000000,
+        "round": "Series B"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 51.1,
+      "insight": ""
+    },
+    {
+      "title": "Ramp raised $1.85B led by Dragoneer at a $60B valuation, up from $44B after raising $750M in June, and hits $2B in annualized revenue, up from $1.5B in June",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/ramp-completes-funding-at-60-billion-value-as-revenue-surges",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "startup",
+      "publishedAt": "2026-10-15T11:00:32.000Z",
+      "summary": "Ramp has surged to $2 billion in annualized revenue, the fintech company plans to announce Thursday &mdash; a milestone that's helped attract fresh investor capital.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "d936767cdb",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 1850000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 49.9,
+      "insight": ""
+    },
+    {
+      "title": "Pasadena Quantum Startup Oratomic Raises $475 Million, Reaching $5.4 Billion Valuation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFE3TkxCNGFNRUxKQmR2c3RpbklCN3JEYkY2VnhyMkU4M2FVNDA1MDVnYXJ1N3oyWVRkcDdWVngwTzRoMGNCZzRZY201dkt5UU5yZ0NTbC1Cb3ZIdnllXzRTUGc1X1B6UkI0U29mUy00dFlrUkN3ZG5kd2V4MmRQX1k2WmI2MnYwWFp4YmVtOUxsaVEzSE5CWkFQaWdfOWhhQ2NKYXhxQWVQUjFQZkgwSjhB?oc=5",
+      "source": "Pasadena Now",
+      "publisher": "Pasadena Now",
+      "section": "startup",
+      "publishedAt": "2026-10-15T13:12:46.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "607eadb498",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 475000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 44,
+      "insight": ""
+    },
+    {
+      "title": "Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions",
+      "url": "https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/",
+      "source": "Crunchbase News",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-15T11:00:31.000Z",
+      "summary": "New York-based Chariot Claims has raised $10 million in Series A funding led by Silverton Partners to help consumers pursue claims over alleged privacy violations, hidden fees and subscriptions that are difficult to cancel.",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Legal_Tech.jpeg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Judy Rider",
+      "id": "cde2be962f",
+      "feed": "Crunchbase News",
+      "funding": {
+        "currency": "USD",
+        "amount": 10000000,
+        "round": "Series A"
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 43.7,
+      "insight": ""
+    },
+    {
+      "title": "AI cloud startup Modal raises $750M at $15.75B valuation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmF0ZHk0WGI4b2ZSYTcyQ1ctalFMMW9IQTZFQU12emY0dWNhWFU5WVA5MEZLTjRkaWE5eUZKSjFyYU1FSzAtWmZBc29PQVA3UkYzRmNVbFNfTVZPVHZUWDJFMHdNeExwZjlaVlhKN21Cc2lhU0NUU3pqZ0hOOERvcUYtbUQwZUsyenRqMVBVdjhGTXdKVVE?oc=5",
+      "source": "SiliconANGLE",
+      "publisher": "SiliconANGLE",
+      "section": "startup",
+      "publishedAt": "2026-10-14T20:28:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "7901b06277",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 750000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 42.5,
+      "insight": ""
+    },
+    {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-15T01:01:32.000Z",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Aisha Malik",
+      "id": "f86858c1d8",
+      "feed": "TechCrunch Startups",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Chips"
+      ],
+      "score": 40.3,
+      "insight": ""
+    },
+    {
+      "title": "AI startup Parallel Loop launches with $6.6m seed funding",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekI1ZFhfb0NsRGgyLTFNOTlKLW9yelhlLUVuWC12RjQ2YkpJb2RBMmFFR3c5ZUxmYWRPSW9YSXRTWFhzazFQc0p3eEZ3RVJVVEhJXzBIcWY5TXhDYzllSlF0WG5LUV9LTU11VGJ6bUNoLXhJNWpKeTRKMnFWX1FiUXNfQU9WYnp5OERF?oc=5",
+      "source": "DealStreetAsia",
+      "publisher": "DealStreetAsia",
+      "section": "startup",
+      "publishedAt": "2026-10-15T06:31:30.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "efbb937b09",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 6600000,
+        "round": "seed"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 39.2,
+      "insight": ""
+    },
+    {
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-14T21:00:00.000Z",
+      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Dominic-Madori Davis",
+      "id": "13af890111",
+      "feed": "TechCrunch Startups",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 38,
+      "insight": ""
+    },
+    {
+      "title": "Segurança e auditoria de IA: a nova corrida da OpenAI e Anthropic",
+      "url": "https://startups.com.br/negocios/inteligencia-artificial/seguranca-e-auditoria-de-ia-a-nova-corrida-da-openai-e-anthropic/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-14T16:29:00.000Z",
+      "summary": "Cibersegurança | Foto: Canva Em 48 horas, os dois maiores laboratórios de LLMs fazem movimentos de M&A para trazer camadas de segurança para dentro do negócio O post Segurança e auditoria de IA: a nova corrida da OpenAI e Anthropic apareceu primeiro em Startups.",
+      "image": "https://startups.com.br/wp-content/uploads/2025/07/Ciberseguranca.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Leandro Miguel Souza",
+      "id": "95569d3c62",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 46.3,
+      "insight": ""
+    },
+    {
+      "title": "Android ganha superproteção por IA que esconde senhas na tela e barra mensagens falsas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/android-ganha-superprotecao-por-ia-que-esconde-senhas-na-tela-e-barra-mensagens-falsas/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-15T13:06:00.000Z",
+      "summary": "O Google anunciou novas ferramentas de segurança para o Android e o Google Messages com inteligência artificial (IA) para identificar mensagens suspeitas, combater golpes telefônicos e proteger dados pessoais. As novidades incluem a ocultação automática de senhas durante o compartilhamento de tela,…",
+      "image": "https://tl.ctcdn.com.br/UIlJpm4QwnL3MamZdBWBL2DAW3U=/0x0/filters:format(webp):quality(85)/b5481344-2e66-4646-a421-ca72494cb652.png",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Viviane França",
+      "id": "d11f830a4d",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Segurança",
+        "Big Tech"
+      ],
+      "score": 33.3,
+      "insight": ""
+    },
+    {
+      "title": "Unicórnio de agentes de IA avaliado em US$ 1,2 bi, HappyRobot desembarca no Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUZHRlhJalE0M1FoUExzU254UmRxNm1aWlVtN0p1bGhQbjZKRTBUM2Z4V0dhMVR5dVdrNXNhdEdCWmVZVXd6S2cxRkFOcHdMQ0RieWE4VEo0TnBmbEF2aG1sVk1VRUlOUmk4cXVxNldBWTZiaEhxUzNTS3lMLUk3Y2tFZ25wU3lDWXRmWkdPZ2k3VkgwaWZaRUp0bEVaMnRGODdYeVFZdl9ST0p6N3JzTG81ck9TYlBlUjVUN3pxZGPSAdQBQVVfeXFMUHdGb1AwRnBwVW04SGZYd3pfRnEzZ2NDTVlXb2FjeHd5TjQ3NDA2N1RRbHRVRVM1TXVjQWFjMWFzNV94eWlxT3JkLTJQSkFmblhlMWlqaHMyTHJtV3BtR2JqQzRkeThXcGZYZ0wzM3hpTXdMdEdCLUY5a0lmRFVRMjJUbW4yN1RJeklOMVFORXh5NEEyRWFZbkg4N2lxVTdva1RubEhpQXFBZFlJWElBMEYxTzJUbFg1YTRCZ2V5TVJCdlV3OVNGa2xmMkVzVGxMWGRBRm4?oc=5",
+      "source": "Bloomberg Línea Brasil",
+      "publisher": "Bloomberg Línea Brasil",
+      "section": "brasil",
+      "publishedAt": "2026-10-14T08:00:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "e4565d5a07",
+      "feed": "Google News: Startups BR",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 32.7,
+      "insight": ""
+    },
+    {
+      "title": "Itaú compra 35% da Prisma Capital em uma aposta em ativos alternativos",
+      "url": "https://neofeed.com.br/negocios/itau-compra-35-da-prisma-capital-em-uma-aposta-em-ativos-alternativos/",
+      "source": "Neofeed",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-15T00:13:23.000Z",
+      "summary": "O Itaú Unibanco está comprando uma fatia de 35% da Prisma Capital, gestora de investimentos alternativos fundada em 2017 por Marcelo Hallack, João Mendes e Lucas Canhoto. O aporte na gestora, que tem cerca de R$ 28 bilhões sob gestão, será 100% primário em ações preferenciais, sem direito a voto.…",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/10/prisma-socios-300x169.jpeg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Guilherme Guilherme",
+      "id": "558c61d174",
+      "feed": "Neofeed",
+      "funding": {
+        "currency": "BRL",
+        "amount": 28000000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 32.4,
+      "insight": ""
+    },
+    {
+      "title": "Cansou de música feita por IA? YouTube Music começa a rotular faixas sintéticas",
+      "url": "https://canaltech.com.br/apps/cansou-de-musica-feita-por-ia-youtube-music-comeca-a-rotular-faixas-sinteticas/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-15T15:12:01.000Z",
+      "summary": "O YouTube Music vai usar um rótulo específico para identificar músicas feitas por inteligência artificial. A marcação é aplicada em faixas que usaram IA generativa em sua maior parte para criar letras ou vocais, por exemplo. O selo aparece no reprodutor do YouTube Music desde a última quarta-feira…",
+      "image": "https://tl.ctcdn.com.br/wo4T_FJIkqPdzHET4V2yYTJlmL0=/0x0/filters:format(webp):quality(85)/f7b30b90-b006-4294-a2ee-0ab41e4dc430.png",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "André Lourenti Magalhães",
+      "id": "6f547b761a",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 30,
+      "insight": ""
+    },
+    {
+      "title": "Sexta revolução tecnológica: a IA inaugura uma nova era ou conclui a revolução digital?",
+      "url": "https://startups.com.br/coluna/sexta-revolucao-tecnologica-a-ia-inaugura-uma-nova-era-ou-conclui-a-revolucao-digital/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-14T20:19:21.000Z",
+      "summary": "A hipótese de uma sexta revolução tecnológica ganhou força com a convergência entre inteligência artificial, biotecnologia, robótica, novos materiais e energia | Foto: Canva O que estaria nascendo não seria simplesmente uma economia “mais verde”, mas um sistema em que informação passa a projetar,…",
+      "image": "https://uploads.startups.com.br/2026/10/Franklin.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Franklin Lacerda",
+      "id": "bab990eb27",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Energia"
+      ],
+      "score": 26.7,
+      "insight": ""
+    },
+    {
+      "title": "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios",
+      "url": "https://huggingface.co/papers/2610.19698",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "summary": "RuleTrek is a multi-domain benchmark that evaluates large language model agents on identifying, deducing, and applying domain-specific rules across complex, multi-file scenarios, revealing substantial performance gaps.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.19698.png",
+      "upvotes": 60,
+      "github": "https://github.com/yuan247/RuleTrek",
+      "authors": [
+        "Chenhao Yuan",
+        "Bohan Yu",
+        "Yinhao Xu"
+      ],
+      "organization": "",
+      "id": "c591fa196b",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 68,
+      "insight": "Em alta na comunidade, com 60 upvotes no Hugging Face."
+    },
+    {
+      "title": "τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions",
+      "url": "https://huggingface.co/papers/2610.19560",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "summary": "A benchmark and data pipeline evaluate and improve LLM tool-calling agents under emotionally varied user interactions by filtering ineffective trajectories and scaling supervised training.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.19560.png",
+      "upvotes": 13,
+      "github": "https://github.com/sahsaeedi/tau-emotion-bench",
+      "authors": [
+        "Rishitosh Kumar Singh",
+        "Amir Saeidi",
+        "Shamanthak Hegde"
+      ],
+      "organization": "Arizona State University",
+      "id": "bfe0012268",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 62.8,
+      "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+    },
+    {
+      "title": "Hybrid Reasoning Agents",
+      "url": "https://huggingface.co/papers/2610.18861",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "summary": "Hybrid Reasoning Agents combine latent internal reasoning with text-based external interaction via a unified architecture and specialized post-training, improving agent performance while reducing inference cost and token usage.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.18861.png",
+      "upvotes": 25,
+      "github": "https://github.com/togethercomputer/HybridAgent",
+      "authors": [
+        "Jiaru Zou",
+        "Yunzhe Qi",
+        "Sirui Chen"
+      ],
+      "organization": "Stanford University",
+      "id": "5a07b9b11b",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 59.2,
+      "insight": "Em alta na comunidade, com 25 upvotes no Hugging Face."
+    },
+    {
+      "title": "The Thinking Leakage in Reinforcement Learning for LLMs",
+      "url": "https://huggingface.co/papers/2610.14270",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "summary": "Reinforcement learning gains in hybrid reasoning models' NO-THINK mode largely stem from reactivating existing THINK-mode reasoning rather than learning new capabilities.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14270.png",
+      "upvotes": 17,
+      "github": "https://github.com/WenxuanZhu1103/think-leakage",
+      "authors": [
+        "Wenxuan Zhu",
+        "Shuming Liu",
+        "Bang An"
+      ],
+      "organization": "KAUST Center of Excellence in Generative AI",
+      "id": "1ad459b9e3",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 57,
+      "insight": "Vem com código aberto, fácil de experimentar."
+    },
+    {
+      "title": "Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders",
+      "url": "https://huggingface.co/papers/2610.17771",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "summary": "ReMaRk improves reinforcement learning for recommendation by scoring generated lists against all valid replies jointly, reducing training cost while matching or exceeding prior performance.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.17771.png",
+      "upvotes": 39,
+      "github": "https://github.com/LiXin97/ReMaRk",
+      "authors": [
+        "Xin Li",
+        "Hao Jiang",
+        "Jinghao Guo"
+      ],
+      "organization": "Nanyang Technological University",
+      "id": "689dc9c02b",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 57,
+      "insight": "Em alta na comunidade, com 39 upvotes no Hugging Face."
+    },
+    {
+      "title": "ActionOPD: Distilling Decisions, Not Tokens",
+      "url": "https://huggingface.co/papers/2610.19820",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "summary": "ActionOPD aligns smaller language-model agents with teachers via semantic action-level on-policy distillation, improving out-of-distribution tool-use performance without requiring shared tokenizers or teacher probabilities.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.19820.png",
+      "upvotes": 51,
+      "github": "https://github.com/thu-nics/ActionOPD",
+      "authors": [
+        "Huining Yuan",
+        "Xiangmin Yi",
+        "Zelai Xu"
+      ],
+      "organization": "Tsinghua-NICS-EFC",
+      "id": "93a8d6f3d9",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 56,
+      "insight": "Em alta na comunidade, com 51 upvotes no Hugging Face."
+    },
+    {
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "source": "Latent Space",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-12T18:18:17.000Z",
+      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/dda42c05-6ce1-4e54-b544-f7d1557f04b2_1280x720.jpeg",
+      "points": 0,
+      "readingMinutes": 5,
+      "author": "Richard MacManus",
+      "id": "728a22683c",
+      "feed": "Latent Space",
+      "tags": [
+        "IA",
+        "Dev"
+      ],
+      "score": 42.3,
+      "insight": "Leitura de 5 min."
+    },
+    {
+      "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+      "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
+      "source": "Stratechery",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 51,
+      "author": "Ben Thompson",
+      "id": "7a37a0ad6c",
+      "feed": "Stratechery",
+      "tags": [
+        "IA"
+      ],
+      "score": 34.6,
+      "insight": "Leitura de 51 min."
+    },
+    {
+      "title": "The states come for OpenAI",
+      "url": "https://www.platformer.news/openai-states-lawsuit-liability/",
+      "source": "Platformer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-15T00:52:13.000Z",
+      "summary": "Will the approach that beat Meta in New Mexico work against ChatGPT?",
+      "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2719900129.jpg",
+      "points": 0,
+      "readingMinutes": 8,
+      "author": "Casey Newton",
+      "id": "42dcb400d0",
+      "feed": "Platformer",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 33.8,
+      "insight": "Leitura de 8 min."
+    },
+    {
+      "title": "Uber’s AI infra, from the inside",
+      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+      "source": "The Pragmatic Engineer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-14T17:06:56.000Z",
+      "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
+      "image": "https://substackcdn.com/image/fetch/$s_!Qhi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1228ff6a-514b-4643-9360-02cda14dc5ac_800x70.png",
+      "points": 0,
+      "readingMinutes": 7,
+      "author": "Gergely Orosz",
+      "id": "bc6f7d6d13",
+      "feed": "The Pragmatic Engineer",
+      "tags": [
+        "IA",
+        "Dev"
+      ],
+      "score": 30.2,
+      "insight": "Leitura de 7 min."
+    },
+    {
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "source": "Simon Willison",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-12T18:15:38.000Z",
+      "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features…",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "92f57cbc84",
+      "feed": "Simon Willison",
+      "tags": [
+        "Dev"
+      ],
+      "score": 21.3,
+      "insight": "Análise para ler com calma."
+    }
+  ],
+  "counts": {
+    "total": 36
+  }
+}
