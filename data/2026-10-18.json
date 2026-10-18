@@ -1,0 +1,1859 @@
+{
+  "title": "OpenClaw Tech Brief",
+  "generatedAt": "2026-10-18T14:19:54.660Z",
+  "date": "2026-10-18",
+  "dateLabel": "18/10/2026 11:19",
+  "summary": "As principais notícias de tecnologia, startups e pesquisa das últimas 48 horas, escolhidas entre dezenas de fontes.",
+  "highlights": [],
+  "tags": [
+    {
+      "tag": "IA",
+      "count": 25
+    },
+    {
+      "tag": "Rodada",
+      "count": 10
+    },
+    {
+      "tag": "Big Tech",
+      "count": 7
+    },
+    {
+      "tag": "Chips",
+      "count": 3
+    },
+    {
+      "tag": "Segurança",
+      "count": 2
+    },
+    {
+      "tag": "Dev",
+      "count": 2
+    },
+    {
+      "tag": "Energia",
+      "count": 1
+    },
+    {
+      "tag": "Hardware",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "news": 11,
+    "startups": 8,
+    "brasil": 6,
+    "reads": 5,
+    "papers": 6,
+    "repos": 6,
+    "rounds": 8,
+    "sources": 32
+  },
+  "lead": {
+    "title": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more",
+    "url": "https://thenewthings.com/p/microsoft-ceo-on-rogue-ai-agents-super-laptops-and-clippy",
+    "source": "The New Things",
+    "publisher": "The New Things",
+    "section": "news",
+    "publishedAt": "2026-10-18T01:20:02.000Z",
+    "summary": "My exclusive interview with Satya Nadella on the new Surface Laptop Ultra and Microsoft's plan to make Windows safer for AI agents",
+    "image": "",
+    "points": 0,
+    "readingMinutes": 0,
+    "author": "",
+    "id": "67055b1a0e",
+    "feed": "Techmeme",
+    "tags": [
+      "IA",
+      "Chips",
+      "Big Tech"
+    ],
+    "score": 50,
+    "insight": ""
+  },
+  "sections": {
+    "news": [
+      {
+        "title": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts",
+        "url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9",
+        "source": "Financial Times",
+        "publisher": "Financial Times",
+        "section": "news",
+        "publishedAt": "2026-10-18T05:10:01.000Z",
+        "summary": "Tech companies are being forced to confront the rules of negotiation when machines act on humans' behalf",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "12226eee80",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 47,
+        "insight": ""
+      },
+      {
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-17T18:48:08.000Z",
+        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
+        "id": "51c1c9a5e4",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA"
+        ],
+        "score": 42.7,
+        "insight": ""
+      },
+      {
+        "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+        "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+        "source": "Wired",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-18T10:30:00.000Z",
+        "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+        "image": "https://media.wired.com/photos/6ad240695195eb0dd6087017/master/pass/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Reece Rogers",
+        "id": "70bdb9d8da",
+        "feed": "Wired",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 42,
+        "insight": ""
+      },
+      {
+        "title": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-10-17/disney-offers-soft-landing-to-staff-at-troubled-character-ai",
+        "source": "Bloomberg",
+        "publisher": "Bloomberg",
+        "section": "news",
+        "publishedAt": "2026-10-18T03:50:01.000Z",
+        "summary": "More than 60 workers at Character.AI are being offered a lifeline from the media giant … Soft Landing &mdash; Layoffs are common in bankruptcy.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "3378d42a13",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 39.7,
+        "insight": ""
+      },
+      {
+        "title": "Google says \"magic state cultivation\" works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+        "source": "Google",
+        "publisher": "Google",
+        "section": "news",
+        "publishedAt": "2026-10-17T23:35:01.000Z",
+        "summary": "We've shown that magic state cultivation works on Google Quantum AI hardware. &mdash; Google Quantum AI has demonstratively opened …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "ec9d86af16",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 38.3,
+        "insight": ""
+      },
+      {
+        "title": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\"",
+        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+        "source": "The Verge",
+        "publisher": "The Verge",
+        "section": "news",
+        "publishedAt": "2026-10-17T15:50:02.000Z",
+        "summary": "Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta's terms.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "ac0eba5f39",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 37.7,
+        "insight": ""
+      },
+      {
+        "title": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar",
+        "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html?unlocked_article_code=1.JlE.Xgxf.QuEWFgfl8zJB&smid=url-share",
+        "source": "New York Times",
+        "publisher": "New York Times",
+        "section": "news",
+        "publishedAt": "2026-10-18T06:10:04.000Z",
+        "summary": "Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there are broader problems with the data center build-out.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "a498586203",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 37.3,
+        "insight": ""
+      },
+      {
+        "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\"",
+        "url": "https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/",
+        "source": "Startup Fortune",
+        "publisher": "Startup Fortune",
+        "section": "news",
+        "publishedAt": "2026-10-17T20:50:01.000Z",
+        "summary": "A large-scale distillation attack against the company behind the open-source coding agent OpenCode exposed stored OpenAI …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "6a76d03c91",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Segurança",
+          "Dev"
+        ],
+        "score": 36.3,
+        "insight": ""
+      },
+      {
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "source": "Hacker News",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-18T06:50:36.000Z",
+        "summary": "338 pontos e discussão ativa no Hacker News.",
+        "image": "",
+        "points": 338,
+        "readingMinutes": 0,
+        "author": "fagnerbrack",
+        "id": "870d9f0665",
+        "feed": "Hacker News",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 36.2,
+        "insight": ""
+      },
+      {
+        "title": "An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more",
+        "url": "https://www.polygon.com/apple-indie-games-week-interview/",
+        "source": "Polygon",
+        "publisher": "Polygon",
+        "section": "news",
+        "publishedAt": "2026-10-18T11:15:00.000Z",
+        "summary": "Back when Apple Arcade launched in 2019, there was a resounding belief among gamers that the mobile gaming service wasn't long for this world.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "c2fbf242f3",
+        "feed": "Techmeme",
+        "tags": [
+          "Big Tech",
+          "Dev"
+        ],
+        "score": 35,
+        "insight": ""
+      }
+    ],
+    "startups": [
+      {
+        "title": "US chip startup Bolt Graphics seeks $100 million funding, sidesteps AI battlefield to take on Nvidia and AMD",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JMFFzUERBdDlpWWdOVFB1R0lHYXZxMk5ic0FYVHV5eEtXdEphOFJNS1J0WmZGa3pJWFp0aDlPMlduNGtzX3puM0lUSTY1Q0g5SWN4VDM4MlhlMVRJVG1ITlZVeVpvaUR5OUFWQXNndmpvcGtOcUE?oc=5",
+        "source": "BigGo Finance",
+        "publisher": "BigGo Finance",
+        "section": "startup",
+        "publishedAt": "2026-10-17T07:05:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "490ea0be9d",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 100000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Chips",
+          "Rodada"
+        ],
+        "score": 40.7,
+        "insight": ""
+      },
+      {
+        "title": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation",
+        "url": "https://fortune.com/2026/10/15/holyvolt-funding-45-million-battery-startup-ai-sweden-michigan-prast-ingvarsson/",
+        "source": "Fortune",
+        "publisher": "Fortune",
+        "section": "startup",
+        "publishedAt": "2026-10-18T05:40:01.000Z",
+        "summary": "Steven Prast is old enough to remember when a mobile phone came in a bag. It was too heavy to carry around, so most people mounted it in the car.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "4dc4342da0",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 45000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada",
+          "Energia"
+        ],
+        "score": 40,
+        "insight": ""
+      },
+      {
+        "title": "IIT Madras alumni-founded AI video creation startup Clueso raises $10 million in funding",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUhRQ3doMVhuYUxabjZXVTl2dDFseDVscndnVFNYTXZ4Sk8wY2Z4SGc2RTIxVGNzeEtYaDFrTzVOM3hfQnJrMW5qRVZHVjU5V0c2Yl9sNHZjbXBNWFhzUVdvRWVPb0RTSXFNRHJSM3BpLVFiYVB0cnNhUFhpOGctOHh1SGlHb1RKSzdsdDY2ZkRia1RMQ0FXZ1QxOTk5LWl4dkdIdE1rX3BJVXlMTjBtVmFLRHhMbjh1eU15U29Lc05KZzVWN2ZndTVGMVdIR1HSAc8BQVVfeXFMTmFIUUN3aDFYbmFMWm42V1U5dnQxbHg1bHJ3Z1RTWE12eEpPMGNmeEhnNkUyMVRjc3hLWGgxa081TjN4X0JyazFuakVWR1Y1OVdHNmJfbDR2Y21wTVhYc1FXb0VlT29EU0lxTURyUjNwaS1RYmFQdHJzYVBYaThnLTh4dUhpR29USks3bHQ2NmZEYmtUTENBV2dUMTk5OS1peHZHSHRNa19wSVV5TE4wbVZhS0R4TG44dXlNeVNvS3NOSmc1VjdmZ3U1RjFXSEdR?oc=5",
+        "source": "Indian Startup News",
+        "publisher": "Indian Startup News",
+        "section": "startup",
+        "publishedAt": "2026-10-17T12:57:42.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "45a2cd07f9",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 10000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 35.7,
+        "insight": ""
+      },
+      {
+        "title": "India's VC funding for startups stays flat at $10.9 billion in 2026 so far",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcTlVQ0MyRXFWVGZwaWt1Y0F0cEtMai1BWnkycUFZbDdqcml2Y3d1MEZqTjlORDg4c1FUcXdkYkY2NkNOaFlqdDgwYTYxWF9hUWpFM3VNQUVRY1BEQThYeHdjMlgxVXo1YTlJbmJCdmliYnQ1WnpWOElmS3JQc3RRT2NVOTlWYUVoUW9FakZ3YTQ4d0RMS1kxeVRvYkxxaXlyUG95Z21acUF6cXFreDdneGwyUkVqYkVPSl9aelU2ODRPNmxJSlFWR0xaaDJrV0JWZjVlMjdvR2pKS3BqQjBNU2xfVkE0eWhXOGFSTHJzONIB7wFBVV95cUxPcTlVQ0MyRXFWVGZwaWt1Y0F0cEtMai1BWnkycUFZbDdqcml2Y3d1MEZqTjlORDg4c1FUcXdkYkY2NkNOaFlqdDgwYTYxWF9hUWpFM3VNQUVRY1BEQThYeHdjMlgxVXo1YTlJbmJCdmliYnQ1WnpWOElmS3JQc3RRT2NVOTlWYUVoUW9FakZ3YTQ4d0RMS1kxeVRvYkxxaXlyUG95Z21acUF6cXFreDdneGwyUkVqYkVPSl9aelU2ODRPNmxJSlFWR0xaaDJrV0JWZjVlMjdvR2pKS3BqQjBNU2xfVkE0eWhXOGFSTHJzOA?oc=5",
+        "source": "Business Standard",
+        "publisher": "Business Standard",
+        "section": "startup",
+        "publishedAt": "2026-10-18T11:45:25.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "97a087c71c",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 10900000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 34.4,
+        "insight": ""
+      },
+      {
+        "title": "AI startup AIsa raises over $9M with Tether joi...",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXFUSGFpX1hEVDEzQlNTQ0JEOE4wRXVWLVhyUDFjRHZIdlpZbmQ4MEhuME5fbUt1am40bjdDRzRPUGwySG5DRk9qNEQzQ0R2bG1HMC1Cd0wxSzlZNkV3RHFyVXNrak1NV0NVMy15QVh0X0JLRVZ0Q1dMZDhVNjFFc2RRXy1FeVV0d0oxbEFsYnE4cEdYd3E2c0tBeTBqNi1wZTlv?oc=5",
+        "source": "Pluang",
+        "publisher": "Pluang",
+        "section": "startup",
+        "publishedAt": "2026-10-17T22:09:32.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "3abb340ae3",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 9000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 33.6,
+        "insight": ""
+      },
+      {
+        "title": "Norwegian startup raises $6.3 million pre-seed round to build AI-native engineering firm",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXdMSmM5RnBsMlp3RXV1b1FBUUlva01XUjE1cDlMRXU5bEVXVkpfR0Y5ZEpxbTd4YVBWc0tWanVTZzlzTzg4anRJM1l0aXhVSkxTWjE4S05vd08zR0FqMkYtMzB5ekozTjh1blFzZHNDcFhDZXVWOTFJZlVwbS1Cbzl6NFhRdFhRVk8wX19OV2IwMEEtbGZNaTRLSC1CYndxSnJId19jX2RTRUsyVVJNUFFvRnBsTnVm?oc=5",
+        "source": "BeBeez International",
+        "publisher": "BeBeez International",
+        "section": "startup",
+        "publishedAt": "2026-10-16T15:58:19.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "6a271e675f",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 6300000,
+          "round": "pre-seed"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 32.8,
+        "insight": ""
+      },
+      {
+        "title": "Korean heat-supply SMR startup rx raises $7.46M bridge round",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmU0S0IxOWpJOGwzNmpwTVI3TUNBZjVrRkg4bDlMa2ZERng1X1UtbWUxRW5vY1ctN3Y3SnVqY2xwMUhMVjJ2M2g1dFBRcGVycFU0M29OWWFPMHQ1cFdLYnFabkk1MElxaDVqLU1hbFRmaDNIQnJ4WU5LQTlGa19YNkU4dmc1WnBLQzBoSmo4UTY3Z3JJRkIzaw?oc=5",
+        "source": "Dealroom",
+        "publisher": "Dealroom",
+        "section": "startup",
+        "publishedAt": "2026-10-18T13:15:12.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "0010bda247",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 7460000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 32.5,
+        "insight": ""
+      },
+      {
+        "title": "AI startup RapidCanvas snags $29M series B",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDktU2VYMENHOEtPc1NFaVZyb1BIcUY1N2tYSVViY3ZubjdEN0JGeDVuTk5FeXQ2X0NQRzh4Y0F3Uzhxc01VeU1wbkdXRk9CRFdUWVE5RHhsLWdKR0Jma3Fxd2tOU0V1QnpVb0VHY2J1OEYzSzBGZFBpR3RqUFVWblN3azlVZ2x3RFZfTk5UcUlVY2V3bzlyYTB3ZFl3WEtU?oc=5",
+        "source": "The Business Journals",
+        "publisher": "The Business Journals",
+        "section": "startup",
+        "publishedAt": "2026-10-16T19:14:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "2034d71a74",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 29000000,
+          "round": "series B"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 27.5,
+        "insight": ""
+      }
+    ],
+    "brasil": [
+      {
+        "title": "Nexa lança plataforma de investimentos sob medida com IA",
+        "url": "https://startups.com.br/negocios/fintech/nexa-lanca-plataforma-de-investimentos-sob-medida-com-ia/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-16T19:23:13.000Z",
+        "summary": "Lucas Danicek, fundador da Nexa | Foto: Divulgação Fintech projeta crescimento de cinco vezes em 2027 com o lançamento do Nexa Genesis e planeja levantar nova rodada O post Nexa lança plataforma de investimentos sob medida com IA apareceu primeiro em Startups.",
+        "image": "https://uploads.startups.com.br/2026/10/Nexa-2.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Stephanie Tondo",
+        "id": "9243d8452a",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 36,
+        "insight": ""
+      },
+      {
+        "title": "De data center a chip: sob liderança de Jon Gray, Blackstone amplia investimento em IA",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNHdWUVhfbXpQb1hnd1NEX3JSaFBzcGVhcy1mTDlBMkdHTVpkemZlaHpZVXlPQjJGZWZ2MEhDMXVLUFZLSVZkU1JleW54WlBaTjh3ckRobmpTMmNhSl94RTYxRHAxSDc3ZlNmZDNxUWtjNlp3di1MSUpvc3lydzVUS0thNDUzV3VMSzRTVTdWZ3J2RHN2RktyQW1VUHQwMmZlRWIzOTY0SzJKSHBBd0ZQaTRySmcycm4yQlpncjVlZ0gxWDNHWnVYZ1Z30gHeAUFVX3lxTFBNVGFrQUFjVWhPMDlKNEd6OGhKTXY1Slg4Y0ZreUFBWlN4MDdXWEMyTU1tckZKTmtRR29mTjVkalhOM3k4Y0VZOG00LTZJRVM0QTN1RHZvSHZXdU9BcjV1ZnNLNFRvUEh1SnFuU2J3RXp4NWlDS25BREpDMy1GZ1BMa0FFZDVKSkJ4RnlNM2pkWDRqUzRYazJsTktCZ1NRaVBKSWdXQlJzWHM1SDVxcVlWZ0tHRVNEbkRpSzFud3M4aTJ3dm5fZGsxbkdCclc4VUU0a0o1ZkhRcWl3SVM5Zw?oc=5",
+        "source": "Bloomberg Línea Brasil",
+        "publisher": "Bloomberg Línea Brasil",
+        "section": "brasil",
+        "publishedAt": "2026-10-17T10:58:24.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "d13bfeee5d",
+        "feed": "Google News: Startups BR",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Chips"
+        ],
+        "score": 30,
+        "insight": ""
+      },
+      {
+        "title": "A startup que construiu uma empresa inteira em torno da uva Chardonnay",
+        "url": "https://neofeed.com.br/finde/a-startup-que-construiu-uma-empresa-inteira-em-torno-da-uva-chardonnay/",
+        "source": "Neofeed",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-18T11:15:39.000Z",
+        "summary": "Poucas uvas são tão versáteis quanto a Chardonnay. Uma das variedades mais cultivadas do mundo, ela dá origem tanto a brancos leves e frescos quanto a vinhos mais encorpados, além de espumantes elegantes. Avaliado hoje em US$ 618,7 milhões, o mercado global de Chardonnay deve crescer, na próxima…",
+        "image": "https://neofeed.com.br/wp-content/uploads/2026/09/chardonique-vinhos-chardonnay-tle-wine-lab-brazil-divulgacao-300x169.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Eliana Castro",
+        "id": "07990787e4",
+        "feed": "Neofeed",
+        "funding": null,
+        "tags": [],
+        "score": 27,
+        "insight": ""
+      },
+      {
+        "title": "One UI 9 tem truque nativo para cortar internet de apps e barrar anúncios; aprenda a usar",
+        "url": "https://canaltech.com.br/apps/one-ui-9-tem-truque-para-cortar-internet-e-barrar-anuncios/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-18T14:00:00.000Z",
+        "summary": "A One UI 9.0, interface dos celulares Samsung Galaxy, tem um recurso nativo que pode bloquear anúncios em aplicativos e jogos gratuitos. Chamado AI Network Guard, o sistema corta o acesso à internet dos apps selecionados, o que pode impedir o carregamento de propagandas que dependem de servidores…",
+        "image": "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Viviane França",
+        "id": "34ed8372f8",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Hardware"
+        ],
+        "score": 24,
+        "insight": ""
+      },
+      {
+        "title": "Como e por que a inteligência artificial consegue burlar regras?",
+        "url": "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-17T11:30:00.000Z",
+        "summary": "Nos últimos meses, uma série de incidentes mostrou um problema cada vez mais preocupante com os agentes de inteligência artificial: sistemas criados por grandes empresas de tecnologia conseguiram contornar restrições, acessar sistemas sem autorização e realizar ações que seus próprios…",
+        "image": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Viviane França",
+        "id": "9992b43868",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 23.3,
+        "insight": ""
+      },
+      {
+        "title": "Um fundador e seus batalhões de IA: a nova fronteira e os limites das startups de uma pessoa só",
+        "url": "https://neofeed.com.br/startups/um-fundador-e-seus-batalhoes-de-ia-a-nova-fronteira-e-os-limites-das-startups-de-uma-pessoa-so/",
+        "source": "Neofeed",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-16T20:23:03.000Z",
+        "summary": "Foram 18 anos apenas de Embraer. Lá, entre outras passagens, Sandro Valeri ergueu e liderou o ecossistema de inovação, por uma década, e foi um dos fundadores da EmbraerX, no Vale do Silício, onde morou por dois anos, além de gerir os fundos de investimentos da companhia nessa área. Em 2020, já de…",
+        "image": "https://neofeed.com.br/wp-content/uploads/2026/10/fundadores-solo-300x169.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Moacir Drska",
+        "id": "0a7cf868eb",
+        "feed": "Neofeed",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 23,
+        "insight": ""
+      }
+    ],
+    "reads": [
+      {
+        "title": "The Pulse: OpenAI software engineer accused of spying",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+        "source": "The Pragmatic Engineer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-15T16:55:18.000Z",
+        "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+        "image": "https://substackcdn.com/image/fetch/$s_!I8Qf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F722b7b9e-4a5d-412c-9aa3-22019bcf0c2d_2048x1444.png",
+        "points": 0,
+        "readingMinutes": 1,
+        "author": "Gergely Orosz",
+        "id": "0e4f837480",
+        "feed": "The Pragmatic Engineer",
+        "tags": [
+          "IA"
+        ],
+        "score": 39.3,
+        "insight": "Leitura de 1 min."
+      },
+      {
+        "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+        "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+        "source": "Latent Space",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-14T05:40:28.000Z",
+        "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
+        "image": "https://substackcdn.com/image/youtube/w_728,c_limit/akEqiXFo3GM",
+        "points": 0,
+        "readingMinutes": 10,
+        "author": "Latent.Space",
+        "id": "268ff6550b",
+        "feed": "Latent Space",
+        "tags": [
+          "IA"
+        ],
+        "score": 29.3,
+        "insight": "Leitura de 10 min."
+      },
+      {
+        "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+        "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
+        "source": "Stratechery",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-15T10:00:00.000Z",
+        "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 51,
+        "author": "Ben Thompson",
+        "id": "7a37a0ad6c",
+        "feed": "Stratechery",
+        "tags": [
+          "IA"
+        ],
+        "score": 28.7,
+        "insight": "Leitura de 51 min."
+      },
+      {
+        "title": "The states come for OpenAI",
+        "url": "https://www.platformer.news/openai-states-lawsuit-liability/",
+        "source": "Platformer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-15T00:52:13.000Z",
+        "summary": "Will the approach that beat Meta in New Mexico work against ChatGPT?",
+        "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2719900129.jpg",
+        "points": 0,
+        "readingMinutes": 8,
+        "author": "Casey Newton",
+        "id": "42dcb400d0",
+        "feed": "Platformer",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 27.9,
+        "insight": "Leitura de 8 min."
+      },
+      {
+        "title": "Meta shakes up the frontiers, open and closed",
+        "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+        "source": "Interconnects",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-17T14:06:54.000Z",
+        "summary": "US open weights are back!",
+        "image": "https://substack-post-media.s3.amazonaws.com/public/images/95f73e17-9e3c-49ea-8d4c-e0ae87c89257_3182x1790.png",
+        "points": 0,
+        "readingMinutes": 9,
+        "author": "Nathan Lambert",
+        "id": "987754dece",
+        "feed": "Interconnects",
+        "tags": [
+          "Big Tech"
+        ],
+        "score": 24,
+        "insight": "Leitura de 9 min."
+      }
+    ],
+    "papers": [
+      {
+        "title": "FDE-Gym: The Last Mile of AI Delivery",
+        "url": "https://huggingface.co/papers/2610.22350",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "summary": "FDE-Gym evaluates AI agents on realistic customer delivery tasks requiring clarification of ambiguous requirements and discovery of unstated constraints, revealing a substantial performance gap compared to well-specified benchmarks.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22350.png",
+        "upvotes": 285,
+        "github": "https://github.com/deeplethe/fde-gym",
+        "authors": [
+          "Dongxu Yang",
+          "Hongda Yan",
+          "Renxin Wang"
+        ],
+        "organization": "DeepLethe",
+        "id": "3adc556ab3",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 59,
+        "insight": "Em alta na comunidade, com 285 upvotes no Hugging Face."
+      },
+      {
+        "title": "VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models",
+        "url": "https://huggingface.co/papers/2610.21306",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "summary": "VLA-Δ improves robot control by explicitly supervising physical state transitions between current and future observations, achieving strong benchmark and real-world results without added inference cost.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.21306.png",
+        "upvotes": 54,
+        "github": "https://github.com/ZJU-OmniAI/VLA-Delta",
+        "authors": [
+          "Qi Lu",
+          "Jiarun Li",
+          "Ce Zhang"
+        ],
+        "organization": "ZJU-OmniAI",
+        "id": "c5e7c5125f",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 55,
+        "insight": "Em alta na comunidade, com 54 upvotes no Hugging Face."
+      },
+      {
+        "title": "WorldCast: Exploring Intelligent Visual Generation in World State Prediction",
+        "url": "https://huggingface.co/papers/2610.20731",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "summary": "Researchers propose a four-level hierarchy for multimodal generative models and introduce the WorldCast benchmark to evaluate multi-step world state prediction, revealing rapid progress by frontier systems but substantial gaps in open-source models for reasoning-heavy visual forecasting.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20731.png",
+        "upvotes": 30,
+        "github": "https://github.com/teal024/WorldCast",
+        "authors": [
+          "Wenhao Yan",
+          "Haodong Li",
+          "Xiaotong Li"
+        ],
+        "organization": "LongCat",
+        "id": "901863d4ad",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 54.7,
+        "insight": "Em alta na comunidade, com 30 upvotes no Hugging Face."
+      },
+      {
+        "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+        "url": "https://huggingface.co/papers/2610.22200",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "summary": "OpenGCUA introduces an open generalist computer-use agent that integrates visual and programmatic interfaces, harness-to-model decision transfer, and code execution to improve task performance and efficiency across models.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22200.png",
+        "upvotes": 316,
+        "github": "https://github.com/Tongyi-MAI/OpenGCUA",
+        "authors": [
+          "Hanzhang Zhou",
+          "Long Li",
+          "Quyu Kong"
+        ],
+        "organization": "Tongyi-MAI",
+        "id": "7c3a547ab4",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 53,
+        "insight": "Em alta na comunidade, com 316 upvotes no Hugging Face."
+      },
+      {
+        "title": "Data World: Scaling Data Environments from Scratch",
+        "url": "https://huggingface.co/papers/2610.21656",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "summary": "A multi-agent engine synthesizes data environments and tasks to train models for analytical insight discovery, improving performance across benchmarks without trajectory distillation.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.21656.png",
+        "upvotes": 28,
+        "github": "https://github.com/Zhanli-Li/Data-World",
+        "authors": [
+          "Zhanli Li",
+          "Zeyuan Xu",
+          "Chaoxu Pang"
+        ],
+        "organization": "LongCat",
+        "id": "16bedc6c58",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 52.1,
+        "insight": "Em alta na comunidade, com 28 upvotes no Hugging Face."
+      },
+      {
+        "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+        "url": "https://huggingface.co/papers/2610.20939",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "summary": "MAI-Gym is an open platform that unifies GUI agent evaluation, data collection, and online reinforcement learning training across mobile, computer, and web environments, enabling scalable synthesis of verified tasks and training of a unified 9B agent with state-of-the-art open performance.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20939.png",
+        "upvotes": 154,
+        "github": "https://github.com/Tongyi-MAI/MAI-Gym",
+        "authors": [
+          "Panrong Tong",
+          "Quyu Kong",
+          "Pengxiang Li"
+        ],
+        "organization": "Tongyi-MAI",
+        "id": "9ada2e54ec",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 49,
+        "insight": "Em alta na comunidade, com 154 upvotes no Hugging Face."
+      }
+    ],
+    "repos": [
+      {
+        "title": "jhaizhou-ops/d2r-mobile",
+        "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-12T08:41:19.000Z",
+        "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60…",
+        "stars": 3791,
+        "language": "C",
+        "image": "https://avatars.githubusercontent.com/u/258432107?v=4",
+        "id": "a6e633d8cf",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.9,
+        "insight": "3.791 estrelas em poucos dias, escrito em C."
+      },
+      {
+        "title": "Arekejoker/qwen21-nsfw-pose-skill",
+        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-13T03:09:42.000Z",
+        "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+        "stars": 2706,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/131444687?v=4",
+        "id": "097403387c",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.4,
+        "insight": "2.706 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "HeyPuter/everything",
+        "url": "https://github.com/HeyPuter/everything",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-13T16:18:22.000Z",
+        "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
+        "stars": 2145,
+        "language": "JavaScript",
+        "image": "https://avatars.githubusercontent.com/u/103972607?v=4",
+        "id": "c98ecbc1e2",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.1,
+        "insight": "2.145 estrelas em poucos dias, escrito em JavaScript."
+      },
+      {
+        "title": "deeplethe/solid-glass",
+        "url": "https://github.com/deeplethe/solid-glass",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-12T09:19:02.000Z",
+        "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+        "stars": 2002,
+        "language": "TypeScript",
+        "image": "https://avatars.githubusercontent.com/u/282846749?v=4",
+        "id": "baffc898b4",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11,
+        "insight": "2.002 estrelas em poucos dias, escrito em TypeScript."
+      },
+      {
+        "title": "ahwootech/BRUTAL",
+        "url": "https://github.com/ahwootech/BRUTAL",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-14T19:33:56.000Z",
+        "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency…",
+        "stars": 1857,
+        "language": "C#",
+        "image": "https://avatars.githubusercontent.com/u/189169933?v=4",
+        "id": "3de8f32869",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.9,
+        "insight": "1.857 estrelas em poucos dias, escrito em C#."
+      },
+      {
+        "title": "chenglou/handwired",
+        "url": "https://github.com/chenglou/handwired",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-15T02:15:09.000Z",
+        "summary": "Turn your regular JavaScript code into a neural net.",
+        "stars": 1704,
+        "language": "TypeScript",
+        "image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+        "id": "36fe5d216f",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.7,
+        "insight": "1.704 estrelas em poucos dias, escrito em TypeScript."
+      }
+    ]
+  },
+  "items": [
+    {
+      "title": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more",
+      "url": "https://thenewthings.com/p/microsoft-ceo-on-rogue-ai-agents-super-laptops-and-clippy",
+      "source": "The New Things",
+      "publisher": "The New Things",
+      "section": "news",
+      "publishedAt": "2026-10-18T01:20:02.000Z",
+      "summary": "My exclusive interview with Satya Nadella on the new Surface Laptop Ultra and Microsoft's plan to make Windows safer for AI agents",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "67055b1a0e",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Chips",
+        "Big Tech"
+      ],
+      "score": 50,
+      "insight": ""
+    },
+    {
+      "title": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts",
+      "url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9",
+      "source": "Financial Times",
+      "publisher": "Financial Times",
+      "section": "news",
+      "publishedAt": "2026-10-18T05:10:01.000Z",
+      "summary": "Tech companies are being forced to confront the rules of negotiation when machines act on humans' behalf",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "12226eee80",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 47,
+      "insight": ""
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-17T18:48:08.000Z",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
+      "id": "51c1c9a5e4",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA"
+      ],
+      "score": 42.7,
+      "insight": ""
+    },
+    {
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "source": "Wired",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-18T10:30:00.000Z",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "image": "https://media.wired.com/photos/6ad240695195eb0dd6087017/master/pass/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Reece Rogers",
+      "id": "70bdb9d8da",
+      "feed": "Wired",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 42,
+      "insight": ""
+    },
+    {
+      "title": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-17/disney-offers-soft-landing-to-staff-at-troubled-character-ai",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "news",
+      "publishedAt": "2026-10-18T03:50:01.000Z",
+      "summary": "More than 60 workers at Character.AI are being offered a lifeline from the media giant … Soft Landing &mdash; Layoffs are common in bankruptcy.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "3378d42a13",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 39.7,
+      "insight": ""
+    },
+    {
+      "title": "Google says \"magic state cultivation\" works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "source": "Google",
+      "publisher": "Google",
+      "section": "news",
+      "publishedAt": "2026-10-17T23:35:01.000Z",
+      "summary": "We've shown that magic state cultivation works on Google Quantum AI hardware. &mdash; Google Quantum AI has demonstratively opened …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "ec9d86af16",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 38.3,
+      "insight": ""
+    },
+    {
+      "title": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\"",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge",
+      "publisher": "The Verge",
+      "section": "news",
+      "publishedAt": "2026-10-17T15:50:02.000Z",
+      "summary": "Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta's terms.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "ac0eba5f39",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 37.7,
+      "insight": ""
+    },
+    {
+      "title": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar",
+      "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html?unlocked_article_code=1.JlE.Xgxf.QuEWFgfl8zJB&smid=url-share",
+      "source": "New York Times",
+      "publisher": "New York Times",
+      "section": "news",
+      "publishedAt": "2026-10-18T06:10:04.000Z",
+      "summary": "Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there are broader problems with the data center build-out.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "a498586203",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 37.3,
+      "insight": ""
+    },
+    {
+      "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\"",
+      "url": "https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/",
+      "source": "Startup Fortune",
+      "publisher": "Startup Fortune",
+      "section": "news",
+      "publishedAt": "2026-10-17T20:50:01.000Z",
+      "summary": "A large-scale distillation attack against the company behind the open-source coding agent OpenCode exposed stored OpenAI …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "6a76d03c91",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Segurança",
+        "Dev"
+      ],
+      "score": 36.3,
+      "insight": ""
+    },
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "source": "Hacker News",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-18T06:50:36.000Z",
+      "summary": "338 pontos e discussão ativa no Hacker News.",
+      "image": "",
+      "points": 338,
+      "readingMinutes": 0,
+      "author": "fagnerbrack",
+      "id": "870d9f0665",
+      "feed": "Hacker News",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 36.2,
+      "insight": ""
+    },
+    {
+      "title": "An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more",
+      "url": "https://www.polygon.com/apple-indie-games-week-interview/",
+      "source": "Polygon",
+      "publisher": "Polygon",
+      "section": "news",
+      "publishedAt": "2026-10-18T11:15:00.000Z",
+      "summary": "Back when Apple Arcade launched in 2019, there was a resounding belief among gamers that the mobile gaming service wasn't long for this world.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "c2fbf242f3",
+      "feed": "Techmeme",
+      "tags": [
+        "Big Tech",
+        "Dev"
+      ],
+      "score": 35,
+      "insight": ""
+    },
+    {
+      "title": "US chip startup Bolt Graphics seeks $100 million funding, sidesteps AI battlefield to take on Nvidia and AMD",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JMFFzUERBdDlpWWdOVFB1R0lHYXZxMk5ic0FYVHV5eEtXdEphOFJNS1J0WmZGa3pJWFp0aDlPMlduNGtzX3puM0lUSTY1Q0g5SWN4VDM4MlhlMVRJVG1ITlZVeVpvaUR5OUFWQXNndmpvcGtOcUE?oc=5",
+      "source": "BigGo Finance",
+      "publisher": "BigGo Finance",
+      "section": "startup",
+      "publishedAt": "2026-10-17T07:05:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "490ea0be9d",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 100000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Chips",
+        "Rodada"
+      ],
+      "score": 40.7,
+      "insight": ""
+    },
+    {
+      "title": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation",
+      "url": "https://fortune.com/2026/10/15/holyvolt-funding-45-million-battery-startup-ai-sweden-michigan-prast-ingvarsson/",
+      "source": "Fortune",
+      "publisher": "Fortune",
+      "section": "startup",
+      "publishedAt": "2026-10-18T05:40:01.000Z",
+      "summary": "Steven Prast is old enough to remember when a mobile phone came in a bag. It was too heavy to carry around, so most people mounted it in the car.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "4dc4342da0",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 45000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada",
+        "Energia"
+      ],
+      "score": 40,
+      "insight": ""
+    },
+    {
+      "title": "IIT Madras alumni-founded AI video creation startup Clueso raises $10 million in funding",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUhRQ3doMVhuYUxabjZXVTl2dDFseDVscndnVFNYTXZ4Sk8wY2Z4SGc2RTIxVGNzeEtYaDFrTzVOM3hfQnJrMW5qRVZHVjU5V0c2Yl9sNHZjbXBNWFhzUVdvRWVPb0RTSXFNRHJSM3BpLVFiYVB0cnNhUFhpOGctOHh1SGlHb1RKSzdsdDY2ZkRia1RMQ0FXZ1QxOTk5LWl4dkdIdE1rX3BJVXlMTjBtVmFLRHhMbjh1eU15U29Lc05KZzVWN2ZndTVGMVdIR1HSAc8BQVVfeXFMTmFIUUN3aDFYbmFMWm42V1U5dnQxbHg1bHJ3Z1RTWE12eEpPMGNmeEhnNkUyMVRjc3hLWGgxa081TjN4X0JyazFuakVWR1Y1OVdHNmJfbDR2Y21wTVhYc1FXb0VlT29EU0lxTURyUjNwaS1RYmFQdHJzYVBYaThnLTh4dUhpR29USks3bHQ2NmZEYmtUTENBV2dUMTk5OS1peHZHSHRNa19wSVV5TE4wbVZhS0R4TG44dXlNeVNvS3NOSmc1VjdmZ3U1RjFXSEdR?oc=5",
+      "source": "Indian Startup News",
+      "publisher": "Indian Startup News",
+      "section": "startup",
+      "publishedAt": "2026-10-17T12:57:42.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "45a2cd07f9",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 10000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 35.7,
+      "insight": ""
+    },
+    {
+      "title": "India's VC funding for startups stays flat at $10.9 billion in 2026 so far",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcTlVQ0MyRXFWVGZwaWt1Y0F0cEtMai1BWnkycUFZbDdqcml2Y3d1MEZqTjlORDg4c1FUcXdkYkY2NkNOaFlqdDgwYTYxWF9hUWpFM3VNQUVRY1BEQThYeHdjMlgxVXo1YTlJbmJCdmliYnQ1WnpWOElmS3JQc3RRT2NVOTlWYUVoUW9FakZ3YTQ4d0RMS1kxeVRvYkxxaXlyUG95Z21acUF6cXFreDdneGwyUkVqYkVPSl9aelU2ODRPNmxJSlFWR0xaaDJrV0JWZjVlMjdvR2pKS3BqQjBNU2xfVkE0eWhXOGFSTHJzONIB7wFBVV95cUxPcTlVQ0MyRXFWVGZwaWt1Y0F0cEtMai1BWnkycUFZbDdqcml2Y3d1MEZqTjlORDg4c1FUcXdkYkY2NkNOaFlqdDgwYTYxWF9hUWpFM3VNQUVRY1BEQThYeHdjMlgxVXo1YTlJbmJCdmliYnQ1WnpWOElmS3JQc3RRT2NVOTlWYUVoUW9FakZ3YTQ4d0RMS1kxeVRvYkxxaXlyUG95Z21acUF6cXFreDdneGwyUkVqYkVPSl9aelU2ODRPNmxJSlFWR0xaaDJrV0JWZjVlMjdvR2pKS3BqQjBNU2xfVkE0eWhXOGFSTHJzOA?oc=5",
+      "source": "Business Standard",
+      "publisher": "Business Standard",
+      "section": "startup",
+      "publishedAt": "2026-10-18T11:45:25.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "97a087c71c",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 10900000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 34.4,
+      "insight": ""
+    },
+    {
+      "title": "AI startup AIsa raises over $9M with Tether joi...",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXFUSGFpX1hEVDEzQlNTQ0JEOE4wRXVWLVhyUDFjRHZIdlpZbmQ4MEhuME5fbUt1am40bjdDRzRPUGwySG5DRk9qNEQzQ0R2bG1HMC1Cd0wxSzlZNkV3RHFyVXNrak1NV0NVMy15QVh0X0JLRVZ0Q1dMZDhVNjFFc2RRXy1FeVV0d0oxbEFsYnE4cEdYd3E2c0tBeTBqNi1wZTlv?oc=5",
+      "source": "Pluang",
+      "publisher": "Pluang",
+      "section": "startup",
+      "publishedAt": "2026-10-17T22:09:32.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "3abb340ae3",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 9000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 33.6,
+      "insight": ""
+    },
+    {
+      "title": "Norwegian startup raises $6.3 million pre-seed round to build AI-native engineering firm",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXdMSmM5RnBsMlp3RXV1b1FBUUlva01XUjE1cDlMRXU5bEVXVkpfR0Y5ZEpxbTd4YVBWc0tWanVTZzlzTzg4anRJM1l0aXhVSkxTWjE4S05vd08zR0FqMkYtMzB5ekozTjh1blFzZHNDcFhDZXVWOTFJZlVwbS1Cbzl6NFhRdFhRVk8wX19OV2IwMEEtbGZNaTRLSC1CYndxSnJId19jX2RTRUsyVVJNUFFvRnBsTnVm?oc=5",
+      "source": "BeBeez International",
+      "publisher": "BeBeez International",
+      "section": "startup",
+      "publishedAt": "2026-10-16T15:58:19.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "6a271e675f",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 6300000,
+        "round": "pre-seed"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 32.8,
+      "insight": ""
+    },
+    {
+      "title": "Korean heat-supply SMR startup rx raises $7.46M bridge round",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmU0S0IxOWpJOGwzNmpwTVI3TUNBZjVrRkg4bDlMa2ZERng1X1UtbWUxRW5vY1ctN3Y3SnVqY2xwMUhMVjJ2M2g1dFBRcGVycFU0M29OWWFPMHQ1cFdLYnFabkk1MElxaDVqLU1hbFRmaDNIQnJ4WU5LQTlGa19YNkU4dmc1WnBLQzBoSmo4UTY3Z3JJRkIzaw?oc=5",
+      "source": "Dealroom",
+      "publisher": "Dealroom",
+      "section": "startup",
+      "publishedAt": "2026-10-18T13:15:12.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "0010bda247",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 7460000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 32.5,
+      "insight": ""
+    },
+    {
+      "title": "AI startup RapidCanvas snags $29M series B",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDktU2VYMENHOEtPc1NFaVZyb1BIcUY1N2tYSVViY3ZubjdEN0JGeDVuTk5FeXQ2X0NQRzh4Y0F3Uzhxc01VeU1wbkdXRk9CRFdUWVE5RHhsLWdKR0Jma3Fxd2tOU0V1QnpVb0VHY2J1OEYzSzBGZFBpR3RqUFVWblN3azlVZ2x3RFZfTk5UcUlVY2V3bzlyYTB3ZFl3WEtU?oc=5",
+      "source": "The Business Journals",
+      "publisher": "The Business Journals",
+      "section": "startup",
+      "publishedAt": "2026-10-16T19:14:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "2034d71a74",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 29000000,
+        "round": "series B"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 27.5,
+      "insight": ""
+    },
+    {
+      "title": "Nexa lança plataforma de investimentos sob medida com IA",
+      "url": "https://startups.com.br/negocios/fintech/nexa-lanca-plataforma-de-investimentos-sob-medida-com-ia/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-16T19:23:13.000Z",
+      "summary": "Lucas Danicek, fundador da Nexa | Foto: Divulgação Fintech projeta crescimento de cinco vezes em 2027 com o lançamento do Nexa Genesis e planeja levantar nova rodada O post Nexa lança plataforma de investimentos sob medida com IA apareceu primeiro em Startups.",
+      "image": "https://uploads.startups.com.br/2026/10/Nexa-2.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Stephanie Tondo",
+      "id": "9243d8452a",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 36,
+      "insight": ""
+    },
+    {
+      "title": "De data center a chip: sob liderança de Jon Gray, Blackstone amplia investimento em IA",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNHdWUVhfbXpQb1hnd1NEX3JSaFBzcGVhcy1mTDlBMkdHTVpkemZlaHpZVXlPQjJGZWZ2MEhDMXVLUFZLSVZkU1JleW54WlBaTjh3ckRobmpTMmNhSl94RTYxRHAxSDc3ZlNmZDNxUWtjNlp3di1MSUpvc3lydzVUS0thNDUzV3VMSzRTVTdWZ3J2RHN2RktyQW1VUHQwMmZlRWIzOTY0SzJKSHBBd0ZQaTRySmcycm4yQlpncjVlZ0gxWDNHWnVYZ1Z30gHeAUFVX3lxTFBNVGFrQUFjVWhPMDlKNEd6OGhKTXY1Slg4Y0ZreUFBWlN4MDdXWEMyTU1tckZKTmtRR29mTjVkalhOM3k4Y0VZOG00LTZJRVM0QTN1RHZvSHZXdU9BcjV1ZnNLNFRvUEh1SnFuU2J3RXp4NWlDS25BREpDMy1GZ1BMa0FFZDVKSkJ4RnlNM2pkWDRqUzRYazJsTktCZ1NRaVBKSWdXQlJzWHM1SDVxcVlWZ0tHRVNEbkRpSzFud3M4aTJ3dm5fZGsxbkdCclc4VUU0a0o1ZkhRcWl3SVM5Zw?oc=5",
+      "source": "Bloomberg Línea Brasil",
+      "publisher": "Bloomberg Línea Brasil",
+      "section": "brasil",
+      "publishedAt": "2026-10-17T10:58:24.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "d13bfeee5d",
+      "feed": "Google News: Startups BR",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Chips"
+      ],
+      "score": 30,
+      "insight": ""
+    },
+    {
+      "title": "A startup que construiu uma empresa inteira em torno da uva Chardonnay",
+      "url": "https://neofeed.com.br/finde/a-startup-que-construiu-uma-empresa-inteira-em-torno-da-uva-chardonnay/",
+      "source": "Neofeed",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-18T11:15:39.000Z",
+      "summary": "Poucas uvas são tão versáteis quanto a Chardonnay. Uma das variedades mais cultivadas do mundo, ela dá origem tanto a brancos leves e frescos quanto a vinhos mais encorpados, além de espumantes elegantes. Avaliado hoje em US$ 618,7 milhões, o mercado global de Chardonnay deve crescer, na próxima…",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/09/chardonique-vinhos-chardonnay-tle-wine-lab-brazil-divulgacao-300x169.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Eliana Castro",
+      "id": "07990787e4",
+      "feed": "Neofeed",
+      "funding": null,
+      "tags": [],
+      "score": 27,
+      "insight": ""
+    },
+    {
+      "title": "One UI 9 tem truque nativo para cortar internet de apps e barrar anúncios; aprenda a usar",
+      "url": "https://canaltech.com.br/apps/one-ui-9-tem-truque-para-cortar-internet-e-barrar-anuncios/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-18T14:00:00.000Z",
+      "summary": "A One UI 9.0, interface dos celulares Samsung Galaxy, tem um recurso nativo que pode bloquear anúncios em aplicativos e jogos gratuitos. Chamado AI Network Guard, o sistema corta o acesso à internet dos apps selecionados, o que pode impedir o carregamento de propagandas que dependem de servidores…",
+      "image": "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Viviane França",
+      "id": "34ed8372f8",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Hardware"
+      ],
+      "score": 24,
+      "insight": ""
+    },
+    {
+      "title": "Como e por que a inteligência artificial consegue burlar regras?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-17T11:30:00.000Z",
+      "summary": "Nos últimos meses, uma série de incidentes mostrou um problema cada vez mais preocupante com os agentes de inteligência artificial: sistemas criados por grandes empresas de tecnologia conseguiram contornar restrições, acessar sistemas sem autorização e realizar ações que seus próprios…",
+      "image": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Viviane França",
+      "id": "9992b43868",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 23.3,
+      "insight": ""
+    },
+    {
+      "title": "Um fundador e seus batalhões de IA: a nova fronteira e os limites das startups de uma pessoa só",
+      "url": "https://neofeed.com.br/startups/um-fundador-e-seus-batalhoes-de-ia-a-nova-fronteira-e-os-limites-das-startups-de-uma-pessoa-so/",
+      "source": "Neofeed",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-16T20:23:03.000Z",
+      "summary": "Foram 18 anos apenas de Embraer. Lá, entre outras passagens, Sandro Valeri ergueu e liderou o ecossistema de inovação, por uma década, e foi um dos fundadores da EmbraerX, no Vale do Silício, onde morou por dois anos, além de gerir os fundos de investimentos da companhia nessa área. Em 2020, já de…",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/10/fundadores-solo-300x169.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Moacir Drska",
+      "id": "0a7cf868eb",
+      "feed": "Neofeed",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 23,
+      "insight": ""
+    },
+    {
+      "title": "FDE-Gym: The Last Mile of AI Delivery",
+      "url": "https://huggingface.co/papers/2610.22350",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "summary": "FDE-Gym evaluates AI agents on realistic customer delivery tasks requiring clarification of ambiguous requirements and discovery of unstated constraints, revealing a substantial performance gap compared to well-specified benchmarks.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22350.png",
+      "upvotes": 285,
+      "github": "https://github.com/deeplethe/fde-gym",
+      "authors": [
+        "Dongxu Yang",
+        "Hongda Yan",
+        "Renxin Wang"
+      ],
+      "organization": "DeepLethe",
+      "id": "3adc556ab3",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 59,
+      "insight": "Em alta na comunidade, com 285 upvotes no Hugging Face."
+    },
+    {
+      "title": "VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2610.21306",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "summary": "VLA-Δ improves robot control by explicitly supervising physical state transitions between current and future observations, achieving strong benchmark and real-world results without added inference cost.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.21306.png",
+      "upvotes": 54,
+      "github": "https://github.com/ZJU-OmniAI/VLA-Delta",
+      "authors": [
+        "Qi Lu",
+        "Jiarun Li",
+        "Ce Zhang"
+      ],
+      "organization": "ZJU-OmniAI",
+      "id": "c5e7c5125f",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 55,
+      "insight": "Em alta na comunidade, com 54 upvotes no Hugging Face."
+    },
+    {
+      "title": "WorldCast: Exploring Intelligent Visual Generation in World State Prediction",
+      "url": "https://huggingface.co/papers/2610.20731",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "summary": "Researchers propose a four-level hierarchy for multimodal generative models and introduce the WorldCast benchmark to evaluate multi-step world state prediction, revealing rapid progress by frontier systems but substantial gaps in open-source models for reasoning-heavy visual forecasting.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20731.png",
+      "upvotes": 30,
+      "github": "https://github.com/teal024/WorldCast",
+      "authors": [
+        "Wenhao Yan",
+        "Haodong Li",
+        "Xiaotong Li"
+      ],
+      "organization": "LongCat",
+      "id": "901863d4ad",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 54.7,
+      "insight": "Em alta na comunidade, com 30 upvotes no Hugging Face."
+    },
+    {
+      "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+      "url": "https://huggingface.co/papers/2610.22200",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "summary": "OpenGCUA introduces an open generalist computer-use agent that integrates visual and programmatic interfaces, harness-to-model decision transfer, and code execution to improve task performance and efficiency across models.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22200.png",
+      "upvotes": 316,
+      "github": "https://github.com/Tongyi-MAI/OpenGCUA",
+      "authors": [
+        "Hanzhang Zhou",
+        "Long Li",
+        "Quyu Kong"
+      ],
+      "organization": "Tongyi-MAI",
+      "id": "7c3a547ab4",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 53,
+      "insight": "Em alta na comunidade, com 316 upvotes no Hugging Face."
+    },
+    {
+      "title": "Data World: Scaling Data Environments from Scratch",
+      "url": "https://huggingface.co/papers/2610.21656",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "summary": "A multi-agent engine synthesizes data environments and tasks to train models for analytical insight discovery, improving performance across benchmarks without trajectory distillation.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.21656.png",
+      "upvotes": 28,
+      "github": "https://github.com/Zhanli-Li/Data-World",
+      "authors": [
+        "Zhanli Li",
+        "Zeyuan Xu",
+        "Chaoxu Pang"
+      ],
+      "organization": "LongCat",
+      "id": "16bedc6c58",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 52.1,
+      "insight": "Em alta na comunidade, com 28 upvotes no Hugging Face."
+    },
+    {
+      "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+      "url": "https://huggingface.co/papers/2610.20939",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "summary": "MAI-Gym is an open platform that unifies GUI agent evaluation, data collection, and online reinforcement learning training across mobile, computer, and web environments, enabling scalable synthesis of verified tasks and training of a unified 9B agent with state-of-the-art open performance.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.20939.png",
+      "upvotes": 154,
+      "github": "https://github.com/Tongyi-MAI/MAI-Gym",
+      "authors": [
+        "Panrong Tong",
+        "Quyu Kong",
+        "Pengxiang Li"
+      ],
+      "organization": "Tongyi-MAI",
+      "id": "9ada2e54ec",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 49,
+      "insight": "Em alta na comunidade, com 154 upvotes no Hugging Face."
+    },
+    {
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "source": "The Pragmatic Engineer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-15T16:55:18.000Z",
+      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+      "image": "https://substackcdn.com/image/fetch/$s_!I8Qf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F722b7b9e-4a5d-412c-9aa3-22019bcf0c2d_2048x1444.png",
+      "points": 0,
+      "readingMinutes": 1,
+      "author": "Gergely Orosz",
+      "id": "0e4f837480",
+      "feed": "The Pragmatic Engineer",
+      "tags": [
+        "IA"
+      ],
+      "score": 39.3,
+      "insight": "Leitura de 1 min."
+    },
+    {
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "source": "Latent Space",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-14T05:40:28.000Z",
+      "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/akEqiXFo3GM",
+      "points": 0,
+      "readingMinutes": 10,
+      "author": "Latent.Space",
+      "id": "268ff6550b",
+      "feed": "Latent Space",
+      "tags": [
+        "IA"
+      ],
+      "score": 29.3,
+      "insight": "Leitura de 10 min."
+    },
+    {
+      "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+      "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
+      "source": "Stratechery",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 51,
+      "author": "Ben Thompson",
+      "id": "7a37a0ad6c",
+      "feed": "Stratechery",
+      "tags": [
+        "IA"
+      ],
+      "score": 28.7,
+      "insight": "Leitura de 51 min."
+    },
+    {
+      "title": "The states come for OpenAI",
+      "url": "https://www.platformer.news/openai-states-lawsuit-liability/",
+      "source": "Platformer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-15T00:52:13.000Z",
+      "summary": "Will the approach that beat Meta in New Mexico work against ChatGPT?",
+      "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2719900129.jpg",
+      "points": 0,
+      "readingMinutes": 8,
+      "author": "Casey Newton",
+      "id": "42dcb400d0",
+      "feed": "Platformer",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 27.9,
+      "insight": "Leitura de 8 min."
+    },
+    {
+      "title": "Meta shakes up the frontiers, open and closed",
+      "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "source": "Interconnects",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-17T14:06:54.000Z",
+      "summary": "US open weights are back!",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/95f73e17-9e3c-49ea-8d4c-e0ae87c89257_3182x1790.png",
+      "points": 0,
+      "readingMinutes": 9,
+      "author": "Nathan Lambert",
+      "id": "987754dece",
+      "feed": "Interconnects",
+      "tags": [
+        "Big Tech"
+      ],
+      "score": 24,
+      "insight": "Leitura de 9 min."
+    },
+    {
+      "title": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-12T08:41:19.000Z",
+      "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60…",
+      "stars": 3791,
+      "language": "C",
+      "image": "https://avatars.githubusercontent.com/u/258432107?v=4",
+      "id": "a6e633d8cf",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.9,
+      "insight": "3.791 estrelas em poucos dias, escrito em C."
+    },
+    {
+      "title": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-13T03:09:42.000Z",
+      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "stars": 2706,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/131444687?v=4",
+      "id": "097403387c",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.4,
+      "insight": "2.706 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-13T16:18:22.000Z",
+      "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "stars": 2145,
+      "language": "JavaScript",
+      "image": "https://avatars.githubusercontent.com/u/103972607?v=4",
+      "id": "c98ecbc1e2",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.1,
+      "insight": "2.145 estrelas em poucos dias, escrito em JavaScript."
+    },
+    {
+      "title": "deeplethe/solid-glass",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-12T09:19:02.000Z",
+      "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+      "stars": 2002,
+      "language": "TypeScript",
+      "image": "https://avatars.githubusercontent.com/u/282846749?v=4",
+      "id": "baffc898b4",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11,
+      "insight": "2.002 estrelas em poucos dias, escrito em TypeScript."
+    },
+    {
+      "title": "ahwootech/BRUTAL",
+      "url": "https://github.com/ahwootech/BRUTAL",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-14T19:33:56.000Z",
+      "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency…",
+      "stars": 1857,
+      "language": "C#",
+      "image": "https://avatars.githubusercontent.com/u/189169933?v=4",
+      "id": "3de8f32869",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.9,
+      "insight": "1.857 estrelas em poucos dias, escrito em C#."
+    },
+    {
+      "title": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-15T02:15:09.000Z",
+      "summary": "Turn your regular JavaScript code into a neural net.",
+      "stars": 1704,
+      "language": "TypeScript",
+      "image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "id": "36fe5d216f",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.7,
+      "insight": "1.704 estrelas em poucos dias, escrito em TypeScript."
+    }
+  ],
+  "counts": {
+    "total": 42
+  }
+}
