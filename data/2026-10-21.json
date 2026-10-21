@@ -1,0 +1,1867 @@
+{
+  "title": "OpenClaw Tech Brief",
+  "generatedAt": "2026-10-21T15:50:26.396Z",
+  "date": "2026-10-21",
+  "dateLabel": "21/10/2026 12:50",
+  "summary": "As principais notícias de tecnologia, startups e pesquisa das últimas 48 horas, escolhidas entre dezenas de fontes.",
+  "highlights": [],
+  "tags": [
+    {
+      "tag": "IA",
+      "count": 22
+    },
+    {
+      "tag": "Rodada",
+      "count": 9
+    },
+    {
+      "tag": "Big Tech",
+      "count": 7
+    },
+    {
+      "tag": "Chips",
+      "count": 4
+    },
+    {
+      "tag": "Segurança",
+      "count": 4
+    },
+    {
+      "tag": "M&A",
+      "count": 2
+    },
+    {
+      "tag": "Dev",
+      "count": 1
+    },
+    {
+      "tag": "Hardware",
+      "count": 1
+    },
+    {
+      "tag": "Energia",
+      "count": 1
+    },
+    {
+      "tag": "Espaço",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "news": 11,
+    "startups": 8,
+    "brasil": 6,
+    "reads": 5,
+    "papers": 6,
+    "repos": 6,
+    "rounds": 8,
+    "sources": 37
+  },
+  "lead": {
+    "title": "Conversational Gemini navigation comes to Apple CarPlay",
+    "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+    "source": "The Verge",
+    "publisher": "",
+    "section": "news",
+    "publishedAt": "2026-10-21T15:00:00.000Z",
+    "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional…",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "points": 0,
+    "readingMinutes": 0,
+    "author": "Jess Weatherbed",
+    "id": "1bbb4f6fc3",
+    "feed": "The Verge",
+    "tags": [
+      "IA",
+      "Big Tech"
+    ],
+    "score": 48,
+    "insight": ""
+  },
+  "sections": {
+    "news": [
+      {
+        "title": "ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell",
+        "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+        "source": "ZDNET",
+        "publisher": "ZDNET",
+        "section": "news",
+        "publishedAt": "2026-10-21T13:50:49.000Z",
+        "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "90348f5592",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Chips",
+          "Segurança"
+        ],
+        "score": 50.7,
+        "insight": ""
+      },
+      {
+        "title": "OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August",
+        "url": "https://www.theinformation.com/briefings/openai-expands-chatgpt-ads-26-countries-says-100-000-advertisers",
+        "source": "The Information",
+        "publisher": "The Information",
+        "section": "news",
+        "publishedAt": "2026-10-21T13:15:01.000Z",
+        "summary": "OpenAI is expanding ChatGPT ads to 26 more countries as it tries to turn advertising into a bigger source of revenue to help cover its AI costs.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "c9b0ddf847",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 49.3,
+        "insight": ""
+      },
+      {
+        "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+        "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+        "source": "Wired",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-21T14:00:00.000Z",
+        "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+        "image": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Lily Hay Newman",
+        "id": "e50d33e77f",
+        "feed": "Wired",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 46.7,
+        "insight": ""
+      },
+      {
+        "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+        "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+        "source": "Wired",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-21T15:02:15.000Z",
+        "summary": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+        "image": "https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Tom Bristow",
+        "id": "a6d54c880e",
+        "feed": "Wired",
+        "tags": [
+          "IA",
+          "Chips"
+        ],
+        "score": 45,
+        "insight": ""
+      },
+      {
+        "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
+        "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+        "source": "The Verge",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-21T13:09:26.000Z",
+        "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Tom Warren",
+        "id": "77468b305b",
+        "feed": "The Verge",
+        "tags": [
+          "Chips",
+          "Big Tech"
+        ],
+        "score": 42.3,
+        "insight": ""
+      },
+      {
+        "title": "OpenAI models are coming to Google Cloud",
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "source": "OpenAI",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-21T12:00:00.000Z",
+        "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "61f4d0141f",
+        "feed": "OpenAI",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 40,
+        "insight": ""
+      },
+      {
+        "title": "Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of C, C++, Java, PHP, and Python code; one went unnoticed for 21 years",
+        "url": "https://www.anthropic.com/research/attack-surface-reduction",
+        "source": "Anthropic",
+        "publisher": "Anthropic",
+        "section": "news",
+        "publishedAt": "2026-10-21T14:15:01.000Z",
+        "summary": "Over the past year, we've published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "341f11e78b",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Segurança",
+          "Dev"
+        ],
+        "score": 39.7,
+        "insight": ""
+      },
+      {
+        "title": "PHP's creators disclose a critical memory-management vulnerability, dubbed \"PHP2Shell\", that affects up to 70% of websites, discovered via GPT-5.6 Sol in August",
+        "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea?st=tBLRBh&reflink=desktopwebshare_permalink",
+        "source": "Wall Street Journal",
+        "publisher": "Wall Street Journal",
+        "section": "news",
+        "publishedAt": "2026-10-21T14:06:37.000Z",
+        "summary": "AI tools helped find one of the most severe online bugs ever. Cyber experts are racing to patch it before hackers use AI to exploit it.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "f1abe8c648",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 38.7,
+        "insight": ""
+      },
+      {
+        "title": "Apple says it plans to add Reachability to the iPhone Duo later in 2026, helping users with small hands more easily access the left or right edges of the screen",
+        "url": "https://www.wired.com/review/apple-iphone-duo/",
+        "source": "Wired",
+        "publisher": "Wired",
+        "section": "news",
+        "publishedAt": "2026-10-21T12:55:03.000Z",
+        "summary": "Apple made an astonishingly good first foldable. Now iOS and third-party apps need time to catch up. &mdash; Rating:",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "82ba289bf1",
+        "feed": "Techmeme",
+        "tags": [
+          "Big Tech",
+          "Hardware"
+        ],
+        "score": 38.3,
+        "insight": ""
+      },
+      {
+        "title": "Spotify launches its first standalone, native in-car app built on Android Automotive OS, debuting on select Audi models, with a custom UI controlled by Spotify",
+        "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+        "source": "The Verge",
+        "publisher": "The Verge",
+        "section": "news",
+        "publishedAt": "2026-10-21T12:40:06.000Z",
+        "summary": "Say goodbye to those aux cables. Spotify's new in-car app is here, and it's rolling out to Audi vehicles today.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "db195c34f9",
+        "feed": "Techmeme",
+        "tags": [],
+        "score": 38,
+        "insight": ""
+      }
+    ],
+    "startups": [
+      {
+        "title": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A",
+        "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+        "source": "TechCrunch",
+        "publisher": "TechCrunch",
+        "section": "startup",
+        "publishedAt": "2026-10-21T14:30:02.000Z",
+        "summary": "When Alex Baikovitz co-founded Mach9 Robotics in 2021, his goal was to build a better, faster, and cheaper way for civil engineers to do visual inspections.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "515279e278",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 34000000,
+          "round": "Series A"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 58.2,
+        "insight": ""
+      },
+      {
+        "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+        "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-19T18:00:39.000Z",
+        "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Dominic-Madori Davis",
+        "id": "ebe42a2b25",
+        "feed": "TechCrunch Startups",
+        "funding": {
+          "currency": "USD",
+          "amount": 108000000,
+          "round": "Series B"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 53,
+        "insight": ""
+      },
+      {
+        "title": "Whop, which helps people start, run, and scale businesses and uses AI to suggest business decisions, raised $205M led by Sequoia Capital at a $5.1B valuation",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-21/whop-s-sequoia-led-funding-pushes-its-value-to-5-1-billion",
+        "source": "Bloomberg",
+        "publisher": "Bloomberg",
+        "section": "startup",
+        "publishedAt": "2026-10-21T14:50:03.000Z",
+        "summary": "\"Rule one of making money is go where they ain't.\" That's how famed investor Doug Leone, who used to run venture firm Sequoia Capital …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "b13a49b3cf",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 205000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 52,
+        "insight": ""
+      },
+      {
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "source": "TechCrunch Venture",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-19T18:37:27.000Z",
+        "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Marina Temkin",
+        "id": "36c2a79412",
+        "feed": "TechCrunch Venture",
+        "funding": {
+          "currency": "USD",
+          "amount": 1500000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Chips",
+          "Rodada"
+        ],
+        "score": 49.2,
+        "insight": ""
+      },
+      {
+        "title": "AI piano-learning startup ArtMaster, previously backed by Robert Kyncl, raises $2.4M seed round, with Moises among new investors",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWE9xVDhLdlZrMTItelpwY0M5V3IyTmdIbGtZNlFJVVNtdS1EVkFfV0JDNTJOUENZQkNIZGpWN3U5WDlLN0F2a2dQYi1KTUc5QnBUbC00Smx2Y3RqQkU5aUNjcnZqVmxkTzBuYldvSURhalBoU2NEY1BYSUhwMXdVcXlkLXF2UXdLQThBNEhhbkhlTWxJM2JfOTRvRlIzOHlVWm9KUDNGb2hlOEwteEFqNDlUZDlNWTBHemhFbk9JakFwVjdwSnJWSW9OSnR3YS1iNk01NVFJY3dhWnhWZlBobmM4dDhIOFl1TGtMNHpEd2laMnl3eE00?oc=5",
+        "source": "Music Business Worldwide",
+        "publisher": "Music Business Worldwide",
+        "section": "startup",
+        "publishedAt": "2026-10-21T11:20:02.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "c8439068a5",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 2400000,
+          "round": "seed"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 43,
+        "insight": ""
+      },
+      {
+        "title": "Former SunPower CEO Backs Solar Startup’s Series A Funding Round",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZUYtdnRNTU5iZmtJcTFWMnpvWXFTaGF1Zlg0ZzdkUnVfYlNqbnRDaVlMQnN6NkhnanV1NEdnbmZOblJxQVl0eHc0Ym53N2tBd2xNR2RVQng0dmNpNHNzV19TeENtOHhGVmZNZlZMVEpTQ05FOUtqQkFFMHVCWUVrOU5sY0hRODVJNTlGQkJ2VDI1b2FiWkVQOHN2RlN2by1XSDhnZzdJbTVWaHY4dURsZGNDeDlGaDdDc3p4Y0tvNkE1cE5scUZWRjln?oc=5",
+        "source": "Bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "section": "startup",
+        "publishedAt": "2026-10-21T12:00:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "1cd3174f33",
+        "feed": "Google News: Funding",
+        "funding": null,
+        "tags": [
+          "Rodada",
+          "Energia"
+        ],
+        "score": 43,
+        "insight": ""
+      },
+      {
+        "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+        "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+        "source": "TechCrunch Venture",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-21T14:03:11.000Z",
+        "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Ivan Mehta",
+        "id": "7d86b18ce7",
+        "feed": "TechCrunch Venture",
+        "funding": {
+          "currency": "USD",
+          "amount": 411000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada",
+          "M&A"
+        ],
+        "score": 42.3,
+        "insight": ""
+      },
+      {
+        "title": "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdW56SlZzdHVGUDIyYlFpU3RLRVVjTmZ5a0ZLcGUwYUFvcWIzYzNjdng2cjJFQXg2Z0ZqeDFabFlCa3FCZ19kMXMzWlUyTkUtZUdvWl83aXllekVKWWhKN21icjU2c0I2Vl85bGlTS1gyWXpfMnlPd1c0UzNSaXpOQ3UzOVEtSjBKNi1tZl9ybGpKYzFmd1FBYXhLUQ?oc=5",
+        "source": "Business Insider",
+        "publisher": "Business Insider",
+        "section": "startup",
+        "publishedAt": "2026-10-20T22:10:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "f5c5b586cf",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 30000000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 40.8,
+        "insight": ""
+      }
+    ],
+    "brasil": [
+      {
+        "title": "Otter capta US$ 320M para entrar na briga de IA para reuniões",
+        "url": "https://startups.com.br/la-fora/otter-capta-us-320m-para-entrar-na-briga-de-ia-para-reunioes/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-20T17:45:00.000Z",
+        "summary": "Otter AI | Foto: divulgação Aporte do Customer Value Fund, da General Catalyst, chega para bancar disputa com concorrentes como Granola, Read AI e Fireflies O post Otter capta US$ 320M para entrar na briga de IA para reuniões apareceu primeiro em Startups.",
+        "image": "https://uploads.startups.com.br/2026/10/1320-X-768-51.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Leandro Miguel Souza",
+        "id": "100c3e615f",
+        "feed": "Startups.com.br",
+        "funding": {
+          "currency": "USD",
+          "amount": 320000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 45.2,
+        "insight": ""
+      },
+      {
+        "title": "Spotify faz faxina e apaga mais de 75 milhões de músicas falsas feitas por IA",
+        "url": "https://canaltech.com.br/inteligencia-artificial/spotify-faz-faxina-e-apaga-mais-de-75-milhoes-de-musicas-falsas-feitas-por-ia/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-21T13:31:00.000Z",
+        "summary": "O Spotify anunciou a remoção de mais de 75 milhões de faixas de sua plataforma por violações graves ou repetidas das regras contra spam. Além disso, o serviço retirou mais de 50 milhões de músicas com spam e conteúdos de baixa qualidade gerados por inteligência artificial (IA), conhecidos como “AI…",
+        "image": "https://tl.ctcdn.com.br/6WA0qQwk88z8L7uK55crV2vxODs=/0x0/filters:format(webp):quality(85)/2c77532a-bee9-452f-b794-4596ecd05aa6.png",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Viviane França",
+        "id": "79e6d8f586",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 35.3,
+        "insight": ""
+      },
+      {
+        "title": "Gemini ganha pacote de recursos para ajudar quem tem o próprio negócio",
+        "url": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-pacote-de-recursos-para-ajudar-empreendedores-autonomos/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-21T12:18:04.000Z",
+        "summary": "O Google anunciou uma série de novidades do Gemini voltadas para Pequenas e Médias Empresas (PMEs) na última terça-feira (20). A ferramenta de IA ganhou um painel com uma visão geral sobre o negócio, além de recursos para relatórios financeiros e criação de recursos visuais. O objetivo é ampliar o…",
+        "image": "https://tl.ctcdn.com.br/15Nmpef5X6pF-_JbLPKjndiTatA=/0x0/filters:format(webp):quality(85)/40b3cfbf-a25d-4df7-b147-77a7c687a924.png",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "André Lourenti Magalhães",
+        "id": "d29b620d75",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 31,
+        "insight": ""
+      },
+      {
+        "title": "Divisão de IA da SpaceX supera Starlink, mas lucro ainda é baixo",
+        "url": "https://startups.com.br/negocios/inteligencia-artificial/divisao-de-ia-da-spacex-ja-e-maior-que-starlink-mas-o-lucro-e-baixo/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-21T13:30:00.000Z",
+        "summary": "SpaceX | Crédito: Wirestock Creators / Shutterstock.com Grok e data centers renderam US$ 7,56 bilhões no 3º trimestre, contra US$ 5,25 bilhões da Starlink, e já respondem por 52% da receita O post Divisão de IA da SpaceX supera Starlink, mas lucro ainda é baixo apareceu primeiro em Startups.",
+        "image": "https://uploads.startups.com.br/2026/07/shutterstock_2240088125.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Leandro Miguel Souza",
+        "id": "5af8cf2fd5",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Espaço"
+        ],
+        "score": 30.3,
+        "insight": ""
+      },
+      {
+        "title": "Tether anuncia investimento na fintech Peso para expandir pagamentos com USDT no Brasil e América Latina",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNczdtUncwcUUwUzNqNVhXNkZubzlIaU81ZHI2NVFyb1BoWEZPUGdSeDN4VGx0Rlp5N21EODk2OWVMRDRRc3F3S3dsMGhCc0tDR3RHd2NRTTR2aG04MklBaFc0bVA3X2kxeWM0dWFLWGpFMFM4U1F1ZGVtd1U5RU5mSl84SFFGanJaeXYwb0hFNW1SWWM4T3h3RW5PMFlRMDdjeV9zSC1aY3JiaTdUdTBtSDRJRU8xREdMVU9IeThQWS1JMjRfUGJ4NjF30gHPAUFVX3lxTE5vclB1XzlsZ2N6azh3bFFiT1lodDZfOUJoRzhvdzhVSG1QY0pPclNjOWgtWThXMWprd0lVeHNBQWc5WVYzaVNTbFFuODNxU0NKN0hlNTZ6TzQ0eVl3QVJuZ1IwcFZHMFZJR2VCUndpRlY4YkQzS05OSFQ0cGNtamVQYVVJT0tEbTFlTFdHSzk5NktMTjA4WEt4Rkw3UUZIQXhESlY0cWp2RG1Id1QwaVU0TzZuYUoyaDdNc3lTVEppV2FFMGZrWVhubmxSbVFWVQ?oc=5",
+        "source": "Livecoins",
+        "publisher": "Livecoins",
+        "section": "brasil",
+        "publishedAt": "2026-10-21T14:30:20.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "6594a1d03b",
+        "feed": "Google News: Startups BR",
+        "funding": null,
+        "tags": [],
+        "score": 28.7,
+        "insight": ""
+      },
+      {
+        "title": "iFood Benefícios compra Caju por mais de R$ 1,2 bilhão",
+        "url": "https://neofeed.com.br/startups/ifood-beneficios-compra-caju-por-mais-de-r-12-bilhao/",
+        "source": "Neofeed",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-20T19:35:51.000Z",
+        "summary": "O iFood Benefícios assinou um acordo para comprar 100% da Caju em uma operação de mais de R$ 1,2 bilhão, segundo apurou o NeoFeed. A aquisição encerra uma sequência de investidas do grupo no mercado de benefícios corporativos e dará saída aos fundos de venture capital que investiram na startup.…",
+        "image": "https://neofeed.com.br/wp-content/uploads/2023/06/caju-2-300x169.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Ralphe Manzoni Jr.",
+        "id": "5bd75f829d",
+        "feed": "Neofeed",
+        "funding": null,
+        "tags": [
+          "M&A"
+        ],
+        "score": 26.3,
+        "insight": ""
+      }
+    ],
+    "reads": [
+      {
+        "title": "Claude Mods: Flipping the Harness Inside Out",
+        "url": "https://www.latent.space/p/claude-mods",
+        "source": "Latent Space",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-21T13:04:19.000Z",
+        "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+        "image": "https://substackcdn.com/image/fetch/$s_!Kjjn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc61f4d99-31a9-4e4c-aa02-65e5b5db1799_1280x720.png",
+        "points": 0,
+        "readingMinutes": 9,
+        "author": "Dan McAteer",
+        "id": "0fff47054c",
+        "feed": "Latent Space",
+        "tags": [
+          "IA"
+        ],
+        "score": 33.8,
+        "insight": "Leitura de 9 min."
+      },
+      {
+        "title": "The Pulse: OpenAI software engineer accused of spying",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+        "source": "The Pragmatic Engineer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-15T16:55:18.000Z",
+        "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+        "image": "https://substackcdn.com/image/fetch/$s_!I8Qf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F722b7b9e-4a5d-412c-9aa3-22019bcf0c2d_2048x1444.png",
+        "points": 0,
+        "readingMinutes": 1,
+        "author": "Gergely Orosz",
+        "id": "0e4f837480",
+        "feed": "The Pragmatic Engineer",
+        "tags": [
+          "IA"
+        ],
+        "score": 33.2,
+        "insight": "Leitura de 1 min."
+      },
+      {
+        "title": "Do You Trust Apple?",
+        "url": "https://stratechery.com/2026/do-you-trust-apple/",
+        "source": "Stratechery",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-19T10:00:00.000Z",
+        "summary": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
+        "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/10/apple-trust-2.png?resize=600%2C450&#038;ssl=1",
+        "points": 0,
+        "readingMinutes": 15,
+        "author": "Ben Thompson",
+        "id": "8ce80ca767",
+        "feed": "Stratechery",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 29.6,
+        "insight": "Leitura de 15 min."
+      },
+      {
+        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "source": "Simon Willison",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-20T19:34:19.000Z",
+        "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more…",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "3b5ce86c8c",
+        "feed": "Simon Willison",
+        "tags": [
+          "IA"
+        ],
+        "score": 26.3,
+        "insight": "Análise para ler com calma."
+      },
+      {
+        "title": "Joel Kaplan leaves Meta",
+        "url": "https://www.platformer.news/meta-joel-kaplan-midterms-moderation/",
+        "source": "Platformer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-21T01:34:35.000Z",
+        "summary": "Long a voice for Republicans inside the company, he played a leading role in pushing Meta to the right",
+        "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2652715669.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Casey Newton",
+        "id": "952a7f781e",
+        "feed": "Platformer",
+        "tags": [
+          "Big Tech"
+        ],
+        "score": 25.8,
+        "insight": "Análise para ler com calma."
+      }
+    ],
+    "papers": [
+      {
+        "title": "DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems",
+        "url": "https://huggingface.co/papers/2610.28522",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-21T00:00:00.000Z",
+        "summary": "DecisionPivot is a diagnostic benchmark that evaluates decision models across controlled variations, revealing gaps between aggregate accuracy, contrast-group performance, calibration, and reasoning effort.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28522.png",
+        "upvotes": 13,
+        "github": "https://github.com/StartLuxLabs/DecisionPivot",
+        "authors": [
+          "Xialie Zhuang",
+          "Mingcong Lei",
+          "Zunhai Su"
+        ],
+        "organization": "StartLux",
+        "id": "e1a0dd5580",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 61.8,
+        "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+      },
+      {
+        "title": "S-Agent 2.0: Spatial Reasoning with a General Coding Agent",
+        "url": "https://huggingface.co/papers/2610.28354",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-21T00:00:00.000Z",
+        "summary": "S-Agent 2.0 improves spatial reasoning by integrating a persistent scene memory and plain-language interpretation into a coding agent with 3D perception tools.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28354.png",
+        "upvotes": 86,
+        "github": "https://github.com/Ropedia/S-Agent-2.0",
+        "authors": [
+          "Rui Gong",
+          "Ruoyu Wang",
+          "Yalun Dai"
+        ],
+        "organization": "Ropedia",
+        "id": "521f0639d3",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 61,
+        "insight": "Em alta na comunidade, com 86 upvotes no Hugging Face."
+      },
+      {
+        "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+        "url": "https://huggingface.co/papers/2610.26855",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-21T00:00:00.000Z",
+        "summary": "Ropedia W0 is a world foundation model for cross-embodiment loco-manipulation that unifies human and robot data via kinematic representations and achieves state-of-the-art results across diverse benchmarks.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.26855.png",
+        "upvotes": 123,
+        "github": "https://github.com/Ropedia/ropedia-w0",
+        "authors": [
+          "Tianqi Liu",
+          "Hanfei Zhao",
+          "Qifeng Liang"
+        ],
+        "organization": "Ropedia",
+        "id": "5f646ad387",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 59,
+        "insight": "Em alta na comunidade, com 123 upvotes no Hugging Face."
+      },
+      {
+        "title": "Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning",
+        "url": "https://huggingface.co/papers/2610.22444",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-21T00:00:00.000Z",
+        "summary": "Event-STVG introduces a challenging benchmark requiring multimodal models to perform long-form event reasoning, repeated-event disambiguation, and multi-target spatio-temporal grounding across extended video contexts.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22444.png",
+        "upvotes": 12,
+        "github": "https://github.com/THU-KEG/EventSTVG",
+        "authors": [
+          "Yizhe Zhang",
+          "Xujia Wang",
+          "Songqi Tang"
+        ],
+        "organization": "",
+        "id": "7db8c94265",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 58.2,
+        "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+      },
+      {
+        "title": "EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning",
+        "url": "https://huggingface.co/papers/2610.28444",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-21T00:00:00.000Z",
+        "summary": "EvaOmni is an evidence-grounded benchmark that evaluates whether omnimodal language models identify audio-visual evidence and construct reasoning chains for audiovisual questions.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28444.png",
+        "upvotes": 17,
+        "github": "https://github.com/VisionXLab/EvaOmni",
+        "authors": [
+          "Xiaoxing Hu",
+          "Wenxi Yao",
+          "Chaoyuan Shi"
+        ],
+        "organization": "SJTU VisionXLab",
+        "id": "c3c375455b",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 57,
+        "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+      },
+      {
+        "title": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
+        "url": "https://huggingface.co/papers/2610.25078",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-21T00:00:00.000Z",
+        "summary": "CoEvo-RSI reduces brain-body mismatch in recursive self-improving agents by using bidirectional historical inheritance to align model capabilities with evolving harness requirements, achieving strong results via supervised fine-tuning.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.25078.png",
+        "upvotes": 57,
+        "github": "https://github.com/SuJQ0722/CoEvo-RSI",
+        "authors": [
+          "Jiaqi Su",
+          "Guibin Zhang",
+          "Jie-Jing Shao"
+        ],
+        "organization": "",
+        "id": "a557cc61d4",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 56,
+        "insight": "Em alta na comunidade, com 57 upvotes no Hugging Face."
+      }
+    ],
+    "repos": [
+      {
+        "title": "Gathin23/cleanyourtv",
+        "url": "https://github.com/Gathin23/cleanyourtv",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-17T08:12:35.000Z",
+        "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+        "stars": 17182,
+        "language": "Java",
+        "image": "https://avatars.githubusercontent.com/u/94786511?v=4",
+        "id": "ab0e470b36",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 14.1,
+        "insight": "17.182 estrelas em poucos dias, escrito em Java."
+      },
+      {
+        "title": "simbasjungles/free-my-tv",
+        "url": "https://github.com/simbasjungles/free-my-tv",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-19T19:29:01.000Z",
+        "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+        "stars": 2379,
+        "language": "Java",
+        "image": "https://avatars.githubusercontent.com/u/192837953?v=4",
+        "id": "f097e65b6a",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.2,
+        "insight": "2.379 estrelas em poucos dias, escrito em Java."
+      },
+      {
+        "title": "Leonxlnx/earshot",
+        "url": "https://github.com/Leonxlnx/earshot",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-15T06:52:46.000Z",
+        "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "stars": 2039,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+        "id": "dc8cec88b4",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11,
+        "insight": "2.039 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "xiaoyang111222/cn-math-taxonomy",
+        "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-18T09:04:43.000Z",
+        "summary": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+        "stars": 1918,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/79557224?v=4",
+        "id": "32ba8cb45e",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.9,
+        "insight": "1.918 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "pengchujin/aerial-tv",
+        "url": "https://github.com/pengchujin/aerial-tv",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-20T09:13:06.000Z",
+        "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "stars": 1912,
+        "language": "Kotlin",
+        "image": "https://avatars.githubusercontent.com/u/16513318?v=4",
+        "id": "e31af640f4",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.9,
+        "insight": "1.912 estrelas em poucos dias, escrito em Kotlin."
+      },
+      {
+        "title": "chenglou/handwired",
+        "url": "https://github.com/chenglou/handwired",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-15T02:15:09.000Z",
+        "summary": "Turn your regular JavaScript code into a neural net.",
+        "stars": 1866,
+        "language": "TypeScript",
+        "image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+        "id": "36fe5d216f",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.9,
+        "insight": "1.866 estrelas em poucos dias, escrito em TypeScript."
+      }
+    ]
+  },
+  "items": [
+    {
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "source": "The Verge",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional…",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Jess Weatherbed",
+      "id": "1bbb4f6fc3",
+      "feed": "The Verge",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 48,
+      "insight": ""
+    },
+    {
+      "title": "ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell",
+      "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+      "source": "ZDNET",
+      "publisher": "ZDNET",
+      "section": "news",
+      "publishedAt": "2026-10-21T13:50:49.000Z",
+      "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "90348f5592",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Chips",
+        "Segurança"
+      ],
+      "score": 50.7,
+      "insight": ""
+    },
+    {
+      "title": "OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August",
+      "url": "https://www.theinformation.com/briefings/openai-expands-chatgpt-ads-26-countries-says-100-000-advertisers",
+      "source": "The Information",
+      "publisher": "The Information",
+      "section": "news",
+      "publishedAt": "2026-10-21T13:15:01.000Z",
+      "summary": "OpenAI is expanding ChatGPT ads to 26 more countries as it tries to turn advertising into a bigger source of revenue to help cover its AI costs.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "c9b0ddf847",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 49.3,
+      "insight": ""
+    },
+    {
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "source": "Wired",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-21T14:00:00.000Z",
+      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+      "image": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Lily Hay Newman",
+      "id": "e50d33e77f",
+      "feed": "Wired",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 46.7,
+      "insight": ""
+    },
+    {
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "source": "Wired",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-21T15:02:15.000Z",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "image": "https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Tom Bristow",
+      "id": "a6d54c880e",
+      "feed": "Wired",
+      "tags": [
+        "IA",
+        "Chips"
+      ],
+      "score": 45,
+      "insight": ""
+    },
+    {
+      "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
+      "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+      "source": "The Verge",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-21T13:09:26.000Z",
+      "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by…",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Tom Warren",
+      "id": "77468b305b",
+      "feed": "The Verge",
+      "tags": [
+        "Chips",
+        "Big Tech"
+      ],
+      "score": 42.3,
+      "insight": ""
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "61f4d0141f",
+      "feed": "OpenAI",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 40,
+      "insight": ""
+    },
+    {
+      "title": "Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of C, C++, Java, PHP, and Python code; one went unnoticed for 21 years",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "source": "Anthropic",
+      "publisher": "Anthropic",
+      "section": "news",
+      "publishedAt": "2026-10-21T14:15:01.000Z",
+      "summary": "Over the past year, we've published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "341f11e78b",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Segurança",
+        "Dev"
+      ],
+      "score": 39.7,
+      "insight": ""
+    },
+    {
+      "title": "PHP's creators disclose a critical memory-management vulnerability, dubbed \"PHP2Shell\", that affects up to 70% of websites, discovered via GPT-5.6 Sol in August",
+      "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea?st=tBLRBh&reflink=desktopwebshare_permalink",
+      "source": "Wall Street Journal",
+      "publisher": "Wall Street Journal",
+      "section": "news",
+      "publishedAt": "2026-10-21T14:06:37.000Z",
+      "summary": "AI tools helped find one of the most severe online bugs ever. Cyber experts are racing to patch it before hackers use AI to exploit it.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "f1abe8c648",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 38.7,
+      "insight": ""
+    },
+    {
+      "title": "Apple says it plans to add Reachability to the iPhone Duo later in 2026, helping users with small hands more easily access the left or right edges of the screen",
+      "url": "https://www.wired.com/review/apple-iphone-duo/",
+      "source": "Wired",
+      "publisher": "Wired",
+      "section": "news",
+      "publishedAt": "2026-10-21T12:55:03.000Z",
+      "summary": "Apple made an astonishingly good first foldable. Now iOS and third-party apps need time to catch up. &mdash; Rating:",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "82ba289bf1",
+      "feed": "Techmeme",
+      "tags": [
+        "Big Tech",
+        "Hardware"
+      ],
+      "score": 38.3,
+      "insight": ""
+    },
+    {
+      "title": "Spotify launches its first standalone, native in-car app built on Android Automotive OS, debuting on select Audi models, with a custom UI controlled by Spotify",
+      "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+      "source": "The Verge",
+      "publisher": "The Verge",
+      "section": "news",
+      "publishedAt": "2026-10-21T12:40:06.000Z",
+      "summary": "Say goodbye to those aux cables. Spotify's new in-car app is here, and it's rolling out to Audi vehicles today.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "db195c34f9",
+      "feed": "Techmeme",
+      "tags": [],
+      "score": 38,
+      "insight": ""
+    },
+    {
+      "title": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "source": "TechCrunch",
+      "publisher": "TechCrunch",
+      "section": "startup",
+      "publishedAt": "2026-10-21T14:30:02.000Z",
+      "summary": "When Alex Baikovitz co-founded Mach9 Robotics in 2021, his goal was to build a better, faster, and cheaper way for civil engineers to do visual inspections.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "515279e278",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 34000000,
+        "round": "Series A"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 58.2,
+      "insight": ""
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-19T18:00:39.000Z",
+      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Dominic-Madori Davis",
+      "id": "ebe42a2b25",
+      "feed": "TechCrunch Startups",
+      "funding": {
+        "currency": "USD",
+        "amount": 108000000,
+        "round": "Series B"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 53,
+      "insight": ""
+    },
+    {
+      "title": "Whop, which helps people start, run, and scale businesses and uses AI to suggest business decisions, raised $205M led by Sequoia Capital at a $5.1B valuation",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/whop-s-sequoia-led-funding-pushes-its-value-to-5-1-billion",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "startup",
+      "publishedAt": "2026-10-21T14:50:03.000Z",
+      "summary": "\"Rule one of making money is go where they ain't.\" That's how famed investor Doug Leone, who used to run venture firm Sequoia Capital …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "b13a49b3cf",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 205000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 52,
+      "insight": ""
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch Venture",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-19T18:37:27.000Z",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Marina Temkin",
+      "id": "36c2a79412",
+      "feed": "TechCrunch Venture",
+      "funding": {
+        "currency": "USD",
+        "amount": 1500000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Chips",
+        "Rodada"
+      ],
+      "score": 49.2,
+      "insight": ""
+    },
+    {
+      "title": "AI piano-learning startup ArtMaster, previously backed by Robert Kyncl, raises $2.4M seed round, with Moises among new investors",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWE9xVDhLdlZrMTItelpwY0M5V3IyTmdIbGtZNlFJVVNtdS1EVkFfV0JDNTJOUENZQkNIZGpWN3U5WDlLN0F2a2dQYi1KTUc5QnBUbC00Smx2Y3RqQkU5aUNjcnZqVmxkTzBuYldvSURhalBoU2NEY1BYSUhwMXdVcXlkLXF2UXdLQThBNEhhbkhlTWxJM2JfOTRvRlIzOHlVWm9KUDNGb2hlOEwteEFqNDlUZDlNWTBHemhFbk9JakFwVjdwSnJWSW9OSnR3YS1iNk01NVFJY3dhWnhWZlBobmM4dDhIOFl1TGtMNHpEd2laMnl3eE00?oc=5",
+      "source": "Music Business Worldwide",
+      "publisher": "Music Business Worldwide",
+      "section": "startup",
+      "publishedAt": "2026-10-21T11:20:02.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "c8439068a5",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 2400000,
+        "round": "seed"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 43,
+      "insight": ""
+    },
+    {
+      "title": "Former SunPower CEO Backs Solar Startup’s Series A Funding Round",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZUYtdnRNTU5iZmtJcTFWMnpvWXFTaGF1Zlg0ZzdkUnVfYlNqbnRDaVlMQnN6NkhnanV1NEdnbmZOblJxQVl0eHc0Ym53N2tBd2xNR2RVQng0dmNpNHNzV19TeENtOHhGVmZNZlZMVEpTQ05FOUtqQkFFMHVCWUVrOU5sY0hRODVJNTlGQkJ2VDI1b2FiWkVQOHN2RlN2by1XSDhnZzdJbTVWaHY4dURsZGNDeDlGaDdDc3p4Y0tvNkE1cE5scUZWRjln?oc=5",
+      "source": "Bloomberg.com",
+      "publisher": "Bloomberg.com",
+      "section": "startup",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "1cd3174f33",
+      "feed": "Google News: Funding",
+      "funding": null,
+      "tags": [
+        "Rodada",
+        "Energia"
+      ],
+      "score": 43,
+      "insight": ""
+    },
+    {
+      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "source": "TechCrunch Venture",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-21T14:03:11.000Z",
+      "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Ivan Mehta",
+      "id": "7d86b18ce7",
+      "feed": "TechCrunch Venture",
+      "funding": {
+        "currency": "USD",
+        "amount": 411000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada",
+        "M&A"
+      ],
+      "score": 42.3,
+      "insight": ""
+    },
+    {
+      "title": "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdW56SlZzdHVGUDIyYlFpU3RLRVVjTmZ5a0ZLcGUwYUFvcWIzYzNjdng2cjJFQXg2Z0ZqeDFabFlCa3FCZ19kMXMzWlUyTkUtZUdvWl83aXllekVKWWhKN21icjU2c0I2Vl85bGlTS1gyWXpfMnlPd1c0UzNSaXpOQ3UzOVEtSjBKNi1tZl9ybGpKYzFmd1FBYXhLUQ?oc=5",
+      "source": "Business Insider",
+      "publisher": "Business Insider",
+      "section": "startup",
+      "publishedAt": "2026-10-20T22:10:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "f5c5b586cf",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 30000000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 40.8,
+      "insight": ""
+    },
+    {
+      "title": "Otter capta US$ 320M para entrar na briga de IA para reuniões",
+      "url": "https://startups.com.br/la-fora/otter-capta-us-320m-para-entrar-na-briga-de-ia-para-reunioes/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-20T17:45:00.000Z",
+      "summary": "Otter AI | Foto: divulgação Aporte do Customer Value Fund, da General Catalyst, chega para bancar disputa com concorrentes como Granola, Read AI e Fireflies O post Otter capta US$ 320M para entrar na briga de IA para reuniões apareceu primeiro em Startups.",
+      "image": "https://uploads.startups.com.br/2026/10/1320-X-768-51.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Leandro Miguel Souza",
+      "id": "100c3e615f",
+      "feed": "Startups.com.br",
+      "funding": {
+        "currency": "USD",
+        "amount": 320000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 45.2,
+      "insight": ""
+    },
+    {
+      "title": "Spotify faz faxina e apaga mais de 75 milhões de músicas falsas feitas por IA",
+      "url": "https://canaltech.com.br/inteligencia-artificial/spotify-faz-faxina-e-apaga-mais-de-75-milhoes-de-musicas-falsas-feitas-por-ia/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-21T13:31:00.000Z",
+      "summary": "O Spotify anunciou a remoção de mais de 75 milhões de faixas de sua plataforma por violações graves ou repetidas das regras contra spam. Além disso, o serviço retirou mais de 50 milhões de músicas com spam e conteúdos de baixa qualidade gerados por inteligência artificial (IA), conhecidos como “AI…",
+      "image": "https://tl.ctcdn.com.br/6WA0qQwk88z8L7uK55crV2vxODs=/0x0/filters:format(webp):quality(85)/2c77532a-bee9-452f-b794-4596ecd05aa6.png",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Viviane França",
+      "id": "79e6d8f586",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 35.3,
+      "insight": ""
+    },
+    {
+      "title": "Gemini ganha pacote de recursos para ajudar quem tem o próprio negócio",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-pacote-de-recursos-para-ajudar-empreendedores-autonomos/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-21T12:18:04.000Z",
+      "summary": "O Google anunciou uma série de novidades do Gemini voltadas para Pequenas e Médias Empresas (PMEs) na última terça-feira (20). A ferramenta de IA ganhou um painel com uma visão geral sobre o negócio, além de recursos para relatórios financeiros e criação de recursos visuais. O objetivo é ampliar o…",
+      "image": "https://tl.ctcdn.com.br/15Nmpef5X6pF-_JbLPKjndiTatA=/0x0/filters:format(webp):quality(85)/40b3cfbf-a25d-4df7-b147-77a7c687a924.png",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "André Lourenti Magalhães",
+      "id": "d29b620d75",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 31,
+      "insight": ""
+    },
+    {
+      "title": "Divisão de IA da SpaceX supera Starlink, mas lucro ainda é baixo",
+      "url": "https://startups.com.br/negocios/inteligencia-artificial/divisao-de-ia-da-spacex-ja-e-maior-que-starlink-mas-o-lucro-e-baixo/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-21T13:30:00.000Z",
+      "summary": "SpaceX | Crédito: Wirestock Creators / Shutterstock.com Grok e data centers renderam US$ 7,56 bilhões no 3º trimestre, contra US$ 5,25 bilhões da Starlink, e já respondem por 52% da receita O post Divisão de IA da SpaceX supera Starlink, mas lucro ainda é baixo apareceu primeiro em Startups.",
+      "image": "https://uploads.startups.com.br/2026/07/shutterstock_2240088125.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Leandro Miguel Souza",
+      "id": "5af8cf2fd5",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Espaço"
+      ],
+      "score": 30.3,
+      "insight": ""
+    },
+    {
+      "title": "Tether anuncia investimento na fintech Peso para expandir pagamentos com USDT no Brasil e América Latina",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNczdtUncwcUUwUzNqNVhXNkZubzlIaU81ZHI2NVFyb1BoWEZPUGdSeDN4VGx0Rlp5N21EODk2OWVMRDRRc3F3S3dsMGhCc0tDR3RHd2NRTTR2aG04MklBaFc0bVA3X2kxeWM0dWFLWGpFMFM4U1F1ZGVtd1U5RU5mSl84SFFGanJaeXYwb0hFNW1SWWM4T3h3RW5PMFlRMDdjeV9zSC1aY3JiaTdUdTBtSDRJRU8xREdMVU9IeThQWS1JMjRfUGJ4NjF30gHPAUFVX3lxTE5vclB1XzlsZ2N6azh3bFFiT1lodDZfOUJoRzhvdzhVSG1QY0pPclNjOWgtWThXMWprd0lVeHNBQWc5WVYzaVNTbFFuODNxU0NKN0hlNTZ6TzQ0eVl3QVJuZ1IwcFZHMFZJR2VCUndpRlY4YkQzS05OSFQ0cGNtamVQYVVJT0tEbTFlTFdHSzk5NktMTjA4WEt4Rkw3UUZIQXhESlY0cWp2RG1Id1QwaVU0TzZuYUoyaDdNc3lTVEppV2FFMGZrWVhubmxSbVFWVQ?oc=5",
+      "source": "Livecoins",
+      "publisher": "Livecoins",
+      "section": "brasil",
+      "publishedAt": "2026-10-21T14:30:20.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "6594a1d03b",
+      "feed": "Google News: Startups BR",
+      "funding": null,
+      "tags": [],
+      "score": 28.7,
+      "insight": ""
+    },
+    {
+      "title": "iFood Benefícios compra Caju por mais de R$ 1,2 bilhão",
+      "url": "https://neofeed.com.br/startups/ifood-beneficios-compra-caju-por-mais-de-r-12-bilhao/",
+      "source": "Neofeed",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-20T19:35:51.000Z",
+      "summary": "O iFood Benefícios assinou um acordo para comprar 100% da Caju em uma operação de mais de R$ 1,2 bilhão, segundo apurou o NeoFeed. A aquisição encerra uma sequência de investidas do grupo no mercado de benefícios corporativos e dará saída aos fundos de venture capital que investiram na startup.…",
+      "image": "https://neofeed.com.br/wp-content/uploads/2023/06/caju-2-300x169.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Ralphe Manzoni Jr.",
+      "id": "5bd75f829d",
+      "feed": "Neofeed",
+      "funding": null,
+      "tags": [
+        "M&A"
+      ],
+      "score": 26.3,
+      "insight": ""
+    },
+    {
+      "title": "DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems",
+      "url": "https://huggingface.co/papers/2610.28522",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "summary": "DecisionPivot is a diagnostic benchmark that evaluates decision models across controlled variations, revealing gaps between aggregate accuracy, contrast-group performance, calibration, and reasoning effort.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28522.png",
+      "upvotes": 13,
+      "github": "https://github.com/StartLuxLabs/DecisionPivot",
+      "authors": [
+        "Xialie Zhuang",
+        "Mingcong Lei",
+        "Zunhai Su"
+      ],
+      "organization": "StartLux",
+      "id": "e1a0dd5580",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 61.8,
+      "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+    },
+    {
+      "title": "S-Agent 2.0: Spatial Reasoning with a General Coding Agent",
+      "url": "https://huggingface.co/papers/2610.28354",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "summary": "S-Agent 2.0 improves spatial reasoning by integrating a persistent scene memory and plain-language interpretation into a coding agent with 3D perception tools.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28354.png",
+      "upvotes": 86,
+      "github": "https://github.com/Ropedia/S-Agent-2.0",
+      "authors": [
+        "Rui Gong",
+        "Ruoyu Wang",
+        "Yalun Dai"
+      ],
+      "organization": "Ropedia",
+      "id": "521f0639d3",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 61,
+      "insight": "Em alta na comunidade, com 86 upvotes no Hugging Face."
+    },
+    {
+      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+      "url": "https://huggingface.co/papers/2610.26855",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "summary": "Ropedia W0 is a world foundation model for cross-embodiment loco-manipulation that unifies human and robot data via kinematic representations and achieves state-of-the-art results across diverse benchmarks.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.26855.png",
+      "upvotes": 123,
+      "github": "https://github.com/Ropedia/ropedia-w0",
+      "authors": [
+        "Tianqi Liu",
+        "Hanfei Zhao",
+        "Qifeng Liang"
+      ],
+      "organization": "Ropedia",
+      "id": "5f646ad387",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 59,
+      "insight": "Em alta na comunidade, com 123 upvotes no Hugging Face."
+    },
+    {
+      "title": "Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning",
+      "url": "https://huggingface.co/papers/2610.22444",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "summary": "Event-STVG introduces a challenging benchmark requiring multimodal models to perform long-form event reasoning, repeated-event disambiguation, and multi-target spatio-temporal grounding across extended video contexts.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22444.png",
+      "upvotes": 12,
+      "github": "https://github.com/THU-KEG/EventSTVG",
+      "authors": [
+        "Yizhe Zhang",
+        "Xujia Wang",
+        "Songqi Tang"
+      ],
+      "organization": "",
+      "id": "7db8c94265",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 58.2,
+      "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+    },
+    {
+      "title": "EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning",
+      "url": "https://huggingface.co/papers/2610.28444",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "summary": "EvaOmni is an evidence-grounded benchmark that evaluates whether omnimodal language models identify audio-visual evidence and construct reasoning chains for audiovisual questions.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28444.png",
+      "upvotes": 17,
+      "github": "https://github.com/VisionXLab/EvaOmni",
+      "authors": [
+        "Xiaoxing Hu",
+        "Wenxi Yao",
+        "Chaoyuan Shi"
+      ],
+      "organization": "SJTU VisionXLab",
+      "id": "c3c375455b",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 57,
+      "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+    },
+    {
+      "title": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
+      "url": "https://huggingface.co/papers/2610.25078",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "summary": "CoEvo-RSI reduces brain-body mismatch in recursive self-improving agents by using bidirectional historical inheritance to align model capabilities with evolving harness requirements, achieving strong results via supervised fine-tuning.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.25078.png",
+      "upvotes": 57,
+      "github": "https://github.com/SuJQ0722/CoEvo-RSI",
+      "authors": [
+        "Jiaqi Su",
+        "Guibin Zhang",
+        "Jie-Jing Shao"
+      ],
+      "organization": "",
+      "id": "a557cc61d4",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 56,
+      "insight": "Em alta na comunidade, com 57 upvotes no Hugging Face."
+    },
+    {
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://www.latent.space/p/claude-mods",
+      "source": "Latent Space",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-21T13:04:19.000Z",
+      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "image": "https://substackcdn.com/image/fetch/$s_!Kjjn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc61f4d99-31a9-4e4c-aa02-65e5b5db1799_1280x720.png",
+      "points": 0,
+      "readingMinutes": 9,
+      "author": "Dan McAteer",
+      "id": "0fff47054c",
+      "feed": "Latent Space",
+      "tags": [
+        "IA"
+      ],
+      "score": 33.8,
+      "insight": "Leitura de 9 min."
+    },
+    {
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "source": "The Pragmatic Engineer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-15T16:55:18.000Z",
+      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+      "image": "https://substackcdn.com/image/fetch/$s_!I8Qf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F722b7b9e-4a5d-412c-9aa3-22019bcf0c2d_2048x1444.png",
+      "points": 0,
+      "readingMinutes": 1,
+      "author": "Gergely Orosz",
+      "id": "0e4f837480",
+      "feed": "The Pragmatic Engineer",
+      "tags": [
+        "IA"
+      ],
+      "score": 33.2,
+      "insight": "Leitura de 1 min."
+    },
+    {
+      "title": "Do You Trust Apple?",
+      "url": "https://stratechery.com/2026/do-you-trust-apple/",
+      "source": "Stratechery",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "summary": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
+      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/10/apple-trust-2.png?resize=600%2C450&#038;ssl=1",
+      "points": 0,
+      "readingMinutes": 15,
+      "author": "Ben Thompson",
+      "id": "8ce80ca767",
+      "feed": "Stratechery",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 29.6,
+      "insight": "Leitura de 15 min."
+    },
+    {
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "source": "Simon Willison",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-20T19:34:19.000Z",
+      "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more…",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "3b5ce86c8c",
+      "feed": "Simon Willison",
+      "tags": [
+        "IA"
+      ],
+      "score": 26.3,
+      "insight": "Análise para ler com calma."
+    },
+    {
+      "title": "Joel Kaplan leaves Meta",
+      "url": "https://www.platformer.news/meta-joel-kaplan-midterms-moderation/",
+      "source": "Platformer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-21T01:34:35.000Z",
+      "summary": "Long a voice for Republicans inside the company, he played a leading role in pushing Meta to the right",
+      "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2652715669.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Casey Newton",
+      "id": "952a7f781e",
+      "feed": "Platformer",
+      "tags": [
+        "Big Tech"
+      ],
+      "score": 25.8,
+      "insight": "Análise para ler com calma."
+    },
+    {
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-17T08:12:35.000Z",
+      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "stars": 17182,
+      "language": "Java",
+      "image": "https://avatars.githubusercontent.com/u/94786511?v=4",
+      "id": "ab0e470b36",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 14.1,
+      "insight": "17.182 estrelas em poucos dias, escrito em Java."
+    },
+    {
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-19T19:29:01.000Z",
+      "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "stars": 2379,
+      "language": "Java",
+      "image": "https://avatars.githubusercontent.com/u/192837953?v=4",
+      "id": "f097e65b6a",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.2,
+      "insight": "2.379 estrelas em poucos dias, escrito em Java."
+    },
+    {
+      "title": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-15T06:52:46.000Z",
+      "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "stars": 2039,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "id": "dc8cec88b4",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11,
+      "insight": "2.039 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-18T09:04:43.000Z",
+      "summary": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+      "stars": 1918,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/79557224?v=4",
+      "id": "32ba8cb45e",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.9,
+      "insight": "1.918 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-20T09:13:06.000Z",
+      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "stars": 1912,
+      "language": "Kotlin",
+      "image": "https://avatars.githubusercontent.com/u/16513318?v=4",
+      "id": "e31af640f4",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.9,
+      "insight": "1.912 estrelas em poucos dias, escrito em Kotlin."
+    },
+    {
+      "title": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-15T02:15:09.000Z",
+      "summary": "Turn your regular JavaScript code into a neural net.",
+      "stars": 1866,
+      "language": "TypeScript",
+      "image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "id": "36fe5d216f",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.9,
+      "insight": "1.866 estrelas em poucos dias, escrito em TypeScript."
+    }
+  ],
+  "counts": {
+    "total": 42
+  }
+}
