@@ -1,0 +1,1837 @@
+{
+  "title": "OpenClaw Tech Brief",
+  "generatedAt": "2026-10-22T15:47:57.138Z",
+  "date": "2026-10-22",
+  "dateLabel": "22/10/2026 12:47",
+  "summary": "As principais notícias de tecnologia, startups e pesquisa das últimas 48 horas, escolhidas entre dezenas de fontes.",
+  "highlights": [],
+  "tags": [
+    {
+      "tag": "IA",
+      "count": 23
+    },
+    {
+      "tag": "Rodada",
+      "count": 10
+    },
+    {
+      "tag": "Big Tech",
+      "count": 7
+    },
+    {
+      "tag": "Chips",
+      "count": 4
+    },
+    {
+      "tag": "Segurança",
+      "count": 3
+    },
+    {
+      "tag": "Hardware",
+      "count": 2
+    },
+    {
+      "tag": "Dev",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "news": 11,
+    "startups": 8,
+    "brasil": 6,
+    "reads": 5,
+    "papers": 6,
+    "repos": 6,
+    "rounds": 6,
+    "sources": 38
+  },
+  "lead": {
+    "title": "Enact, which develops full-stack tech for general-purpose robots, emerges from stealth with a $30M pre-seed from Mistral CEO Arthur Mensch, Yann LeCun, and more",
+    "url": "https://tech.eu/2026/10/22/mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enact-in-30m-pre-seed-round/",
+    "source": "Tech.eu",
+    "publisher": "Tech.eu",
+    "section": "news",
+    "publishedAt": "2026-10-22T12:50:02.000Z",
+    "summary": "Enact Intelligence is building the underlying tech for general purpose robots. &mdash; Swiss robotics startup Enact Intelligence …",
+    "image": "",
+    "points": 0,
+    "readingMinutes": 0,
+    "author": "",
+    "id": "c559ad6106",
+    "feed": "Techmeme",
+    "tags": [
+      "IA",
+      "Rodada"
+    ],
+    "score": 48.3,
+    "insight": ""
+  },
+  "sections": {
+    "news": [
+      {
+        "title": "Israeli security company Lava finds 32 Nvidia Blackwell Ultra B300 chips connected to systems linked to state-owned operator China Telecom, despite US controls",
+        "url": "https://www.theinformation.com/briefings/nvidias-powerful-b300-chips-spotted-chinese-state-owned-network",
+        "source": "The Information",
+        "publisher": "The Information",
+        "section": "news",
+        "publishedAt": "2026-10-22T12:35:08.000Z",
+        "summary": "Israeli security firm Lava said it found 32 Nvidia Blackwell Ultra B300 chips through monitoring systems linked to the network of China Telecom …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "e43bc24236",
+        "feed": "Techmeme",
+        "tags": [
+          "Chips",
+          "Segurança"
+        ],
+        "score": 47,
+        "insight": ""
+      },
+      {
+        "title": "Apple is rolling out a new \"Made for iPhone Duo\" badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch",
+        "url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
+        "source": "The Verge",
+        "publisher": "The Verge",
+        "section": "news",
+        "publishedAt": "2026-10-22T13:35:07.000Z",
+        "summary": "Many apps, including Netflix, Microsoft Word, and Zoom, are taking advantage of the Duo's extra screen real estate.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "a9d8e2c00d",
+        "feed": "Techmeme",
+        "tags": [
+          "Big Tech",
+          "Hardware"
+        ],
+        "score": 46.3,
+        "insight": ""
+      },
+      {
+        "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+        "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+        "source": "Ars Technica",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-21T18:51:42.000Z",
+        "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "\n                    Ryan Whitwam\n                ",
+        "id": "53db5cc109",
+        "feed": "Ars Technica",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 42.3,
+        "insight": ""
+      },
+      {
+        "title": "Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of user instructions",
+        "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+        "source": "Axios",
+        "publisher": "Axios",
+        "section": "news",
+        "publishedAt": "2026-10-22T15:45:00.000Z",
+        "summary": "Major U.S. banks are detecting unauthorized third-party AI agents operating inside customer accounts, with some agents attempting …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "92061763f2",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 40,
+        "insight": ""
+      },
+      {
+        "title": "Spotify’s current AI bet is about being the music service that agents choose",
+        "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-22T15:03:58.000Z",
+        "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Lauren Forristal",
+        "id": "0bffbef035",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA"
+        ],
+        "score": 39,
+        "insight": ""
+      },
+      {
+        "title": "Maxinsights, which creates training data for robots using first-person footage from cameras worn by 5,000+ contractors, raised a $30M seed led by Peak XV",
+        "url": "https://www.forbes.com/sites/johnkoetsier/2026/10/22/theres-not-enough-robot-training-data-this-startup-plans-to-fix-that/",
+        "source": "Forbes",
+        "publisher": "Forbes",
+        "section": "news",
+        "publishedAt": "2026-10-22T14:45:01.000Z",
+        "summary": "This voice experience is generated by AI. Learn more. … Investors put $47.4 billion into physical AI in the first half of 2026 …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "bcf60f3688",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 38.7,
+        "insight": ""
+      },
+      {
+        "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+        "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+        "source": "Wired",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-21T14:00:00.000Z",
+        "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+        "image": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Lily Hay Newman",
+        "id": "e50d33e77f",
+        "feed": "Wired",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 38.7,
+        "insight": ""
+      },
+      {
+        "title": "eMudhra says it will exit the SSL/TLS certificate business, 1% of its revenue, after its TLS certificates with private keys of just 3 to 8 bits were compromised",
+        "url": "https://www.reuters.com/legal/litigation/indian-firm-emudhra-exits-global-digital-certificates-business-after-2026-10-22/",
+        "source": "Reuters",
+        "publisher": "Reuters",
+        "section": "news",
+        "publishedAt": "2026-10-22T15:30:02.000Z",
+        "summary": "Indian digital trust services provider eMudhra (EMUD.NS) on Thursday said it would voluntarily withdraw from the global SSL/TLS …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "023f2bddf7",
+        "feed": "Techmeme",
+        "tags": [],
+        "score": 38,
+        "insight": ""
+      },
+      {
+        "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+        "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+        "source": "The Verge",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-22T14:00:00.000Z",
+        "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Nilay Patel",
+        "id": "1268662601",
+        "feed": "The Verge",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 37.7,
+        "insight": ""
+      },
+      {
+        "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+        "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+        "source": "Wired",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-21T15:02:15.000Z",
+        "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+        "image": "https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Tom Bristow",
+        "id": "a6d54c880e",
+        "feed": "Wired",
+        "tags": [
+          "IA",
+          "Chips"
+        ],
+        "score": 37,
+        "insight": ""
+      }
+    ],
+    "startups": [
+      {
+        "title": "Chinese AI Startup DeepSeek Raises $15 Billion Ahead of Potential IPO",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHIyeDY3eVpWMmZrYnhzZzNkTnpIN1N1OFhMQ1JVeGN1ejNxZlpPSmN0TTFRdzFLbTBvTlNpVDJvQUowcXB5a2VYYmZSZFJOMHBJYm9fVnBITk1YYWRrWkxXQXVDWkhfbng0eThneEF1MmEzMDhIY1kwTTdpRmtZTW85SVJJVjJZZVFlQURsdkZaT1pCVmlwUVd4V0d0a2pLLVk2NFByQ0c?oc=5",
+        "source": "WSJ",
+        "publisher": "WSJ",
+        "section": "startup",
+        "publishedAt": "2026-10-22T10:28:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "9fc07c57ee",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 15000000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 58.5,
+        "insight": ""
+      },
+      {
+        "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+        "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-21T20:57:40.000Z",
+        "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Julie Bort",
+        "id": "27111edd53",
+        "feed": "TechCrunch Startups",
+        "funding": {
+          "currency": "USD",
+          "amount": 1000000000,
+          "round": "seed"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 56,
+        "insight": ""
+      },
+      {
+        "title": "Nirva, which plans to launch a wearable AI personal companion that offers relationship advice and more, raised $25M, bringing its total funding to $33M",
+        "url": "https://www.axios.com/pro/health-tech-deals/2026/10/22/nirva-25m-ai-wearable-personal-companion",
+        "source": "Axios",
+        "publisher": "Axios",
+        "section": "startup",
+        "publishedAt": "2026-10-22T14:40:01.000Z",
+        "summary": "Nirva, a startup developing wearable AI personal companions, raised $25 million ahead of its November product launch, CEO Wei Lyu tells Axios Pro exclusively.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "678fb4881d",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 25000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada",
+          "Hardware"
+        ],
+        "score": 52.1,
+        "insight": ""
+      },
+      {
+        "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
+        "url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
+        "source": "Crunchbase News",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-22T13:00:23.000Z",
+        "summary": "Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.",
+        "image": "https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Judy Rider",
+        "id": "029ab17415",
+        "feed": "Crunchbase News",
+        "funding": {
+          "currency": "USD",
+          "amount": 27000000,
+          "round": "Seed"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 50.8,
+        "insight": ""
+      },
+      {
+        "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+        "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-21T18:51:56.000Z",
+        "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Dominic-Madori Davis",
+        "id": "3892a33f13",
+        "feed": "TechCrunch Startups",
+        "funding": {
+          "currency": "USD",
+          "amount": 550000000,
+          "round": "Series E"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 49.1,
+        "insight": ""
+      },
+      {
+        "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
+        "url": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
+        "source": "Crunchbase News",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-22T11:00:42.000Z",
+        "summary": "In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight…",
+        "image": "https://news.crunchbase.com/wp-content/uploads/Bubble_Investment.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Guest Author",
+        "id": "48b0ff3ba8",
+        "feed": "Crunchbase News",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 45.7,
+        "insight": ""
+      },
+      {
+        "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+        "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-22T14:59:28.000Z",
+        "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Tim De Chant",
+        "id": "8579d9e649",
+        "feed": "TechCrunch Startups",
+        "funding": null,
+        "tags": [
+          "Chips",
+          "Big Tech"
+        ],
+        "score": 44,
+        "insight": ""
+      },
+      {
+        "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years",
+        "url": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
+        "source": "Crunchbase News",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-22T11:00:41.000Z",
+        "summary": "A number of companies whose names might feature on a playlist of 2021 boom-era unicorns have sold to acquirers in recent months, including one-time highfliers like Airtable, Headspace and Miro. In many cases, companies are selling at valuations which, while not puny, are still far below their…",
+        "image": "https://news.crunchbase.com/wp-content/uploads/M_A.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Joanna Glasner",
+        "id": "5208445a06",
+        "feed": "Crunchbase News",
+        "funding": null,
+        "tags": [
+          "Rodada"
+        ],
+        "score": 42.7,
+        "insight": ""
+      }
+    ],
+    "brasil": [
+      {
+        "title": "DeepSeek capta US$ 14,8 bilhões e pode “furar a fila” da OpenAI na bolsa de valores",
+        "url": "https://neofeed.com.br/negocios/deepseek-capta-us-148-bilhoes-e-pode-furar-a-fila-da-openai-na-bolsa-de-valores/",
+        "source": "Neofeed",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-22T15:21:04.000Z",
+        "summary": "A startup chinesa de inteligência artificial DeepSeek levantou 100 bilhões de yuans (cerca de US$ 14,8 bilhões) em sua segunda rodada privada de captação. A operação alcançou o dobro da expectativa inicial, que mirava 50 bilhões de yuans, e reforçou os planos de expansão da empresa. A companhia…",
+        "image": "https://neofeed.com.br/wp-content/uploads/2026/10/deepseek-300x169.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Beatriz Quesada",
+        "id": "78db797845",
+        "feed": "Neofeed",
+        "funding": {
+          "currency": "USD",
+          "amount": 14800000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 67.2,
+        "insight": ""
+      },
+      {
+        "title": "Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme",
+        "url": "https://canaltech.com.br/inteligencia-artificial/anthropic-lanca-claude-duet-ia-que-cuida-de-tarefas-e-e-mails-enquanto-voce-dorme/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-22T13:11:24.000Z",
+        "summary": "A Anthropic anunciou, na quarta-feira (21), o Claude Duet, um novo aplicativo de inteligência artificial (IA) capaz de executar tarefas, organizar e-mails e acompanhar compromissos mesmo enquanto o usuário dorme. A ferramenta funciona como um assistente pessoal que toma iniciativas sem precisar…",
+        "image": "https://tl.ctcdn.com.br/YDdB1Dh73E1XrURn02Lnouf2dcc=/0x0/filters:format(webp):quality(85)/1b935e5e-508f-4a44-9cc3-80b13624a51b.png",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Marcelo Fischer",
+        "id": "0f7ec7e63b",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 47.3,
+        "insight": ""
+      },
+      {
+        "title": "INMO GO3 desafia Meta com óculos inteligentes que protegem privacidade",
+        "url": "https://canaltech.com.br/produtos/inmo-go3-desafia-meta-com-oculos-inteligentes-que-protegem-privacidade/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-22T10:17:24.000Z",
+        "summary": "Os novos óculos inteligentes INMO GO3 chegaram para desafiar a Meta, com telas MicroLED, inteligência artificial do Google Gemini e do ChatGPT e um recurso físico para proteger a privacidade: uma tampa que cobre a lente da câmera e indica visualmente que ela está protegida. O modelo também traduz…",
+        "image": "https://tl.ctcdn.com.br/2BzRDZHzM2JZz9BvUsN8rJk_NiQ=/0x0/filters:format(webp):quality(85)/a0aea1f4-a0d8-4879-87b2-05df152b40bf.png",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Nathan Vieira",
+        "id": "d3071e3d71",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 38.3,
+        "insight": ""
+      },
+      {
+        "title": "Com a Oracle, a verdadeira experiência omnicanal deixa de ser uma promessa",
+        "url": "https://startups.com.br/branded-content/com-a-oracle-a-verdadeira-experiencia-omnicanal-deixa-de-ser-uma-promessa/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-22T13:52:41.000Z",
+        "summary": "Humberto Fukuda, diretor de Inteligência Artificial da Oracle para a América Latina | Foto: Divulgação Com o omnichannel paralelo, agentes compartilham em tempo real os dados da interação com os clientes e permitem que a conversa flua por diferentes canais sem perder o contexto O post Com a Oracle,…",
+        "image": "https://uploads.startups.com.br/2026/10/Oracle-3.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Oracle",
+        "id": "93415c96f1",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 34.7,
+        "insight": ""
+      },
+      {
+        "title": "“Startups brasileiras precisam aprender a vender”, diz Edson, da Astella",
+        "url": "https://startups.com.br/dealflow/startups-brasileiras-precisam-aprender-a-vender-diz-edson-da-astella/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-22T11:00:00.000Z",
+        "summary": "Edson Rigonatti, cofundador e general partner da Astella (no centro); Clara Braga, analista de investimentos da NXTP (dir.); e Luana Helsinger, fundadora do Made in Rio (esq.) | Foto: Divulgação Prestes a lançar 6º fundo, Astella foca em empresas de IA; para o investidor, crescimento só vem com…",
+        "image": "https://uploads.startups.com.br/2026/10/Astella-1.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Stephanie Tondo",
+        "id": "6923b0e90e",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 32.7,
+        "insight": ""
+      },
+      {
+        "title": "A cebola sabe algo que os traders de IA ainda não aprenderam",
+        "url": "https://neofeed.com.br/insiders/a-cebola-sabe-algo-que-os-traders-de-ia-ainda-nao-aprenderam/",
+        "source": "Neofeed",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-21T15:58:39.000Z",
+        "summary": "Em novembro, a bolsa de Chicago vai decidir se começa a negociar contratos futuros de computação, uma aposta no preço de aluguel dos chips que treinam inteligência artificial. Para Wall Street pode ser o nascimento do “petróleo do século 21. Eu enxergo cebolas. Em 1955, dois traders, Sam Siegel e…",
+        "image": "https://neofeed.com.br/wp-content/uploads/2026/10/Cebola-e-IA-300x169.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Lucas Vargas",
+        "id": "f7868ef863",
+        "feed": "Neofeed",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Chips"
+        ],
+        "score": 31.3,
+        "insight": ""
+      }
+    ],
+    "reads": [
+      {
+        "title": "The Pulse: Time to rethink software security because of AI?",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+        "source": "The Pragmatic Engineer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-22T14:08:21.000Z",
+        "summary": "A month’s worth of security breaches in a single day – will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more",
+        "image": "https://substackcdn.com/image/fetch/$s_!8eqB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c999ba8-0113-4a00-9290-f982c315a286_1246x1254.png",
+        "points": 0,
+        "readingMinutes": 1,
+        "author": "Gergely Orosz",
+        "id": "c4f0d40ba7",
+        "feed": "The Pragmatic Engineer",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 36.9,
+        "insight": "Leitura de 1 min."
+      },
+      {
+        "title": "Claude Mods: Flipping the Harness Inside Out",
+        "url": "https://www.latent.space/p/claude-mods",
+        "source": "Latent Space",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-21T13:04:19.000Z",
+        "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+        "image": "https://substackcdn.com/image/fetch/$s_!Kjjn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc61f4d99-31a9-4e4c-aa02-65e5b5db1799_1280x720.png",
+        "points": 0,
+        "readingMinutes": 9,
+        "author": "Dan McAteer",
+        "id": "0fff47054c",
+        "feed": "Latent Space",
+        "tags": [
+          "IA"
+        ],
+        "score": 31.8,
+        "insight": "Leitura de 9 min."
+      },
+      {
+        "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
+        "url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+        "source": "Stratechery",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-20T10:00:00.000Z",
+        "summary": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 1,
+        "author": "Ben Thompson",
+        "id": "f691b33b16",
+        "feed": "Stratechery",
+        "tags": [
+          "Big Tech",
+          "Dev"
+        ],
+        "score": 31.6,
+        "insight": "Leitura de 1 min."
+      },
+      {
+        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "source": "Simon Willison",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-20T19:34:19.000Z",
+        "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more…",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "3b5ce86c8c",
+        "feed": "Simon Willison",
+        "tags": [
+          "IA"
+        ],
+        "score": 24.3,
+        "insight": "Análise para ler com calma."
+      },
+      {
+        "title": "Joel Kaplan leaves Meta",
+        "url": "https://www.platformer.news/meta-joel-kaplan-midterms-moderation/",
+        "source": "Platformer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-10-21T01:34:35.000Z",
+        "summary": "Long a voice for Republicans inside the company, he played a leading role in pushing Meta to the right",
+        "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2652715669.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Casey Newton",
+        "id": "952a7f781e",
+        "feed": "Platformer",
+        "tags": [
+          "Big Tech"
+        ],
+        "score": 23.8,
+        "insight": "Análise para ler com calma."
+      }
+    ],
+    "papers": [
+      {
+        "title": "Cache Engineering for Agents",
+        "url": "https://huggingface.co/papers/2610.28577",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "summary": "AKV introduces cache engineering to manage LLM agent key-value caches without altering trajectories, improving efficiency and accuracy via drop and repos operations with a co-designed serving engine.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28577.png",
+        "upvotes": 87,
+        "github": "https://github.com/thu-nics/AKV",
+        "authors": [
+          "Tianyu Fu",
+          "Ruoxi Wang",
+          "Zihan Min"
+        ],
+        "organization": "Tsinghua-NICS-EFC",
+        "id": "c931af3845",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 67,
+        "insight": "Em alta na comunidade, com 87 upvotes no Hugging Face."
+      },
+      {
+        "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+        "url": "https://huggingface.co/papers/2610.28589",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "summary": "AgenticRoboRL improves robot planners via supervised fine-tuning and multi-turn reinforcement learning across diverse harnesses, significantly boosting success rates without external memory.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28589.png",
+        "upvotes": 18,
+        "github": "https://github.com/xinxinliu-ai/AgenticRoboRL",
+        "authors": [
+          "Xinxin Liu",
+          "Bingxin Xu",
+          "Wenrui Bao"
+        ],
+        "organization": "University of Central Florida",
+        "id": "b47fa45e8f",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 61.5,
+        "insight": "Vem com código aberto, fácil de experimentar."
+      },
+      {
+        "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+        "url": "https://huggingface.co/papers/2610.26828",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "summary": "WildAWM synthesizes controllable computer-use environments and tasks to train general agents via interaction, improving out-of-distribution performance across web, CLI, and GUI benchmarks.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.26828.png",
+        "upvotes": 60,
+        "github": "https://github.com/MSR-Orchard/WildAWM",
+        "authors": [
+          "Zhaoyang Wang",
+          "Qianhui Wu",
+          "Haorui Wang"
+        ],
+        "organization": "Microsoft Research",
+        "id": "098ea7e113",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 60,
+        "insight": "Em alta na comunidade, com 60 upvotes no Hugging Face."
+      },
+      {
+        "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+        "url": "https://huggingface.co/papers/2610.30113",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "summary": "Quant-Arena benchmarks end-to-end quantitative research by evaluating whether language models can build trading strategies on historical A-share data that remain profitable in a sealed future year.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.30113.png",
+        "upvotes": 17,
+        "github": "",
+        "authors": [
+          "Houde Qian",
+          "Zheng Jiang",
+          "Wenyi Li"
+        ],
+        "organization": "",
+        "id": "01544962f0",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 59,
+        "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+      },
+      {
+        "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
+        "url": "https://huggingface.co/papers/2610.26659",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "summary": "SpatialScout evaluates vision-language agents on active 3D object mapping, revealing major gaps in precise metric map construction.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.26659.png",
+        "upvotes": 128,
+        "github": "https://github.com/JesseZZZZZ/SpatialScout",
+        "authors": [
+          "Zhaoxi Zhang",
+          "Hao Liang",
+          "Linxuan Wu"
+        ],
+        "organization": "Peking University",
+        "id": "b13df1ce33",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 56,
+        "insight": "Em alta na comunidade, com 128 upvotes no Hugging Face."
+      },
+      {
+        "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+        "url": "https://huggingface.co/papers/2610.30108",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "summary": "PAPAV defines five core capabilities for multimodal embodied agents and highlights gaps in evaluation and physical constraints when moving from digital to robotic settings.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.30108.png",
+        "upvotes": 17,
+        "github": "https://github.com/showlab/Awesome-Multimodal-Embodied-Agent",
+        "authors": [
+          "Yanzhe Chen",
+          "Ziyi Yang",
+          "Jifeng Zhu"
+        ],
+        "organization": "Show Lab",
+        "id": "4daaac9c45",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 56,
+        "insight": "Vem com código aberto, fácil de experimentar."
+      }
+    ],
+    "repos": [
+      {
+        "title": "Gathin23/cleanyourtv",
+        "url": "https://github.com/Gathin23/cleanyourtv",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-17T08:12:35.000Z",
+        "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+        "stars": 22781,
+        "language": "Java",
+        "image": "https://avatars.githubusercontent.com/u/94786511?v=4",
+        "id": "ab0e470b36",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 14.5,
+        "insight": "22.781 estrelas em poucos dias, escrito em Java."
+      },
+      {
+        "title": "deepseek-ai/DeepInfer",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-16T07:47:23.000Z",
+        "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+        "stars": 19581,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+        "id": "79e072c528",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 14.3,
+        "insight": "19.581 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "simbasjungles/free-my-tv",
+        "url": "https://github.com/simbasjungles/free-my-tv",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-19T19:29:01.000Z",
+        "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+        "stars": 3130,
+        "language": "Java",
+        "image": "https://avatars.githubusercontent.com/u/192837953?v=4",
+        "id": "f097e65b6a",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.6,
+        "insight": "3.130 estrelas em poucos dias, escrito em Java."
+      },
+      {
+        "title": "pengchujin/aerial-tv",
+        "url": "https://github.com/pengchujin/aerial-tv",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-20T09:13:06.000Z",
+        "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "stars": 2964,
+        "language": "Kotlin",
+        "image": "https://avatars.githubusercontent.com/u/16513318?v=4",
+        "id": "e31af640f4",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.5,
+        "insight": "2.964 estrelas em poucos dias, escrito em Kotlin."
+      },
+      {
+        "title": "xiaoyang111222/cn-math-taxonomy",
+        "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-18T09:04:43.000Z",
+        "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+        "stars": 2172,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/79557224?v=4",
+        "id": "32ba8cb45e",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.1,
+        "insight": "2.172 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "tek-sys-hub/Rubix-lang",
+        "url": "https://github.com/tek-sys-hub/Rubix-lang",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-19T05:34:37.000Z",
+        "summary": "The 100% Pure x86-64 Assembly Systems Language",
+        "stars": 1902,
+        "language": "Assembly",
+        "image": "https://avatars.githubusercontent.com/u/249392719?v=4",
+        "id": "41f2bb2586",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.9,
+        "insight": "1.902 estrelas em poucos dias, escrito em Assembly."
+      }
+    ]
+  },
+  "items": [
+    {
+      "title": "Enact, which develops full-stack tech for general-purpose robots, emerges from stealth with a $30M pre-seed from Mistral CEO Arthur Mensch, Yann LeCun, and more",
+      "url": "https://tech.eu/2026/10/22/mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enact-in-30m-pre-seed-round/",
+      "source": "Tech.eu",
+      "publisher": "Tech.eu",
+      "section": "news",
+      "publishedAt": "2026-10-22T12:50:02.000Z",
+      "summary": "Enact Intelligence is building the underlying tech for general purpose robots. &mdash; Swiss robotics startup Enact Intelligence …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "c559ad6106",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 48.3,
+      "insight": ""
+    },
+    {
+      "title": "Israeli security company Lava finds 32 Nvidia Blackwell Ultra B300 chips connected to systems linked to state-owned operator China Telecom, despite US controls",
+      "url": "https://www.theinformation.com/briefings/nvidias-powerful-b300-chips-spotted-chinese-state-owned-network",
+      "source": "The Information",
+      "publisher": "The Information",
+      "section": "news",
+      "publishedAt": "2026-10-22T12:35:08.000Z",
+      "summary": "Israeli security firm Lava said it found 32 Nvidia Blackwell Ultra B300 chips through monitoring systems linked to the network of China Telecom …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "e43bc24236",
+      "feed": "Techmeme",
+      "tags": [
+        "Chips",
+        "Segurança"
+      ],
+      "score": 47,
+      "insight": ""
+    },
+    {
+      "title": "Apple is rolling out a new \"Made for iPhone Duo\" badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch",
+      "url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
+      "source": "The Verge",
+      "publisher": "The Verge",
+      "section": "news",
+      "publishedAt": "2026-10-22T13:35:07.000Z",
+      "summary": "Many apps, including Netflix, Microsoft Word, and Zoom, are taking advantage of the Duo's extra screen real estate.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "a9d8e2c00d",
+      "feed": "Techmeme",
+      "tags": [
+        "Big Tech",
+        "Hardware"
+      ],
+      "score": 46.3,
+      "insight": ""
+    },
+    {
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "source": "Ars Technica",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-21T18:51:42.000Z",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "\n                    Ryan Whitwam\n                ",
+      "id": "53db5cc109",
+      "feed": "Ars Technica",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 42.3,
+      "insight": ""
+    },
+    {
+      "title": "Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of user instructions",
+      "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "source": "Axios",
+      "publisher": "Axios",
+      "section": "news",
+      "publishedAt": "2026-10-22T15:45:00.000Z",
+      "summary": "Major U.S. banks are detecting unauthorized third-party AI agents operating inside customer accounts, with some agents attempting …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "92061763f2",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 40,
+      "insight": ""
+    },
+    {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-22T15:03:58.000Z",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Lauren Forristal",
+      "id": "0bffbef035",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA"
+      ],
+      "score": 39,
+      "insight": ""
+    },
+    {
+      "title": "Maxinsights, which creates training data for robots using first-person footage from cameras worn by 5,000+ contractors, raised a $30M seed led by Peak XV",
+      "url": "https://www.forbes.com/sites/johnkoetsier/2026/10/22/theres-not-enough-robot-training-data-this-startup-plans-to-fix-that/",
+      "source": "Forbes",
+      "publisher": "Forbes",
+      "section": "news",
+      "publishedAt": "2026-10-22T14:45:01.000Z",
+      "summary": "This voice experience is generated by AI. Learn more. … Investors put $47.4 billion into physical AI in the first half of 2026 …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "bcf60f3688",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 38.7,
+      "insight": ""
+    },
+    {
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "source": "Wired",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-21T14:00:00.000Z",
+      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+      "image": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Lily Hay Newman",
+      "id": "e50d33e77f",
+      "feed": "Wired",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 38.7,
+      "insight": ""
+    },
+    {
+      "title": "eMudhra says it will exit the SSL/TLS certificate business, 1% of its revenue, after its TLS certificates with private keys of just 3 to 8 bits were compromised",
+      "url": "https://www.reuters.com/legal/litigation/indian-firm-emudhra-exits-global-digital-certificates-business-after-2026-10-22/",
+      "source": "Reuters",
+      "publisher": "Reuters",
+      "section": "news",
+      "publishedAt": "2026-10-22T15:30:02.000Z",
+      "summary": "Indian digital trust services provider eMudhra (EMUD.NS) on Thursday said it would voluntarily withdraw from the global SSL/TLS …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "023f2bddf7",
+      "feed": "Techmeme",
+      "tags": [],
+      "score": 38,
+      "insight": ""
+    },
+    {
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "source": "The Verge",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-22T14:00:00.000Z",
+      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is…",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Nilay Patel",
+      "id": "1268662601",
+      "feed": "The Verge",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 37.7,
+      "insight": ""
+    },
+    {
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "source": "Wired",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-21T15:02:15.000Z",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "image": "https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Tom Bristow",
+      "id": "a6d54c880e",
+      "feed": "Wired",
+      "tags": [
+        "IA",
+        "Chips"
+      ],
+      "score": 37,
+      "insight": ""
+    },
+    {
+      "title": "Chinese AI Startup DeepSeek Raises $15 Billion Ahead of Potential IPO",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHIyeDY3eVpWMmZrYnhzZzNkTnpIN1N1OFhMQ1JVeGN1ejNxZlpPSmN0TTFRdzFLbTBvTlNpVDJvQUowcXB5a2VYYmZSZFJOMHBJYm9fVnBITk1YYWRrWkxXQXVDWkhfbng0eThneEF1MmEzMDhIY1kwTTdpRmtZTW85SVJJVjJZZVFlQURsdkZaT1pCVmlwUVd4V0d0a2pLLVk2NFByQ0c?oc=5",
+      "source": "WSJ",
+      "publisher": "WSJ",
+      "section": "startup",
+      "publishedAt": "2026-10-22T10:28:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "9fc07c57ee",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 15000000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 58.5,
+      "insight": ""
+    },
+    {
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-21T20:57:40.000Z",
+      "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Julie Bort",
+      "id": "27111edd53",
+      "feed": "TechCrunch Startups",
+      "funding": {
+        "currency": "USD",
+        "amount": 1000000000,
+        "round": "seed"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 56,
+      "insight": ""
+    },
+    {
+      "title": "Nirva, which plans to launch a wearable AI personal companion that offers relationship advice and more, raised $25M, bringing its total funding to $33M",
+      "url": "https://www.axios.com/pro/health-tech-deals/2026/10/22/nirva-25m-ai-wearable-personal-companion",
+      "source": "Axios",
+      "publisher": "Axios",
+      "section": "startup",
+      "publishedAt": "2026-10-22T14:40:01.000Z",
+      "summary": "Nirva, a startup developing wearable AI personal companions, raised $25 million ahead of its November product launch, CEO Wei Lyu tells Axios Pro exclusively.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "678fb4881d",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 25000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada",
+        "Hardware"
+      ],
+      "score": 52.1,
+      "insight": ""
+    },
+    {
+      "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
+      "url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
+      "source": "Crunchbase News",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-22T13:00:23.000Z",
+      "summary": "Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Judy Rider",
+      "id": "029ab17415",
+      "feed": "Crunchbase News",
+      "funding": {
+        "currency": "USD",
+        "amount": 27000000,
+        "round": "Seed"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 50.8,
+      "insight": ""
+    },
+    {
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-21T18:51:56.000Z",
+      "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Dominic-Madori Davis",
+      "id": "3892a33f13",
+      "feed": "TechCrunch Startups",
+      "funding": {
+        "currency": "USD",
+        "amount": 550000000,
+        "round": "Series E"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 49.1,
+      "insight": ""
+    },
+    {
+      "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
+      "url": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
+      "source": "Crunchbase News",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-22T11:00:42.000Z",
+      "summary": "In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight…",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Bubble_Investment.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Guest Author",
+      "id": "48b0ff3ba8",
+      "feed": "Crunchbase News",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 45.7,
+      "insight": ""
+    },
+    {
+      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-22T14:59:28.000Z",
+      "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Tim De Chant",
+      "id": "8579d9e649",
+      "feed": "TechCrunch Startups",
+      "funding": null,
+      "tags": [
+        "Chips",
+        "Big Tech"
+      ],
+      "score": 44,
+      "insight": ""
+    },
+    {
+      "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years",
+      "url": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
+      "source": "Crunchbase News",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-22T11:00:41.000Z",
+      "summary": "A number of companies whose names might feature on a playlist of 2021 boom-era unicorns have sold to acquirers in recent months, including one-time highfliers like Airtable, Headspace and Miro. In many cases, companies are selling at valuations which, while not puny, are still far below their…",
+      "image": "https://news.crunchbase.com/wp-content/uploads/M_A.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Joanna Glasner",
+      "id": "5208445a06",
+      "feed": "Crunchbase News",
+      "funding": null,
+      "tags": [
+        "Rodada"
+      ],
+      "score": 42.7,
+      "insight": ""
+    },
+    {
+      "title": "DeepSeek capta US$ 14,8 bilhões e pode “furar a fila” da OpenAI na bolsa de valores",
+      "url": "https://neofeed.com.br/negocios/deepseek-capta-us-148-bilhoes-e-pode-furar-a-fila-da-openai-na-bolsa-de-valores/",
+      "source": "Neofeed",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-22T15:21:04.000Z",
+      "summary": "A startup chinesa de inteligência artificial DeepSeek levantou 100 bilhões de yuans (cerca de US$ 14,8 bilhões) em sua segunda rodada privada de captação. A operação alcançou o dobro da expectativa inicial, que mirava 50 bilhões de yuans, e reforçou os planos de expansão da empresa. A companhia…",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/10/deepseek-300x169.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Beatriz Quesada",
+      "id": "78db797845",
+      "feed": "Neofeed",
+      "funding": {
+        "currency": "USD",
+        "amount": 14800000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 67.2,
+      "insight": ""
+    },
+    {
+      "title": "Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme",
+      "url": "https://canaltech.com.br/inteligencia-artificial/anthropic-lanca-claude-duet-ia-que-cuida-de-tarefas-e-e-mails-enquanto-voce-dorme/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-22T13:11:24.000Z",
+      "summary": "A Anthropic anunciou, na quarta-feira (21), o Claude Duet, um novo aplicativo de inteligência artificial (IA) capaz de executar tarefas, organizar e-mails e acompanhar compromissos mesmo enquanto o usuário dorme. A ferramenta funciona como um assistente pessoal que toma iniciativas sem precisar…",
+      "image": "https://tl.ctcdn.com.br/YDdB1Dh73E1XrURn02Lnouf2dcc=/0x0/filters:format(webp):quality(85)/1b935e5e-508f-4a44-9cc3-80b13624a51b.png",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Marcelo Fischer",
+      "id": "0f7ec7e63b",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 47.3,
+      "insight": ""
+    },
+    {
+      "title": "INMO GO3 desafia Meta com óculos inteligentes que protegem privacidade",
+      "url": "https://canaltech.com.br/produtos/inmo-go3-desafia-meta-com-oculos-inteligentes-que-protegem-privacidade/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-22T10:17:24.000Z",
+      "summary": "Os novos óculos inteligentes INMO GO3 chegaram para desafiar a Meta, com telas MicroLED, inteligência artificial do Google Gemini e do ChatGPT e um recurso físico para proteger a privacidade: uma tampa que cobre a lente da câmera e indica visualmente que ela está protegida. O modelo também traduz…",
+      "image": "https://tl.ctcdn.com.br/2BzRDZHzM2JZz9BvUsN8rJk_NiQ=/0x0/filters:format(webp):quality(85)/a0aea1f4-a0d8-4879-87b2-05df152b40bf.png",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Nathan Vieira",
+      "id": "d3071e3d71",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 38.3,
+      "insight": ""
+    },
+    {
+      "title": "Com a Oracle, a verdadeira experiência omnicanal deixa de ser uma promessa",
+      "url": "https://startups.com.br/branded-content/com-a-oracle-a-verdadeira-experiencia-omnicanal-deixa-de-ser-uma-promessa/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-22T13:52:41.000Z",
+      "summary": "Humberto Fukuda, diretor de Inteligência Artificial da Oracle para a América Latina | Foto: Divulgação Com o omnichannel paralelo, agentes compartilham em tempo real os dados da interação com os clientes e permitem que a conversa flua por diferentes canais sem perder o contexto O post Com a Oracle,…",
+      "image": "https://uploads.startups.com.br/2026/10/Oracle-3.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Oracle",
+      "id": "93415c96f1",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 34.7,
+      "insight": ""
+    },
+    {
+      "title": "“Startups brasileiras precisam aprender a vender”, diz Edson, da Astella",
+      "url": "https://startups.com.br/dealflow/startups-brasileiras-precisam-aprender-a-vender-diz-edson-da-astella/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-22T11:00:00.000Z",
+      "summary": "Edson Rigonatti, cofundador e general partner da Astella (no centro); Clara Braga, analista de investimentos da NXTP (dir.); e Luana Helsinger, fundadora do Made in Rio (esq.) | Foto: Divulgação Prestes a lançar 6º fundo, Astella foca em empresas de IA; para o investidor, crescimento só vem com…",
+      "image": "https://uploads.startups.com.br/2026/10/Astella-1.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Stephanie Tondo",
+      "id": "6923b0e90e",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 32.7,
+      "insight": ""
+    },
+    {
+      "title": "A cebola sabe algo que os traders de IA ainda não aprenderam",
+      "url": "https://neofeed.com.br/insiders/a-cebola-sabe-algo-que-os-traders-de-ia-ainda-nao-aprenderam/",
+      "source": "Neofeed",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-21T15:58:39.000Z",
+      "summary": "Em novembro, a bolsa de Chicago vai decidir se começa a negociar contratos futuros de computação, uma aposta no preço de aluguel dos chips que treinam inteligência artificial. Para Wall Street pode ser o nascimento do “petróleo do século 21. Eu enxergo cebolas. Em 1955, dois traders, Sam Siegel e…",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/10/Cebola-e-IA-300x169.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Lucas Vargas",
+      "id": "f7868ef863",
+      "feed": "Neofeed",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Chips"
+      ],
+      "score": 31.3,
+      "insight": ""
+    },
+    {
+      "title": "Cache Engineering for Agents",
+      "url": "https://huggingface.co/papers/2610.28577",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "summary": "AKV introduces cache engineering to manage LLM agent key-value caches without altering trajectories, improving efficiency and accuracy via drop and repos operations with a co-designed serving engine.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28577.png",
+      "upvotes": 87,
+      "github": "https://github.com/thu-nics/AKV",
+      "authors": [
+        "Tianyu Fu",
+        "Ruoxi Wang",
+        "Zihan Min"
+      ],
+      "organization": "Tsinghua-NICS-EFC",
+      "id": "c931af3845",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 67,
+      "insight": "Em alta na comunidade, com 87 upvotes no Hugging Face."
+    },
+    {
+      "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+      "url": "https://huggingface.co/papers/2610.28589",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "summary": "AgenticRoboRL improves robot planners via supervised fine-tuning and multi-turn reinforcement learning across diverse harnesses, significantly boosting success rates without external memory.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28589.png",
+      "upvotes": 18,
+      "github": "https://github.com/xinxinliu-ai/AgenticRoboRL",
+      "authors": [
+        "Xinxin Liu",
+        "Bingxin Xu",
+        "Wenrui Bao"
+      ],
+      "organization": "University of Central Florida",
+      "id": "b47fa45e8f",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 61.5,
+      "insight": "Vem com código aberto, fácil de experimentar."
+    },
+    {
+      "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+      "url": "https://huggingface.co/papers/2610.26828",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "summary": "WildAWM synthesizes controllable computer-use environments and tasks to train general agents via interaction, improving out-of-distribution performance across web, CLI, and GUI benchmarks.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.26828.png",
+      "upvotes": 60,
+      "github": "https://github.com/MSR-Orchard/WildAWM",
+      "authors": [
+        "Zhaoyang Wang",
+        "Qianhui Wu",
+        "Haorui Wang"
+      ],
+      "organization": "Microsoft Research",
+      "id": "098ea7e113",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 60,
+      "insight": "Em alta na comunidade, com 60 upvotes no Hugging Face."
+    },
+    {
+      "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "url": "https://huggingface.co/papers/2610.30113",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "summary": "Quant-Arena benchmarks end-to-end quantitative research by evaluating whether language models can build trading strategies on historical A-share data that remain profitable in a sealed future year.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.30113.png",
+      "upvotes": 17,
+      "github": "",
+      "authors": [
+        "Houde Qian",
+        "Zheng Jiang",
+        "Wenyi Li"
+      ],
+      "organization": "",
+      "id": "01544962f0",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 59,
+      "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+    },
+    {
+      "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
+      "url": "https://huggingface.co/papers/2610.26659",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "summary": "SpatialScout evaluates vision-language agents on active 3D object mapping, revealing major gaps in precise metric map construction.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.26659.png",
+      "upvotes": 128,
+      "github": "https://github.com/JesseZZZZZ/SpatialScout",
+      "authors": [
+        "Zhaoxi Zhang",
+        "Hao Liang",
+        "Linxuan Wu"
+      ],
+      "organization": "Peking University",
+      "id": "b13df1ce33",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 56,
+      "insight": "Em alta na comunidade, com 128 upvotes no Hugging Face."
+    },
+    {
+      "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+      "url": "https://huggingface.co/papers/2610.30108",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "summary": "PAPAV defines five core capabilities for multimodal embodied agents and highlights gaps in evaluation and physical constraints when moving from digital to robotic settings.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.30108.png",
+      "upvotes": 17,
+      "github": "https://github.com/showlab/Awesome-Multimodal-Embodied-Agent",
+      "authors": [
+        "Yanzhe Chen",
+        "Ziyi Yang",
+        "Jifeng Zhu"
+      ],
+      "organization": "Show Lab",
+      "id": "4daaac9c45",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 56,
+      "insight": "Vem com código aberto, fácil de experimentar."
+    },
+    {
+      "title": "The Pulse: Time to rethink software security because of AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "source": "The Pragmatic Engineer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-22T14:08:21.000Z",
+      "summary": "A month’s worth of security breaches in a single day – will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more",
+      "image": "https://substackcdn.com/image/fetch/$s_!8eqB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c999ba8-0113-4a00-9290-f982c315a286_1246x1254.png",
+      "points": 0,
+      "readingMinutes": 1,
+      "author": "Gergely Orosz",
+      "id": "c4f0d40ba7",
+      "feed": "The Pragmatic Engineer",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 36.9,
+      "insight": "Leitura de 1 min."
+    },
+    {
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://www.latent.space/p/claude-mods",
+      "source": "Latent Space",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-21T13:04:19.000Z",
+      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "image": "https://substackcdn.com/image/fetch/$s_!Kjjn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc61f4d99-31a9-4e4c-aa02-65e5b5db1799_1280x720.png",
+      "points": 0,
+      "readingMinutes": 9,
+      "author": "Dan McAteer",
+      "id": "0fff47054c",
+      "feed": "Latent Space",
+      "tags": [
+        "IA"
+      ],
+      "score": 31.8,
+      "insight": "Leitura de 9 min."
+    },
+    {
+      "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
+      "url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+      "source": "Stratechery",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "summary": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 1,
+      "author": "Ben Thompson",
+      "id": "f691b33b16",
+      "feed": "Stratechery",
+      "tags": [
+        "Big Tech",
+        "Dev"
+      ],
+      "score": 31.6,
+      "insight": "Leitura de 1 min."
+    },
+    {
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "source": "Simon Willison",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-20T19:34:19.000Z",
+      "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more…",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "3b5ce86c8c",
+      "feed": "Simon Willison",
+      "tags": [
+        "IA"
+      ],
+      "score": 24.3,
+      "insight": "Análise para ler com calma."
+    },
+    {
+      "title": "Joel Kaplan leaves Meta",
+      "url": "https://www.platformer.news/meta-joel-kaplan-midterms-moderation/",
+      "source": "Platformer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-10-21T01:34:35.000Z",
+      "summary": "Long a voice for Republicans inside the company, he played a leading role in pushing Meta to the right",
+      "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2652715669.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Casey Newton",
+      "id": "952a7f781e",
+      "feed": "Platformer",
+      "tags": [
+        "Big Tech"
+      ],
+      "score": 23.8,
+      "insight": "Análise para ler com calma."
+    },
+    {
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-17T08:12:35.000Z",
+      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "stars": 22781,
+      "language": "Java",
+      "image": "https://avatars.githubusercontent.com/u/94786511?v=4",
+      "id": "ab0e470b36",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 14.5,
+      "insight": "22.781 estrelas em poucos dias, escrito em Java."
+    },
+    {
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-16T07:47:23.000Z",
+      "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "stars": 19581,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "id": "79e072c528",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 14.3,
+      "insight": "19.581 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-19T19:29:01.000Z",
+      "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "stars": 3130,
+      "language": "Java",
+      "image": "https://avatars.githubusercontent.com/u/192837953?v=4",
+      "id": "f097e65b6a",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.6,
+      "insight": "3.130 estrelas em poucos dias, escrito em Java."
+    },
+    {
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-20T09:13:06.000Z",
+      "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "stars": 2964,
+      "language": "Kotlin",
+      "image": "https://avatars.githubusercontent.com/u/16513318?v=4",
+      "id": "e31af640f4",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.5,
+      "insight": "2.964 estrelas em poucos dias, escrito em Kotlin."
+    },
+    {
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-18T09:04:43.000Z",
+      "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "stars": 2172,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/79557224?v=4",
+      "id": "32ba8cb45e",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.1,
+      "insight": "2.172 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "tek-sys-hub/Rubix-lang",
+      "url": "https://github.com/tek-sys-hub/Rubix-lang",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-19T05:34:37.000Z",
+      "summary": "The 100% Pure x86-64 Assembly Systems Language",
+      "stars": 1902,
+      "language": "Assembly",
+      "image": "https://avatars.githubusercontent.com/u/249392719?v=4",
+      "id": "41f2bb2586",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.9,
+      "insight": "1.902 estrelas em poucos dias, escrito em Assembly."
+    }
+  ],
+  "counts": {
+    "total": 42
+  }
+}
