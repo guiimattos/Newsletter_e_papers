@@ -1,38 +1,38 @@
 {
   "title": "OpenClaw Tech Brief",
-  "generatedAt": "2026-10-23T15:39:06.895Z",
-  "date": "2026-10-23",
-  "dateLabel": "23/10/2026 12:39",
+  "generatedAt": "2026-10-24T14:16:28.142Z",
+  "date": "2026-10-24",
+  "dateLabel": "24/10/2026 11:16",
   "summary": "As principais notícias de tecnologia, startups e pesquisa das últimas 48 horas, escolhidas entre dezenas de fontes.",
   "highlights": [],
   "tags": [
     {
       "tag": "IA",
-      "count": 26
+      "count": 22
     },
     {
       "tag": "Rodada",
-      "count": 10
+      "count": 9
+    },
+    {
+      "tag": "Big Tech",
+      "count": 8
+    },
+    {
+      "tag": "Segurança",
+      "count": 6
     },
     {
       "tag": "Chips",
       "count": 5
     },
     {
-      "tag": "Segurança",
-      "count": 4
+      "tag": "Hardware",
+      "count": 2
     },
     {
       "tag": "Dev",
-      "count": 3
-    },
-    {
-      "tag": "Big Tech",
-      "count": 3
-    },
-    {
-      "tag": "Regulação",
-      "count": 1
+      "count": 2
     }
   ],
   "stats": {
@@ -42,360 +42,312 @@
     "reads": 5,
     "papers": 6,
     "repos": 6,
-    "rounds": 7,
-    "sources": 37
+    "rounds": 8,
+    "sources": 35
   },
   "lead": {
-    "title": "Anthropic says it partnered with Theorem to use Claude to formally prove useful security properties at the assembly code level across 123 open-source libraries",
-    "url": "https://www.anthropic.com/research/formal-verification",
-    "source": "Anthropic",
-    "publisher": "Anthropic",
+    "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+    "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+    "source": "The Verge",
+    "publisher": "",
     "section": "news",
-    "publishedAt": "2026-10-23T09:15:03.000Z",
-    "summary": "Introduction &mdash; Even mature, heavily tested software contains bugs, and LLMs are increasingly adept at finding them.",
-    "image": "",
+    "publishedAt": "2026-10-24T14:00:00.000Z",
+    "summary": "The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark…",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "points": 0,
     "readingMinutes": 0,
-    "author": "",
-    "id": "1360bd8eb5",
-    "feed": "Techmeme",
+    "author": "Antonio G. Di Benedetto",
+    "id": "1b7d2312ec",
+    "feed": "The Verge",
     "tags": [
-      "IA",
-      "Segurança",
-      "Dev"
+      "Chips",
+      "Big Tech",
+      "Hardware"
     ],
-    "score": 47,
+    "score": 39,
     "insight": ""
   },
   "sections": {
     "news": [
       {
-        "title": "OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges",
-        "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-        "source": "TechCrunch",
-        "publisher": "TechCrunch",
+        "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind",
+        "url": "https://www.bbc.com/news/articles/cqdjv8xllvyyo",
+        "source": "BBC",
+        "publisher": "BBC",
         "section": "news",
-        "publishedAt": "2026-10-23T13:25:02.000Z",
-        "summary": "OpenAI made its Decisions API model widely available to users for the first time, entering the market for fast …",
+        "publishedAt": "2026-10-24T01:20:01.000Z",
+        "summary": "The UK says it will establish a national AI Biosecurity Lab (AIBL) to help strengthen its defences against emerging biological threats.",
         "image": "",
         "points": 0,
         "readingMinutes": 0,
         "author": "",
-        "id": "1d8d266cc0",
-        "feed": "Techmeme",
-        "tags": [
-          "IA"
-        ],
-        "score": 42.3,
-        "insight": ""
-      },
-      {
-        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-        "url": "https://github.com/NVIDIA/OpenShell",
-        "source": "Hacker News",
-        "publisher": "",
-        "section": "news",
-        "publishedAt": "2026-10-22T17:44:06.000Z",
-        "summary": "458 pontos e discussão ativa no Hacker News.",
-        "image": "",
-        "points": 458,
-        "readingMinutes": 0,
-        "author": "niemandhier",
-        "id": "4dcdb95578",
-        "feed": "Hacker News",
-        "tags": [
-          "IA",
-          "Segurança"
-        ],
-        "score": 42,
-        "insight": ""
-      },
-      {
-        "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG9BQ0x2T2hkMERBYUQ5dm5NcE9aUEFFY2VEd2hZQnZONVlJSHJNYWQ1alZpdDNxMHlwa2ZScjUtNXZZOEJCYTRYdEZNRExTTkE1Q2V4ZHdCejVfLWRpTHJsRkptdlhLV1pOOG9VOVZkaVlSY29lckVVWVBGMmVtZHFibzNqZUVTcThXZm0yd1VKX2cwLVNsemVWZ0Y3X2U0MUVIV0Jrbw?oc=5",
-        "source": "Yahoo Finance",
-        "publisher": "Yahoo Finance",
-        "section": "news",
-        "publishedAt": "2026-10-23T14:50:00.000Z",
-        "summary": "",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "3250bd6b16",
-        "feed": "Google News: IA",
-        "tags": [
-          "IA",
-          "Chips"
-        ],
-        "score": 41,
-        "insight": ""
-      },
-      {
-        "title": "People are vibe coding their way to better TVs",
-        "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
-        "source": "The Verge",
-        "publisher": "",
-        "section": "news",
-        "publishedAt": "2026-10-23T13:00:00.000Z",
-        "summary": "Just imagine… a nice, clean homescreen with no ads, thanks to Claude. | Image: cleanyourtv Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "John Higgins",
-        "id": "d28dfc1dfe",
-        "feed": "The Verge",
-        "tags": [
-          "IA",
-          "Dev"
-        ],
-        "score": 40.3,
-        "insight": ""
-      },
-      {
-        "title": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
-        "source": "Bloomberg",
-        "publisher": "Bloomberg",
-        "section": "news",
-        "publishedAt": "2026-10-23T06:00:56.000Z",
-        "summary": "SK Hyper Co. is in talks with big tech firms and financial investors to secure funding for an envisioned $350 billion data center buildout …",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "38ee38f8d1",
-        "feed": "Techmeme",
-        "tags": [
-          "Rodada"
-        ],
-        "score": 39,
-        "insight": ""
-      },
-      {
-        "title": "The US Treasury proposes a rule to crack down on US high-tech investments in areas like AI and supercomputing in China, Russia, and other \"countries of concern\"",
-        "url": "https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9",
-        "source": "Associated Press",
-        "publisher": "Associated Press",
-        "section": "news",
-        "publishedAt": "2026-10-23T01:10:01.000Z",
-        "summary": "The U.S. Treasury Department proposed a rule Thursday to crack down on American high-tech investments such as supercomputing …",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "c6d9502b61",
-        "feed": "Techmeme",
-        "tags": [
-          "IA"
-        ],
-        "score": 38.3,
-        "insight": ""
-      },
-      {
-        "title": "An interview with Intel's leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more",
-        "url": "https://www.dwarkesh.com/p/intel-tour",
-        "source": "Dwarkesh Podcast",
-        "publisher": "Dwarkesh Podcast",
-        "section": "news",
-        "publishedAt": "2026-10-23T11:45:14.000Z",
-        "summary": "What I learned from touring Intel's most advanced fab and talking to its leadership. &mdash; I spent two days touring Intel's …",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "fff294f4b8",
+        "id": "c58f43d7ff",
         "feed": "Techmeme",
         "tags": [
           "IA",
-          "Chips"
-        ],
-        "score": 38,
-        "insight": ""
-      },
-      {
-        "title": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats",
-        "url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853?st=H9AUaC&reflink=desktopwebshare_permalink",
-        "source": "Wall Street Journal",
-        "publisher": "Wall Street Journal",
-        "section": "news",
-        "publishedAt": "2026-10-23T02:50:50.000Z",
-        "summary": "The company fired three safety researchers for mishandling sensitive information. They had been fighting to keep the workings …",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "08bfeb655f",
-        "feed": "Techmeme",
-        "tags": [
-          "IA"
-        ],
-        "score": 38,
-        "insight": ""
-      },
-      {
-        "title": "Meta delays new business terms after publisher pushback on AI scraping",
-        "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-        "source": "The Verge",
-        "publisher": "",
-        "section": "news",
-        "publishedAt": "2026-10-23T14:47:41.000Z",
-        "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "Emma Roth",
-        "id": "d34a3f37bd",
-        "feed": "The Verge",
-        "tags": [
-          "IA",
-          "Big Tech",
-          "Rodada"
-        ],
-        "score": 38,
-        "insight": ""
-      },
-      {
-        "title": "Source: Shein has agreed to pay $100M, equivalent to 44% of its Q2 profit, to settle a US FTC investigation over delivery delays and other customer complaints",
-        "url": "https://www.reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23/",
-        "source": "Reuters",
-        "publisher": "Reuters",
-        "section": "news",
-        "publishedAt": "2026-10-23T14:20:01.000Z",
-        "summary": "Chinese fast-fashion giant Shein (0625.HK) has agreed to pay $100 million to settle an investigation by the US Federal Trade Commission …",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "fce8a6b49e",
-        "feed": "Techmeme",
-        "tags": [
-          "Regulação"
-        ],
-        "score": 37.7,
-        "insight": ""
-      }
-    ],
-    "startups": [
-      {
-        "title": "Chinese AI Startup DeepSeek Raises $15 Billion Ahead of Potential IPO",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHIyeDY3eVpWMmZrYnhzZzNkTnpIN1N1OFhMQ1JVeGN1ejNxZlpPSmN0TTFRdzFLbTBvTlNpVDJvQUowcXB5a2VYYmZSZFJOMHBJYm9fVnBITk1YYWRrWkxXQXVDWkhfbng0eThneEF1MmEzMDhIY1kwTTdpRmtZTW85SVJJVjJZZVFlQURsdkZaT1pCVmlwUVd4V0d0a2pLLVk2NFByQ0c?oc=5",
-        "source": "WSJ",
-        "publisher": "WSJ",
-        "section": "startup",
-        "publishedAt": "2026-10-22T10:28:00.000Z",
-        "summary": "",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "9fc07c57ee",
-        "feed": "Google News: Funding",
-        "funding": {
-          "currency": "USD",
-          "amount": 15000000000,
-          "round": ""
-        },
-        "tags": [
-          "IA",
-          "Rodada"
-        ],
-        "score": 50.5,
-        "insight": ""
-      },
-      {
-        "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-        "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-        "source": "TechCrunch Startups",
-        "publisher": "",
-        "section": "startup",
-        "publishedAt": "2026-10-21T20:57:40.000Z",
-        "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "Julie Bort",
-        "id": "27111edd53",
-        "feed": "TechCrunch Startups",
-        "funding": {
-          "currency": "USD",
-          "amount": 1000000000,
-          "round": "seed"
-        },
-        "tags": [
-          "IA",
-          "Rodada"
+          "Big Tech"
         ],
         "score": 50,
         "insight": ""
       },
       {
-        "title": "AI chip startup Tenstorrent raises $1.5 billion in Series E",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcVhuZ2VLNVZzMFdlUXR2YVY5NXhlTWZzSW4tbVNuTW5Ta2ZFcmZBXzIyVUNaYzFvRFRxVUxxdkJWd3h1aXRSbF8xRlktcVZHVTEwcHlXZXFqNzQ4SEp5WFNxUnFsb0UtUmVWak05d2lFTmFibnR0WFIta3RKTldqQzVJY3h2Slk0MTdUdmVmWU5XSE9kdzd1UQ?oc=5",
-        "source": "Evertiq",
-        "publisher": "Evertiq",
-        "section": "startup",
-        "publishedAt": "2026-10-23T08:04:36.000Z",
-        "summary": "",
+        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "source": "Hacker News",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-24T05:49:57.000Z",
+        "summary": "316 pontos e discussão ativa no Hacker News.",
         "image": "",
-        "points": 0,
+        "points": 316,
         "readingMinutes": 0,
-        "author": "",
-        "id": "d3796b6ba3",
-        "feed": "Google News: Funding",
-        "funding": {
-          "currency": "USD",
-          "amount": 1500000000,
-          "round": "Series E"
-        },
+        "author": "testing22321",
+        "id": "3c20f3ab5b",
+        "feed": "Hacker News",
         "tags": [
           "IA",
-          "Chips",
-          "Rodada"
+          "Segurança"
         ],
-        "score": 43.8,
+        "score": 43,
         "insight": ""
       },
       {
-        "title": "Nvidia’s Huang Reveals Investment in AI Video Unicorn Higgsfield",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n?oc=5",
-        "source": "Bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "section": "startup",
-        "publishedAt": "2026-10-23T07:17:16.000Z",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-24T14:00:00.000Z",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Lauren Forristal",
+        "id": "0d4ae8a7dd",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA"
+        ],
+        "score": 39,
+        "insight": ""
+      },
+      {
+        "title": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings",
+        "url": "https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings",
+        "source": "New Yorker",
+        "publisher": "New Yorker",
+        "section": "news",
+        "publishedAt": "2026-10-24T10:35:01.000Z",
+        "summary": "Algorithmic social media, which has helped create the conditions for the spread of such violence, is reckoning with how it can be part of the solution.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "6e77a7f6a1",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 37,
+        "insight": ""
+      },
+      {
+        "title": "What to expect from Apple’s ‘Pro and tell’ event",
+        "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+        "source": "The Verge",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-24T14:15:00.000Z",
+        "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Terrence O’Brien",
+        "id": "75a4fa2743",
+        "feed": "The Verge",
+        "tags": [
+          "Big Tech",
+          "Hardware"
+        ],
+        "score": 36,
+        "insight": ""
+      },
+      {
+        "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors",
+        "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+        "source": "Reuters",
+        "publisher": "Reuters",
+        "section": "news",
+        "publishedAt": "2026-10-24T05:45:00.000Z",
+        "summary": "The discovery of two serious flaws in PHP this week set off a global scramble to keep websites safe from hackers …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "16022eb8eb",
+        "feed": "Techmeme",
+        "tags": [
+          "Segurança"
+        ],
+        "score": 35.3,
+        "insight": ""
+      },
+      {
+        "title": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand",
+        "url": "https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says",
+        "source": "The Information",
+        "publisher": "The Information",
+        "section": "news",
+        "publishedAt": "2026-10-24T02:55:01.000Z",
+        "summary": "Amazon Web Services capacity is mostly booked up through at least next year, Amazon CEO Andy Jassy …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "78a41cb749",
+        "feed": "Techmeme",
+        "tags": [
+          "Big Tech"
+        ],
+        "score": 35.3,
+        "insight": ""
+      },
+      {
+        "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QdIBuwFBVV95cUxQWkFsODZMbW1ZMjhwOXdUcHFSZ01La3kteUFsVXBPVWV1RnRqVzRmLXZZOXZpWklDTk52T3k4ZGkwbHduZHJkdW9rYjhEbXBPLWFiZURiNmt1UUdyaUpqdS1kS1lXTjRJWnA2N0Z4UlR3NnJhUkNyZ3RYMGF4VTRfWDg3emVCWEZ5R1dYcFk3RXc3RjRqQXNhMG82MlR4d2RaNFU2OUNxQmVJcU9OOTNyaXluSjI0N1d6WFg4?oc=5",
+        "source": "CNBC",
+        "publisher": "CNBC",
+        "section": "news",
+        "publishedAt": "2026-10-24T11:00:01.000Z",
         "summary": "",
         "image": "",
         "points": 0,
         "readingMinutes": 0,
         "author": "",
-        "id": "bf51103161",
-        "feed": "Google News: Funding",
-        "funding": null,
+        "id": "a7282c3ffe",
+        "feed": "Google News: IA",
         "tags": [
           "IA",
           "Chips"
         ],
-        "score": 43.3,
+        "score": 34,
         "insight": ""
       },
       {
-        "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
-        "url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
-        "source": "Crunchbase News",
-        "publisher": "",
-        "section": "startup",
-        "publishedAt": "2026-10-22T13:00:23.000Z",
-        "summary": "Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.",
-        "image": "https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg",
+        "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company",
+        "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+        "source": "The Verge",
+        "publisher": "The Verge",
+        "section": "news",
+        "publishedAt": "2026-10-23T21:55:01.000Z",
+        "summary": "Helen Chiang is leaving Microsoft after 21 years. … Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago.",
+        "image": "",
         "points": 0,
         "readingMinutes": 0,
-        "author": "Judy Rider",
-        "id": "029ab17415",
-        "feed": "Crunchbase News",
+        "author": "",
+        "id": "598946c250",
+        "feed": "Techmeme",
+        "tags": [
+          "Big Tech"
+        ],
+        "score": 33.7,
+        "insight": ""
+      },
+      {
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-10-23T21:59:19.000Z",
+        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Julie Bort",
+        "id": "f782f2bc96",
+        "feed": "TechCrunch",
+        "tags": [
+          "Chips"
+        ],
+        "score": 33.7,
+        "insight": ""
+      }
+    ],
+    "startups": [
+      {
+        "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation",
+        "url": "https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes",
+        "source": "The Information",
+        "publisher": "The Information",
+        "section": "startup",
+        "publishedAt": "2026-10-23T23:10:05.000Z",
+        "summary": "While much of the AI industry has fixated on new personal AI assistants from Meta and OpenAI, video AI is enjoying a quiet renaissance. Hollywood mogul Jeffrey Katzenberg …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "16e0e33622",
+        "feed": "Techmeme",
         "funding": {
           "currency": "USD",
-          "amount": 27000000,
-          "round": "Seed"
+          "amount": 60000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Big Tech",
+          "Rodada"
+        ],
+        "score": 57.8,
+        "insight": ""
+      },
+      {
+        "title": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M",
+        "url": "https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx",
+        "source": "CTech",
+        "publisher": "CTech",
+        "section": "startup",
+        "publishedAt": "2026-10-23T21:15:02.000Z",
+        "summary": "The funding, led by Red Dot Capital Partners, brings Mave's total funding to $34 million. The company is developing AI …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "2bb76f8ae3",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 28000000,
+          "round": "Series A"
+        },
+        "tags": [
+          "IA",
+          "Segurança",
+          "Rodada"
+        ],
+        "score": 42.8,
+        "insight": ""
+      },
+      {
+        "title": "AI code testing startup Blacksmith raises $66 million at $1 billion valuation",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUJEZDVwRXZyMjJyakZLWmlXUFVBUk9Cdk9GcTB4dElhdFEwOWZ4MTNhc09oMkFfbjJPcnZfX2ZTWU1LYzBiRTkxTW9pelFOVnZ5cUUyZ1RXRnd2dWJIbkJOemZfanBMcUp5ZVV4MDUySVVCZ0JyTkFQaEVqaUdqdk90OHVRMDZhMFgzYWUtaU0wN3RVOEoyQ1ZjTWc0bmwtWGVHV2lob0JkVWFoaWR6cDkxYXJJVmRwYlp5NTlSd9IBvwFBVV95cUxQLUJEZDVwRXZyMjJyakZLWmlXUFVBUk9Cdk9GcTB4dElhdFEwOWZ4MTNhc09oMkFfbjJPcnZfX2ZTWU1LYzBiRTkxTW9pelFOVnZ5cUUyZ1RXRnd2dWJIbkJOemZfanBMcUp5ZVV4MDUySVVCZ0JyTkFQaEVqaUdqdk90OHVRMDZhMFgzYWUtaU0wN3RVOEoyQ1ZjTWc0bmwtWGVHV2lob0JkVWFoaWR6cDkxYXJJVmRwYlp5NTlSdw?oc=5",
+        "source": "Indian Startup News",
+        "publisher": "Indian Startup News",
+        "section": "startup",
+        "publishedAt": "2026-10-24T07:51:07.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "24d8ec5077",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 66000000,
+          "round": ""
         },
         "tags": [
           "IA",
@@ -405,80 +357,155 @@
         "insight": ""
       },
       {
-        "title": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025",
-        "url": "https://www.axios.com/pro/biotech-deals/2026/10/23/pathos-ai-raises-237m-3b-valuation",
-        "source": "Axios",
-        "publisher": "Axios",
+        "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+        "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
         "section": "startup",
-        "publishedAt": "2026-10-23T12:40:01.000Z",
-        "summary": "Precision oncology biotech Pathos AI said Friday it raised a $237 million Series E round at a $3 billion post-money valuation.",
+        "publishedAt": "2026-10-23T16:26:29.000Z",
+        "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
         "image": "",
         "points": 0,
         "readingMinutes": 0,
-        "author": "",
-        "id": "e10ae9631e",
-        "feed": "Techmeme",
-        "funding": {
-          "currency": "USD",
-          "amount": 237000000,
-          "round": "Series E"
-        },
-        "tags": [
-          "IA",
-          "Rodada"
-        ],
-        "score": 42.7,
-        "insight": ""
-      },
-      {
-        "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
-        "url": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
-        "source": "Crunchbase News",
-        "publisher": "",
-        "section": "startup",
-        "publishedAt": "2026-10-22T11:00:42.000Z",
-        "summary": "In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight…",
-        "image": "https://news.crunchbase.com/wp-content/uploads/Bubble_Investment.jpg",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "Guest Author",
-        "id": "48b0ff3ba8",
-        "feed": "Crunchbase News",
+        "author": "Julie Bort",
+        "id": "14edf46e5a",
+        "feed": "TechCrunch Startups",
         "funding": null,
         "tags": [
           "IA",
           "Rodada"
         ],
-        "score": 37.7,
+        "score": 41,
         "insight": ""
       },
       {
-        "title": "Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup",
-        "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
-        "source": "Wired",
+        "title": "What some of Anthropic’s backers are worth before its IPO",
+        "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+        "source": "TechCrunch Venture",
         "publisher": "",
         "section": "startup",
-        "publishedAt": "2026-10-22T23:15:00.000Z",
-        "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-        "image": "https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg",
+        "publishedAt": "2026-10-23T16:02:43.000Z",
+        "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+        "image": "",
         "points": 0,
         "readingMinutes": 0,
-        "author": "Kate Knibbs",
-        "id": "be059f72c9",
-        "feed": "Wired",
+        "author": "Marina Temkin",
+        "id": "3eff9c5937",
+        "feed": "TechCrunch Venture",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 40.7,
+        "insight": ""
+      },
+      {
+        "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+        "source": "Crunchbase News",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-10-23T18:51:22.000Z",
+        "summary": "It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab Flapping Airplanes. The quirkiest round, meanwhile, was undoubtedly a $200 million…",
+        "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Joanna Glasner",
+        "id": "647a8b9135",
+        "feed": "Crunchbase News",
         "funding": {
           "currency": "USD",
           "amount": 200000000,
           "round": ""
         },
         "tags": [
-          "Rodada"
+          "IA",
+          "Rodada",
+          "Dev"
         ],
         "score": 37,
+        "insight": ""
+      },
+      {
+        "title": "Miami Startup BOB Raises $5.5M To Build An AI-Powered Banking Platform",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXVoczBWWmZhX0Nla3VqSGlqQmtONTVHT2I1QVAtbnhSOWd1czNWWVpKX2VBUTRQTWVCNmFla19sb3FQZWZjUE40d0V2eC1yYURwNWlCTlpFV2VLZHlwVWRFTElZSVU1YjhKQVVYM04xdFhXZE8tSXFHYVFnRmV4UQ?oc=5",
+        "source": "Yahoo Finance UK",
+        "publisher": "Yahoo Finance UK",
+        "section": "startup",
+        "publishedAt": "2026-10-23T15:30:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "e77f3babd1",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 5500000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 33.4,
+        "insight": ""
+      },
+      {
+        "title": "Birmingham AI security startup launches with $10M seed round",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2RzQndGODU2VEdUUzAxXzJEZW9EcXZOZFhwSlB2T2NUX0tKTEN3QzlKcnVqa2Y4ZS1MTWlxM3Z4Y3lGLWpOd3VnTWV6ZWtHZkh5MmVLVFMwUy1sMHU0RG1mYWk4OHJzNlcyWTdaeGR4ZjB3ZjlIVXA3SmFqZDA5TFhGcHplMDA?oc=5",
+        "source": "Crain's Detroit",
+        "publisher": "Crain's Detroit",
+        "section": "startup",
+        "publishedAt": "2026-10-22T16:22:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "d486809a1d",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 10000000,
+          "round": "seed"
+        },
+        "tags": [
+          "IA",
+          "Segurança",
+          "Rodada"
+        ],
+        "score": 31,
         "insight": ""
       }
     ],
     "brasil": [
+      {
+        "title": "Rodadas da semana: Tractian chega a valuation de US$ 1,4 bilhão com nova captação",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcEViYlZ4d0RsMDVXM2YyRExtbjYtV0ktOU5DV0ItMzJpb0V3dTdvYW0wajJHeXNRT244MFNKcmRrMGlmdEQyaFR1enpTLWVGUi1MYmRiWnlCNi1wWU5qT0gzdzFpZVVSdmtzbTh0Q2cySmhTd2ZnQ01KUEJMNFBUQmxzNnRZdWNEYW1jWm9vRmR5OXhPWTdQYjZWTnozMUd1a0FwQlVmanlFdHcwY1JId3o4ZzQxRGw1SUpnM3BPTmdFZjlnWnR4dldMUW51anhteUdz0gHTAUFVX3lxTE5wRWJiVnh3RGwwNVczZjJETG1uNi1XSS05TkNXQi0zMmlvRXd1N29hbTBqMkd5c1FPbjgwU0pyZGswaWZ0RDJoVHV6elMtZUZSLUxiZGJaeUI2LXBZTmpPSDN3MWllVVJ2a3NtOHRDZzJKaFN3ZmdDTUpQQkw0UFRCbHM2dFl1Y0RhbWNab29GZHk5eE9ZN1BiNlZOejMxR3VrQXBCVWZqeUV0dzBjUkh3ejhnNDFEbDVJSmczcE9OZ0VmOWdadHh2V0xRbnVqeG15R3M?oc=5",
+        "source": "Bloomberg Línea Brasil",
+        "publisher": "Bloomberg Línea Brasil",
+        "section": "brasil",
+        "publishedAt": "2026-10-24T05:00:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "e79636950c",
+        "feed": "Google News: Startups BR",
+        "funding": {
+          "currency": "USD",
+          "amount": 1400000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 40.1,
+        "insight": ""
+      },
       {
         "title": "Fundo de VC lança fellowship para desenvolver agentes de IA",
         "url": "https://startups.com.br/dados-e-agentes/fundo-de-vc-lanca-fellowship-para-desenvolver-agentes-de-ia/",
@@ -497,7 +524,7 @@
         "tags": [
           "IA"
         ],
-        "score": 40,
+        "score": 35,
         "insight": ""
       },
       {
@@ -523,7 +550,29 @@
           "IA",
           "Rodada"
         ],
-        "score": 39.1,
+        "score": 34.1,
+        "insight": ""
+      },
+      {
+        "title": "O que são os TOPS dos chips de IA?",
+        "url": "https://canaltech.com.br/hardware/o-que-sao-os-tops-dos-chips-de-ia/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-10-24T11:00:06.000Z",
+        "summary": "Se você acompanhou os últimos lançamentos de hardware, certamente reparou na presença insistente de uma sigla (nova para muitos) nas fichas técnicas: TOPS. Promovida por gigantes como Intel, AMD, Qualcomm e Nvidia, essa métrica se tornou a principal bandeira do marketing para definir o quão…",
+        "image": "https://tl.ctcdn.com.br/cm2hUEOqnSfnPX03jQNE-bIupc4=/0x0/filters:format(webp):quality(85)/9e59a084-7341-41e4-bda5-60b59a04983e.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Raphael Giannotti",
+        "id": "2d1fb603af",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Chips"
+        ],
+        "score": 33,
         "insight": ""
       },
       {
@@ -544,72 +593,29 @@
         "tags": [
           "IA"
         ],
-        "score": 38.3,
+        "score": 30.7,
         "insight": ""
       },
       {
-        "title": "Google avisa assinantes do Gemini sobre transição para novo modelo inteligente",
-        "url": "https://canaltech.com.br/inteligencia-artificial/google-avisa-assinantes-do-gemini-sobre-transicao-para-novo-modelo-inteligente/",
+        "title": "Com comandos no Claude e Grok, hackers atacam mais de 400 instituições financeiras",
+        "url": "https://canaltech.com.br/inteligencia-artificial/com-comandos-no-claude-e-grok-hackers-atacam-mais-de-400-instituicoes-financeiras/",
         "source": "Canaltech",
         "publisher": "",
         "section": "brasil",
-        "publishedAt": "2026-10-23T15:03:00.000Z",
-        "summary": "O Google começou a avisar os assinantes do plano AI Ultra que o Gemini 4 Argon deve substituir em breve o Deep Think, recurso de raciocínio avançado disponível no aplicativo Gemini. A notificação aparece dentro do próprio app, mas não informa uma data para a mudança. Atualmente, o Deep Think…",
-        "image": "https://tl.ctcdn.com.br/U75SLWSekmUd1GiGI4SGG63MNRc=/0x0/filters:format(webp):quality(85)/91d1635b-15e4-4706-8c68-86032e250499.jpg",
+        "publishedAt": "2026-10-23T20:02:00.000Z",
+        "summary": "Um grupo de hackers utilizou o Claude, da Anthropic, e o Grok, da xAI, para automatizar ataques contra mais de 400 instituições financeiras da América Latina. Segundo uma investigação divulgada nesta semana pela empresa de cibersegurança Straiker, os criminosos conseguiram roubar senhas, dados…",
+        "image": "https://tl.ctcdn.com.br/1wkWbOO2eckmvqaSFii-Yxl9tV4=/0x0/filters:format(webp):quality(85)/53dee3d4-b2d5-4dfe-bfa7-5f05e7056eab.png",
         "points": 0,
         "readingMinutes": 0,
-        "author": "Viviane França",
-        "id": "d251ea8537",
+        "author": "Marcelo Fischer",
+        "id": "08a863212d",
         "feed": "Canaltech",
-        "funding": null,
-        "tags": [
-          "IA",
-          "Big Tech"
-        ],
-        "score": 34,
-        "insight": ""
-      },
-      {
-        "title": "Como a Mercedes usa inteligência artificial para criar carros",
-        "url": "https://canaltech.com.br/carros/como-a-mercedes-usa-inteligencia-artificial-para-criar-carros/",
-        "source": "Canaltech",
-        "publisher": "",
-        "section": "brasil",
-        "publishedAt": "2026-10-23T12:04:00.000Z",
-        "summary": "A Mercedes-Benz está usando inteligência artificial para desenvolver carros de forma mais rápida e eficiente. A montadora criou o PLM.AI, uma plataforma que conecta informações de diferentes áreas da engenharia e recebeu investimentos de cerca de 500 milhões de euros. Com a tecnologia, sistemas de…",
-        "image": "https://tl.ctcdn.com.br/tQr3iJ8F0dj2qIQCdSbBMihyh7o=/0x0/filters:format(webp):quality(85)/108b03e5-8087-4347-8b30-8c3e426f023c.jpg",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "Paulo Amaral",
-        "id": "a55c8f8769",
-        "feed": "Canaltech",
-        "funding": null,
-        "tags": [
-          "IA"
-        ],
-        "score": 34,
-        "insight": ""
-      },
-      {
-        "title": "O novo pesadelo dos bancos: agentes de IA ganham vida própria em contas bancárias",
-        "url": "https://neofeed.com.br/negocios/o-novo-pesadelo-dos-bancos-agentes-de-ia-ganham-vida-propria-em-contas-bancarias/",
-        "source": "Neofeed",
-        "publisher": "",
-        "section": "brasil",
-        "publishedAt": "2026-10-22T16:35:09.000Z",
-        "summary": "O avanço acelerado da inteligência artificial (IA) tem sido acompanhado, na mesma medida, pelas preocupações em torno dos potenciais riscos que essa tecnologia pode trazer no campo da segurança. E um novo alerta acaba de ser acionado nesse front. Segundo o portal americano Axios, grandes bancos dos…",
-        "image": "https://neofeed.com.br/wp-content/uploads/2021/12/seguranca-dados-300x169.webp",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "Moacir Drska",
-        "id": "49c67ddce8",
-        "feed": "Neofeed",
         "funding": null,
         "tags": [
           "IA",
           "Segurança"
         ],
-        "score": 32.3,
+        "score": 26,
         "insight": ""
       }
     ],
@@ -632,7 +638,7 @@
           "IA",
           "Chips"
         ],
-        "score": 35.3,
+        "score": 33.3,
         "insight": "Leitura de 85 min."
       },
       {
@@ -653,7 +659,7 @@
           "IA",
           "Segurança"
         ],
-        "score": 34.9,
+        "score": 33,
         "insight": "Leitura de 1 min."
       },
       {
@@ -674,7 +680,7 @@
           "Big Tech",
           "Dev"
         ],
-        "score": 29.6,
+        "score": 27.7,
         "insight": "Leitura de 1 min."
       },
       {
@@ -694,7 +700,7 @@
         "tags": [
           "IA"
         ],
-        "score": 27.8,
+        "score": 25.9,
         "insight": "Leitura de 8 min."
       },
       {
@@ -714,7 +720,7 @@
         "tags": [
           "IA"
         ],
-        "score": 22.3,
+        "score": 20.5,
         "insight": "Análise para ler com calma."
       }
     ],
@@ -727,7 +733,7 @@
         "publishedAt": "2026-10-23T00:00:00.000Z",
         "summary": "OpenDS-World introduces a live-web benchmark to evaluate autonomous multi-step deep search agents, revealing significant gaps between frontier models and human performance.",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.30181.png",
-        "upvotes": 147,
+        "upvotes": 153,
         "github": "https://github.com/Yu-xm/OpenDS",
         "authors": [
           "Xiaomin Yu",
@@ -738,8 +744,8 @@
         "id": "c78b9c094b",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 67,
-        "insight": "Em alta na comunidade, com 147 upvotes no Hugging Face."
+        "score": 60,
+        "insight": "Em alta na comunidade, com 153 upvotes no Hugging Face."
       },
       {
         "title": "Toward Recursive Self-Improvement in Physical AI",
@@ -749,7 +755,7 @@
         "publishedAt": "2026-10-23T00:00:00.000Z",
         "summary": "Recursive self-improvement (RSI) describes a system that improves not only its behavior but also the process by which it improves. Recent digital agents test this idea by rewriting their own code and checking each version with executable tests. Bringing these mechanisms into the physical world…",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.29677.png",
-        "upvotes": 44,
+        "upvotes": 50,
         "github": "https://github.com/Physical2RSI/Awesome-Physical2RSI",
         "authors": [
           "Meng Luo",
@@ -760,8 +766,8 @@
         "id": "2a76e5ab6c",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 62,
-        "insight": "Em alta na comunidade, com 44 upvotes no Hugging Face."
+        "score": 55,
+        "insight": "Em alta na comunidade, com 50 upvotes no Hugging Face."
       },
       {
         "title": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
@@ -771,7 +777,7 @@
         "publishedAt": "2026-10-23T00:00:00.000Z",
         "summary": "Researchers introduce a benchmark and evaluation framework for video-centered deep research agents that synthesize external evidence into interactive reports linked to video moments.",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.31158.png",
-        "upvotes": 16,
+        "upvotes": 17,
         "github": "https://github.com/marinero4972/OmniDR-Bench",
         "authors": [
           "Jiahao Meng",
@@ -782,8 +788,30 @@
         "id": "45f855ed6f",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 57.5,
+        "score": 51,
         "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+      },
+      {
+        "title": "FilmFlow: Agentic System for 3D Virtual Film Cinematography",
+        "url": "https://huggingface.co/papers/2610.30753",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-10-23T00:00:00.000Z",
+        "summary": "FilmFlow is an agentic framework that translates natural-language or video instructions into executable camera trajectories for 3D scenes using specialized director, interpreter, scout, and critic agents, evaluated on the CinemaBench dataset.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.30753.png",
+        "upvotes": 26,
+        "github": "",
+        "authors": [
+          "Yiming Zhang",
+          "Jiarui Guo",
+          "Haojia Wei"
+        ],
+        "organization": "",
+        "id": "bf7522cb1f",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 50.5,
+        "insight": "Em alta na comunidade, com 26 upvotes no Hugging Face."
       },
       {
         "title": "RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing",
@@ -793,7 +821,7 @@
         "publishedAt": "2026-10-23T00:00:00.000Z",
         "summary": "RouteWeaver unifies heterogeneous LLM routing modes via coordinated training and progressive exploration, improving accuracy across diverse reasoning tasks.",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.19705.png",
-        "upvotes": 15,
+        "upvotes": 18,
         "github": "https://github.com/LaughKing/RouteWeaver",
         "authors": [
           "Xiaohan Wang",
@@ -804,7 +832,7 @@
         "id": "96c88dba6b",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 56,
+        "score": 50.5,
         "insight": "Vem com código aberto, fácil de experimentar."
       },
       {
@@ -815,7 +843,7 @@
         "publishedAt": "2026-10-23T00:00:00.000Z",
         "summary": "Code2Video-Compass is a benchmark evaluating multimodal language models on code-based video generation across text, image, and video inputs, revealing significant challenges in complex dynamic and state-dependent tasks.",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28416.png",
-        "upvotes": 22,
+        "upvotes": 24,
         "github": "https://github.com/code2video-compass/Code2Video-Compass",
         "authors": [
           "Zhenghan Chen",
@@ -826,48 +854,26 @@
         "id": "69486e32d3",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 54.1,
-        "insight": "Em alta na comunidade, com 22 upvotes no Hugging Face."
-      },
-      {
-        "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
-        "url": "https://huggingface.co/papers/2610.27851",
-        "source": "Hugging Face Papers",
-        "section": "paper",
-        "publishedAt": "2026-10-23T00:00:00.000Z",
-        "summary": "LaLa-World is a language-conditioned latent world model that jointly learns from diverse simulation, robot, and video data to enable efficient model-predictive planning and policy initialization.",
-        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.27851.png",
-        "upvotes": 26,
-        "github": "https://github.com/junha1125/LaLa-World",
-        "authors": [
-          "Junha Song",
-          "Geonmo Gu",
-          "Jeongeun Park"
-        ],
-        "organization": "NAVER AI Lab",
-        "id": "1d7cbb7371",
-        "feed": "Hugging Face Papers",
-        "tags": [],
-        "score": 53.5,
-        "insight": "Em alta na comunidade, com 26 upvotes no Hugging Face."
+        "score": 47.9,
+        "insight": "Em alta na comunidade, com 24 upvotes no Hugging Face."
       }
     ],
     "repos": [
       {
-        "title": "Gathin23/cleanyourtv",
-        "url": "https://github.com/Gathin23/cleanyourtv",
+        "title": "pengchujin/aerial-tv",
+        "url": "https://github.com/pengchujin/aerial-tv",
         "source": "GitHub",
         "section": "repo",
-        "publishedAt": "2026-10-17T08:12:35.000Z",
-        "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-        "stars": 26920,
-        "language": "Java",
-        "image": "https://avatars.githubusercontent.com/u/94786511?v=4",
-        "id": "ab0e470b36",
+        "publishedAt": "2026-10-20T09:13:06.000Z",
+        "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "stars": 4231,
+        "language": "Kotlin",
+        "image": "https://avatars.githubusercontent.com/u/16513318?v=4",
+        "id": "e31af640f4",
         "feed": "GitHub",
         "tags": [],
-        "score": 14.7,
-        "insight": "26.920 estrelas em poucos dias, escrito em Java."
+        "score": 12,
+        "insight": "4.231 estrelas em poucos dias, escrito em Kotlin."
       },
       {
         "title": "simbasjungles/free-my-tv",
@@ -876,30 +882,14 @@
         "section": "repo",
         "publishedAt": "2026-10-19T19:29:01.000Z",
         "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-        "stars": 3781,
+        "stars": 4134,
         "language": "Java",
         "image": "https://avatars.githubusercontent.com/u/192837953?v=4",
         "id": "f097e65b6a",
         "feed": "GitHub",
         "tags": [],
-        "score": 11.9,
-        "insight": "3.781 estrelas em poucos dias, escrito em Java."
-      },
-      {
-        "title": "pengchujin/aerial-tv",
-        "url": "https://github.com/pengchujin/aerial-tv",
-        "source": "GitHub",
-        "section": "repo",
-        "publishedAt": "2026-10-20T09:13:06.000Z",
-        "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-        "stars": 3715,
-        "language": "Kotlin",
-        "image": "https://avatars.githubusercontent.com/u/16513318?v=4",
-        "id": "e31af640f4",
-        "feed": "GitHub",
-        "tags": [],
-        "score": 11.9,
-        "insight": "3.715 estrelas em poucos dias, escrito em Kotlin."
+        "score": 12,
+        "insight": "4.134 estrelas em poucos dias, escrito em Java."
       },
       {
         "title": "xiaoyang111222/cn-math-taxonomy",
@@ -908,397 +898,365 @@
         "section": "repo",
         "publishedAt": "2026-10-18T09:04:43.000Z",
         "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-        "stars": 2680,
+        "stars": 3063,
         "language": "Python",
         "image": "https://avatars.githubusercontent.com/u/79557224?v=4",
         "id": "32ba8cb45e",
         "feed": "GitHub",
         "tags": [],
-        "score": 11.4,
-        "insight": "2.680 estrelas em poucos dias, escrito em Python."
+        "score": 11.6,
+        "insight": "3.063 estrelas em poucos dias, escrito em Python."
       },
       {
-        "title": "tek-sys-hub/Rubix-lang",
-        "url": "https://github.com/tek-sys-hub/Rubix-lang",
+        "title": "JoasASantos/REA-Prompts",
+        "url": "https://github.com/JoasASantos/REA-Prompts",
         "source": "GitHub",
         "section": "repo",
-        "publishedAt": "2026-10-19T05:34:37.000Z",
-        "summary": "The 100% Pure x86-64 Assembly Systems Language",
+        "publishedAt": "2026-10-19T22:20:47.000Z",
+        "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
         "stars": 1914,
-        "language": "Assembly",
-        "image": "https://avatars.githubusercontent.com/u/249392719?v=4",
-        "id": "41f2bb2586",
+        "language": "",
+        "image": "https://avatars.githubusercontent.com/u/34966120?v=4",
+        "id": "ae75968c85",
         "feed": "GitHub",
         "tags": [],
         "score": 10.9,
-        "insight": "1.914 estrelas em poucos dias, escrito em Assembly."
+        "insight": "1.914 estrelas em poucos dias."
       },
       {
-        "title": "aicodeking/leanrea",
-        "url": "https://github.com/aicodeking/leanrea",
+        "title": "EthanArbuckle/fairplay-decrypt",
+        "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
         "source": "GitHub",
         "section": "repo",
-        "publishedAt": "2026-10-17T02:53:24.000Z",
-        "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-        "stars": 1670,
-        "language": "Python",
-        "image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-        "id": "1717937cb1",
+        "publishedAt": "2026-10-19T10:07:58.000Z",
+        "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
+        "stars": 1847,
+        "language": "C",
+        "image": "https://avatars.githubusercontent.com/u/4250718?v=4",
+        "id": "d0f7949f51",
         "feed": "GitHub",
         "tags": [],
-        "score": 10.7,
-        "insight": "1.670 estrelas em poucos dias, escrito em Python."
+        "score": 10.9,
+        "insight": "1.847 estrelas em poucos dias, escrito em C."
+      },
+      {
+        "title": "ikow/php2shell-poc",
+        "url": "https://github.com/ikow/php2shell-poc",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-10-21T07:55:16.000Z",
+        "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+        "stars": 1739,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+        "id": "4bef72e594",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.8,
+        "insight": "1.739 estrelas em poucos dias, escrito em Python."
       }
     ]
   },
   "items": [
     {
-      "title": "Anthropic says it partnered with Theorem to use Claude to formally prove useful security properties at the assembly code level across 123 open-source libraries",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "source": "Anthropic",
-      "publisher": "Anthropic",
-      "section": "news",
-      "publishedAt": "2026-10-23T09:15:03.000Z",
-      "summary": "Introduction &mdash; Even mature, heavily tested software contains bugs, and LLMs are increasingly adept at finding them.",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "1360bd8eb5",
-      "feed": "Techmeme",
-      "tags": [
-        "IA",
-        "Segurança",
-        "Dev"
-      ],
-      "score": 47,
-      "insight": ""
-    },
-    {
-      "title": "OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch",
-      "publisher": "TechCrunch",
-      "section": "news",
-      "publishedAt": "2026-10-23T13:25:02.000Z",
-      "summary": "OpenAI made its Decisions API model widely available to users for the first time, entering the market for fast …",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "1d8d266cc0",
-      "feed": "Techmeme",
-      "tags": [
-        "IA"
-      ],
-      "score": 42.3,
-      "insight": ""
-    },
-    {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "source": "Hacker News",
-      "publisher": "",
-      "section": "news",
-      "publishedAt": "2026-10-22T17:44:06.000Z",
-      "summary": "458 pontos e discussão ativa no Hacker News.",
-      "image": "",
-      "points": 458,
-      "readingMinutes": 0,
-      "author": "niemandhier",
-      "id": "4dcdb95578",
-      "feed": "Hacker News",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "score": 42,
-      "insight": ""
-    },
-    {
-      "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG9BQ0x2T2hkMERBYUQ5dm5NcE9aUEFFY2VEd2hZQnZONVlJSHJNYWQ1alZpdDNxMHlwa2ZScjUtNXZZOEJCYTRYdEZNRExTTkE1Q2V4ZHdCejVfLWRpTHJsRkptdlhLV1pOOG9VOVZkaVlSY29lckVVWVBGMmVtZHFibzNqZUVTcThXZm0yd1VKX2cwLVNsemVWZ0Y3X2U0MUVIV0Jrbw?oc=5",
-      "source": "Yahoo Finance",
-      "publisher": "Yahoo Finance",
-      "section": "news",
-      "publishedAt": "2026-10-23T14:50:00.000Z",
-      "summary": "",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "3250bd6b16",
-      "feed": "Google News: IA",
-      "tags": [
-        "IA",
-        "Chips"
-      ],
-      "score": 41,
-      "insight": ""
-    },
-    {
-      "title": "People are vibe coding their way to better TVs",
-      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
       "source": "The Verge",
       "publisher": "",
       "section": "news",
-      "publishedAt": "2026-10-23T13:00:00.000Z",
-      "summary": "Just imagine… a nice, clean homescreen with no ads, thanks to Claude. | Image: cleanyourtv Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and…",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "summary": "The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark…",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "points": 0,
       "readingMinutes": 0,
-      "author": "John Higgins",
-      "id": "d28dfc1dfe",
+      "author": "Antonio G. Di Benedetto",
+      "id": "1b7d2312ec",
       "feed": "The Verge",
       "tags": [
-        "IA",
-        "Dev"
-      ],
-      "score": 40.3,
-      "insight": ""
-    },
-    {
-      "title": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
-      "source": "Bloomberg",
-      "publisher": "Bloomberg",
-      "section": "news",
-      "publishedAt": "2026-10-23T06:00:56.000Z",
-      "summary": "SK Hyper Co. is in talks with big tech firms and financial investors to secure funding for an envisioned $350 billion data center buildout …",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "38ee38f8d1",
-      "feed": "Techmeme",
-      "tags": [
-        "Rodada"
+        "Chips",
+        "Big Tech",
+        "Hardware"
       ],
       "score": 39,
       "insight": ""
     },
     {
-      "title": "The US Treasury proposes a rule to crack down on US high-tech investments in areas like AI and supercomputing in China, Russia, and other \"countries of concern\"",
-      "url": "https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9",
-      "source": "Associated Press",
-      "publisher": "Associated Press",
+      "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind",
+      "url": "https://www.bbc.com/news/articles/cqdjv8xllvyyo",
+      "source": "BBC",
+      "publisher": "BBC",
       "section": "news",
-      "publishedAt": "2026-10-23T01:10:01.000Z",
-      "summary": "The U.S. Treasury Department proposed a rule Thursday to crack down on American high-tech investments such as supercomputing …",
+      "publishedAt": "2026-10-24T01:20:01.000Z",
+      "summary": "The UK says it will establish a national AI Biosecurity Lab (AIBL) to help strengthen its defences against emerging biological threats.",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
       "author": "",
-      "id": "c6d9502b61",
-      "feed": "Techmeme",
-      "tags": [
-        "IA"
-      ],
-      "score": 38.3,
-      "insight": ""
-    },
-    {
-      "title": "An interview with Intel's leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more",
-      "url": "https://www.dwarkesh.com/p/intel-tour",
-      "source": "Dwarkesh Podcast",
-      "publisher": "Dwarkesh Podcast",
-      "section": "news",
-      "publishedAt": "2026-10-23T11:45:14.000Z",
-      "summary": "What I learned from touring Intel's most advanced fab and talking to its leadership. &mdash; I spent two days touring Intel's …",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "fff294f4b8",
+      "id": "c58f43d7ff",
       "feed": "Techmeme",
       "tags": [
         "IA",
-        "Chips"
-      ],
-      "score": 38,
-      "insight": ""
-    },
-    {
-      "title": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats",
-      "url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853?st=H9AUaC&reflink=desktopwebshare_permalink",
-      "source": "Wall Street Journal",
-      "publisher": "Wall Street Journal",
-      "section": "news",
-      "publishedAt": "2026-10-23T02:50:50.000Z",
-      "summary": "The company fired three safety researchers for mishandling sensitive information. They had been fighting to keep the workings …",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "08bfeb655f",
-      "feed": "Techmeme",
-      "tags": [
-        "IA"
-      ],
-      "score": 38,
-      "insight": ""
-    },
-    {
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "source": "The Verge",
-      "publisher": "",
-      "section": "news",
-      "publishedAt": "2026-10-23T14:47:41.000Z",
-      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect…",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "Emma Roth",
-      "id": "d34a3f37bd",
-      "feed": "The Verge",
-      "tags": [
-        "IA",
-        "Big Tech",
-        "Rodada"
-      ],
-      "score": 38,
-      "insight": ""
-    },
-    {
-      "title": "Source: Shein has agreed to pay $100M, equivalent to 44% of its Q2 profit, to settle a US FTC investigation over delivery delays and other customer complaints",
-      "url": "https://www.reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23/",
-      "source": "Reuters",
-      "publisher": "Reuters",
-      "section": "news",
-      "publishedAt": "2026-10-23T14:20:01.000Z",
-      "summary": "Chinese fast-fashion giant Shein (0625.HK) has agreed to pay $100 million to settle an investigation by the US Federal Trade Commission …",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "fce8a6b49e",
-      "feed": "Techmeme",
-      "tags": [
-        "Regulação"
-      ],
-      "score": 37.7,
-      "insight": ""
-    },
-    {
-      "title": "Chinese AI Startup DeepSeek Raises $15 Billion Ahead of Potential IPO",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHIyeDY3eVpWMmZrYnhzZzNkTnpIN1N1OFhMQ1JVeGN1ejNxZlpPSmN0TTFRdzFLbTBvTlNpVDJvQUowcXB5a2VYYmZSZFJOMHBJYm9fVnBITk1YYWRrWkxXQXVDWkhfbng0eThneEF1MmEzMDhIY1kwTTdpRmtZTW85SVJJVjJZZVFlQURsdkZaT1pCVmlwUVd4V0d0a2pLLVk2NFByQ0c?oc=5",
-      "source": "WSJ",
-      "publisher": "WSJ",
-      "section": "startup",
-      "publishedAt": "2026-10-22T10:28:00.000Z",
-      "summary": "",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "9fc07c57ee",
-      "feed": "Google News: Funding",
-      "funding": {
-        "currency": "USD",
-        "amount": 15000000000,
-        "round": ""
-      },
-      "tags": [
-        "IA",
-        "Rodada"
-      ],
-      "score": 50.5,
-      "insight": ""
-    },
-    {
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "source": "TechCrunch Startups",
-      "publisher": "",
-      "section": "startup",
-      "publishedAt": "2026-10-21T20:57:40.000Z",
-      "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "Julie Bort",
-      "id": "27111edd53",
-      "feed": "TechCrunch Startups",
-      "funding": {
-        "currency": "USD",
-        "amount": 1000000000,
-        "round": "seed"
-      },
-      "tags": [
-        "IA",
-        "Rodada"
+        "Big Tech"
       ],
       "score": 50,
       "insight": ""
     },
     {
-      "title": "AI chip startup Tenstorrent raises $1.5 billion in Series E",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcVhuZ2VLNVZzMFdlUXR2YVY5NXhlTWZzSW4tbVNuTW5Ta2ZFcmZBXzIyVUNaYzFvRFRxVUxxdkJWd3h1aXRSbF8xRlktcVZHVTEwcHlXZXFqNzQ4SEp5WFNxUnFsb0UtUmVWak05d2lFTmFibnR0WFIta3RKTldqQzVJY3h2Slk0MTdUdmVmWU5XSE9kdzd1UQ?oc=5",
-      "source": "Evertiq",
-      "publisher": "Evertiq",
-      "section": "startup",
-      "publishedAt": "2026-10-23T08:04:36.000Z",
-      "summary": "",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "source": "Hacker News",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-24T05:49:57.000Z",
+      "summary": "316 pontos e discussão ativa no Hacker News.",
       "image": "",
-      "points": 0,
+      "points": 316,
       "readingMinutes": 0,
-      "author": "",
-      "id": "d3796b6ba3",
-      "feed": "Google News: Funding",
-      "funding": {
-        "currency": "USD",
-        "amount": 1500000000,
-        "round": "Series E"
-      },
+      "author": "testing22321",
+      "id": "3c20f3ab5b",
+      "feed": "Hacker News",
       "tags": [
         "IA",
-        "Chips",
-        "Rodada"
+        "Segurança"
       ],
-      "score": 43.8,
+      "score": 43,
       "insight": ""
     },
     {
-      "title": "Nvidia’s Huang Reveals Investment in AI Video Unicorn Higgsfield",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n?oc=5",
-      "source": "Bloomberg.com",
-      "publisher": "Bloomberg.com",
-      "section": "startup",
-      "publishedAt": "2026-10-23T07:17:16.000Z",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Lauren Forristal",
+      "id": "0d4ae8a7dd",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA"
+      ],
+      "score": 39,
+      "insight": ""
+    },
+    {
+      "title": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings",
+      "url": "https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings",
+      "source": "New Yorker",
+      "publisher": "New Yorker",
+      "section": "news",
+      "publishedAt": "2026-10-24T10:35:01.000Z",
+      "summary": "Algorithmic social media, which has helped create the conditions for the spread of such violence, is reckoning with how it can be part of the solution.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "6e77a7f6a1",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 37,
+      "insight": ""
+    },
+    {
+      "title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "source": "The Verge",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-24T14:15:00.000Z",
+      "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los…",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Terrence O’Brien",
+      "id": "75a4fa2743",
+      "feed": "The Verge",
+      "tags": [
+        "Big Tech",
+        "Hardware"
+      ],
+      "score": 36,
+      "insight": ""
+    },
+    {
+      "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors",
+      "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+      "source": "Reuters",
+      "publisher": "Reuters",
+      "section": "news",
+      "publishedAt": "2026-10-24T05:45:00.000Z",
+      "summary": "The discovery of two serious flaws in PHP this week set off a global scramble to keep websites safe from hackers …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "16022eb8eb",
+      "feed": "Techmeme",
+      "tags": [
+        "Segurança"
+      ],
+      "score": 35.3,
+      "insight": ""
+    },
+    {
+      "title": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand",
+      "url": "https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says",
+      "source": "The Information",
+      "publisher": "The Information",
+      "section": "news",
+      "publishedAt": "2026-10-24T02:55:01.000Z",
+      "summary": "Amazon Web Services capacity is mostly booked up through at least next year, Amazon CEO Andy Jassy …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "78a41cb749",
+      "feed": "Techmeme",
+      "tags": [
+        "Big Tech"
+      ],
+      "score": 35.3,
+      "insight": ""
+    },
+    {
+      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QdIBuwFBVV95cUxQWkFsODZMbW1ZMjhwOXdUcHFSZ01La3kteUFsVXBPVWV1RnRqVzRmLXZZOXZpWklDTk52T3k4ZGkwbHduZHJkdW9rYjhEbXBPLWFiZURiNmt1UUdyaUpqdS1kS1lXTjRJWnA2N0Z4UlR3NnJhUkNyZ3RYMGF4VTRfWDg3emVCWEZ5R1dYcFk3RXc3RjRqQXNhMG82MlR4d2RaNFU2OUNxQmVJcU9OOTNyaXluSjI0N1d6WFg4?oc=5",
+      "source": "CNBC",
+      "publisher": "CNBC",
+      "section": "news",
+      "publishedAt": "2026-10-24T11:00:01.000Z",
       "summary": "",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
       "author": "",
-      "id": "bf51103161",
-      "feed": "Google News: Funding",
-      "funding": null,
+      "id": "a7282c3ffe",
+      "feed": "Google News: IA",
       "tags": [
         "IA",
         "Chips"
       ],
-      "score": 43.3,
+      "score": 34,
       "insight": ""
     },
     {
-      "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
-      "url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
-      "source": "Crunchbase News",
-      "publisher": "",
-      "section": "startup",
-      "publishedAt": "2026-10-22T13:00:23.000Z",
-      "summary": "Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg",
+      "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "source": "The Verge",
+      "publisher": "The Verge",
+      "section": "news",
+      "publishedAt": "2026-10-23T21:55:01.000Z",
+      "summary": "Helen Chiang is leaving Microsoft after 21 years. … Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago.",
+      "image": "",
       "points": 0,
       "readingMinutes": 0,
-      "author": "Judy Rider",
-      "id": "029ab17415",
-      "feed": "Crunchbase News",
+      "author": "",
+      "id": "598946c250",
+      "feed": "Techmeme",
+      "tags": [
+        "Big Tech"
+      ],
+      "score": 33.7,
+      "insight": ""
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-10-23T21:59:19.000Z",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Julie Bort",
+      "id": "f782f2bc96",
+      "feed": "TechCrunch",
+      "tags": [
+        "Chips"
+      ],
+      "score": 33.7,
+      "insight": ""
+    },
+    {
+      "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation",
+      "url": "https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes",
+      "source": "The Information",
+      "publisher": "The Information",
+      "section": "startup",
+      "publishedAt": "2026-10-23T23:10:05.000Z",
+      "summary": "While much of the AI industry has fixated on new personal AI assistants from Meta and OpenAI, video AI is enjoying a quiet renaissance. Hollywood mogul Jeffrey Katzenberg …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "16e0e33622",
+      "feed": "Techmeme",
       "funding": {
         "currency": "USD",
-        "amount": 27000000,
-        "round": "Seed"
+        "amount": 60000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Big Tech",
+        "Rodada"
+      ],
+      "score": 57.8,
+      "insight": ""
+    },
+    {
+      "title": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M",
+      "url": "https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx",
+      "source": "CTech",
+      "publisher": "CTech",
+      "section": "startup",
+      "publishedAt": "2026-10-23T21:15:02.000Z",
+      "summary": "The funding, led by Red Dot Capital Partners, brings Mave's total funding to $34 million. The company is developing AI …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "2bb76f8ae3",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 28000000,
+        "round": "Series A"
+      },
+      "tags": [
+        "IA",
+        "Segurança",
+        "Rodada"
+      ],
+      "score": 42.8,
+      "insight": ""
+    },
+    {
+      "title": "AI code testing startup Blacksmith raises $66 million at $1 billion valuation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUJEZDVwRXZyMjJyakZLWmlXUFVBUk9Cdk9GcTB4dElhdFEwOWZ4MTNhc09oMkFfbjJPcnZfX2ZTWU1LYzBiRTkxTW9pelFOVnZ5cUUyZ1RXRnd2dWJIbkJOemZfanBMcUp5ZVV4MDUySVVCZ0JyTkFQaEVqaUdqdk90OHVRMDZhMFgzYWUtaU0wN3RVOEoyQ1ZjTWc0bmwtWGVHV2lob0JkVWFoaWR6cDkxYXJJVmRwYlp5NTlSd9IBvwFBVV95cUxQLUJEZDVwRXZyMjJyakZLWmlXUFVBUk9Cdk9GcTB4dElhdFEwOWZ4MTNhc09oMkFfbjJPcnZfX2ZTWU1LYzBiRTkxTW9pelFOVnZ5cUUyZ1RXRnd2dWJIbkJOemZfanBMcUp5ZVV4MDUySVVCZ0JyTkFQaEVqaUdqdk90OHVRMDZhMFgzYWUtaU0wN3RVOEoyQ1ZjTWc0bmwtWGVHV2lob0JkVWFoaWR6cDkxYXJJVmRwYlp5NTlSdw?oc=5",
+      "source": "Indian Startup News",
+      "publisher": "Indian Startup News",
+      "section": "startup",
+      "publishedAt": "2026-10-24T07:51:07.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "24d8ec5077",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 66000000,
+        "round": ""
       },
       "tags": [
         "IA",
@@ -1308,76 +1266,151 @@
       "insight": ""
     },
     {
-      "title": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025",
-      "url": "https://www.axios.com/pro/biotech-deals/2026/10/23/pathos-ai-raises-237m-3b-valuation",
-      "source": "Axios",
-      "publisher": "Axios",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
       "section": "startup",
-      "publishedAt": "2026-10-23T12:40:01.000Z",
-      "summary": "Precision oncology biotech Pathos AI said Friday it raised a $237 million Series E round at a $3 billion post-money valuation.",
+      "publishedAt": "2026-10-23T16:26:29.000Z",
+      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
-      "author": "",
-      "id": "e10ae9631e",
-      "feed": "Techmeme",
-      "funding": {
-        "currency": "USD",
-        "amount": 237000000,
-        "round": "Series E"
-      },
-      "tags": [
-        "IA",
-        "Rodada"
-      ],
-      "score": 42.7,
-      "insight": ""
-    },
-    {
-      "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
-      "url": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
-      "source": "Crunchbase News",
-      "publisher": "",
-      "section": "startup",
-      "publishedAt": "2026-10-22T11:00:42.000Z",
-      "summary": "In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight…",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Bubble_Investment.jpg",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "Guest Author",
-      "id": "48b0ff3ba8",
-      "feed": "Crunchbase News",
+      "author": "Julie Bort",
+      "id": "14edf46e5a",
+      "feed": "TechCrunch Startups",
       "funding": null,
       "tags": [
         "IA",
         "Rodada"
       ],
-      "score": 37.7,
+      "score": 41,
       "insight": ""
     },
     {
-      "title": "Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup",
-      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
-      "source": "Wired",
+      "title": "What some of Anthropic’s backers are worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TechCrunch Venture",
       "publisher": "",
       "section": "startup",
-      "publishedAt": "2026-10-22T23:15:00.000Z",
-      "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-      "image": "https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg",
+      "publishedAt": "2026-10-23T16:02:43.000Z",
+      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+      "image": "",
       "points": 0,
       "readingMinutes": 0,
-      "author": "Kate Knibbs",
-      "id": "be059f72c9",
-      "feed": "Wired",
+      "author": "Marina Temkin",
+      "id": "3eff9c5937",
+      "feed": "TechCrunch Venture",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 40.7,
+      "insight": ""
+    },
+    {
+      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+      "source": "Crunchbase News",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-10-23T18:51:22.000Z",
+      "summary": "It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab Flapping Airplanes. The quirkiest round, meanwhile, was undoubtedly a $200 million…",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Joanna Glasner",
+      "id": "647a8b9135",
+      "feed": "Crunchbase News",
       "funding": {
         "currency": "USD",
         "amount": 200000000,
         "round": ""
       },
       "tags": [
-        "Rodada"
+        "IA",
+        "Rodada",
+        "Dev"
       ],
       "score": 37,
+      "insight": ""
+    },
+    {
+      "title": "Miami Startup BOB Raises $5.5M To Build An AI-Powered Banking Platform",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXVoczBWWmZhX0Nla3VqSGlqQmtONTVHT2I1QVAtbnhSOWd1czNWWVpKX2VBUTRQTWVCNmFla19sb3FQZWZjUE40d0V2eC1yYURwNWlCTlpFV2VLZHlwVWRFTElZSVU1YjhKQVVYM04xdFhXZE8tSXFHYVFnRmV4UQ?oc=5",
+      "source": "Yahoo Finance UK",
+      "publisher": "Yahoo Finance UK",
+      "section": "startup",
+      "publishedAt": "2026-10-23T15:30:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "e77f3babd1",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 5500000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 33.4,
+      "insight": ""
+    },
+    {
+      "title": "Birmingham AI security startup launches with $10M seed round",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2RzQndGODU2VEdUUzAxXzJEZW9EcXZOZFhwSlB2T2NUX0tKTEN3QzlKcnVqa2Y4ZS1MTWlxM3Z4Y3lGLWpOd3VnTWV6ZWtHZkh5MmVLVFMwUy1sMHU0RG1mYWk4OHJzNlcyWTdaeGR4ZjB3ZjlIVXA3SmFqZDA5TFhGcHplMDA?oc=5",
+      "source": "Crain's Detroit",
+      "publisher": "Crain's Detroit",
+      "section": "startup",
+      "publishedAt": "2026-10-22T16:22:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "d486809a1d",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 10000000,
+        "round": "seed"
+      },
+      "tags": [
+        "IA",
+        "Segurança",
+        "Rodada"
+      ],
+      "score": 31,
+      "insight": ""
+    },
+    {
+      "title": "Rodadas da semana: Tractian chega a valuation de US$ 1,4 bilhão com nova captação",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcEViYlZ4d0RsMDVXM2YyRExtbjYtV0ktOU5DV0ItMzJpb0V3dTdvYW0wajJHeXNRT244MFNKcmRrMGlmdEQyaFR1enpTLWVGUi1MYmRiWnlCNi1wWU5qT0gzdzFpZVVSdmtzbTh0Q2cySmhTd2ZnQ01KUEJMNFBUQmxzNnRZdWNEYW1jWm9vRmR5OXhPWTdQYjZWTnozMUd1a0FwQlVmanlFdHcwY1JId3o4ZzQxRGw1SUpnM3BPTmdFZjlnWnR4dldMUW51anhteUdz0gHTAUFVX3lxTE5wRWJiVnh3RGwwNVczZjJETG1uNi1XSS05TkNXQi0zMmlvRXd1N29hbTBqMkd5c1FPbjgwU0pyZGswaWZ0RDJoVHV6elMtZUZSLUxiZGJaeUI2LXBZTmpPSDN3MWllVVJ2a3NtOHRDZzJKaFN3ZmdDTUpQQkw0UFRCbHM2dFl1Y0RhbWNab29GZHk5eE9ZN1BiNlZOejMxR3VrQXBCVWZqeUV0dzBjUkh3ejhnNDFEbDVJSmczcE9OZ0VmOWdadHh2V0xRbnVqeG15R3M?oc=5",
+      "source": "Bloomberg Línea Brasil",
+      "publisher": "Bloomberg Línea Brasil",
+      "section": "brasil",
+      "publishedAt": "2026-10-24T05:00:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "e79636950c",
+      "feed": "Google News: Startups BR",
+      "funding": {
+        "currency": "USD",
+        "amount": 1400000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 40.1,
       "insight": ""
     },
     {
@@ -1398,7 +1431,7 @@
       "tags": [
         "IA"
       ],
-      "score": 40,
+      "score": 35,
       "insight": ""
     },
     {
@@ -1424,7 +1457,29 @@
         "IA",
         "Rodada"
       ],
-      "score": 39.1,
+      "score": 34.1,
+      "insight": ""
+    },
+    {
+      "title": "O que são os TOPS dos chips de IA?",
+      "url": "https://canaltech.com.br/hardware/o-que-sao-os-tops-dos-chips-de-ia/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-10-24T11:00:06.000Z",
+      "summary": "Se você acompanhou os últimos lançamentos de hardware, certamente reparou na presença insistente de uma sigla (nova para muitos) nas fichas técnicas: TOPS. Promovida por gigantes como Intel, AMD, Qualcomm e Nvidia, essa métrica se tornou a principal bandeira do marketing para definir o quão…",
+      "image": "https://tl.ctcdn.com.br/cm2hUEOqnSfnPX03jQNE-bIupc4=/0x0/filters:format(webp):quality(85)/9e59a084-7341-41e4-bda5-60b59a04983e.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Raphael Giannotti",
+      "id": "2d1fb603af",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Chips"
+      ],
+      "score": 33,
       "insight": ""
     },
     {
@@ -1445,72 +1500,29 @@
       "tags": [
         "IA"
       ],
-      "score": 38.3,
+      "score": 30.7,
       "insight": ""
     },
     {
-      "title": "Google avisa assinantes do Gemini sobre transição para novo modelo inteligente",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-avisa-assinantes-do-gemini-sobre-transicao-para-novo-modelo-inteligente/",
+      "title": "Com comandos no Claude e Grok, hackers atacam mais de 400 instituições financeiras",
+      "url": "https://canaltech.com.br/inteligencia-artificial/com-comandos-no-claude-e-grok-hackers-atacam-mais-de-400-instituicoes-financeiras/",
       "source": "Canaltech",
       "publisher": "",
       "section": "brasil",
-      "publishedAt": "2026-10-23T15:03:00.000Z",
-      "summary": "O Google começou a avisar os assinantes do plano AI Ultra que o Gemini 4 Argon deve substituir em breve o Deep Think, recurso de raciocínio avançado disponível no aplicativo Gemini. A notificação aparece dentro do próprio app, mas não informa uma data para a mudança. Atualmente, o Deep Think…",
-      "image": "https://tl.ctcdn.com.br/U75SLWSekmUd1GiGI4SGG63MNRc=/0x0/filters:format(webp):quality(85)/91d1635b-15e4-4706-8c68-86032e250499.jpg",
+      "publishedAt": "2026-10-23T20:02:00.000Z",
+      "summary": "Um grupo de hackers utilizou o Claude, da Anthropic, e o Grok, da xAI, para automatizar ataques contra mais de 400 instituições financeiras da América Latina. Segundo uma investigação divulgada nesta semana pela empresa de cibersegurança Straiker, os criminosos conseguiram roubar senhas, dados…",
+      "image": "https://tl.ctcdn.com.br/1wkWbOO2eckmvqaSFii-Yxl9tV4=/0x0/filters:format(webp):quality(85)/53dee3d4-b2d5-4dfe-bfa7-5f05e7056eab.png",
       "points": 0,
       "readingMinutes": 0,
-      "author": "Viviane França",
-      "id": "d251ea8537",
+      "author": "Marcelo Fischer",
+      "id": "08a863212d",
       "feed": "Canaltech",
-      "funding": null,
-      "tags": [
-        "IA",
-        "Big Tech"
-      ],
-      "score": 34,
-      "insight": ""
-    },
-    {
-      "title": "Como a Mercedes usa inteligência artificial para criar carros",
-      "url": "https://canaltech.com.br/carros/como-a-mercedes-usa-inteligencia-artificial-para-criar-carros/",
-      "source": "Canaltech",
-      "publisher": "",
-      "section": "brasil",
-      "publishedAt": "2026-10-23T12:04:00.000Z",
-      "summary": "A Mercedes-Benz está usando inteligência artificial para desenvolver carros de forma mais rápida e eficiente. A montadora criou o PLM.AI, uma plataforma que conecta informações de diferentes áreas da engenharia e recebeu investimentos de cerca de 500 milhões de euros. Com a tecnologia, sistemas de…",
-      "image": "https://tl.ctcdn.com.br/tQr3iJ8F0dj2qIQCdSbBMihyh7o=/0x0/filters:format(webp):quality(85)/108b03e5-8087-4347-8b30-8c3e426f023c.jpg",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "Paulo Amaral",
-      "id": "a55c8f8769",
-      "feed": "Canaltech",
-      "funding": null,
-      "tags": [
-        "IA"
-      ],
-      "score": 34,
-      "insight": ""
-    },
-    {
-      "title": "O novo pesadelo dos bancos: agentes de IA ganham vida própria em contas bancárias",
-      "url": "https://neofeed.com.br/negocios/o-novo-pesadelo-dos-bancos-agentes-de-ia-ganham-vida-propria-em-contas-bancarias/",
-      "source": "Neofeed",
-      "publisher": "",
-      "section": "brasil",
-      "publishedAt": "2026-10-22T16:35:09.000Z",
-      "summary": "O avanço acelerado da inteligência artificial (IA) tem sido acompanhado, na mesma medida, pelas preocupações em torno dos potenciais riscos que essa tecnologia pode trazer no campo da segurança. E um novo alerta acaba de ser acionado nesse front. Segundo o portal americano Axios, grandes bancos dos…",
-      "image": "https://neofeed.com.br/wp-content/uploads/2021/12/seguranca-dados-300x169.webp",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "Moacir Drska",
-      "id": "49c67ddce8",
-      "feed": "Neofeed",
       "funding": null,
       "tags": [
         "IA",
         "Segurança"
       ],
-      "score": 32.3,
+      "score": 26,
       "insight": ""
     },
     {
@@ -1521,7 +1533,7 @@
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "OpenDS-World introduces a live-web benchmark to evaluate autonomous multi-step deep search agents, revealing significant gaps between frontier models and human performance.",
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.30181.png",
-      "upvotes": 147,
+      "upvotes": 153,
       "github": "https://github.com/Yu-xm/OpenDS",
       "authors": [
         "Xiaomin Yu",
@@ -1532,8 +1544,8 @@
       "id": "c78b9c094b",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 67,
-      "insight": "Em alta na comunidade, com 147 upvotes no Hugging Face."
+      "score": 60,
+      "insight": "Em alta na comunidade, com 153 upvotes no Hugging Face."
     },
     {
       "title": "Toward Recursive Self-Improvement in Physical AI",
@@ -1543,7 +1555,7 @@
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "Recursive self-improvement (RSI) describes a system that improves not only its behavior but also the process by which it improves. Recent digital agents test this idea by rewriting their own code and checking each version with executable tests. Bringing these mechanisms into the physical world…",
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.29677.png",
-      "upvotes": 44,
+      "upvotes": 50,
       "github": "https://github.com/Physical2RSI/Awesome-Physical2RSI",
       "authors": [
         "Meng Luo",
@@ -1554,8 +1566,8 @@
       "id": "2a76e5ab6c",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 62,
-      "insight": "Em alta na comunidade, com 44 upvotes no Hugging Face."
+      "score": 55,
+      "insight": "Em alta na comunidade, com 50 upvotes no Hugging Face."
     },
     {
       "title": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
@@ -1565,7 +1577,7 @@
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "Researchers introduce a benchmark and evaluation framework for video-centered deep research agents that synthesize external evidence into interactive reports linked to video moments.",
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.31158.png",
-      "upvotes": 16,
+      "upvotes": 17,
       "github": "https://github.com/marinero4972/OmniDR-Bench",
       "authors": [
         "Jiahao Meng",
@@ -1576,8 +1588,30 @@
       "id": "45f855ed6f",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 57.5,
+      "score": 51,
       "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+    },
+    {
+      "title": "FilmFlow: Agentic System for 3D Virtual Film Cinematography",
+      "url": "https://huggingface.co/papers/2610.30753",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "summary": "FilmFlow is an agentic framework that translates natural-language or video instructions into executable camera trajectories for 3D scenes using specialized director, interpreter, scout, and critic agents, evaluated on the CinemaBench dataset.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.30753.png",
+      "upvotes": 26,
+      "github": "",
+      "authors": [
+        "Yiming Zhang",
+        "Jiarui Guo",
+        "Haojia Wei"
+      ],
+      "organization": "",
+      "id": "bf7522cb1f",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 50.5,
+      "insight": "Em alta na comunidade, com 26 upvotes no Hugging Face."
     },
     {
       "title": "RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing",
@@ -1587,7 +1621,7 @@
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "RouteWeaver unifies heterogeneous LLM routing modes via coordinated training and progressive exploration, improving accuracy across diverse reasoning tasks.",
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.19705.png",
-      "upvotes": 15,
+      "upvotes": 18,
       "github": "https://github.com/LaughKing/RouteWeaver",
       "authors": [
         "Xiaohan Wang",
@@ -1598,7 +1632,7 @@
       "id": "96c88dba6b",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 56,
+      "score": 50.5,
       "insight": "Vem com código aberto, fácil de experimentar."
     },
     {
@@ -1609,7 +1643,7 @@
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "summary": "Code2Video-Compass is a benchmark evaluating multimodal language models on code-based video generation across text, image, and video inputs, revealing significant challenges in complex dynamic and state-dependent tasks.",
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28416.png",
-      "upvotes": 22,
+      "upvotes": 24,
       "github": "https://github.com/code2video-compass/Code2Video-Compass",
       "authors": [
         "Zhenghan Chen",
@@ -1620,30 +1654,8 @@
       "id": "69486e32d3",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 54.1,
-      "insight": "Em alta na comunidade, com 22 upvotes no Hugging Face."
-    },
-    {
-      "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
-      "url": "https://huggingface.co/papers/2610.27851",
-      "source": "Hugging Face Papers",
-      "section": "paper",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "summary": "LaLa-World is a language-conditioned latent world model that jointly learns from diverse simulation, robot, and video data to enable efficient model-predictive planning and policy initialization.",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.27851.png",
-      "upvotes": 26,
-      "github": "https://github.com/junha1125/LaLa-World",
-      "authors": [
-        "Junha Song",
-        "Geonmo Gu",
-        "Jeongeun Park"
-      ],
-      "organization": "NAVER AI Lab",
-      "id": "1d7cbb7371",
-      "feed": "Hugging Face Papers",
-      "tags": [],
-      "score": 53.5,
-      "insight": "Em alta na comunidade, com 26 upvotes no Hugging Face."
+      "score": 47.9,
+      "insight": "Em alta na comunidade, com 24 upvotes no Hugging Face."
     },
     {
       "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
@@ -1663,7 +1675,7 @@
         "IA",
         "Chips"
       ],
-      "score": 35.3,
+      "score": 33.3,
       "insight": "Leitura de 85 min."
     },
     {
@@ -1684,7 +1696,7 @@
         "IA",
         "Segurança"
       ],
-      "score": 34.9,
+      "score": 33,
       "insight": "Leitura de 1 min."
     },
     {
@@ -1705,7 +1717,7 @@
         "Big Tech",
         "Dev"
       ],
-      "score": 29.6,
+      "score": 27.7,
       "insight": "Leitura de 1 min."
     },
     {
@@ -1725,7 +1737,7 @@
       "tags": [
         "IA"
       ],
-      "score": 27.8,
+      "score": 25.9,
       "insight": "Leitura de 8 min."
     },
     {
@@ -1745,40 +1757,8 @@
       "tags": [
         "IA"
       ],
-      "score": 22.3,
+      "score": 20.5,
       "insight": "Análise para ler com calma."
-    },
-    {
-      "title": "Gathin23/cleanyourtv",
-      "url": "https://github.com/Gathin23/cleanyourtv",
-      "source": "GitHub",
-      "section": "repo",
-      "publishedAt": "2026-10-17T08:12:35.000Z",
-      "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "stars": 26920,
-      "language": "Java",
-      "image": "https://avatars.githubusercontent.com/u/94786511?v=4",
-      "id": "ab0e470b36",
-      "feed": "GitHub",
-      "tags": [],
-      "score": 14.7,
-      "insight": "26.920 estrelas em poucos dias, escrito em Java."
-    },
-    {
-      "title": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "source": "GitHub",
-      "section": "repo",
-      "publishedAt": "2026-10-19T19:29:01.000Z",
-      "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-      "stars": 3781,
-      "language": "Java",
-      "image": "https://avatars.githubusercontent.com/u/192837953?v=4",
-      "id": "f097e65b6a",
-      "feed": "GitHub",
-      "tags": [],
-      "score": 11.9,
-      "insight": "3.781 estrelas em poucos dias, escrito em Java."
     },
     {
       "title": "pengchujin/aerial-tv",
@@ -1787,14 +1767,30 @@
       "section": "repo",
       "publishedAt": "2026-10-20T09:13:06.000Z",
       "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "stars": 3715,
+      "stars": 4231,
       "language": "Kotlin",
       "image": "https://avatars.githubusercontent.com/u/16513318?v=4",
       "id": "e31af640f4",
       "feed": "GitHub",
       "tags": [],
-      "score": 11.9,
-      "insight": "3.715 estrelas em poucos dias, escrito em Kotlin."
+      "score": 12,
+      "insight": "4.231 estrelas em poucos dias, escrito em Kotlin."
+    },
+    {
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-19T19:29:01.000Z",
+      "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "stars": 4134,
+      "language": "Java",
+      "image": "https://avatars.githubusercontent.com/u/192837953?v=4",
+      "id": "f097e65b6a",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 12,
+      "insight": "4.134 estrelas em poucos dias, escrito em Java."
     },
     {
       "title": "xiaoyang111222/cn-math-taxonomy",
@@ -1803,46 +1799,62 @@
       "section": "repo",
       "publishedAt": "2026-10-18T09:04:43.000Z",
       "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-      "stars": 2680,
+      "stars": 3063,
       "language": "Python",
       "image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "id": "32ba8cb45e",
       "feed": "GitHub",
       "tags": [],
-      "score": 11.4,
-      "insight": "2.680 estrelas em poucos dias, escrito em Python."
+      "score": 11.6,
+      "insight": "3.063 estrelas em poucos dias, escrito em Python."
     },
     {
-      "title": "tek-sys-hub/Rubix-lang",
-      "url": "https://github.com/tek-sys-hub/Rubix-lang",
+      "title": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
       "source": "GitHub",
       "section": "repo",
-      "publishedAt": "2026-10-19T05:34:37.000Z",
-      "summary": "The 100% Pure x86-64 Assembly Systems Language",
+      "publishedAt": "2026-10-19T22:20:47.000Z",
+      "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
       "stars": 1914,
-      "language": "Assembly",
-      "image": "https://avatars.githubusercontent.com/u/249392719?v=4",
-      "id": "41f2bb2586",
+      "language": "",
+      "image": "https://avatars.githubusercontent.com/u/34966120?v=4",
+      "id": "ae75968c85",
       "feed": "GitHub",
       "tags": [],
       "score": 10.9,
-      "insight": "1.914 estrelas em poucos dias, escrito em Assembly."
+      "insight": "1.914 estrelas em poucos dias."
     },
     {
-      "title": "aicodeking/leanrea",
-      "url": "https://github.com/aicodeking/leanrea",
+      "title": "EthanArbuckle/fairplay-decrypt",
+      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
       "source": "GitHub",
       "section": "repo",
-      "publishedAt": "2026-10-17T02:53:24.000Z",
-      "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "stars": 1670,
-      "language": "Python",
-      "image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "id": "1717937cb1",
+      "publishedAt": "2026-10-19T10:07:58.000Z",
+      "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "stars": 1847,
+      "language": "C",
+      "image": "https://avatars.githubusercontent.com/u/4250718?v=4",
+      "id": "d0f7949f51",
       "feed": "GitHub",
       "tags": [],
-      "score": 10.7,
-      "insight": "1.670 estrelas em poucos dias, escrito em Python."
+      "score": 10.9,
+      "insight": "1.847 estrelas em poucos dias, escrito em C."
+    },
+    {
+      "title": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-10-21T07:55:16.000Z",
+      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "stars": 1739,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "id": "4bef72e594",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.8,
+      "insight": "1.739 estrelas em poucos dias, escrito em Python."
     }
   ],
   "counts": {
