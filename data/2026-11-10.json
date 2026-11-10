@@ -1,0 +1,1845 @@
+{
+  "title": "OpenClaw Tech Brief",
+  "generatedAt": "2026-11-10T18:29:03.939Z",
+  "date": "2026-11-10",
+  "dateLabel": "10/11/2026 15:29",
+  "summary": "As principais notícias de tecnologia, startups e pesquisa das últimas 48 horas, escolhidas entre dezenas de fontes.",
+  "highlights": [],
+  "tags": [
+    {
+      "tag": "IA",
+      "count": 24
+    },
+    {
+      "tag": "Big Tech",
+      "count": 8
+    },
+    {
+      "tag": "Rodada",
+      "count": 8
+    },
+    {
+      "tag": "Segurança",
+      "count": 4
+    },
+    {
+      "tag": "Chips",
+      "count": 4
+    },
+    {
+      "tag": "M&A",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "news": 11,
+    "startups": 8,
+    "brasil": 6,
+    "reads": 5,
+    "papers": 6,
+    "repos": 6,
+    "rounds": 8,
+    "sources": 34
+  },
+  "lead": {
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "source": "The Verge",
+    "publisher": "",
+    "section": "news",
+    "publishedAt": "2026-11-10T16:00:00.000Z",
+    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google…",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "points": 0,
+    "readingMinutes": 0,
+    "author": "Robert Hart",
+    "id": "a14681e2dd",
+    "feed": "The Verge",
+    "tags": [
+      "IA",
+      "Segurança",
+      "Big Tech"
+    ],
+    "score": 75.3,
+    "insight": ""
+  },
+  "sections": {
+    "news": [
+      {
+        "title": "Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft",
+        "source": "Bloomberg",
+        "publisher": "Bloomberg",
+        "section": "news",
+        "publishedAt": "2026-11-10T17:35:00.000Z",
+        "summary": "Anthropic PBC is releasing a suite of tools that weave the company's artificial intelligence capabilities into more everyday office work …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "5c6e96fbff",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 69,
+        "insight": ""
+      },
+      {
+        "title": "OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+        "source": "The Verge",
+        "publisher": "The Verge",
+        "section": "news",
+        "publishedAt": "2026-11-10T18:25:00.000Z",
+        "summary": "ChatGPT's new AI agents represent companies and can help with things like comparison shopping.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "7396b577c7",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 59,
+        "insight": ""
+      },
+      {
+        "title": "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-10/oura-to-buy-on-demand-doctor-ai-service-counsel-health-revenue-jumps-153-in-q4",
+        "source": "Bloomberg",
+        "publisher": "Bloomberg",
+        "section": "news",
+        "publishedAt": "2026-11-10T17:55:01.000Z",
+        "summary": "Oura Inc. agreed to acquire artificial intelligence and on-demand doctor service Counsel Health Inc. for $625 million …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "2040961f5b",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "M&A"
+        ],
+        "score": 53,
+        "insight": ""
+      },
+      {
+        "title": "Sources: Goldman Sachs expects Anthropic revenue of ~$52B in 2026 and $600B+ by 2030, operating profit in 2029, and positive free cash flow in 2030",
+        "url": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58",
+        "source": "Financial Times",
+        "publisher": "Financial Times",
+        "section": "news",
+        "publishedAt": "2026-11-10T16:02:28.000Z",
+        "summary": "Wall Street bank projects AI start-up will increase sales by 130 times &mdash; and be cash flow positive &mdash; by end of the decade",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "09014ea560",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 49.3,
+        "insight": ""
+      },
+      {
+        "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-10T15:29:30.000Z",
+        "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Aisha Malik",
+        "id": "0504529861",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 46.3,
+        "insight": ""
+      },
+      {
+        "title": "eBay appears to have shut the door on third-party AI agents",
+        "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+        "source": "The Verge",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-10T16:20:30.000Z",
+        "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Mia Sato",
+        "id": "3e50515c6d",
+        "feed": "The Verge",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 43.3,
+        "insight": ""
+      },
+      {
+        "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-10T13:30:00.000Z",
+        "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Lucas Ropek",
+        "id": "c5e9e08f64",
+        "feed": "TechCrunch",
+        "tags": [
+          "Segurança",
+          "Big Tech"
+        ],
+        "score": 42.7,
+        "insight": ""
+      },
+      {
+        "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+        "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+        "source": "Ars Technica",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-10T15:00:39.000Z",
+        "summary": "The new model is up to twice as successful at some tasks.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "\n                    Ryan Whitwam\n                ",
+        "id": "004c51f512",
+        "feed": "Ars Technica",
+        "tags": [
+          "IA"
+        ],
+        "score": 42,
+        "insight": ""
+      },
+      {
+        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-10T15:54:08.000Z",
+        "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Ram Iyer",
+        "id": "5ef445c1e8",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA",
+          "Chips",
+          "Big Tech"
+        ],
+        "score": 41.3,
+        "insight": ""
+      },
+      {
+        "title": "Reddit launches Reddit Reviews, a built-in hub using AI to turn subreddit comments into product pages with pros, cons, and sentiment, starting with 10K items",
+        "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+        "source": "The Verge",
+        "publisher": "The Verge",
+        "section": "news",
+        "publishedAt": "2026-11-10T15:25:00.000Z",
+        "summary": "With a new product reviews hub, Reddit is creating something akin to a crowdsourced Wirecutter.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "4beceeca75",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 41,
+        "insight": ""
+      }
+    ],
+    "startups": [
+      {
+        "title": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025",
+        "url": "https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/",
+        "source": "Reuters",
+        "publisher": "Reuters",
+        "section": "startup",
+        "publishedAt": "2026-11-10T16:20:07.000Z",
+        "summary": "Mercor said on Tuesday it had raised $750 million in a funding round that valued the AI training startup at $20 billion.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "e8375a1b0b",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 750000000,
+          "round": "Series D"
+        },
+        "tags": [
+          "IA",
+          "Chips",
+          "Rodada"
+        ],
+        "score": 75.2,
+        "insight": ""
+      },
+      {
+        "title": "Israeli AI security startup Bay raises $50 million",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1FUM21STWZfakdFdy1yUEE3dHhGTUtoazJLcHAtZ3hlVXRvbEV5LVA0YXAwRlVGQ05qQ0Z1azV5Wk5wTWFVVXdKZ0FjSy04bkxlcDc5N2xsMFp2eUs5RzF6endfbXA0Ymt3WGo2UllEYzB1aWZmT0I2Smd1MVFBaHBtZzFWZC1pci1icms2cFJFZWxOTVg0aWpyaDU?oc=5",
+        "source": "Reuters",
+        "publisher": "Reuters",
+        "section": "startup",
+        "publishedAt": "2026-11-10T13:10:38.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "d681bd950c",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 50000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Segurança",
+          "Rodada"
+        ],
+        "score": 48,
+        "insight": ""
+      },
+      {
+        "title": "Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3lmWVBydnloanZPMGxBTndkN3VPU0F4X18tVnJSdzM2WXNsOXRtRmowU1Vua1N1WXRGYjVqRE41eXdiNmEyS2dzWl83YjFsV2VTdVlXb2ozX0w4QXh1anZUTHdsQmFpMFlabkUtRTVBcFBnTmVXaWxOMm5CM1pEOUd6TnNuS2hnbzc5dW1TNUVFcTd0T2NQUHA4TERHRFludHBOMnNnRklzRDU3X3NOTXdFT0NXRnRob3E3V1c1NTFxdw?oc=5",
+        "source": "Bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "section": "startup",
+        "publishedAt": "2026-11-10T14:00:05.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "7cd9f0ce0f",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 2500000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 46.1,
+        "insight": ""
+      },
+      {
+        "title": "Staera Semiconductor Raises $4.6 Million in Pre-Seed Funding for AI Chip Interconnect Technology",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0NJYnlzOGdYWEplRzN5ZV9YN3YxemtxYy15Z2QyMmNlNWZfVTRkRHpWZkR1RVhCdGNiNklERHNBUTZ4YTVDbzJ4Vk5ZbXdqUUNCTnl4bUxsRVp5SW8tX05mWTdHc203SURpMlRyYTlSY1dTUlFwSi1JVHlJcTNQY0FvdlNxaHYzenVRTEhZdGtpbEVPZ1Z0U0lNZ2ZlQ2dEQjNOUFFOcDFEVGwxUUlEWWhDbDZyWWJvWVp4R2ZQNl9Ea0JkX2I3R19lbWZyems?oc=5",
+        "source": "citybiz",
+        "publisher": "citybiz",
+        "section": "startup",
+        "publishedAt": "2026-11-10T14:00:03.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "ab562cb4f2",
+        "feed": "Google News: Chips",
+        "funding": {
+          "currency": "USD",
+          "amount": 4600000,
+          "round": "Pre-Seed"
+        },
+        "tags": [
+          "IA",
+          "Chips",
+          "Rodada"
+        ],
+        "score": 45.3,
+        "insight": ""
+      },
+      {
+        "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+        "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-11-09T19:21:46.000Z",
+        "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Julie Bort",
+        "id": "c237a70ffb",
+        "feed": "TechCrunch Startups",
+        "funding": {
+          "currency": "USD",
+          "amount": 3000000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 42.8,
+        "insight": ""
+      },
+      {
+        "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
+        "url": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
+        "source": "Crunchbase News",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-11-10T12:00:34.000Z",
+        "summary": "A total of 34 companies joined The Crunchbase Unicorn Board in October, adding more than $96 billion in value and $14.8 billion in total funding to the board. The board also reached a new record of 1,900 private companies last month, along with a new record for the U.S. with more than 1,000 private…",
+        "image": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Gené Teare",
+        "id": "89acdb41ed",
+        "feed": "Crunchbase News",
+        "funding": {
+          "currency": "USD",
+          "amount": 96000000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 38,
+        "insight": ""
+      },
+      {
+        "title": "This startup raised $20 million to keep AI agents in line with more AI agents. Read the pitch deck.",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXQ4bHdVaGxtNThFTEVaNHBBSmtjWV9ZUU5JXzlhU0VkanZDOXpYYUNlTzRpeWh5UnFKTHRmdDdDbEFUSlR6N2FQTmM3YW41QWdZckdOeWE4N3c0Ymp4RWhhYlFLMy0wVDRobUpoZFVRUjRNZEMzR2FkU2R6Vnd5RGFkRmRXRVltaWdUcXZMWl9sREF4V3NJS1dmYjhqWVJ4STY4?oc=5",
+        "source": "Business Insider",
+        "publisher": "Business Insider",
+        "section": "startup",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "2eaaf94600",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 20000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 38,
+        "insight": ""
+      },
+      {
+        "title": "AI startup Spines raises $64m., challenging traditional publishing industry",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSWc3QU5EY3VLX29ycFdKZmFIaWdSMkpnOGdfdmY5S2lNemFSaURDN1NsbjJiZkZJRWQ3Yy1sYXRXVGFKQWR4Vkd0VU5KQU12N0d4bnkxWmQ4d2lKdDFvdWxjcERLb2tCOW5PZWV4VldDdWFLVFVwX0F6aXYteUQ5N2I4SlRLZw?oc=5",
+        "source": "The Jerusalem Post",
+        "publisher": "The Jerusalem Post",
+        "section": "startup",
+        "publishedAt": "2026-11-10T10:55:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "be9efd5c35",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 64000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 37.5,
+        "insight": ""
+      }
+    ],
+    "brasil": [
+      {
+        "title": "Noh contrata nova CMO para impulsionar expansão",
+        "url": "https://startups.com.br/danca-das-cadeiras/noh-contrata-nova-cmo-para-impulsionar-expansao/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-10T18:03:21.000Z",
+        "summary": "Julia Spina Bueno, nova CMO da Noh (Imagem: Divulgação) Julia Spina Bueno também deve liderar o lançamento da Tric, uma agente de inteligência artificial pensada para os casais que usam Noh O post Noh contrata nova CMO para impulsionar expansão apareceu primeiro em Startups.",
+        "image": "https://uploads.startups.com.br/2026/11/Danca-das-Cadeiras-Versao-fundo-preto-Julia-Spina-Bueno.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Redação",
+        "id": "a146430480",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 35,
+        "insight": ""
+      },
+      {
+        "title": "AMD lança CPU gigante de 256 núcleos para deixar NVIDIA e Intel preocupadas",
+        "url": "https://canaltech.com.br/hardware/amd-lanca-cpu-gigante-de-256-nucleos-para-deixar-nvidia-e-intel-preocupadas/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-10T17:00:08.000Z",
+        "summary": "A AMD apresentou todos os detalhes da sexta geração dos seus processadores EPYC na última quarta-feira (4), durante um evento fechado para a imprensa. Os novos EPYC Venice são chips literalmente gigantes — como você pode ver na imagem abaixo — e reúnem até 256 núcleos e 512 threads para atender à…",
+        "image": "https://tl.ctcdn.com.br/8Gi_vJNyFMiW54X_XifsM3YvFG0=/0x0/filters:format(webp):quality(85)/f44126f1-83d0-428a-b832-14368bb869e9.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Léo Müller",
+        "id": "394603b621",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "Chips"
+        ],
+        "score": 33.7,
+        "insight": ""
+      },
+      {
+        "title": "Investimento em startups cresce 56% no Brasil, na contramão da queda mundial",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb01tajZPaURObS1kVFVFRk9mSUpxY1hNQmdXLWhNeTFSOE5lQjVJeDZEcmZiOGV2bW5ueDlYS0ZYYTR6MTdiR09uNUNsSU02cDdEb0J1M1BkYXlwOVV4VENRckNYNGxhMVNmTGhtY1RmbmFKQ0xlNE5raFFHQ3FSVVpjX1pkbEdhNUVBbW5Oc0VMWDB2NmNGemVPWnE4ZVZJUFBCMS1qX0tIOVBZejV0aTVhUDFTZ0pGQ183OHlqNWQ3bHhpVHRFaDY4UHg2NGNkRDBUZjhYVXYybi1JMWw0LW8xUznSAfMBQVVfeXFMTXh2a0VxRjFXRFgyODdPWWpublNXclBnbUFuOUMxWElvTkNKSVlJeVZqTHU4RS1sa1Z0RlQwRGhOdHJkZ0lDZFY5Q0FtczFxSFhvMWJwUlNzUnJ2U1ZSZEp3TVYtV2t3UFI4SVhoZk9BakNsYkttdkpEWEtaRkIzbHdnNVNuc2pQX2ZUdWtENEVWN3YxQTlqcVhrbHdBV0Roc1p0SHpNWWs3THM3RkNMT0R3TGljd3hJQTJSOVkyeDlxXzg2WDM4WU41NHI0TzI1c3ZybjRFZTMzenJKY0xBNENCdUdYeXNHLXlEaHloanRoN1ZV?oc=5",
+        "source": "Valor Econômico",
+        "publisher": "Valor Econômico",
+        "section": "brasil",
+        "publishedAt": "2026-11-10T12:39:37.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "2a642ccc9f",
+        "feed": "Google News: Startups BR",
+        "funding": null,
+        "tags": [],
+        "score": 32.3,
+        "insight": ""
+      },
+      {
+        "title": "YC busca soluções de IA para a “vida real” na próxima turma",
+        "url": "https://startups.com.br/negocios/aceleracao/yc-busca-solucoes-de-ia-para-a-vida-real-na-proxima-turma/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-09T19:02:00.000Z",
+        "summary": "Programa da Y Combinator acontece de forma presencial no Vale do Silício | Foto: Divulgação Y Combinator esticou até o dia 11 dezembro o prazo para startups se inscreverem na turma Winter 2027, que acontece no Vale do Silício O post YC busca soluções de IA para a “vida real” na próxima turma…",
+        "image": "https://uploads.startups.com.br/2026/11/YC.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Stephanie Tondo",
+        "id": "b705f38c0b",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 29.3,
+        "insight": ""
+      },
+      {
+        "title": "Alexa+ ganha versão web no Brasil para controlar sua casa inteligente direto do PC",
+        "url": "https://canaltech.com.br/apps/alexa-ganha-versao-web-no-brasil-para-controlar-sua-casa-inteligente-direto-do-pc/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-10T17:15:14.000Z",
+        "summary": "A Amazon lançou, nesta terça-feira (10), o acesso à Alexa+ pelo navegador no Brasil. A novidade já está disponível para participantes do programa de acesso antecipado e leva a assistente de inteligência artificial generativa para o computador, pelos endereços alexa.amazon.com.br e alexa.com. A…",
+        "image": "https://tl.ctcdn.com.br/dg6ybVKTklxWmjBTtvQ8m1032_g=/0x0/filters:format(webp):quality(85)/1ee47142-7e8a-45d2-822d-8115ea83a03f.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Viviane França",
+        "id": "9d0539a3fb",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 28.7,
+        "insight": ""
+      },
+      {
+        "title": "Qualquer um faz previsão do tempo. Mas Paulo Orenstein acerta mais",
+        "url": "https://braziljournal.com/qualquer-um-faz-previsao-do-tempo-mas-paulo-orenstein-acerta-mais",
+        "source": "Brazil Journal",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-10T09:50:00.000Z",
+        "summary": "Prever o tempo nunca foi simples. Agora, com as mudanças climáticas embaralhando padrões históricos e tornando o clima mais instável, o desafio ficou ainda maior. Um brasileiro é um dos criadores de uma inteligência artificial que, aplicada aos modelos tradicionais de previsão climática, aumenta…",
+        "image": "https://codex-braziljournal.codexcdn.net/assets/as3lnh43FbWVDVmsZ.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Fabiane Stefano",
+        "id": "9cc0a2443f",
+        "feed": "Brazil Journal",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 26.3,
+        "insight": ""
+      }
+    ],
+    "reads": [
+      {
+        "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+        "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+        "source": "Latent Space",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-10T06:34:44.000Z",
+        "summary": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
+        "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/1431029c-65fe-48ed-8eb2-798c3c5c22f4/image.png?t=1794292162",
+        "points": 0,
+        "readingMinutes": 31,
+        "author": "swyx .ai",
+        "id": "268741d06f",
+        "feed": "Latent Space",
+        "tags": [
+          "IA"
+        ],
+        "score": 48.1,
+        "insight": "Leitura de 31 min."
+      },
+      {
+        "title": "Software correctness & supply chain security, with Sean Allen",
+        "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+        "source": "The Pragmatic Engineer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-10T15:00:21.000Z",
+        "summary": "A deep conversation on the biggest challenges of developing with AI – while trying not to mention the phrase “AI” once. Why? To dig up the fundamentals that are as important as ever",
+        "image": "https://substackcdn.com/image/youtube/w_728,c_limit/OrXKvOjR-vI",
+        "points": 0,
+        "readingMinutes": 12,
+        "author": "Gergely Orosz",
+        "id": "583511bb3a",
+        "feed": "The Pragmatic Engineer",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 28.8,
+        "insight": "Leitura de 12 min."
+      },
+      {
+        "title": "Locating the source of a mysterious beep with Claude",
+        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+        "source": "Simon Willison",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-09T23:57:21.000Z",
+        "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I…",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "d363b026f0",
+        "feed": "Simon Willison",
+        "tags": [
+          "IA"
+        ],
+        "score": 26.5,
+        "insight": "Análise para ler com calma."
+      },
+      {
+        "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+        "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
+        "source": "Stratechery",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-06T11:00:00.000Z",
+        "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 1,
+        "author": "Ben Thompson",
+        "id": "a99e2a95f3",
+        "feed": "Stratechery",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 24.4,
+        "insight": "Leitura de 1 min."
+      },
+      {
+        "title": "Fable 5.2 and Jagged AGI",
+        "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+        "source": "One Useful Thing",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-09T19:04:26.000Z",
+        "summary": "General, often expert, and sometimes jagged",
+        "image": "https://substackcdn.com/image/fetch/$s_!-MYM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4498fb7e-ff69-4b09-903a-f22ff7147e4b_2912x1632.png",
+        "points": 0,
+        "readingMinutes": 14,
+        "author": "Ethan Mollick",
+        "id": "98d5b7ce10",
+        "feed": "One Useful Thing",
+        "tags": [],
+        "score": 21.1,
+        "insight": "Leitura de 14 min."
+      }
+    ],
+    "papers": [
+      {
+        "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+        "url": "https://huggingface.co/papers/2611.12886",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "summary": "Reframe is a two-stage post-training framework that aligns visual agents’ observation states through evidence-aware reinforcement learning and observation-gated on-policy distillation, improving tool use and outperforming Mix-RL and vanilla MOPD across image and video benchmarks.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12886.png",
+        "upvotes": 37,
+        "github": "https://github.com/EliYuan30/Reframe",
+        "authors": [
+          "Haozhi Yuan",
+          "Handong Li",
+          "Yifan Zhang"
+        ],
+        "organization": "Nanjing University",
+        "id": "fcc02b9fa5",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 64,
+        "insight": "Em alta na comunidade, com 37 upvotes no Hugging Face."
+      },
+      {
+        "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+        "url": "https://huggingface.co/papers/2610.42148",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "summary": "Flide is an exact inference engine that accelerates decision-model LLM agents by decoupling logical request trees from physical execution and using ForkAttention to preserve exact branch evaluations.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.42148.png",
+        "upvotes": 30,
+        "github": "https://github.com/OmniJev/Flide",
+        "authors": [
+          "Bobo Li",
+          "Jiajia Song",
+          "Hao Fei"
+        ],
+        "organization": "National University of Singapore",
+        "id": "0dd2f117ce",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 61.7,
+        "insight": "Em alta na comunidade, com 30 upvotes no Hugging Face."
+      },
+      {
+        "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+        "url": "https://huggingface.co/papers/2611.08175",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "summary": "Automating printed circuit board (PCB) routing requires coordinating board-level connectivity decisions with geometric execution under strict design rules. Although recent agents can interact with native routing tools, reliable routing on complex boards remains challenging. We present…",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.08175.png",
+        "upvotes": 39,
+        "github": "https://github.com/chip-ai-agent/PCBRouteAgent",
+        "authors": [
+          "Yue Zhang",
+          "Jilei Sun",
+          "Liqiang Jing"
+        ],
+        "organization": "",
+        "id": "186e511aaf",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 56,
+        "insight": "Em alta na comunidade, com 39 upvotes no Hugging Face."
+      },
+      {
+        "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
+        "url": "https://huggingface.co/papers/2611.06856",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "summary": "LongBanana is an expert-verified benchmark and agent-harness framework for evaluating and improving long-context multi-reference image synthesis through graph-grounded checklists and an RPR workflow.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.06856.png",
+        "upvotes": 30,
+        "github": "https://github.com/KlingAIResearch/LongBanana",
+        "authors": [
+          "Haoxiang Cao",
+          "Yuxuan Zhang",
+          "Penghui Du"
+        ],
+        "organization": "Kolors Team, Kuaishou Technology",
+        "id": "f1d3e244da",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 55.7,
+        "insight": "Em alta na comunidade, com 30 upvotes no Hugging Face."
+      },
+      {
+        "title": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research",
+        "url": "https://huggingface.co/papers/2611.10329",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "summary": "A benchmark probes whether large language models can determine when imperfect simulator limitations invalidate recommended system designs, finding that identifying a limitation does not ensure correct design choices and that review-based self-correction yields mixed results.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.10329.png",
+        "upvotes": 12,
+        "github": "",
+        "authors": [
+          "Jinwoo Hwang",
+          "Sukmin Cho",
+          "Tao Zhang"
+        ],
+        "organization": "Microsoft Research",
+        "id": "6ef3be2e1c",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 55.2,
+        "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+      },
+      {
+        "title": "Toward the Era of Agentic Embodied Intelligence",
+        "url": "https://huggingface.co/papers/2611.09124",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-09T00:00:00.000Z",
+        "summary": "An embodied multi-agent framework uses learned correction codes and a vision-language-action model with motion-aware history and latent world modeling to improve robot control, failure recovery, and training efficiency.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.09124.png",
+        "upvotes": 48,
+        "github": "https://github.com/AutoLab-SAI-SJTU/A2MEAS",
+        "authors": [
+          "Chao Liang",
+          "Ke Chen",
+          "Fengxiaoxiao Li"
+        ],
+        "organization": "AutoLab",
+        "id": "97138dfcf1",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 54,
+        "insight": "Em alta na comunidade, com 48 upvotes no Hugging Face."
+      }
+    ],
+    "repos": [
+      {
+        "title": "NotRexed/Hookshot",
+        "url": "https://github.com/NotRexed/Hookshot",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-05T12:18:58.000Z",
+        "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "stars": 6252,
+        "language": "C++",
+        "image": "https://avatars.githubusercontent.com/u/179062254?v=4",
+        "id": "0a450ebc4b",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 12.6,
+        "insight": "6.252 estrelas em poucos dias, escrito em C++."
+      },
+      {
+        "title": "huamidev/GestaltX",
+        "url": "https://github.com/huamidev/GestaltX",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-09T05:15:48.000Z",
+        "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+        "stars": 4538,
+        "language": "Swift",
+        "image": "https://avatars.githubusercontent.com/u/354314991?v=4",
+        "id": "6f45acc780",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 12.1,
+        "insight": "4.538 estrelas em poucos dias, escrito em Swift."
+      },
+      {
+        "title": "jhaizhou-ops/S2Arm",
+        "url": "https://github.com/jhaizhou-ops/S2Arm",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-08T05:49:46.000Z",
+        "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到…",
+        "stars": 2350,
+        "language": "C#",
+        "image": "https://avatars.githubusercontent.com/u/258432107?v=4",
+        "id": "9802c21294",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.2,
+        "insight": "2.350 estrelas em poucos dias, escrito em C#."
+      },
+      {
+        "title": "IainKay/ram-altman",
+        "url": "https://github.com/IainKay/ram-altman",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-05T16:16:41.000Z",
+        "summary": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+        "stars": 1779,
+        "language": "Shell",
+        "image": "https://avatars.githubusercontent.com/u/798621?v=4",
+        "id": "4267b55318",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.8,
+        "insight": "1.779 estrelas em poucos dias, escrito em Shell."
+      },
+      {
+        "title": "DIYgod/pinky",
+        "url": "https://github.com/DIYgod/pinky",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-06T16:53:14.000Z",
+        "summary": "Let AI agents use your phone, with you in the loop.",
+        "stars": 1646,
+        "language": "Go",
+        "image": "https://avatars.githubusercontent.com/u/8266075?v=4",
+        "id": "4302af2a92",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.7,
+        "insight": "1.646 estrelas em poucos dias, escrito em Go."
+      },
+      {
+        "title": "jamesondh/chimera-vocal-synth",
+        "url": "https://github.com/jamesondh/chimera-vocal-synth",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-05T19:10:42.000Z",
+        "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+        "stars": 1581,
+        "language": "Rust",
+        "image": "https://avatars.githubusercontent.com/u/4026659?v=4",
+        "id": "4dfe44c54b",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.6,
+        "insight": "1.581 estrelas em poucos dias, escrito em Rust."
+      }
+    ]
+  },
+  "items": [
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "source": "The Verge",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google…",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Robert Hart",
+      "id": "a14681e2dd",
+      "feed": "The Verge",
+      "tags": [
+        "IA",
+        "Segurança",
+        "Big Tech"
+      ],
+      "score": 75.3,
+      "insight": ""
+    },
+    {
+      "title": "Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "news",
+      "publishedAt": "2026-11-10T17:35:00.000Z",
+      "summary": "Anthropic PBC is releasing a suite of tools that weave the company's artificial intelligence capabilities into more everyday office work …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "5c6e96fbff",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 69,
+      "insight": ""
+    },
+    {
+      "title": "OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "source": "The Verge",
+      "publisher": "The Verge",
+      "section": "news",
+      "publishedAt": "2026-11-10T18:25:00.000Z",
+      "summary": "ChatGPT's new AI agents represent companies and can help with things like comparison shopping.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "7396b577c7",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 59,
+      "insight": ""
+    },
+    {
+      "title": "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/oura-to-buy-on-demand-doctor-ai-service-counsel-health-revenue-jumps-153-in-q4",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "news",
+      "publishedAt": "2026-11-10T17:55:01.000Z",
+      "summary": "Oura Inc. agreed to acquire artificial intelligence and on-demand doctor service Counsel Health Inc. for $625 million …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "2040961f5b",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "M&A"
+      ],
+      "score": 53,
+      "insight": ""
+    },
+    {
+      "title": "Sources: Goldman Sachs expects Anthropic revenue of ~$52B in 2026 and $600B+ by 2030, operating profit in 2029, and positive free cash flow in 2030",
+      "url": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58",
+      "source": "Financial Times",
+      "publisher": "Financial Times",
+      "section": "news",
+      "publishedAt": "2026-11-10T16:02:28.000Z",
+      "summary": "Wall Street bank projects AI start-up will increase sales by 130 times &mdash; and be cash flow positive &mdash; by end of the decade",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "09014ea560",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 49.3,
+      "insight": ""
+    },
+    {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-10T15:29:30.000Z",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Aisha Malik",
+      "id": "0504529861",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 46.3,
+      "insight": ""
+    },
+    {
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "source": "The Verge",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-10T16:20:30.000Z",
+      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a…",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Mia Sato",
+      "id": "3e50515c6d",
+      "feed": "The Verge",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 43.3,
+      "insight": ""
+    },
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-10T13:30:00.000Z",
+      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Lucas Ropek",
+      "id": "c5e9e08f64",
+      "feed": "TechCrunch",
+      "tags": [
+        "Segurança",
+        "Big Tech"
+      ],
+      "score": 42.7,
+      "insight": ""
+    },
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "source": "Ars Technica",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-10T15:00:39.000Z",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "\n                    Ryan Whitwam\n                ",
+      "id": "004c51f512",
+      "feed": "Ars Technica",
+      "tags": [
+        "IA"
+      ],
+      "score": 42,
+      "insight": ""
+    },
+    {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-10T15:54:08.000Z",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Ram Iyer",
+      "id": "5ef445c1e8",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA",
+        "Chips",
+        "Big Tech"
+      ],
+      "score": 41.3,
+      "insight": ""
+    },
+    {
+      "title": "Reddit launches Reddit Reviews, a built-in hub using AI to turn subreddit comments into product pages with pros, cons, and sentiment, starting with 10K items",
+      "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+      "source": "The Verge",
+      "publisher": "The Verge",
+      "section": "news",
+      "publishedAt": "2026-11-10T15:25:00.000Z",
+      "summary": "With a new product reviews hub, Reddit is creating something akin to a crowdsourced Wirecutter.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "4beceeca75",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 41,
+      "insight": ""
+    },
+    {
+      "title": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025",
+      "url": "https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/",
+      "source": "Reuters",
+      "publisher": "Reuters",
+      "section": "startup",
+      "publishedAt": "2026-11-10T16:20:07.000Z",
+      "summary": "Mercor said on Tuesday it had raised $750 million in a funding round that valued the AI training startup at $20 billion.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "e8375a1b0b",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 750000000,
+        "round": "Series D"
+      },
+      "tags": [
+        "IA",
+        "Chips",
+        "Rodada"
+      ],
+      "score": 75.2,
+      "insight": ""
+    },
+    {
+      "title": "Israeli AI security startup Bay raises $50 million",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1FUM21STWZfakdFdy1yUEE3dHhGTUtoazJLcHAtZ3hlVXRvbEV5LVA0YXAwRlVGQ05qQ0Z1azV5Wk5wTWFVVXdKZ0FjSy04bkxlcDc5N2xsMFp2eUs5RzF6endfbXA0Ymt3WGo2UllEYzB1aWZmT0I2Smd1MVFBaHBtZzFWZC1pci1icms2cFJFZWxOTVg0aWpyaDU?oc=5",
+      "source": "Reuters",
+      "publisher": "Reuters",
+      "section": "startup",
+      "publishedAt": "2026-11-10T13:10:38.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "d681bd950c",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 50000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Segurança",
+        "Rodada"
+      ],
+      "score": 48,
+      "insight": ""
+    },
+    {
+      "title": "Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3lmWVBydnloanZPMGxBTndkN3VPU0F4X18tVnJSdzM2WXNsOXRtRmowU1Vua1N1WXRGYjVqRE41eXdiNmEyS2dzWl83YjFsV2VTdVlXb2ozX0w4QXh1anZUTHdsQmFpMFlabkUtRTVBcFBnTmVXaWxOMm5CM1pEOUd6TnNuS2hnbzc5dW1TNUVFcTd0T2NQUHA4TERHRFludHBOMnNnRklzRDU3X3NOTXdFT0NXRnRob3E3V1c1NTFxdw?oc=5",
+      "source": "Bloomberg.com",
+      "publisher": "Bloomberg.com",
+      "section": "startup",
+      "publishedAt": "2026-11-10T14:00:05.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "7cd9f0ce0f",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 2500000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 46.1,
+      "insight": ""
+    },
+    {
+      "title": "Staera Semiconductor Raises $4.6 Million in Pre-Seed Funding for AI Chip Interconnect Technology",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0NJYnlzOGdYWEplRzN5ZV9YN3YxemtxYy15Z2QyMmNlNWZfVTRkRHpWZkR1RVhCdGNiNklERHNBUTZ4YTVDbzJ4Vk5ZbXdqUUNCTnl4bUxsRVp5SW8tX05mWTdHc203SURpMlRyYTlSY1dTUlFwSi1JVHlJcTNQY0FvdlNxaHYzenVRTEhZdGtpbEVPZ1Z0U0lNZ2ZlQ2dEQjNOUFFOcDFEVGwxUUlEWWhDbDZyWWJvWVp4R2ZQNl9Ea0JkX2I3R19lbWZyems?oc=5",
+      "source": "citybiz",
+      "publisher": "citybiz",
+      "section": "startup",
+      "publishedAt": "2026-11-10T14:00:03.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "ab562cb4f2",
+      "feed": "Google News: Chips",
+      "funding": {
+        "currency": "USD",
+        "amount": 4600000,
+        "round": "Pre-Seed"
+      },
+      "tags": [
+        "IA",
+        "Chips",
+        "Rodada"
+      ],
+      "score": 45.3,
+      "insight": ""
+    },
+    {
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-11-09T19:21:46.000Z",
+      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Julie Bort",
+      "id": "c237a70ffb",
+      "feed": "TechCrunch Startups",
+      "funding": {
+        "currency": "USD",
+        "amount": 3000000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 42.8,
+      "insight": ""
+    },
+    {
+      "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
+      "url": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
+      "source": "Crunchbase News",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-11-10T12:00:34.000Z",
+      "summary": "A total of 34 companies joined The Crunchbase Unicorn Board in October, adding more than $96 billion in value and $14.8 billion in total funding to the board. The board also reached a new record of 1,900 private companies last month, along with a new record for the U.S. with more than 1,000 private…",
+      "image": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Gené Teare",
+      "id": "89acdb41ed",
+      "feed": "Crunchbase News",
+      "funding": {
+        "currency": "USD",
+        "amount": 96000000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 38,
+      "insight": ""
+    },
+    {
+      "title": "This startup raised $20 million to keep AI agents in line with more AI agents. Read the pitch deck.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXQ4bHdVaGxtNThFTEVaNHBBSmtjWV9ZUU5JXzlhU0VkanZDOXpYYUNlTzRpeWh5UnFKTHRmdDdDbEFUSlR6N2FQTmM3YW41QWdZckdOeWE4N3c0Ymp4RWhhYlFLMy0wVDRobUpoZFVRUjRNZEMzR2FkU2R6Vnd5RGFkRmRXRVltaWdUcXZMWl9sREF4V3NJS1dmYjhqWVJ4STY4?oc=5",
+      "source": "Business Insider",
+      "publisher": "Business Insider",
+      "section": "startup",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "2eaaf94600",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 20000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 38,
+      "insight": ""
+    },
+    {
+      "title": "AI startup Spines raises $64m., challenging traditional publishing industry",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSWc3QU5EY3VLX29ycFdKZmFIaWdSMkpnOGdfdmY5S2lNemFSaURDN1NsbjJiZkZJRWQ3Yy1sYXRXVGFKQWR4Vkd0VU5KQU12N0d4bnkxWmQ4d2lKdDFvdWxjcERLb2tCOW5PZWV4VldDdWFLVFVwX0F6aXYteUQ5N2I4SlRLZw?oc=5",
+      "source": "The Jerusalem Post",
+      "publisher": "The Jerusalem Post",
+      "section": "startup",
+      "publishedAt": "2026-11-10T10:55:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "be9efd5c35",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 64000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 37.5,
+      "insight": ""
+    },
+    {
+      "title": "Noh contrata nova CMO para impulsionar expansão",
+      "url": "https://startups.com.br/danca-das-cadeiras/noh-contrata-nova-cmo-para-impulsionar-expansao/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-10T18:03:21.000Z",
+      "summary": "Julia Spina Bueno, nova CMO da Noh (Imagem: Divulgação) Julia Spina Bueno também deve liderar o lançamento da Tric, uma agente de inteligência artificial pensada para os casais que usam Noh O post Noh contrata nova CMO para impulsionar expansão apareceu primeiro em Startups.",
+      "image": "https://uploads.startups.com.br/2026/11/Danca-das-Cadeiras-Versao-fundo-preto-Julia-Spina-Bueno.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Redação",
+      "id": "a146430480",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 35,
+      "insight": ""
+    },
+    {
+      "title": "AMD lança CPU gigante de 256 núcleos para deixar NVIDIA e Intel preocupadas",
+      "url": "https://canaltech.com.br/hardware/amd-lanca-cpu-gigante-de-256-nucleos-para-deixar-nvidia-e-intel-preocupadas/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-10T17:00:08.000Z",
+      "summary": "A AMD apresentou todos os detalhes da sexta geração dos seus processadores EPYC na última quarta-feira (4), durante um evento fechado para a imprensa. Os novos EPYC Venice são chips literalmente gigantes — como você pode ver na imagem abaixo — e reúnem até 256 núcleos e 512 threads para atender à…",
+      "image": "https://tl.ctcdn.com.br/8Gi_vJNyFMiW54X_XifsM3YvFG0=/0x0/filters:format(webp):quality(85)/f44126f1-83d0-428a-b832-14368bb869e9.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Léo Müller",
+      "id": "394603b621",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "Chips"
+      ],
+      "score": 33.7,
+      "insight": ""
+    },
+    {
+      "title": "Investimento em startups cresce 56% no Brasil, na contramão da queda mundial",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb01tajZPaURObS1kVFVFRk9mSUpxY1hNQmdXLWhNeTFSOE5lQjVJeDZEcmZiOGV2bW5ueDlYS0ZYYTR6MTdiR09uNUNsSU02cDdEb0J1M1BkYXlwOVV4VENRckNYNGxhMVNmTGhtY1RmbmFKQ0xlNE5raFFHQ3FSVVpjX1pkbEdhNUVBbW5Oc0VMWDB2NmNGemVPWnE4ZVZJUFBCMS1qX0tIOVBZejV0aTVhUDFTZ0pGQ183OHlqNWQ3bHhpVHRFaDY4UHg2NGNkRDBUZjhYVXYybi1JMWw0LW8xUznSAfMBQVVfeXFMTXh2a0VxRjFXRFgyODdPWWpublNXclBnbUFuOUMxWElvTkNKSVlJeVZqTHU4RS1sa1Z0RlQwRGhOdHJkZ0lDZFY5Q0FtczFxSFhvMWJwUlNzUnJ2U1ZSZEp3TVYtV2t3UFI4SVhoZk9BakNsYkttdkpEWEtaRkIzbHdnNVNuc2pQX2ZUdWtENEVWN3YxQTlqcVhrbHdBV0Roc1p0SHpNWWs3THM3RkNMT0R3TGljd3hJQTJSOVkyeDlxXzg2WDM4WU41NHI0TzI1c3ZybjRFZTMzenJKY0xBNENCdUdYeXNHLXlEaHloanRoN1ZV?oc=5",
+      "source": "Valor Econômico",
+      "publisher": "Valor Econômico",
+      "section": "brasil",
+      "publishedAt": "2026-11-10T12:39:37.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "2a642ccc9f",
+      "feed": "Google News: Startups BR",
+      "funding": null,
+      "tags": [],
+      "score": 32.3,
+      "insight": ""
+    },
+    {
+      "title": "YC busca soluções de IA para a “vida real” na próxima turma",
+      "url": "https://startups.com.br/negocios/aceleracao/yc-busca-solucoes-de-ia-para-a-vida-real-na-proxima-turma/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-09T19:02:00.000Z",
+      "summary": "Programa da Y Combinator acontece de forma presencial no Vale do Silício | Foto: Divulgação Y Combinator esticou até o dia 11 dezembro o prazo para startups se inscreverem na turma Winter 2027, que acontece no Vale do Silício O post YC busca soluções de IA para a “vida real” na próxima turma…",
+      "image": "https://uploads.startups.com.br/2026/11/YC.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Stephanie Tondo",
+      "id": "b705f38c0b",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 29.3,
+      "insight": ""
+    },
+    {
+      "title": "Alexa+ ganha versão web no Brasil para controlar sua casa inteligente direto do PC",
+      "url": "https://canaltech.com.br/apps/alexa-ganha-versao-web-no-brasil-para-controlar-sua-casa-inteligente-direto-do-pc/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-10T17:15:14.000Z",
+      "summary": "A Amazon lançou, nesta terça-feira (10), o acesso à Alexa+ pelo navegador no Brasil. A novidade já está disponível para participantes do programa de acesso antecipado e leva a assistente de inteligência artificial generativa para o computador, pelos endereços alexa.amazon.com.br e alexa.com. A…",
+      "image": "https://tl.ctcdn.com.br/dg6ybVKTklxWmjBTtvQ8m1032_g=/0x0/filters:format(webp):quality(85)/1ee47142-7e8a-45d2-822d-8115ea83a03f.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Viviane França",
+      "id": "9d0539a3fb",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 28.7,
+      "insight": ""
+    },
+    {
+      "title": "Qualquer um faz previsão do tempo. Mas Paulo Orenstein acerta mais",
+      "url": "https://braziljournal.com/qualquer-um-faz-previsao-do-tempo-mas-paulo-orenstein-acerta-mais",
+      "source": "Brazil Journal",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-10T09:50:00.000Z",
+      "summary": "Prever o tempo nunca foi simples. Agora, com as mudanças climáticas embaralhando padrões históricos e tornando o clima mais instável, o desafio ficou ainda maior. Um brasileiro é um dos criadores de uma inteligência artificial que, aplicada aos modelos tradicionais de previsão climática, aumenta…",
+      "image": "https://codex-braziljournal.codexcdn.net/assets/as3lnh43FbWVDVmsZ.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Fabiane Stefano",
+      "id": "9cc0a2443f",
+      "feed": "Brazil Journal",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 26.3,
+      "insight": ""
+    },
+    {
+      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+      "url": "https://huggingface.co/papers/2611.12886",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "summary": "Reframe is a two-stage post-training framework that aligns visual agents’ observation states through evidence-aware reinforcement learning and observation-gated on-policy distillation, improving tool use and outperforming Mix-RL and vanilla MOPD across image and video benchmarks.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12886.png",
+      "upvotes": 37,
+      "github": "https://github.com/EliYuan30/Reframe",
+      "authors": [
+        "Haozhi Yuan",
+        "Handong Li",
+        "Yifan Zhang"
+      ],
+      "organization": "Nanjing University",
+      "id": "fcc02b9fa5",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 64,
+      "insight": "Em alta na comunidade, com 37 upvotes no Hugging Face."
+    },
+    {
+      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "url": "https://huggingface.co/papers/2610.42148",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "summary": "Flide is an exact inference engine that accelerates decision-model LLM agents by decoupling logical request trees from physical execution and using ForkAttention to preserve exact branch evaluations.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.42148.png",
+      "upvotes": 30,
+      "github": "https://github.com/OmniJev/Flide",
+      "authors": [
+        "Bobo Li",
+        "Jiajia Song",
+        "Hao Fei"
+      ],
+      "organization": "National University of Singapore",
+      "id": "0dd2f117ce",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 61.7,
+      "insight": "Em alta na comunidade, com 30 upvotes no Hugging Face."
+    },
+    {
+      "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+      "url": "https://huggingface.co/papers/2611.08175",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "summary": "Automating printed circuit board (PCB) routing requires coordinating board-level connectivity decisions with geometric execution under strict design rules. Although recent agents can interact with native routing tools, reliable routing on complex boards remains challenging. We present…",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.08175.png",
+      "upvotes": 39,
+      "github": "https://github.com/chip-ai-agent/PCBRouteAgent",
+      "authors": [
+        "Yue Zhang",
+        "Jilei Sun",
+        "Liqiang Jing"
+      ],
+      "organization": "",
+      "id": "186e511aaf",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 56,
+      "insight": "Em alta na comunidade, com 39 upvotes no Hugging Face."
+    },
+    {
+      "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
+      "url": "https://huggingface.co/papers/2611.06856",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "summary": "LongBanana is an expert-verified benchmark and agent-harness framework for evaluating and improving long-context multi-reference image synthesis through graph-grounded checklists and an RPR workflow.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.06856.png",
+      "upvotes": 30,
+      "github": "https://github.com/KlingAIResearch/LongBanana",
+      "authors": [
+        "Haoxiang Cao",
+        "Yuxuan Zhang",
+        "Penghui Du"
+      ],
+      "organization": "Kolors Team, Kuaishou Technology",
+      "id": "f1d3e244da",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 55.7,
+      "insight": "Em alta na comunidade, com 30 upvotes no Hugging Face."
+    },
+    {
+      "title": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research",
+      "url": "https://huggingface.co/papers/2611.10329",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "summary": "A benchmark probes whether large language models can determine when imperfect simulator limitations invalidate recommended system designs, finding that identifying a limitation does not ensure correct design choices and that review-based self-correction yields mixed results.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.10329.png",
+      "upvotes": 12,
+      "github": "",
+      "authors": [
+        "Jinwoo Hwang",
+        "Sukmin Cho",
+        "Tao Zhang"
+      ],
+      "organization": "Microsoft Research",
+      "id": "6ef3be2e1c",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 55.2,
+      "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+    },
+    {
+      "title": "Toward the Era of Agentic Embodied Intelligence",
+      "url": "https://huggingface.co/papers/2611.09124",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "summary": "An embodied multi-agent framework uses learned correction codes and a vision-language-action model with motion-aware history and latent world modeling to improve robot control, failure recovery, and training efficiency.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.09124.png",
+      "upvotes": 48,
+      "github": "https://github.com/AutoLab-SAI-SJTU/A2MEAS",
+      "authors": [
+        "Chao Liang",
+        "Ke Chen",
+        "Fengxiaoxiao Li"
+      ],
+      "organization": "AutoLab",
+      "id": "97138dfcf1",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 54,
+      "insight": "Em alta na comunidade, com 48 upvotes no Hugging Face."
+    },
+    {
+      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+      "source": "Latent Space",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-10T06:34:44.000Z",
+      "summary": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/1431029c-65fe-48ed-8eb2-798c3c5c22f4/image.png?t=1794292162",
+      "points": 0,
+      "readingMinutes": 31,
+      "author": "swyx .ai",
+      "id": "268741d06f",
+      "feed": "Latent Space",
+      "tags": [
+        "IA"
+      ],
+      "score": 48.1,
+      "insight": "Leitura de 31 min."
+    },
+    {
+      "title": "Software correctness & supply chain security, with Sean Allen",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+      "source": "The Pragmatic Engineer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-10T15:00:21.000Z",
+      "summary": "A deep conversation on the biggest challenges of developing with AI – while trying not to mention the phrase “AI” once. Why? To dig up the fundamentals that are as important as ever",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/OrXKvOjR-vI",
+      "points": 0,
+      "readingMinutes": 12,
+      "author": "Gergely Orosz",
+      "id": "583511bb3a",
+      "feed": "The Pragmatic Engineer",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 28.8,
+      "insight": "Leitura de 12 min."
+    },
+    {
+      "title": "Locating the source of a mysterious beep with Claude",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "source": "Simon Willison",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-09T23:57:21.000Z",
+      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I…",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "d363b026f0",
+      "feed": "Simon Willison",
+      "tags": [
+        "IA"
+      ],
+      "score": 26.5,
+      "insight": "Análise para ler com calma."
+    },
+    {
+      "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
+      "source": "Stratechery",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 1,
+      "author": "Ben Thompson",
+      "id": "a99e2a95f3",
+      "feed": "Stratechery",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 24.4,
+      "insight": "Leitura de 1 min."
+    },
+    {
+      "title": "Fable 5.2 and Jagged AGI",
+      "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+      "source": "One Useful Thing",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-09T19:04:26.000Z",
+      "summary": "General, often expert, and sometimes jagged",
+      "image": "https://substackcdn.com/image/fetch/$s_!-MYM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4498fb7e-ff69-4b09-903a-f22ff7147e4b_2912x1632.png",
+      "points": 0,
+      "readingMinutes": 14,
+      "author": "Ethan Mollick",
+      "id": "98d5b7ce10",
+      "feed": "One Useful Thing",
+      "tags": [],
+      "score": 21.1,
+      "insight": "Leitura de 14 min."
+    },
+    {
+      "title": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-05T12:18:58.000Z",
+      "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "stars": 6252,
+      "language": "C++",
+      "image": "https://avatars.githubusercontent.com/u/179062254?v=4",
+      "id": "0a450ebc4b",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 12.6,
+      "insight": "6.252 estrelas em poucos dias, escrito em C++."
+    },
+    {
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-09T05:15:48.000Z",
+      "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "stars": 4538,
+      "language": "Swift",
+      "image": "https://avatars.githubusercontent.com/u/354314991?v=4",
+      "id": "6f45acc780",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 12.1,
+      "insight": "4.538 estrelas em poucos dias, escrito em Swift."
+    },
+    {
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-08T05:49:46.000Z",
+      "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到…",
+      "stars": 2350,
+      "language": "C#",
+      "image": "https://avatars.githubusercontent.com/u/258432107?v=4",
+      "id": "9802c21294",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.2,
+      "insight": "2.350 estrelas em poucos dias, escrito em C#."
+    },
+    {
+      "title": "IainKay/ram-altman",
+      "url": "https://github.com/IainKay/ram-altman",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-05T16:16:41.000Z",
+      "summary": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "stars": 1779,
+      "language": "Shell",
+      "image": "https://avatars.githubusercontent.com/u/798621?v=4",
+      "id": "4267b55318",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.8,
+      "insight": "1.779 estrelas em poucos dias, escrito em Shell."
+    },
+    {
+      "title": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-06T16:53:14.000Z",
+      "summary": "Let AI agents use your phone, with you in the loop.",
+      "stars": 1646,
+      "language": "Go",
+      "image": "https://avatars.githubusercontent.com/u/8266075?v=4",
+      "id": "4302af2a92",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.7,
+      "insight": "1.646 estrelas em poucos dias, escrito em Go."
+    },
+    {
+      "title": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-05T19:10:42.000Z",
+      "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "stars": 1581,
+      "language": "Rust",
+      "image": "https://avatars.githubusercontent.com/u/4026659?v=4",
+      "id": "4dfe44c54b",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.6,
+      "insight": "1.581 estrelas em poucos dias, escrito em Rust."
+    }
+  ],
+  "counts": {
+    "total": 42
+  }
+}
