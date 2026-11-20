@@ -1,0 +1,1847 @@
+{
+  "title": "OpenClaw Tech Brief",
+  "generatedAt": "2026-11-20T18:58:13.875Z",
+  "date": "2026-11-20",
+  "dateLabel": "20/11/2026 15:58",
+  "summary": "As principais notícias de tecnologia, startups e pesquisa das últimas 48 horas, escolhidas entre dezenas de fontes.",
+  "highlights": [],
+  "tags": [
+    {
+      "tag": "IA",
+      "count": 23
+    },
+    {
+      "tag": "Big Tech",
+      "count": 9
+    },
+    {
+      "tag": "Rodada",
+      "count": 8
+    },
+    {
+      "tag": "Segurança",
+      "count": 3
+    },
+    {
+      "tag": "Chips",
+      "count": 2
+    },
+    {
+      "tag": "Hardware",
+      "count": 1
+    },
+    {
+      "tag": "Dev",
+      "count": 1
+    },
+    {
+      "tag": "Energia",
+      "count": 1
+    },
+    {
+      "tag": "Espaço",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "news": 11,
+    "startups": 8,
+    "brasil": 6,
+    "reads": 5,
+    "papers": 6,
+    "repos": 6,
+    "rounds": 7,
+    "sources": 37
+  },
+  "lead": {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "source": "TechCrunch",
+    "publisher": "",
+    "section": "news",
+    "publishedAt": "2026-11-20T00:56:01.000Z",
+    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "image": "",
+    "points": 0,
+    "readingMinutes": 0,
+    "author": "Lucas Ropek",
+    "id": "8f4728ffc5",
+    "feed": "TechCrunch",
+    "tags": [
+      "IA",
+      "Big Tech",
+      "Hardware"
+    ],
+    "score": 55,
+    "insight": ""
+  },
+  "sections": {
+    "news": [
+      {
+        "title": "Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language",
+        "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+        "source": "Scientific American",
+        "publisher": "Scientific American",
+        "section": "news",
+        "publishedAt": "2026-11-20T15:20:00.000Z",
+        "summary": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "0b5d0afadc",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Dev"
+        ],
+        "score": 47,
+        "insight": ""
+      },
+      {
+        "title": "Scott Bessent says Trump and Xi agreed that military AI decisions should involve humans, and that the spying allegations involving Alice Huang didn't come up",
+        "url": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/",
+        "source": "Reuters",
+        "publisher": "Reuters",
+        "section": "news",
+        "publishedAt": "2026-11-20T17:20:01.000Z",
+        "summary": "US President Donald Trump and Chinese President Xi Jinping agreed humans should always be involved in military decisions …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "700e5b82f8",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 43.7,
+        "insight": ""
+      },
+      {
+        "title": "Filings: Jensen Huang's charity committed $350M to rent compute from CoreWeave for its Computing Initiative for Open Science, and has already spent $108.3M",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/jensen-huang-s-charity-committed-350-million-to-coreweave",
+        "source": "Bloomberg",
+        "publisher": "Bloomberg",
+        "section": "news",
+        "publishedAt": "2026-11-20T15:30:00.000Z",
+        "summary": "Former Nvidia Corp. Chief Executive Officer Jensen Huang's charitable foundation plans to spend $350 million renting computer time from CoreWeave Inc.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "eed8abca8a",
+        "feed": "Techmeme",
+        "tags": [
+          "Chips"
+        ],
+        "score": 43,
+        "insight": ""
+      },
+      {
+        "title": "Google gives Gemini the ability to use your Mac for you",
+        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-19T18:09:11.000Z",
+        "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Sarah Perez",
+        "id": "1054662f25",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 41,
+        "insight": ""
+      },
+      {
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "source": "Hacker News",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-20T10:01:41.000Z",
+        "summary": "508 pontos e discussão ativa no Hacker News.",
+        "image": "",
+        "points": 508,
+        "readingMinutes": 0,
+        "author": "shioyama",
+        "id": "0000282282",
+        "feed": "Hacker News",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 40.3,
+        "insight": ""
+      },
+      {
+        "title": "These tech outages are giving Y2K, AI agent style",
+        "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-19T21:42:31.000Z",
+        "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Dominic-Madori Davis",
+        "id": "f2dddf2ea7",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 38,
+        "insight": ""
+      },
+      {
+        "title": "Uber quietly launched Uber Kids as a pilot in three US cities for kids as young as 10, building on its teen ride-hailing service for those aged 13 to 17",
+        "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+        "source": "TechCrunch",
+        "publisher": "TechCrunch",
+        "section": "news",
+        "publishedAt": "2026-11-20T13:10:02.000Z",
+        "summary": "Uber has opened its ride-hailing service to children as young as 10 in three U.S. cities as the company tests whether there's a market …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "856f962b1e",
+        "feed": "Techmeme",
+        "tags": [],
+        "score": 37.3,
+        "insight": ""
+      },
+      {
+        "title": "Source: Coinbase is targeting H1 2027 to begin offering in-house event contracts in the US; it currently offers prediction markets through a Kalshi partnership",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027",
+        "source": "Bloomberg",
+        "publisher": "Bloomberg",
+        "section": "news",
+        "publishedAt": "2026-11-20T14:30:03.000Z",
+        "summary": "Coinbase Global Inc. is targeting the first half of 2027 to begin offering in-house event contracts in the US, according to a person familiar with the matter.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "0519d0f846",
+        "feed": "Techmeme",
+        "tags": [],
+        "score": 35.7,
+        "insight": ""
+      },
+      {
+        "title": "Sources: YouTube reaches an agreement in principle to pay ~$3B to US school districts over claims YouTube fosters addiction; a final deal may be months away",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims",
+        "source": "Bloomberg",
+        "publisher": "Bloomberg",
+        "section": "news",
+        "publishedAt": "2026-11-20T18:50:02.000Z",
+        "summary": "Google's YouTube is finalizing a multibillion-dollar settlement payout to school districts across the US that have accused the company …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "bf1f86fa26",
+        "feed": "Techmeme",
+        "tags": [
+          "Big Tech"
+        ],
+        "score": 35,
+        "insight": ""
+      },
+      {
+        "title": "The most misunderstood graph in AI just got a major update",
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "source": "MIT Technology Review",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-20T18:15:15.000Z",
+        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s…",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Grace Huckins",
+        "id": "01449c61c8",
+        "feed": "MIT Technology Review",
+        "tags": [
+          "IA"
+        ],
+        "score": 35,
+        "insight": ""
+      }
+    ],
+    "startups": [
+      {
+        "title": "Linq, which offers texting and calling infrastructure for AI agents, raised a $90M Series B led by a16z, following a $20M Series A in February",
+        "url": "https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all",
+        "source": "Birmingham Business Journal",
+        "publisher": "Birmingham Business Journal",
+        "section": "startup",
+        "publishedAt": "2026-11-20T16:00:53.000Z",
+        "summary": "Just a few months after a major Series A funding round, one of Birmingham's fastest-growing startups will receive another monumental funding infusion.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "57c54117bb",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 90000000,
+          "round": "Series B"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 66.3,
+        "insight": ""
+      },
+      {
+        "title": "Sources: Shanghai-based Pragmatik Labs, founded by ex-Qwen AI head Junyang Lin, raised tens of millions of dollars at a $5B valuation, up from $2B in August",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion",
+        "source": "Bloomberg",
+        "publisher": "Bloomberg",
+        "section": "startup",
+        "publishedAt": "2026-11-20T11:10:01.000Z",
+        "summary": "A startup founded by Alibaba Group Holding Ltd.'s former AI chief has closed new funding at a valuation of $5 billion …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "809d99b809",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 2000000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 62,
+        "insight": ""
+      },
+      {
+        "title": "Anthropic raises an additional $12.2B as underwriters exercise their \"greenshoe\" overallotment of shares, bringing the total raised in its IPO to $93.5B",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+        "source": "CNBC",
+        "publisher": "CNBC",
+        "section": "startup",
+        "publishedAt": "2026-11-20T13:50:01.000Z",
+        "summary": "Anthropic underwriters have officially exercised their overallotment of shares in the historic initial public offering …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "aafc6ce12c",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 12200000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 55.4,
+        "insight": ""
+      },
+      {
+        "title": "Nigerian AI Startup Khaime Raises USD 500 K Pre-Seed Funding Led By Launch Africa Ventures",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGtCU0RHSGE1eFN4V2M4aklENlEzM3hmaEdEN1ZLaldpbHd2Q3VRakkwWHNlcWZuRnFwTFZqTFZDYlB5TDhnZjhTY1liWDd3UmYxR0xGRlpNbDd0SE9CV1BJSnI5TGFnbDRLTndHWHYtcEozTnUzeUpuRlQyNmlUMjFhbUl6YzNDaHI1WVJR?oc=5",
+        "source": "WeeTracker",
+        "publisher": "WeeTracker",
+        "section": "startup",
+        "publishedAt": "2026-11-20T12:30:43.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "1725189daa",
+        "feed": "Google News: Funding",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 43,
+        "insight": ""
+      },
+      {
+        "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+        "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-11-18T19:29:41.000Z",
+        "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Dominic-Madori Davis",
+        "id": "371d4074c9",
+        "feed": "TechCrunch Startups",
+        "funding": {
+          "currency": "USD",
+          "amount": 280000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 41.4,
+        "insight": ""
+      },
+      {
+        "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+        "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+        "source": "Wired",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-11-20T07:00:00.000Z",
+        "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+        "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Joel Khalili",
+        "id": "a7839ae95a",
+        "feed": "Wired",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 41.3,
+        "insight": ""
+      },
+      {
+        "title": "Neutral-atom quantum startup MatriQ raises Series B, tops $140M in a year",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU91akdWX01Rb0lBYzJQOEVmUVV6NXR1WjdOd0RxMmNPbnlDYkxRaDhhQVpLM2V4UDg0UlZGN0ZVRlBSVWpJV0JKbTZKWlN5c3FvSW4tN2hLQld0NmRpV2NIanRmb01JYTRTM3NoeEN0R0tOdUtlT0haTEdVWVpiTkt5UV9OUS1NWVN0N01WNERZaFNvcFJSeE03U3lScGxtU0pjc2NKeVY?oc=5",
+        "source": "Dealroom",
+        "publisher": "Dealroom",
+        "section": "startup",
+        "publishedAt": "2026-11-20T01:46:36.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "be340853d2",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 140000000,
+          "round": "Series B"
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 39.5,
+        "insight": ""
+      },
+      {
+        "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
+        "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
+        "source": "Sifted",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-11-20T13:00:51.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "83b2182215",
+        "feed": "Sifted",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 38.3,
+        "insight": ""
+      }
+    ],
+    "brasil": [
+      {
+        "title": "Na “cola” da SpaceX, Blue Origin, de Jeff Bezos, entra na órbita do projeto de IA espacial do Google",
+        "url": "https://neofeed.com.br/inovacao/na-cola-da-spacex-blue-origin-de-jeff-bezos-entra-na-orbita-do-projeto-de-ia-espacial-do-google/",
+        "source": "Neofeed",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-19T20:07:23.000Z",
+        "summary": "No dia em que a Anthropic confirmou o maior IPO da história, com uma captação de US$ 107 bilhões – superando a abertura de capital da SpaceX -, a inteligência artificial (IA) está novamente nas alturas. Desta vez, porém, literalmente: embarcada em uma novidade de uma rival da empresa de Elon Musk.…",
+        "image": "https://neofeed.com.br/wp-content/uploads/2026/11/blue-origin-300x169.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Moacir Drska",
+        "id": "08b0135efa",
+        "feed": "Neofeed",
+        "funding": {
+          "currency": "USD",
+          "amount": 107000000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Big Tech",
+          "Rodada"
+        ],
+        "score": 51.7,
+        "insight": ""
+      },
+      {
+        "title": "5 tarefas pesadas que o novo Gemini 4 Carbon faz e nenhuma outra IA consegue",
+        "url": "https://canaltech.com.br/inteligencia-artificial/tarefas-pesadas-que-so-o-gemini-4-carbon-faz/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-20T10:30:05.000Z",
+        "summary": "O Google lançou o Gemini 4 Carbon, seu modelo de inteligência artificial mais avançado até agora. Diferente dos chatbots usados para responder perguntas e resumir textos, a novidade foi desenvolvida para lidar com tarefas complexas, que exigem planejamento, análise e várias etapas até chegar a um…",
+        "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Viviane França",
+        "id": "ee916781ca",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 37.3,
+        "insight": ""
+      },
+      {
+        "title": "Jota anuncia novos CTO, CFO e CHRO",
+        "url": "https://startups.com.br/danca-das-cadeiras/jota-anuncia-novos-cto-cfo-e-chro/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-20T15:00:00.000Z",
+        "summary": "Arosti Nahas (CTO), Mateus Furini (CFO) e Ana Flávia Justino (CHRO) | Imagem: Divulgação Arosti Nahas, Mateus Furini e Ana Flávia Justino chegam para liderar frentes de tecnologia, finanças e gestão de pessoas O post Jota anuncia novos CTO, CFO e CHRO apareceu primeiro em Startups.",
+        "image": "https://uploads.startups.com.br/2026/11/Danca-das-Cadeiras-Versao-fundo-preto-Jota.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Redação",
+        "id": "1caea2664d",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [],
+        "score": 30,
+        "insight": ""
+      },
+      {
+        "title": "Investida da Canary, Settle acelera levando IA para as compras públicas",
+        "url": "https://startups.com.br/negocios/inteligencia-artificial/investida-da-canary-settle-acelera-levando-ia-para-as-compras-publicas/",
+        "source": "Startups.com.br",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-19T17:00:00.000Z",
+        "summary": "Fundadores da Settle | Foto: divulgação Com Vivo, Betha e BR Supply na carteira, startup usa agentes de IA para triagem de editais e dobra a receita a cada três meses O post Investida da Canary, Settle acelera levando IA para as compras públicas apareceu primeiro em Startups.",
+        "image": "https://uploads.startups.com.br/2026/11/1320-X-768-84.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Leandro Miguel Souza",
+        "id": "6a0da41476",
+        "feed": "Startups.com.br",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 28.7,
+        "insight": ""
+      },
+      {
+        "title": "Desenvolve SP vai financiar câmeras 3.0 da Gabriel",
+        "url": "https://braziljournal.com/desenvolve-sp-vai-financiar-cameras-30-da-gabriel",
+        "source": "Brazil Journal",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-18T20:46:00.000Z",
+        "summary": "A Gabriel – a startup de câmeras de segurança com inteligência artificial – acaba de levantar uma dívida com a Desenvolve SP para desenvolver a próxima geração de sua tecnologia, um hardware capaz de identificar ações suspeitas e agir de forma preventiva. A captação, de R$ 20 milhões, foi feita por…",
+        "image": "https://codex-braziljournal.codexcdn.net/assets/as9rlZGzmIzcgjvd3.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Pedro Arbex",
+        "id": "b0c63bed3b",
+        "feed": "Brazil Journal",
+        "funding": {
+          "currency": "BRL",
+          "amount": 20000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Segurança",
+          "Rodada"
+        ],
+        "score": 26.3,
+        "insight": ""
+      },
+      {
+        "title": "Xiaomi lança barbeador que se ajusta sozinho à sua barba; bateria dura 60 dias",
+        "url": "https://canaltech.com.br/produtos/xiaomi-lanca-barbeador-que-se-ajusta-sozinho-a-sua-barba-bateria-dura-60-dias/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-20T18:21:30.000Z",
+        "summary": "A Xiaomi anunciou um novo barbeador elétrico que ajusta automaticamente a potência de acordo com a barba do usuário. O Mijia Portable Electric Shaver Pro chega ao mercado chinês com motor inteligente e promete até 60 dias de bateria com uma única carga. O aparelho estará disponível para…",
+        "image": "https://tl.ctcdn.com.br/TCfBiIIMPjzoj60T7j1A--MniXg=/0x0/filters:format(webp):quality(85)/d0e29fcf-ed3d-4781-b590-10fc64679cf8.png",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Bruno Bertonzin",
+        "id": "76f666d3c5",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "Energia"
+        ],
+        "score": 22,
+        "insight": ""
+      }
+    ],
+    "reads": [
+      {
+        "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+        "source": "The Pragmatic Engineer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-19T17:08:59.000Z",
+        "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
+        "image": "https://substackcdn.com/image/fetch/$s_!dsZM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9817f36-232c-412a-89cc-57b2691171ec_819x900.png",
+        "points": 0,
+        "readingMinutes": 1,
+        "author": "Gergely Orosz",
+        "id": "04da227b0c",
+        "feed": "The Pragmatic Engineer",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 47.9,
+        "insight": "Leitura de 1 min."
+      },
+      {
+        "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+        "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+        "source": "Stratechery",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-18T11:00:00.000Z",
+        "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 1,
+        "author": "Ben Thompson",
+        "id": "4618f5d2a9",
+        "feed": "Stratechery",
+        "tags": [
+          "IA",
+          "Chips",
+          "Big Tech"
+        ],
+        "score": 43.4,
+        "insight": "Leitura de 1 min."
+      },
+      {
+        "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+        "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+        "source": "Latent Space",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-19T07:07:43.000Z",
+        "summary": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+        "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6ba7e411-386b-45b6-b64e-592072c52abf/image.png?t=1795071522",
+        "points": 0,
+        "readingMinutes": 6,
+        "author": "swyx .ai",
+        "id": "20477ed22c",
+        "feed": "Latent Space",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 43.1,
+        "insight": "Leitura de 6 min."
+      },
+      {
+        "title": "Anthropic goes public",
+        "url": "https://www.platformer.news/anthropic-goes-public/",
+        "source": "Platformer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-20T01:37:44.000Z",
+        "summary": "What a protest at the company's headquarters today says about its future — and everyone else's",
+        "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/11/shutterstock_2745761117.jpg",
+        "points": 0,
+        "readingMinutes": 6,
+        "author": "Ella Markianos",
+        "id": "f43a281361",
+        "feed": "Platformer",
+        "tags": [
+          "IA"
+        ],
+        "score": 29.6,
+        "insight": "Leitura de 6 min."
+      },
+      {
+        "title": "Weekly Dose of Optimism #220",
+        "url": "https://www.notboring.co/p/weekly-dose-of-optimism-220",
+        "source": "Not Boring",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-20T13:52:45.000Z",
+        "summary": "SpaceX reusability, Leukemia vaccine (+pancreatic pill), SLAB, Tesla Powercore, Earth AI Gold + TEN Extra Doses",
+        "image": "https://substackcdn.com/image/fetch/$s_!PPUN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27d68c14-5cc8-42fd-afe9-cbd625d8687a_960x540.gif",
+        "points": 0,
+        "readingMinutes": 9,
+        "author": "Packy McCormick",
+        "id": "64de76bf2f",
+        "feed": "Not Boring",
+        "tags": [
+          "IA",
+          "Big Tech",
+          "Espaço"
+        ],
+        "score": 27.6,
+        "insight": "Leitura de 9 min."
+      }
+    ],
+    "papers": [
+      {
+        "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+        "url": "https://huggingface.co/papers/2611.26444",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26444.png",
+        "upvotes": 46,
+        "github": "https://github.com/Mind2Act/Mind2Act_World",
+        "authors": [
+          "Yuzhi Huang",
+          "Jie Wu",
+          "Fanding Huang"
+        ],
+        "organization": "Mind2Act-World",
+        "id": "63dbb81e2a",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 61,
+        "insight": "Em alta na comunidade, com 46 upvotes no Hugging Face."
+      },
+      {
+        "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+        "url": "https://huggingface.co/papers/2611.21373",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21373.png",
+        "upvotes": 48,
+        "github": "https://github.com/Tencent/WeVisForensics",
+        "authors": [
+          "Yipeng Du",
+          "Yuxi Li",
+          "Ying Zhang"
+        ],
+        "organization": "Tencent",
+        "id": "47ddbf71e0",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 61,
+        "insight": "Em alta na comunidade, com 48 upvotes no Hugging Face."
+      },
+      {
+        "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+        "url": "https://huggingface.co/papers/2611.26595",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26595.png",
+        "upvotes": 31,
+        "github": "https://github.com/FrankYang-17/Coda",
+        "authors": [
+          "Yiyan Ji",
+          "Qixun Wang",
+          "Yang Shi"
+        ],
+        "organization": "KlingAI Research",
+        "id": "f6990214f0",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 55,
+        "insight": "Em alta na comunidade, com 31 upvotes no Hugging Face."
+      },
+      {
+        "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+        "url": "https://huggingface.co/papers/2611.26409",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26409.png",
+        "upvotes": 39,
+        "github": "https://github.com/Tencent/WeMM-Video",
+        "authors": [
+          "Changli Tang",
+          "Jie Yang",
+          "Tianyi Wang"
+        ],
+        "organization": "Tencent",
+        "id": "0cdac5c6e4",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 54,
+        "insight": "Em alta na comunidade, com 39 upvotes no Hugging Face."
+      },
+      {
+        "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+        "url": "https://huggingface.co/papers/2611.26073",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "A statistical test, AltRA-Test, determines when large language models can replace human annotators by comparing inter-annotator agreement in resampled mixed human-LLM panels, and evaluations show it often requires about 100 items and makes better replacement decisions than baselines.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26073.png",
+        "upvotes": 19,
+        "github": "",
+        "authors": [
+          "Nagham Omar",
+          "Rotem Dror",
+          "Almog Gueta"
+        ],
+        "organization": "Technion Israel institute of technology",
+        "id": "399e786b29",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 48.9,
+        "insight": "Pesquisa recente que pode antecipar técnicas que ainda não chegaram ao mercado."
+      },
+      {
+        "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+        "url": "https://huggingface.co/papers/2611.21383",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "A plug-and-play objective, VODA, groups per-pixel contributors by local depth to supervise all Gaussians in selected depth clusters, improving volumetric segmentation and enabling evaluation via Removal-3D and Removal Depth Error.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21383.png",
+        "upvotes": 30,
+        "github": "https://github.com/jhxcho/voda",
+        "authors": [
+          "Jeonghwan Cho",
+          "Minsu Kim",
+          "Junyoung Hong"
+        ],
+        "organization": "Yonsei University",
+        "id": "28a468536f",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 48.7,
+        "insight": "Em alta na comunidade, com 30 upvotes no Hugging Face."
+      }
+    ],
+    "repos": [
+      {
+        "title": "erkamyaman/rust-anything",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-16T12:10:36.000Z",
+        "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+        "stars": 6422,
+        "language": "Rust",
+        "image": "https://avatars.githubusercontent.com/u/88717125?v=4",
+        "id": "8129f68e26",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 12.6,
+        "insight": "6.422 estrelas em poucos dias, escrito em Rust."
+      },
+      {
+        "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-16T19:28:29.000Z",
+        "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries,…",
+        "stars": 5175,
+        "language": "C++",
+        "image": "https://avatars.githubusercontent.com/u/85200472?v=4",
+        "id": "0b86eba1de",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 12.3,
+        "insight": "5.175 estrelas em poucos dias, escrito em C++."
+      },
+      {
+        "title": "Hut-hzf/ung220z-tool",
+        "url": "https://github.com/Hut-hzf/ung220z-tool",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-15T11:16:46.000Z",
+        "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "stars": 1987,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/192405006?v=4",
+        "id": "520100b2ce",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11,
+        "insight": "1.987 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "CzzzzzzJ/mdldm-maitian",
+        "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-14T03:59:22.000Z",
+        "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+        "stars": 1707,
+        "language": "JavaScript",
+        "image": "https://avatars.githubusercontent.com/u/110924215?v=4",
+        "id": "06753c6e90",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.7,
+        "insight": "1.707 estrelas em poucos dias, escrito em JavaScript."
+      },
+      {
+        "title": "duwqijlk/muse-protocol",
+        "url": "https://github.com/duwqijlk/muse-protocol",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-14T01:24:58.000Z",
+        "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "stars": 1692,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/126966774?v=4",
+        "id": "2c38e03ddc",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.7,
+        "insight": "1.692 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "haziqahmedqasmi/PeakCut",
+        "url": "https://github.com/haziqahmedqasmi/PeakCut",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-14T07:38:20.000Z",
+        "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+        "stars": 1522,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/134844667?v=4",
+        "id": "4ea895ebe9",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.6,
+        "insight": "1.522 estrelas em poucos dias, escrito em Python."
+      }
+    ]
+  },
+  "items": [
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-20T00:56:01.000Z",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Lucas Ropek",
+      "id": "8f4728ffc5",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA",
+        "Big Tech",
+        "Hardware"
+      ],
+      "score": 55,
+      "insight": ""
+    },
+    {
+      "title": "Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "source": "Scientific American",
+      "publisher": "Scientific American",
+      "section": "news",
+      "publishedAt": "2026-11-20T15:20:00.000Z",
+      "summary": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "0b5d0afadc",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Dev"
+      ],
+      "score": 47,
+      "insight": ""
+    },
+    {
+      "title": "Scott Bessent says Trump and Xi agreed that military AI decisions should involve humans, and that the spying allegations involving Alice Huang didn't come up",
+      "url": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/",
+      "source": "Reuters",
+      "publisher": "Reuters",
+      "section": "news",
+      "publishedAt": "2026-11-20T17:20:01.000Z",
+      "summary": "US President Donald Trump and Chinese President Xi Jinping agreed humans should always be involved in military decisions …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "700e5b82f8",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 43.7,
+      "insight": ""
+    },
+    {
+      "title": "Filings: Jensen Huang's charity committed $350M to rent compute from CoreWeave for its Computing Initiative for Open Science, and has already spent $108.3M",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/jensen-huang-s-charity-committed-350-million-to-coreweave",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "news",
+      "publishedAt": "2026-11-20T15:30:00.000Z",
+      "summary": "Former Nvidia Corp. Chief Executive Officer Jensen Huang's charitable foundation plans to spend $350 million renting computer time from CoreWeave Inc.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "eed8abca8a",
+      "feed": "Techmeme",
+      "tags": [
+        "Chips"
+      ],
+      "score": 43,
+      "insight": ""
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-19T18:09:11.000Z",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Sarah Perez",
+      "id": "1054662f25",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 41,
+      "insight": ""
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "source": "Hacker News",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-20T10:01:41.000Z",
+      "summary": "508 pontos e discussão ativa no Hacker News.",
+      "image": "",
+      "points": 508,
+      "readingMinutes": 0,
+      "author": "shioyama",
+      "id": "0000282282",
+      "feed": "Hacker News",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 40.3,
+      "insight": ""
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-19T21:42:31.000Z",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Dominic-Madori Davis",
+      "id": "f2dddf2ea7",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 38,
+      "insight": ""
+    },
+    {
+      "title": "Uber quietly launched Uber Kids as a pilot in three US cities for kids as young as 10, building on its teen ride-hailing service for those aged 13 to 17",
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "source": "TechCrunch",
+      "publisher": "TechCrunch",
+      "section": "news",
+      "publishedAt": "2026-11-20T13:10:02.000Z",
+      "summary": "Uber has opened its ride-hailing service to children as young as 10 in three U.S. cities as the company tests whether there's a market …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "856f962b1e",
+      "feed": "Techmeme",
+      "tags": [],
+      "score": 37.3,
+      "insight": ""
+    },
+    {
+      "title": "Source: Coinbase is targeting H1 2027 to begin offering in-house event contracts in the US; it currently offers prediction markets through a Kalshi partnership",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "news",
+      "publishedAt": "2026-11-20T14:30:03.000Z",
+      "summary": "Coinbase Global Inc. is targeting the first half of 2027 to begin offering in-house event contracts in the US, according to a person familiar with the matter.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "0519d0f846",
+      "feed": "Techmeme",
+      "tags": [],
+      "score": 35.7,
+      "insight": ""
+    },
+    {
+      "title": "Sources: YouTube reaches an agreement in principle to pay ~$3B to US school districts over claims YouTube fosters addiction; a final deal may be months away",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "news",
+      "publishedAt": "2026-11-20T18:50:02.000Z",
+      "summary": "Google's YouTube is finalizing a multibillion-dollar settlement payout to school districts across the US that have accused the company …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "bf1f86fa26",
+      "feed": "Techmeme",
+      "tags": [
+        "Big Tech"
+      ],
+      "score": 35,
+      "insight": ""
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-20T18:15:15.000Z",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s…",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Grace Huckins",
+      "id": "01449c61c8",
+      "feed": "MIT Technology Review",
+      "tags": [
+        "IA"
+      ],
+      "score": 35,
+      "insight": ""
+    },
+    {
+      "title": "Linq, which offers texting and calling infrastructure for AI agents, raised a $90M Series B led by a16z, following a $20M Series A in February",
+      "url": "https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all",
+      "source": "Birmingham Business Journal",
+      "publisher": "Birmingham Business Journal",
+      "section": "startup",
+      "publishedAt": "2026-11-20T16:00:53.000Z",
+      "summary": "Just a few months after a major Series A funding round, one of Birmingham's fastest-growing startups will receive another monumental funding infusion.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "57c54117bb",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 90000000,
+        "round": "Series B"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 66.3,
+      "insight": ""
+    },
+    {
+      "title": "Sources: Shanghai-based Pragmatik Labs, founded by ex-Qwen AI head Junyang Lin, raised tens of millions of dollars at a $5B valuation, up from $2B in August",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion",
+      "source": "Bloomberg",
+      "publisher": "Bloomberg",
+      "section": "startup",
+      "publishedAt": "2026-11-20T11:10:01.000Z",
+      "summary": "A startup founded by Alibaba Group Holding Ltd.'s former AI chief has closed new funding at a valuation of $5 billion …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "809d99b809",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 2000000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 62,
+      "insight": ""
+    },
+    {
+      "title": "Anthropic raises an additional $12.2B as underwriters exercise their \"greenshoe\" overallotment of shares, bringing the total raised in its IPO to $93.5B",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+      "source": "CNBC",
+      "publisher": "CNBC",
+      "section": "startup",
+      "publishedAt": "2026-11-20T13:50:01.000Z",
+      "summary": "Anthropic underwriters have officially exercised their overallotment of shares in the historic initial public offering …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "aafc6ce12c",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 12200000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 55.4,
+      "insight": ""
+    },
+    {
+      "title": "Nigerian AI Startup Khaime Raises USD 500 K Pre-Seed Funding Led By Launch Africa Ventures",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGtCU0RHSGE1eFN4V2M4aklENlEzM3hmaEdEN1ZLaldpbHd2Q3VRakkwWHNlcWZuRnFwTFZqTFZDYlB5TDhnZjhTY1liWDd3UmYxR0xGRlpNbDd0SE9CV1BJSnI5TGFnbDRLTndHWHYtcEozTnUzeUpuRlQyNmlUMjFhbUl6YzNDaHI1WVJR?oc=5",
+      "source": "WeeTracker",
+      "publisher": "WeeTracker",
+      "section": "startup",
+      "publishedAt": "2026-11-20T12:30:43.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "1725189daa",
+      "feed": "Google News: Funding",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 43,
+      "insight": ""
+    },
+    {
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-11-18T19:29:41.000Z",
+      "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Dominic-Madori Davis",
+      "id": "371d4074c9",
+      "feed": "TechCrunch Startups",
+      "funding": {
+        "currency": "USD",
+        "amount": 280000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 41.4,
+      "insight": ""
+    },
+    {
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "source": "Wired",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-11-20T07:00:00.000Z",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Joel Khalili",
+      "id": "a7839ae95a",
+      "feed": "Wired",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 41.3,
+      "insight": ""
+    },
+    {
+      "title": "Neutral-atom quantum startup MatriQ raises Series B, tops $140M in a year",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU91akdWX01Rb0lBYzJQOEVmUVV6NXR1WjdOd0RxMmNPbnlDYkxRaDhhQVpLM2V4UDg0UlZGN0ZVRlBSVWpJV0JKbTZKWlN5c3FvSW4tN2hLQld0NmRpV2NIanRmb01JYTRTM3NoeEN0R0tOdUtlT0haTEdVWVpiTkt5UV9OUS1NWVN0N01WNERZaFNvcFJSeE03U3lScGxtU0pjc2NKeVY?oc=5",
+      "source": "Dealroom",
+      "publisher": "Dealroom",
+      "section": "startup",
+      "publishedAt": "2026-11-20T01:46:36.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "be340853d2",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 140000000,
+        "round": "Series B"
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 39.5,
+      "insight": ""
+    },
+    {
+      "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
+      "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
+      "source": "Sifted",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-11-20T13:00:51.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "83b2182215",
+      "feed": "Sifted",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 38.3,
+      "insight": ""
+    },
+    {
+      "title": "Na “cola” da SpaceX, Blue Origin, de Jeff Bezos, entra na órbita do projeto de IA espacial do Google",
+      "url": "https://neofeed.com.br/inovacao/na-cola-da-spacex-blue-origin-de-jeff-bezos-entra-na-orbita-do-projeto-de-ia-espacial-do-google/",
+      "source": "Neofeed",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-19T20:07:23.000Z",
+      "summary": "No dia em que a Anthropic confirmou o maior IPO da história, com uma captação de US$ 107 bilhões – superando a abertura de capital da SpaceX -, a inteligência artificial (IA) está novamente nas alturas. Desta vez, porém, literalmente: embarcada em uma novidade de uma rival da empresa de Elon Musk.…",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/11/blue-origin-300x169.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Moacir Drska",
+      "id": "08b0135efa",
+      "feed": "Neofeed",
+      "funding": {
+        "currency": "USD",
+        "amount": 107000000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Big Tech",
+        "Rodada"
+      ],
+      "score": 51.7,
+      "insight": ""
+    },
+    {
+      "title": "5 tarefas pesadas que o novo Gemini 4 Carbon faz e nenhuma outra IA consegue",
+      "url": "https://canaltech.com.br/inteligencia-artificial/tarefas-pesadas-que-so-o-gemini-4-carbon-faz/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-20T10:30:05.000Z",
+      "summary": "O Google lançou o Gemini 4 Carbon, seu modelo de inteligência artificial mais avançado até agora. Diferente dos chatbots usados para responder perguntas e resumir textos, a novidade foi desenvolvida para lidar com tarefas complexas, que exigem planejamento, análise e várias etapas até chegar a um…",
+      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Viviane França",
+      "id": "ee916781ca",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 37.3,
+      "insight": ""
+    },
+    {
+      "title": "Jota anuncia novos CTO, CFO e CHRO",
+      "url": "https://startups.com.br/danca-das-cadeiras/jota-anuncia-novos-cto-cfo-e-chro/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-20T15:00:00.000Z",
+      "summary": "Arosti Nahas (CTO), Mateus Furini (CFO) e Ana Flávia Justino (CHRO) | Imagem: Divulgação Arosti Nahas, Mateus Furini e Ana Flávia Justino chegam para liderar frentes de tecnologia, finanças e gestão de pessoas O post Jota anuncia novos CTO, CFO e CHRO apareceu primeiro em Startups.",
+      "image": "https://uploads.startups.com.br/2026/11/Danca-das-Cadeiras-Versao-fundo-preto-Jota.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Redação",
+      "id": "1caea2664d",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [],
+      "score": 30,
+      "insight": ""
+    },
+    {
+      "title": "Investida da Canary, Settle acelera levando IA para as compras públicas",
+      "url": "https://startups.com.br/negocios/inteligencia-artificial/investida-da-canary-settle-acelera-levando-ia-para-as-compras-publicas/",
+      "source": "Startups.com.br",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "summary": "Fundadores da Settle | Foto: divulgação Com Vivo, Betha e BR Supply na carteira, startup usa agentes de IA para triagem de editais e dobra a receita a cada três meses O post Investida da Canary, Settle acelera levando IA para as compras públicas apareceu primeiro em Startups.",
+      "image": "https://uploads.startups.com.br/2026/11/1320-X-768-84.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Leandro Miguel Souza",
+      "id": "6a0da41476",
+      "feed": "Startups.com.br",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 28.7,
+      "insight": ""
+    },
+    {
+      "title": "Desenvolve SP vai financiar câmeras 3.0 da Gabriel",
+      "url": "https://braziljournal.com/desenvolve-sp-vai-financiar-cameras-30-da-gabriel",
+      "source": "Brazil Journal",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-18T20:46:00.000Z",
+      "summary": "A Gabriel – a startup de câmeras de segurança com inteligência artificial – acaba de levantar uma dívida com a Desenvolve SP para desenvolver a próxima geração de sua tecnologia, um hardware capaz de identificar ações suspeitas e agir de forma preventiva. A captação, de R$ 20 milhões, foi feita por…",
+      "image": "https://codex-braziljournal.codexcdn.net/assets/as9rlZGzmIzcgjvd3.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Pedro Arbex",
+      "id": "b0c63bed3b",
+      "feed": "Brazil Journal",
+      "funding": {
+        "currency": "BRL",
+        "amount": 20000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Segurança",
+        "Rodada"
+      ],
+      "score": 26.3,
+      "insight": ""
+    },
+    {
+      "title": "Xiaomi lança barbeador que se ajusta sozinho à sua barba; bateria dura 60 dias",
+      "url": "https://canaltech.com.br/produtos/xiaomi-lanca-barbeador-que-se-ajusta-sozinho-a-sua-barba-bateria-dura-60-dias/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-20T18:21:30.000Z",
+      "summary": "A Xiaomi anunciou um novo barbeador elétrico que ajusta automaticamente a potência de acordo com a barba do usuário. O Mijia Portable Electric Shaver Pro chega ao mercado chinês com motor inteligente e promete até 60 dias de bateria com uma única carga. O aparelho estará disponível para…",
+      "image": "https://tl.ctcdn.com.br/TCfBiIIMPjzoj60T7j1A--MniXg=/0x0/filters:format(webp):quality(85)/d0e29fcf-ed3d-4781-b590-10fc64679cf8.png",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Bruno Bertonzin",
+      "id": "76f666d3c5",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "Energia"
+      ],
+      "score": 22,
+      "insight": ""
+    },
+    {
+      "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2611.26444",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26444.png",
+      "upvotes": 46,
+      "github": "https://github.com/Mind2Act/Mind2Act_World",
+      "authors": [
+        "Yuzhi Huang",
+        "Jie Wu",
+        "Fanding Huang"
+      ],
+      "organization": "Mind2Act-World",
+      "id": "63dbb81e2a",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 61,
+      "insight": "Em alta na comunidade, com 46 upvotes no Hugging Face."
+    },
+    {
+      "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+      "url": "https://huggingface.co/papers/2611.21373",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21373.png",
+      "upvotes": 48,
+      "github": "https://github.com/Tencent/WeVisForensics",
+      "authors": [
+        "Yipeng Du",
+        "Yuxi Li",
+        "Ying Zhang"
+      ],
+      "organization": "Tencent",
+      "id": "47ddbf71e0",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 61,
+      "insight": "Em alta na comunidade, com 48 upvotes no Hugging Face."
+    },
+    {
+      "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+      "url": "https://huggingface.co/papers/2611.26595",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26595.png",
+      "upvotes": 31,
+      "github": "https://github.com/FrankYang-17/Coda",
+      "authors": [
+        "Yiyan Ji",
+        "Qixun Wang",
+        "Yang Shi"
+      ],
+      "organization": "KlingAI Research",
+      "id": "f6990214f0",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 55,
+      "insight": "Em alta na comunidade, com 31 upvotes no Hugging Face."
+    },
+    {
+      "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+      "url": "https://huggingface.co/papers/2611.26409",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26409.png",
+      "upvotes": 39,
+      "github": "https://github.com/Tencent/WeMM-Video",
+      "authors": [
+        "Changli Tang",
+        "Jie Yang",
+        "Tianyi Wang"
+      ],
+      "organization": "Tencent",
+      "id": "0cdac5c6e4",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 54,
+      "insight": "Em alta na comunidade, com 39 upvotes no Hugging Face."
+    },
+    {
+      "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+      "url": "https://huggingface.co/papers/2611.26073",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "A statistical test, AltRA-Test, determines when large language models can replace human annotators by comparing inter-annotator agreement in resampled mixed human-LLM panels, and evaluations show it often requires about 100 items and makes better replacement decisions than baselines.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26073.png",
+      "upvotes": 19,
+      "github": "",
+      "authors": [
+        "Nagham Omar",
+        "Rotem Dror",
+        "Almog Gueta"
+      ],
+      "organization": "Technion Israel institute of technology",
+      "id": "399e786b29",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 48.9,
+      "insight": "Pesquisa recente que pode antecipar técnicas que ainda não chegaram ao mercado."
+    },
+    {
+      "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+      "url": "https://huggingface.co/papers/2611.21383",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "A plug-and-play objective, VODA, groups per-pixel contributors by local depth to supervise all Gaussians in selected depth clusters, improving volumetric segmentation and enabling evaluation via Removal-3D and Removal Depth Error.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21383.png",
+      "upvotes": 30,
+      "github": "https://github.com/jhxcho/voda",
+      "authors": [
+        "Jeonghwan Cho",
+        "Minsu Kim",
+        "Junyoung Hong"
+      ],
+      "organization": "Yonsei University",
+      "id": "28a468536f",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 48.7,
+      "insight": "Em alta na comunidade, com 30 upvotes no Hugging Face."
+    },
+    {
+      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+      "source": "The Pragmatic Engineer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-19T17:08:59.000Z",
+      "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
+      "image": "https://substackcdn.com/image/fetch/$s_!dsZM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9817f36-232c-412a-89cc-57b2691171ec_819x900.png",
+      "points": 0,
+      "readingMinutes": 1,
+      "author": "Gergely Orosz",
+      "id": "04da227b0c",
+      "feed": "The Pragmatic Engineer",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 47.9,
+      "insight": "Leitura de 1 min."
+    },
+    {
+      "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+      "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+      "source": "Stratechery",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-18T11:00:00.000Z",
+      "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 1,
+      "author": "Ben Thompson",
+      "id": "4618f5d2a9",
+      "feed": "Stratechery",
+      "tags": [
+        "IA",
+        "Chips",
+        "Big Tech"
+      ],
+      "score": 43.4,
+      "insight": "Leitura de 1 min."
+    },
+    {
+      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+      "source": "Latent Space",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-19T07:07:43.000Z",
+      "summary": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6ba7e411-386b-45b6-b64e-592072c52abf/image.png?t=1795071522",
+      "points": 0,
+      "readingMinutes": 6,
+      "author": "swyx .ai",
+      "id": "20477ed22c",
+      "feed": "Latent Space",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 43.1,
+      "insight": "Leitura de 6 min."
+    },
+    {
+      "title": "Anthropic goes public",
+      "url": "https://www.platformer.news/anthropic-goes-public/",
+      "source": "Platformer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-20T01:37:44.000Z",
+      "summary": "What a protest at the company's headquarters today says about its future — and everyone else's",
+      "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/11/shutterstock_2745761117.jpg",
+      "points": 0,
+      "readingMinutes": 6,
+      "author": "Ella Markianos",
+      "id": "f43a281361",
+      "feed": "Platformer",
+      "tags": [
+        "IA"
+      ],
+      "score": 29.6,
+      "insight": "Leitura de 6 min."
+    },
+    {
+      "title": "Weekly Dose of Optimism #220",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-220",
+      "source": "Not Boring",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-20T13:52:45.000Z",
+      "summary": "SpaceX reusability, Leukemia vaccine (+pancreatic pill), SLAB, Tesla Powercore, Earth AI Gold + TEN Extra Doses",
+      "image": "https://substackcdn.com/image/fetch/$s_!PPUN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27d68c14-5cc8-42fd-afe9-cbd625d8687a_960x540.gif",
+      "points": 0,
+      "readingMinutes": 9,
+      "author": "Packy McCormick",
+      "id": "64de76bf2f",
+      "feed": "Not Boring",
+      "tags": [
+        "IA",
+        "Big Tech",
+        "Espaço"
+      ],
+      "score": 27.6,
+      "insight": "Leitura de 9 min."
+    },
+    {
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-16T12:10:36.000Z",
+      "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "stars": 6422,
+      "language": "Rust",
+      "image": "https://avatars.githubusercontent.com/u/88717125?v=4",
+      "id": "8129f68e26",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 12.6,
+      "insight": "6.422 estrelas em poucos dias, escrito em Rust."
+    },
+    {
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-16T19:28:29.000Z",
+      "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries,…",
+      "stars": 5175,
+      "language": "C++",
+      "image": "https://avatars.githubusercontent.com/u/85200472?v=4",
+      "id": "0b86eba1de",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 12.3,
+      "insight": "5.175 estrelas em poucos dias, escrito em C++."
+    },
+    {
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-15T11:16:46.000Z",
+      "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "stars": 1987,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/192405006?v=4",
+      "id": "520100b2ce",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11,
+      "insight": "1.987 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "CzzzzzzJ/mdldm-maitian",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-14T03:59:22.000Z",
+      "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "stars": 1707,
+      "language": "JavaScript",
+      "image": "https://avatars.githubusercontent.com/u/110924215?v=4",
+      "id": "06753c6e90",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.7,
+      "insight": "1.707 estrelas em poucos dias, escrito em JavaScript."
+    },
+    {
+      "title": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-14T01:24:58.000Z",
+      "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "stars": 1692,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/126966774?v=4",
+      "id": "2c38e03ddc",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.7,
+      "insight": "1.692 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "haziqahmedqasmi/PeakCut",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-14T07:38:20.000Z",
+      "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "stars": 1522,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/134844667?v=4",
+      "id": "4ea895ebe9",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.6,
+      "insight": "1.522 estrelas em poucos dias, escrito em Python."
+    }
+  ],
+  "counts": {
+    "total": 42
+  }
+}
