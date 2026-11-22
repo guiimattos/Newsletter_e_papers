@@ -1,0 +1,1825 @@
+{
+  "title": "OpenClaw Tech Brief",
+  "generatedAt": "2026-11-22T18:15:08.937Z",
+  "date": "2026-11-22",
+  "dateLabel": "22/11/2026 15:15",
+  "summary": "As principais notícias de tecnologia, startups e pesquisa das últimas 48 horas, escolhidas entre dezenas de fontes.",
+  "highlights": [],
+  "tags": [
+    {
+      "tag": "IA",
+      "count": 26
+    },
+    {
+      "tag": "Big Tech",
+      "count": 8
+    },
+    {
+      "tag": "Rodada",
+      "count": 6
+    },
+    {
+      "tag": "Chips",
+      "count": 5
+    },
+    {
+      "tag": "Segurança",
+      "count": 2
+    },
+    {
+      "tag": "M&A",
+      "count": 1
+    },
+    {
+      "tag": "Hardware",
+      "count": 1
+    },
+    {
+      "tag": "Espaço",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "news": 11,
+    "startups": 8,
+    "brasil": 6,
+    "reads": 5,
+    "papers": 6,
+    "repos": 6,
+    "rounds": 4,
+    "sources": 27
+  },
+  "lead": {
+    "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness",
+    "url": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&sharetype=gift&token=956073db-4440-473e-97bd-a0af2932464c",
+    "source": "Financial Times",
+    "publisher": "Financial Times",
+    "section": "news",
+    "publishedAt": "2026-11-21T11:30:01.000Z",
+    "summary": "The in-house philosopher on the problem of consciousness and what it might feel like to be an AI agent",
+    "image": "",
+    "points": 0,
+    "readingMinutes": 0,
+    "author": "",
+    "id": "611fd1f48b",
+    "feed": "Techmeme",
+    "tags": [
+      "IA",
+      "Big Tech"
+    ],
+    "score": 42,
+    "insight": ""
+  },
+  "sections": {
+    "news": [
+      {
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "source": "Hacker News",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-22T08:57:34.000Z",
+        "summary": "569 pontos e discussão ativa no Hacker News.",
+        "image": "",
+        "points": 569,
+        "readingMinutes": 0,
+        "author": "happosai",
+        "id": "bf1d56f79e",
+        "feed": "Hacker News",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 42,
+        "insight": ""
+      },
+      {
+        "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it",
+        "url": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&smid=url-share",
+        "source": "New York Times",
+        "publisher": "New York Times",
+        "section": "news",
+        "publishedAt": "2026-11-22T15:00:34.000Z",
+        "summary": "To move through A.I.-era San Francisco as a relatively normal person is to confront the sheer volume of bewildering concepts that tech has lately thrust upon us.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "1cc2efb1a4",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 41,
+        "insight": ""
+      },
+      {
+        "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China",
+        "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9",
+        "source": "Financial Times",
+        "publisher": "Financial Times",
+        "section": "news",
+        "publishedAt": "2026-11-21T18:55:01.000Z",
+        "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "0fed198089",
+        "feed": "Techmeme",
+        "tags": [
+          "Chips"
+        ],
+        "score": 40.3,
+        "insight": ""
+      },
+      {
+        "title": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly",
+        "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?accessToken=zwAAAaH84u1pkc88-ILGC-ZD9dOwHrb3ZWhsiw.MEQCIEewq-yMEhWLLFytskbl4UfRofl-P5tnaU_ItSGndPYsAiB5E9iR8KtH8A9y5DsKiZxw46YWH_09vwzWKRqKB451VA&sharetype=gift&token=78da349b-c4b7-48c6-8dfa-5cf8d65ca0f1",
+        "source": "Financial Times",
+        "publisher": "Financial Times",
+        "section": "news",
+        "publishedAt": "2026-11-22T11:01:10.000Z",
+        "summary": "The freezer war is just a start. The year is 2027. You wake up one morning to find you cannot use email or send instant messages.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "5d0d1fe6a7",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Segurança"
+        ],
+        "score": 39.7,
+        "insight": ""
+      },
+      {
+        "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+        "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-22T17:06:00.000Z",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Kirsten Korosec",
+        "id": "269744fa7a",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA"
+        ],
+        "score": 37.7,
+        "insight": ""
+      },
+      {
+        "title": "Banks Have Had It Up to Here With Your AI Agent",
+        "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+        "source": "Wired",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-22T11:00:00.000Z",
+        "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+        "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Reece Rogers",
+        "id": "31c3365412",
+        "feed": "Wired",
+        "tags": [
+          "IA"
+        ],
+        "score": 36.7,
+        "insight": ""
+      },
+      {
+        "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5",
+        "source": "Yahoo Finance",
+        "publisher": "Yahoo Finance",
+        "section": "news",
+        "publishedAt": "2026-11-22T09:34:02.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "c305109d40",
+        "feed": "Google News: IA",
+        "tags": [
+          "IA",
+          "Chips"
+        ],
+        "score": 36.3,
+        "insight": ""
+      },
+      {
+        "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips",
+        "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&smid=url-share",
+        "source": "New York Times",
+        "publisher": "New York Times",
+        "section": "news",
+        "publishedAt": "2026-11-22T07:00:41.000Z",
+        "summary": "China's espionage agency has been running a secret campaign to help the country's companies acquire advanced A.I. chips …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "0ba59a1738",
+        "feed": "Techmeme",
+        "tags": [
+          "IA",
+          "Chips",
+          "M&A"
+        ],
+        "score": 35.3,
+        "insight": ""
+      },
+      {
+        "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends",
+        "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+        "source": "Wired",
+        "publisher": "Wired",
+        "section": "news",
+        "publishedAt": "2026-11-22T00:10:02.000Z",
+        "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "8fbc773186",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 35,
+        "insight": ""
+      },
+      {
+        "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "source": "Ars Technica",
+        "publisher": "Ars Technica",
+        "section": "news",
+        "publishedAt": "2026-11-21T20:10:02.000Z",
+        "summary": "Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "99727b65c2",
+        "feed": "Techmeme",
+        "tags": [
+          "IA"
+        ],
+        "score": 33.7,
+        "insight": ""
+      }
+    ],
+    "startups": [
+      {
+        "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals",
+        "url": "https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/",
+        "source": "Reuters",
+        "publisher": "Reuters",
+        "section": "startup",
+        "publishedAt": "2026-11-22T17:15:01.000Z",
+        "summary": "For the second time this year, Wall Street bankers and lawyers took home a massive paycheck from a record-setting initial public offering.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "61906e6641",
+        "feed": "Techmeme",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 51.7,
+        "insight": ""
+      },
+      {
+        "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week",
+        "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+        "source": "Financial Times",
+        "publisher": "Financial Times",
+        "section": "startup",
+        "publishedAt": "2026-11-21T17:55:01.000Z",
+        "summary": "Acquisition would help AWS compete with Nvidia in race for computing power &mdash; Amazon is nearing a $7.5bn deal to buy start-up Decart …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "7623e0edaf",
+        "feed": "Techmeme",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Chips",
+          "Big Tech"
+        ],
+        "score": 49,
+        "insight": ""
+      },
+      {
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "source": "TechCrunch",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-11-21T16:00:00.000Z",
+        "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Lucas Ropek",
+        "id": "89298d3b7f",
+        "feed": "TechCrunch",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 30.3,
+        "insight": ""
+      },
+      {
+        "title": "Irish AI startup bags $5.5m in funding from Collison brothers",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmdqWXdpRFZnNkN0NS1mZWhXOGZNMkRqN1FVTmYzeExaQWszNGZ2VDZ1N01YT3RZeGRQdElnMjlrX01QekFIOGF5VVJrdGZjak44MThUMmRNR0VKalhjT0VheVBCb0xaNXphSE1NRGlmdG1rMVVwQVFRX08yRkhxcVVZRG5mRUZHWkE0VmdBbGxIUmd6MDcyMFVYcm5tZ05DZVc4WkQ3VWVaUVp3UDFkTEkyYw?oc=5",
+        "source": "Irish Independent",
+        "publisher": "Irish Independent",
+        "section": "startup",
+        "publishedAt": "2026-11-21T16:12:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "f2691a1d83",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 5500000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 29.1,
+        "insight": ""
+      },
+      {
+        "title": "Startups lead Technology Development Board's second funding cohort",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTnBvVkVYUnQtRHR4MDRocXEtV0tsNl9BWVJKakJYYTVNZXBaeHM4M3RvSW1ja2NDcmRwMHROY0NCVXR5SEVoakV3TkhwaWh3VHBlTkoxLWlMWlc1OUh1WVU4UUs2MzdJRFd3RUZiblBkbU5aTUE2ZXZzb3BXeU9mWDA3SDFNa3ZvZ1E0bWpITExTYmJWTlBJUFVXV25CaTZiS1o5M2lYOFhGM0RneFkxOTU2VWtYWjNUcFVpUUhXdlo4d1gxUUl3TjF0T3NqNUIzS0FPSGI5SUXSAd4BQVVfeXFMTkFPNlcta3FKV0hxd0ZhOXpvd1czczNJSzJuQWZleVV2VnZRV2d2QXU5bFlSWmJFTGNSSFBmQ0NEZWw2ZXM2WHB4QjFaaVBEeHJxeHgtTEVpbEd3TFlvUEp6MVd1dnBSbS05U2lIMDFzOE5tRzRncGpKOHZQZ0t4bDZNaURibnJHWm91Q2h6RWtaRlZKcXBxV3JabDhydHlsUmQ2U2JUYWhLTVNNYnNmZkdKM3FBVkJsdlZVclZRMjZ6dTlYMDJENlJiQ2VyeTQ2Y3BvNHFrUUV5ai1TNEtR?oc=5",
+        "source": "Business Standard",
+        "publisher": "Business Standard",
+        "section": "startup",
+        "publishedAt": "2026-11-22T17:39:03.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "afd5209af3",
+        "feed": "Google News: Funding",
+        "funding": null,
+        "tags": [
+          "Rodada"
+        ],
+        "score": 29,
+        "insight": ""
+      },
+      {
+        "title": "Google announces $5 mn funding for IIT Kharagpur for advanced AI research",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRTBKN3JSX1B2S1BXaTZvaUZoZFBndW1TREhDX3ZxMzNtZWF3SGwtQThVbTZnazBxTUNEdDlvZFhjTmJnUERpRzd0MktxNHpiZW9NZ1J4aTNZYTVBWTVoWE9zVnBfVVFIY25FMkIzSXlCcExCNi1uR1JMUHRvQjBmbnFTZE1qQ2F3TTltSG16elZSb2Via0JZQWR6SkRVX0ZHRFpVSkdEZVlKOE5xVmZSa1MyTGJSTGxhUXBfTU54MngtazVtaFhsZlFXVjBKbFhXNzRvNXN0QjlKR1ZleFpsTtIB5gFBVV95cUxOVGw2ZF9OUjEwR2pCVjhudnNhNXpvcVdaOThYZXAzOXNHb1FqQnpqQl82MTF3SlgyUzV6WVVFcEN0OVV4OUZjZE1TcW5pTWJ5d2sxMHdodVVBbHN1VjNrdWhNaW9ueEd0LVVtUVBPdTB1U3BPWEhoUWRBRDFycldPUThiUGJfMkhrdDNTaGx6em41ZUQ5dEJjSVNQcFlpSHF1LXh3ZFl1b2xKTmxwNnVnS2dXZDBTc1kyaTRJdnpzMW45ZXJVbmNDdzhvSktiTFcwZWhqYnF1QV9HaWJNaVhFRFlzd3kwUQ?oc=5",
+        "source": "Business Standard",
+        "publisher": "Business Standard",
+        "section": "startup",
+        "publishedAt": "2026-11-21T08:31:48.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "ce99d64e93",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 5000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Big Tech",
+          "Rodada"
+        ],
+        "score": 28.7,
+        "insight": ""
+      },
+      {
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
+        "section": "startup",
+        "publishedAt": "2026-11-20T19:53:41.000Z",
+        "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Tim De Chant",
+        "id": "340614cb1d",
+        "feed": "TechCrunch Startups",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 28,
+        "insight": ""
+      },
+      {
+        "title": "Healthcare AI startup Knit Health raises US$35m",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWl4TU9xU3B3eWtSNW1ueUJhSjlWMGNSWFR1bU8ta1Q0WU5BTzdFNThNYUx4TzV4ZEZpY1JQSGJwdHFVbjBGOVdnQlhWeGZ1cjE2Q2xGcFhkYWVnSUFsTVlQS01FZkEzcTZEUGJ3SzloOUR6NmZfUWJTZTlNekZ6bGFDQ3ViejFQOHJ2OA?oc=5",
+        "source": "Health Tech World",
+        "publisher": "Health Tech World",
+        "section": "startup",
+        "publishedAt": "2026-11-20T19:10:42.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "da3e8f6ce1",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 35000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 27.5,
+        "insight": ""
+      }
+    ],
+    "brasil": [
+      {
+        "title": "10 recursos do Gemini Intelligence para celulares Android",
+        "url": "https://canaltech.com.br/inteligencia-artificial/gemini-intelligence-recursos-para-celulares-android/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-22T12:30:03.000Z",
+        "summary": "O Gemini Intelligence é uma plataforma de inteligência artificial do Google integrada aos dispositivos Android, que transforma o smartphone em um assistente agêntico que consegue entender o contexto das suas atividades, interpretar o que você vê e fala e executar tarefas com várias etapas. A ideia…",
+        "image": "https://tl.ctcdn.com.br/v_YmqAw8yrD3Xd8-vqXqHqWbDZQ=/0x0/filters:format(webp):quality(85)/db795608-5ac1-423e-8224-19559cb11ed2.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Viviane França",
+        "id": "ce2a4b3bc5",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA",
+          "Big Tech",
+          "Hardware"
+        ],
+        "score": 34.3,
+        "insight": ""
+      },
+      {
+        "title": "Surge um novo canal comercial, operado de ponta a ponta por IA",
+        "url": "https://canaltech.com.br/inteligencia-artificial/surge-um-novo-canal-comercial-operado-de-ponta-a-ponta-por-ia/",
+        "source": "Canaltech",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-22T13:30:00.000Z",
+        "summary": "A inteligência artificial já ocupa espaço nas agendas de investimento das empresas, mas transformar esse movimento em resultados concretos continua sendo um desafio. Uma pesquisa do IBM Institute for Business Value, realizada em parceria com a Oxford Economics, mostrou que apenas 37% das…",
+        "image": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Luiz Othero",
+        "id": "7961820b28",
+        "feed": "Canaltech",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 31.7,
+        "insight": ""
+      },
+      {
+        "title": "Fapesp Lança Segunda Rodada do PIPE Jornada Tecnológica com R$ 50 Milhões para Inovação em Pequenas Empresas",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQODdiYU43M1F1UG8wUk95ckZMNHpGVkI1N2hxMTQtTlAtVVlXOUhqY2xMVklraXQ2ejdfZ3A1TDdHSnFtVjg3MTFjcXd5V3BMQ3NuN25JN3BWeUxVZHphZXl4eFBKZHRIN01Rd2V6ZmV1cDdjeWZYbnRtNkx6enpMUzJJbVpzM3Rncm40cTZIWk9YTmc0WG5PSjVueExhRTlkZ1JKYURaUE9mdmxXNU04UkZ5TUhJck9DZk13SllSMXljTmtKb0kwa3dQdXIyTEJUWVVoaXJnT19rMG1FSVM3b1BmSk0?oc=5",
+        "source": "Jornal Digital da Região Oeste",
+        "publisher": "Jornal Digital da Região Oeste",
+        "section": "brasil",
+        "publishedAt": "2026-11-22T14:18:25.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "dce6a9f61c",
+        "feed": "Google News: Startups BR",
+        "funding": {
+          "currency": "BRL",
+          "amount": 50000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 30.7,
+        "insight": ""
+      },
+      {
+        "title": "Cem anos depois, o gênio do impressionismo Claude Monet ainda impressiona e mobiliza multidões",
+        "url": "https://neofeed.com.br/finde/cem-anos-depois-o-genio-do-impressionismo-claude-monet-ainda-impressiona-e-mobiliza-multidoes/",
+        "source": "Neofeed",
+        "publisher": "",
+        "section": "brasil",
+        "publishedAt": "2026-11-22T12:05:56.000Z",
+        "summary": "Paris – Quando morreu em 1926, aos 86 anos, Claude Monet era rico e consagrado. Considerado o fundador do impressionismo, o pintor francês escapou do estereótipo do artista condenado à penúria e ao reconhecimento póstumo, como Vincent van Gogh, Alfred Sisley ou Paul Gauguin. Cem anos depois, sua…",
+        "image": "https://neofeed.com.br/wp-content/uploads/2026/11/musee-d-orsay.fr-1-300x169.jpg",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Maria Eduarda Nogueira",
+        "id": "b9422e0345",
+        "feed": "Neofeed",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 26,
+        "insight": ""
+      },
+      {
+        "title": "Venture capital Brasil 2026: de rodada a retorno real",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb000X2Q0dTRaN19FSVNabEZ0QU1VNF9xbUtRYnVURnF4OWU0czMyU1JrU3g3cDhyY0F0M0pUdExkSHlGejJ1M1c0THdUblVaMzlFdXV1Z1BuaThHWl9VZzlreUp0VXdrX24xMVVnbWt1MjA3RTl2RzAtdHp3OEZ1MEhNQU5hZ1NjYjVRRlAtbXZmb25MMWg2VExjVjBZMzJDYTRrN003S1l0NjI3OEw0?oc=5",
+        "source": "iMasters",
+        "publisher": "iMasters",
+        "section": "brasil",
+        "publishedAt": "2026-11-22T09:05:28.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "db57570cde",
+        "feed": "Google News: Startups BR",
+        "funding": null,
+        "tags": [
+          "Rodada"
+        ],
+        "score": 26,
+        "insight": ""
+      },
+      {
+        "title": "Itaú Investe em Startup Uruguaia de IA Que Processa 2 Milhões de Pagamentos por Dia",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVN1RE9rS2xPc3pTWGk4M2VDc0NZYUlFU3QxWFFpZHRnN3lYUEpqU2d3MDE1MkhOUlFfUmZFTzV5d1E1UGpnV0s5Tm9MdTFTQmthSEhOTExpWWs4eUt3SGl1SkRuRlNCNHBmemYzSUV3VGVUM01nY3A0RzRROWlKTGt3LXhUZy1RSVNVYVNmTXBvbVJtc3J1UzF1b2otNFhWRlo0ZTVCMWNWZzFWWFgwcVNmeXBSdw?oc=5",
+        "source": "Forbes Brasil",
+        "publisher": "Forbes Brasil",
+        "section": "brasil",
+        "publishedAt": "2026-11-22T08:00:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "f0c6a77b48",
+        "feed": "Google News: Startups BR",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 24.7,
+        "insight": ""
+      }
+    ],
+    "reads": [
+      {
+        "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+        "source": "The Pragmatic Engineer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-19T17:08:59.000Z",
+        "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
+        "image": "https://substackcdn.com/image/fetch/$s_!dsZM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9817f36-232c-412a-89cc-57b2691171ec_819x900.png",
+        "points": 0,
+        "readingMinutes": 1,
+        "author": "Gergely Orosz",
+        "id": "04da227b0c",
+        "feed": "The Pragmatic Engineer",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 43.9,
+        "insight": "Leitura de 1 min."
+      },
+      {
+        "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+        "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+        "source": "Stratechery",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-18T11:00:00.000Z",
+        "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 1,
+        "author": "Ben Thompson",
+        "id": "4618f5d2a9",
+        "feed": "Stratechery",
+        "tags": [
+          "IA",
+          "Chips",
+          "Big Tech"
+        ],
+        "score": 39.4,
+        "insight": "Leitura de 1 min."
+      },
+      {
+        "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+        "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+        "source": "Latent Space",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-19T07:07:43.000Z",
+        "summary": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+        "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6ba7e411-386b-45b6-b64e-592072c52abf/image.png?t=1795071522",
+        "points": 0,
+        "readingMinutes": 6,
+        "author": "swyx .ai",
+        "id": "20477ed22c",
+        "feed": "Latent Space",
+        "tags": [
+          "IA",
+          "Big Tech"
+        ],
+        "score": 39.1,
+        "insight": "Leitura de 6 min."
+      },
+      {
+        "title": "Anthropic goes public",
+        "url": "https://www.platformer.news/anthropic-goes-public/",
+        "source": "Platformer",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-20T01:37:44.000Z",
+        "summary": "What a protest at the company's headquarters today says about its future — and everyone else's",
+        "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/11/shutterstock_2745761117.jpg",
+        "points": 0,
+        "readingMinutes": 6,
+        "author": "Ella Markianos",
+        "id": "f43a281361",
+        "feed": "Platformer",
+        "tags": [
+          "IA"
+        ],
+        "score": 25.7,
+        "insight": "Leitura de 6 min."
+      },
+      {
+        "title": "Weekly Dose of Optimism #220",
+        "url": "https://www.notboring.co/p/weekly-dose-of-optimism-220",
+        "source": "Not Boring",
+        "publisher": "",
+        "section": "read",
+        "publishedAt": "2026-11-20T13:52:45.000Z",
+        "summary": "SpaceX reusability, Leukemia vaccine (+pancreatic pill), SLAB, Tesla Powercore, Earth AI Gold + TEN Extra Doses",
+        "image": "https://substackcdn.com/image/fetch/$s_!PPUN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27d68c14-5cc8-42fd-afe9-cbd625d8687a_960x540.gif",
+        "points": 0,
+        "readingMinutes": 9,
+        "author": "Packy McCormick",
+        "id": "64de76bf2f",
+        "feed": "Not Boring",
+        "tags": [
+          "IA",
+          "Big Tech",
+          "Espaço"
+        ],
+        "score": 23.7,
+        "insight": "Leitura de 9 min."
+      }
+    ],
+    "papers": [
+      {
+        "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+        "url": "https://huggingface.co/papers/2611.26444",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26444.png",
+        "upvotes": 53,
+        "github": "https://github.com/Mind2Act/Mind2Act_World",
+        "authors": [
+          "Yuzhi Huang",
+          "Jie Wu",
+          "Fanding Huang"
+        ],
+        "organization": "Mind2Act-World",
+        "id": "63dbb81e2a",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 55,
+        "insight": "Em alta na comunidade, com 53 upvotes no Hugging Face."
+      },
+      {
+        "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+        "url": "https://huggingface.co/papers/2611.21373",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21373.png",
+        "upvotes": 56,
+        "github": "https://github.com/Tencent/WeVisForensics",
+        "authors": [
+          "Yipeng Du",
+          "Yuxi Li",
+          "Ying Zhang"
+        ],
+        "organization": "Tencent",
+        "id": "47ddbf71e0",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 55,
+        "insight": "Em alta na comunidade, com 56 upvotes no Hugging Face."
+      },
+      {
+        "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+        "url": "https://huggingface.co/papers/2611.26595",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26595.png",
+        "upvotes": 39,
+        "github": "https://github.com/FrankYang-17/Coda",
+        "authors": [
+          "Yiyan Ji",
+          "Qixun Wang",
+          "Yang Shi"
+        ],
+        "organization": "KlingAI Research",
+        "id": "f6990214f0",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 49,
+        "insight": "Em alta na comunidade, com 39 upvotes no Hugging Face."
+      },
+      {
+        "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+        "url": "https://huggingface.co/papers/2611.26409",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26409.png",
+        "upvotes": 45,
+        "github": "https://github.com/Tencent/WeMM-Video",
+        "authors": [
+          "Changli Tang",
+          "Jie Yang",
+          "Tianyi Wang"
+        ],
+        "organization": "Tencent",
+        "id": "0cdac5c6e4",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 48,
+        "insight": "Em alta na comunidade, com 45 upvotes no Hugging Face."
+      },
+      {
+        "title": "TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs",
+        "url": "https://huggingface.co/papers/2611.26248",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "AI agents are increasingly expected to act as AI scientists, which requires three increasingly open abilities: carrying out a given computational workflow correctly, choosing the next measurements from a given design space, and designing their own experiments. Existing benchmarks mainly evaluate…",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26248.png",
+        "upvotes": 7,
+        "github": "https://github.com/ZJUSCL/TwinLab-Bench",
+        "authors": [
+          "Yang Wan",
+          "Linchao Zhu"
+        ],
+        "organization": "Zhejiang University",
+        "id": "0115555b39",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 47,
+        "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+      },
+      {
+        "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+        "url": "https://huggingface.co/papers/2611.26073",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "summary": "A statistical test, AltRA-Test, determines when large language models can replace human annotators by comparing inter-annotator agreement in resampled mixed human-LLM panels, and evaluations show it often requires about 100 items and makes better replacement decisions than baselines.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26073.png",
+        "upvotes": 23,
+        "github": "",
+        "authors": [
+          "Nagham Omar",
+          "Rotem Dror",
+          "Almog Gueta"
+        ],
+        "organization": "Technion Israel institute of technology",
+        "id": "399e786b29",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 44.5,
+        "insight": "Em alta na comunidade, com 23 upvotes no Hugging Face."
+      }
+    ],
+    "repos": [
+      {
+        "title": "ItsNotRexed/Leonida",
+        "url": "https://github.com/ItsNotRexed/Leonida",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-20T20:07:13.000Z",
+        "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+        "stars": 12674,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/300290919?v=4",
+        "id": "01af6e752b",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 13.6,
+        "insight": "12.674 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "erkamyaman/rust-anything",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-16T12:10:36.000Z",
+        "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+        "stars": 7870,
+        "language": "Rust",
+        "image": "https://avatars.githubusercontent.com/u/88717125?v=4",
+        "id": "8129f68e26",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 12.9,
+        "insight": "7.870 estrelas em poucos dias, escrito em Rust."
+      },
+      {
+        "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-19T14:43:10.000Z",
+        "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python…",
+        "stars": 2744,
+        "language": "",
+        "image": "https://avatars.githubusercontent.com/u/356367752?v=4",
+        "id": "97d62433e0",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.4,
+        "insight": "2.744 estrelas em poucos dias."
+      },
+      {
+        "title": "iamajmeena/neonclipping",
+        "url": "https://github.com/iamajmeena/neonclipping",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-19T10:00:43.000Z",
+        "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+        "stars": 2042,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/265551449?v=4",
+        "id": "ba504aec0c",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11,
+        "insight": "2.042 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "sybil-solutions/inference-optimisation-skill",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-16T18:40:04.000Z",
+        "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+        "stars": 1912,
+        "language": "Python",
+        "image": "https://avatars.githubusercontent.com/u/284200730?v=4",
+        "id": "a70cae4c16",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.9,
+        "insight": "1.912 estrelas em poucos dias, escrito em Python."
+      },
+      {
+        "title": "EL4CTEO/fast-anything",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-21T14:40:27.000Z",
+        "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "stars": 1530,
+        "language": "Rust",
+        "image": "https://avatars.githubusercontent.com/u/215285446?v=4",
+        "id": "3400785e00",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 10.6,
+        "insight": "1.530 estrelas em poucos dias, escrito em Rust."
+      }
+    ]
+  },
+  "items": [
+    {
+      "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness",
+      "url": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&sharetype=gift&token=956073db-4440-473e-97bd-a0af2932464c",
+      "source": "Financial Times",
+      "publisher": "Financial Times",
+      "section": "news",
+      "publishedAt": "2026-11-21T11:30:01.000Z",
+      "summary": "The in-house philosopher on the problem of consciousness and what it might feel like to be an AI agent",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "611fd1f48b",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 42,
+      "insight": ""
+    },
+    {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "Hacker News",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-22T08:57:34.000Z",
+      "summary": "569 pontos e discussão ativa no Hacker News.",
+      "image": "",
+      "points": 569,
+      "readingMinutes": 0,
+      "author": "happosai",
+      "id": "bf1d56f79e",
+      "feed": "Hacker News",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 42,
+      "insight": ""
+    },
+    {
+      "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it",
+      "url": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&smid=url-share",
+      "source": "New York Times",
+      "publisher": "New York Times",
+      "section": "news",
+      "publishedAt": "2026-11-22T15:00:34.000Z",
+      "summary": "To move through A.I.-era San Francisco as a relatively normal person is to confront the sheer volume of bewildering concepts that tech has lately thrust upon us.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "1cc2efb1a4",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 41,
+      "insight": ""
+    },
+    {
+      "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China",
+      "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9",
+      "source": "Financial Times",
+      "publisher": "Financial Times",
+      "section": "news",
+      "publishedAt": "2026-11-21T18:55:01.000Z",
+      "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "0fed198089",
+      "feed": "Techmeme",
+      "tags": [
+        "Chips"
+      ],
+      "score": 40.3,
+      "insight": ""
+    },
+    {
+      "title": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly",
+      "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?accessToken=zwAAAaH84u1pkc88-ILGC-ZD9dOwHrb3ZWhsiw.MEQCIEewq-yMEhWLLFytskbl4UfRofl-P5tnaU_ItSGndPYsAiB5E9iR8KtH8A9y5DsKiZxw46YWH_09vwzWKRqKB451VA&sharetype=gift&token=78da349b-c4b7-48c6-8dfa-5cf8d65ca0f1",
+      "source": "Financial Times",
+      "publisher": "Financial Times",
+      "section": "news",
+      "publishedAt": "2026-11-22T11:01:10.000Z",
+      "summary": "The freezer war is just a start. The year is 2027. You wake up one morning to find you cannot use email or send instant messages.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "5d0d1fe6a7",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "score": 39.7,
+      "insight": ""
+    },
+    {
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-22T17:06:00.000Z",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Kirsten Korosec",
+      "id": "269744fa7a",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA"
+      ],
+      "score": 37.7,
+      "insight": ""
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "Wired",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-22T11:00:00.000Z",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Reece Rogers",
+      "id": "31c3365412",
+      "feed": "Wired",
+      "tags": [
+        "IA"
+      ],
+      "score": 36.7,
+      "insight": ""
+    },
+    {
+      "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5",
+      "source": "Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "section": "news",
+      "publishedAt": "2026-11-22T09:34:02.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "c305109d40",
+      "feed": "Google News: IA",
+      "tags": [
+        "IA",
+        "Chips"
+      ],
+      "score": 36.3,
+      "insight": ""
+    },
+    {
+      "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips",
+      "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&smid=url-share",
+      "source": "New York Times",
+      "publisher": "New York Times",
+      "section": "news",
+      "publishedAt": "2026-11-22T07:00:41.000Z",
+      "summary": "China's espionage agency has been running a secret campaign to help the country's companies acquire advanced A.I. chips …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "0ba59a1738",
+      "feed": "Techmeme",
+      "tags": [
+        "IA",
+        "Chips",
+        "M&A"
+      ],
+      "score": 35.3,
+      "insight": ""
+    },
+    {
+      "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+      "source": "Wired",
+      "publisher": "Wired",
+      "section": "news",
+      "publishedAt": "2026-11-22T00:10:02.000Z",
+      "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "8fbc773186",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 35,
+      "insight": ""
+    },
+    {
+      "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "section": "news",
+      "publishedAt": "2026-11-21T20:10:02.000Z",
+      "summary": "Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "99727b65c2",
+      "feed": "Techmeme",
+      "tags": [
+        "IA"
+      ],
+      "score": 33.7,
+      "insight": ""
+    },
+    {
+      "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals",
+      "url": "https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/",
+      "source": "Reuters",
+      "publisher": "Reuters",
+      "section": "startup",
+      "publishedAt": "2026-11-22T17:15:01.000Z",
+      "summary": "For the second time this year, Wall Street bankers and lawyers took home a massive paycheck from a record-setting initial public offering.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "61906e6641",
+      "feed": "Techmeme",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 51.7,
+      "insight": ""
+    },
+    {
+      "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week",
+      "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+      "source": "Financial Times",
+      "publisher": "Financial Times",
+      "section": "startup",
+      "publishedAt": "2026-11-21T17:55:01.000Z",
+      "summary": "Acquisition would help AWS compete with Nvidia in race for computing power &mdash; Amazon is nearing a $7.5bn deal to buy start-up Decart …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "7623e0edaf",
+      "feed": "Techmeme",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Chips",
+        "Big Tech"
+      ],
+      "score": 49,
+      "insight": ""
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Lucas Ropek",
+      "id": "89298d3b7f",
+      "feed": "TechCrunch",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 30.3,
+      "insight": ""
+    },
+    {
+      "title": "Irish AI startup bags $5.5m in funding from Collison brothers",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmdqWXdpRFZnNkN0NS1mZWhXOGZNMkRqN1FVTmYzeExaQWszNGZ2VDZ1N01YT3RZeGRQdElnMjlrX01QekFIOGF5VVJrdGZjak44MThUMmRNR0VKalhjT0VheVBCb0xaNXphSE1NRGlmdG1rMVVwQVFRX08yRkhxcVVZRG5mRUZHWkE0VmdBbGxIUmd6MDcyMFVYcm5tZ05DZVc4WkQ3VWVaUVp3UDFkTEkyYw?oc=5",
+      "source": "Irish Independent",
+      "publisher": "Irish Independent",
+      "section": "startup",
+      "publishedAt": "2026-11-21T16:12:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "f2691a1d83",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 5500000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 29.1,
+      "insight": ""
+    },
+    {
+      "title": "Startups lead Technology Development Board's second funding cohort",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTnBvVkVYUnQtRHR4MDRocXEtV0tsNl9BWVJKakJYYTVNZXBaeHM4M3RvSW1ja2NDcmRwMHROY0NCVXR5SEVoakV3TkhwaWh3VHBlTkoxLWlMWlc1OUh1WVU4UUs2MzdJRFd3RUZiblBkbU5aTUE2ZXZzb3BXeU9mWDA3SDFNa3ZvZ1E0bWpITExTYmJWTlBJUFVXV25CaTZiS1o5M2lYOFhGM0RneFkxOTU2VWtYWjNUcFVpUUhXdlo4d1gxUUl3TjF0T3NqNUIzS0FPSGI5SUXSAd4BQVVfeXFMTkFPNlcta3FKV0hxd0ZhOXpvd1czczNJSzJuQWZleVV2VnZRV2d2QXU5bFlSWmJFTGNSSFBmQ0NEZWw2ZXM2WHB4QjFaaVBEeHJxeHgtTEVpbEd3TFlvUEp6MVd1dnBSbS05U2lIMDFzOE5tRzRncGpKOHZQZ0t4bDZNaURibnJHWm91Q2h6RWtaRlZKcXBxV3JabDhydHlsUmQ2U2JUYWhLTVNNYnNmZkdKM3FBVkJsdlZVclZRMjZ6dTlYMDJENlJiQ2VyeTQ2Y3BvNHFrUUV5ai1TNEtR?oc=5",
+      "source": "Business Standard",
+      "publisher": "Business Standard",
+      "section": "startup",
+      "publishedAt": "2026-11-22T17:39:03.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "afd5209af3",
+      "feed": "Google News: Funding",
+      "funding": null,
+      "tags": [
+        "Rodada"
+      ],
+      "score": 29,
+      "insight": ""
+    },
+    {
+      "title": "Google announces $5 mn funding for IIT Kharagpur for advanced AI research",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRTBKN3JSX1B2S1BXaTZvaUZoZFBndW1TREhDX3ZxMzNtZWF3SGwtQThVbTZnazBxTUNEdDlvZFhjTmJnUERpRzd0MktxNHpiZW9NZ1J4aTNZYTVBWTVoWE9zVnBfVVFIY25FMkIzSXlCcExCNi1uR1JMUHRvQjBmbnFTZE1qQ2F3TTltSG16elZSb2Via0JZQWR6SkRVX0ZHRFpVSkdEZVlKOE5xVmZSa1MyTGJSTGxhUXBfTU54MngtazVtaFhsZlFXVjBKbFhXNzRvNXN0QjlKR1ZleFpsTtIB5gFBVV95cUxOVGw2ZF9OUjEwR2pCVjhudnNhNXpvcVdaOThYZXAzOXNHb1FqQnpqQl82MTF3SlgyUzV6WVVFcEN0OVV4OUZjZE1TcW5pTWJ5d2sxMHdodVVBbHN1VjNrdWhNaW9ueEd0LVVtUVBPdTB1U3BPWEhoUWRBRDFycldPUThiUGJfMkhrdDNTaGx6em41ZUQ5dEJjSVNQcFlpSHF1LXh3ZFl1b2xKTmxwNnVnS2dXZDBTc1kyaTRJdnpzMW45ZXJVbmNDdzhvSktiTFcwZWhqYnF1QV9HaWJNaVhFRFlzd3kwUQ?oc=5",
+      "source": "Business Standard",
+      "publisher": "Business Standard",
+      "section": "startup",
+      "publishedAt": "2026-11-21T08:31:48.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "ce99d64e93",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 5000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Big Tech",
+        "Rodada"
+      ],
+      "score": 28.7,
+      "insight": ""
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
+      "section": "startup",
+      "publishedAt": "2026-11-20T19:53:41.000Z",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Tim De Chant",
+      "id": "340614cb1d",
+      "feed": "TechCrunch Startups",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 28,
+      "insight": ""
+    },
+    {
+      "title": "Healthcare AI startup Knit Health raises US$35m",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWl4TU9xU3B3eWtSNW1ueUJhSjlWMGNSWFR1bU8ta1Q0WU5BTzdFNThNYUx4TzV4ZEZpY1JQSGJwdHFVbjBGOVdnQlhWeGZ1cjE2Q2xGcFhkYWVnSUFsTVlQS01FZkEzcTZEUGJ3SzloOUR6NmZfUWJTZTlNekZ6bGFDQ3ViejFQOHJ2OA?oc=5",
+      "source": "Health Tech World",
+      "publisher": "Health Tech World",
+      "section": "startup",
+      "publishedAt": "2026-11-20T19:10:42.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "da3e8f6ce1",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 35000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 27.5,
+      "insight": ""
+    },
+    {
+      "title": "10 recursos do Gemini Intelligence para celulares Android",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gemini-intelligence-recursos-para-celulares-android/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-22T12:30:03.000Z",
+      "summary": "O Gemini Intelligence é uma plataforma de inteligência artificial do Google integrada aos dispositivos Android, que transforma o smartphone em um assistente agêntico que consegue entender o contexto das suas atividades, interpretar o que você vê e fala e executar tarefas com várias etapas. A ideia…",
+      "image": "https://tl.ctcdn.com.br/v_YmqAw8yrD3Xd8-vqXqHqWbDZQ=/0x0/filters:format(webp):quality(85)/db795608-5ac1-423e-8224-19559cb11ed2.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Viviane França",
+      "id": "ce2a4b3bc5",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA",
+        "Big Tech",
+        "Hardware"
+      ],
+      "score": 34.3,
+      "insight": ""
+    },
+    {
+      "title": "Surge um novo canal comercial, operado de ponta a ponta por IA",
+      "url": "https://canaltech.com.br/inteligencia-artificial/surge-um-novo-canal-comercial-operado-de-ponta-a-ponta-por-ia/",
+      "source": "Canaltech",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-22T13:30:00.000Z",
+      "summary": "A inteligência artificial já ocupa espaço nas agendas de investimento das empresas, mas transformar esse movimento em resultados concretos continua sendo um desafio. Uma pesquisa do IBM Institute for Business Value, realizada em parceria com a Oxford Economics, mostrou que apenas 37% das…",
+      "image": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Luiz Othero",
+      "id": "7961820b28",
+      "feed": "Canaltech",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 31.7,
+      "insight": ""
+    },
+    {
+      "title": "Fapesp Lança Segunda Rodada do PIPE Jornada Tecnológica com R$ 50 Milhões para Inovação em Pequenas Empresas",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQODdiYU43M1F1UG8wUk95ckZMNHpGVkI1N2hxMTQtTlAtVVlXOUhqY2xMVklraXQ2ejdfZ3A1TDdHSnFtVjg3MTFjcXd5V3BMQ3NuN25JN3BWeUxVZHphZXl4eFBKZHRIN01Rd2V6ZmV1cDdjeWZYbnRtNkx6enpMUzJJbVpzM3Rncm40cTZIWk9YTmc0WG5PSjVueExhRTlkZ1JKYURaUE9mdmxXNU04UkZ5TUhJck9DZk13SllSMXljTmtKb0kwa3dQdXIyTEJUWVVoaXJnT19rMG1FSVM3b1BmSk0?oc=5",
+      "source": "Jornal Digital da Região Oeste",
+      "publisher": "Jornal Digital da Região Oeste",
+      "section": "brasil",
+      "publishedAt": "2026-11-22T14:18:25.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "dce6a9f61c",
+      "feed": "Google News: Startups BR",
+      "funding": {
+        "currency": "BRL",
+        "amount": 50000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 30.7,
+      "insight": ""
+    },
+    {
+      "title": "Cem anos depois, o gênio do impressionismo Claude Monet ainda impressiona e mobiliza multidões",
+      "url": "https://neofeed.com.br/finde/cem-anos-depois-o-genio-do-impressionismo-claude-monet-ainda-impressiona-e-mobiliza-multidoes/",
+      "source": "Neofeed",
+      "publisher": "",
+      "section": "brasil",
+      "publishedAt": "2026-11-22T12:05:56.000Z",
+      "summary": "Paris – Quando morreu em 1926, aos 86 anos, Claude Monet era rico e consagrado. Considerado o fundador do impressionismo, o pintor francês escapou do estereótipo do artista condenado à penúria e ao reconhecimento póstumo, como Vincent van Gogh, Alfred Sisley ou Paul Gauguin. Cem anos depois, sua…",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/11/musee-d-orsay.fr-1-300x169.jpg",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Maria Eduarda Nogueira",
+      "id": "b9422e0345",
+      "feed": "Neofeed",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 26,
+      "insight": ""
+    },
+    {
+      "title": "Venture capital Brasil 2026: de rodada a retorno real",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb000X2Q0dTRaN19FSVNabEZ0QU1VNF9xbUtRYnVURnF4OWU0czMyU1JrU3g3cDhyY0F0M0pUdExkSHlGejJ1M1c0THdUblVaMzlFdXV1Z1BuaThHWl9VZzlreUp0VXdrX24xMVVnbWt1MjA3RTl2RzAtdHp3OEZ1MEhNQU5hZ1NjYjVRRlAtbXZmb25MMWg2VExjVjBZMzJDYTRrN003S1l0NjI3OEw0?oc=5",
+      "source": "iMasters",
+      "publisher": "iMasters",
+      "section": "brasil",
+      "publishedAt": "2026-11-22T09:05:28.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "db57570cde",
+      "feed": "Google News: Startups BR",
+      "funding": null,
+      "tags": [
+        "Rodada"
+      ],
+      "score": 26,
+      "insight": ""
+    },
+    {
+      "title": "Itaú Investe em Startup Uruguaia de IA Que Processa 2 Milhões de Pagamentos por Dia",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVN1RE9rS2xPc3pTWGk4M2VDc0NZYUlFU3QxWFFpZHRnN3lYUEpqU2d3MDE1MkhOUlFfUmZFTzV5d1E1UGpnV0s5Tm9MdTFTQmthSEhOTExpWWs4eUt3SGl1SkRuRlNCNHBmemYzSUV3VGVUM01nY3A0RzRROWlKTGt3LXhUZy1RSVNVYVNmTXBvbVJtc3J1UzF1b2otNFhWRlo0ZTVCMWNWZzFWWFgwcVNmeXBSdw?oc=5",
+      "source": "Forbes Brasil",
+      "publisher": "Forbes Brasil",
+      "section": "brasil",
+      "publishedAt": "2026-11-22T08:00:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "f0c6a77b48",
+      "feed": "Google News: Startups BR",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 24.7,
+      "insight": ""
+    },
+    {
+      "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2611.26444",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26444.png",
+      "upvotes": 53,
+      "github": "https://github.com/Mind2Act/Mind2Act_World",
+      "authors": [
+        "Yuzhi Huang",
+        "Jie Wu",
+        "Fanding Huang"
+      ],
+      "organization": "Mind2Act-World",
+      "id": "63dbb81e2a",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 55,
+      "insight": "Em alta na comunidade, com 53 upvotes no Hugging Face."
+    },
+    {
+      "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+      "url": "https://huggingface.co/papers/2611.21373",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21373.png",
+      "upvotes": 56,
+      "github": "https://github.com/Tencent/WeVisForensics",
+      "authors": [
+        "Yipeng Du",
+        "Yuxi Li",
+        "Ying Zhang"
+      ],
+      "organization": "Tencent",
+      "id": "47ddbf71e0",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 55,
+      "insight": "Em alta na comunidade, com 56 upvotes no Hugging Face."
+    },
+    {
+      "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+      "url": "https://huggingface.co/papers/2611.26595",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26595.png",
+      "upvotes": 39,
+      "github": "https://github.com/FrankYang-17/Coda",
+      "authors": [
+        "Yiyan Ji",
+        "Qixun Wang",
+        "Yang Shi"
+      ],
+      "organization": "KlingAI Research",
+      "id": "f6990214f0",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 49,
+      "insight": "Em alta na comunidade, com 39 upvotes no Hugging Face."
+    },
+    {
+      "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+      "url": "https://huggingface.co/papers/2611.26409",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26409.png",
+      "upvotes": 45,
+      "github": "https://github.com/Tencent/WeMM-Video",
+      "authors": [
+        "Changli Tang",
+        "Jie Yang",
+        "Tianyi Wang"
+      ],
+      "organization": "Tencent",
+      "id": "0cdac5c6e4",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 48,
+      "insight": "Em alta na comunidade, com 45 upvotes no Hugging Face."
+    },
+    {
+      "title": "TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs",
+      "url": "https://huggingface.co/papers/2611.26248",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "AI agents are increasingly expected to act as AI scientists, which requires three increasingly open abilities: carrying out a given computational workflow correctly, choosing the next measurements from a given design space, and designing their own experiments. Existing benchmarks mainly evaluate…",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26248.png",
+      "upvotes": 7,
+      "github": "https://github.com/ZJUSCL/TwinLab-Bench",
+      "authors": [
+        "Yang Wan",
+        "Linchao Zhu"
+      ],
+      "organization": "Zhejiang University",
+      "id": "0115555b39",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 47,
+      "insight": "Novo benchmark ou dataset, um sinal técnico que pode virar produto."
+    },
+    {
+      "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+      "url": "https://huggingface.co/papers/2611.26073",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "summary": "A statistical test, AltRA-Test, determines when large language models can replace human annotators by comparing inter-annotator agreement in resampled mixed human-LLM panels, and evaluations show it often requires about 100 items and makes better replacement decisions than baselines.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26073.png",
+      "upvotes": 23,
+      "github": "",
+      "authors": [
+        "Nagham Omar",
+        "Rotem Dror",
+        "Almog Gueta"
+      ],
+      "organization": "Technion Israel institute of technology",
+      "id": "399e786b29",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 44.5,
+      "insight": "Em alta na comunidade, com 23 upvotes no Hugging Face."
+    },
+    {
+      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+      "source": "The Pragmatic Engineer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-19T17:08:59.000Z",
+      "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
+      "image": "https://substackcdn.com/image/fetch/$s_!dsZM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9817f36-232c-412a-89cc-57b2691171ec_819x900.png",
+      "points": 0,
+      "readingMinutes": 1,
+      "author": "Gergely Orosz",
+      "id": "04da227b0c",
+      "feed": "The Pragmatic Engineer",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 43.9,
+      "insight": "Leitura de 1 min."
+    },
+    {
+      "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+      "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+      "source": "Stratechery",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-18T11:00:00.000Z",
+      "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 1,
+      "author": "Ben Thompson",
+      "id": "4618f5d2a9",
+      "feed": "Stratechery",
+      "tags": [
+        "IA",
+        "Chips",
+        "Big Tech"
+      ],
+      "score": 39.4,
+      "insight": "Leitura de 1 min."
+    },
+    {
+      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+      "source": "Latent Space",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-19T07:07:43.000Z",
+      "summary": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6ba7e411-386b-45b6-b64e-592072c52abf/image.png?t=1795071522",
+      "points": 0,
+      "readingMinutes": 6,
+      "author": "swyx .ai",
+      "id": "20477ed22c",
+      "feed": "Latent Space",
+      "tags": [
+        "IA",
+        "Big Tech"
+      ],
+      "score": 39.1,
+      "insight": "Leitura de 6 min."
+    },
+    {
+      "title": "Anthropic goes public",
+      "url": "https://www.platformer.news/anthropic-goes-public/",
+      "source": "Platformer",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-20T01:37:44.000Z",
+      "summary": "What a protest at the company's headquarters today says about its future — and everyone else's",
+      "image": "https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/11/shutterstock_2745761117.jpg",
+      "points": 0,
+      "readingMinutes": 6,
+      "author": "Ella Markianos",
+      "id": "f43a281361",
+      "feed": "Platformer",
+      "tags": [
+        "IA"
+      ],
+      "score": 25.7,
+      "insight": "Leitura de 6 min."
+    },
+    {
+      "title": "Weekly Dose of Optimism #220",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-220",
+      "source": "Not Boring",
+      "publisher": "",
+      "section": "read",
+      "publishedAt": "2026-11-20T13:52:45.000Z",
+      "summary": "SpaceX reusability, Leukemia vaccine (+pancreatic pill), SLAB, Tesla Powercore, Earth AI Gold + TEN Extra Doses",
+      "image": "https://substackcdn.com/image/fetch/$s_!PPUN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27d68c14-5cc8-42fd-afe9-cbd625d8687a_960x540.gif",
+      "points": 0,
+      "readingMinutes": 9,
+      "author": "Packy McCormick",
+      "id": "64de76bf2f",
+      "feed": "Not Boring",
+      "tags": [
+        "IA",
+        "Big Tech",
+        "Espaço"
+      ],
+      "score": 23.7,
+      "insight": "Leitura de 9 min."
+    },
+    {
+      "title": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-20T20:07:13.000Z",
+      "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "stars": 12674,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/300290919?v=4",
+      "id": "01af6e752b",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 13.6,
+      "insight": "12.674 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-16T12:10:36.000Z",
+      "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "stars": 7870,
+      "language": "Rust",
+      "image": "https://avatars.githubusercontent.com/u/88717125?v=4",
+      "id": "8129f68e26",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 12.9,
+      "insight": "7.870 estrelas em poucos dias, escrito em Rust."
+    },
+    {
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-19T14:43:10.000Z",
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python…",
+      "stars": 2744,
+      "language": "",
+      "image": "https://avatars.githubusercontent.com/u/356367752?v=4",
+      "id": "97d62433e0",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.4,
+      "insight": "2.744 estrelas em poucos dias."
+    },
+    {
+      "title": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-19T10:00:43.000Z",
+      "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "stars": 2042,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/265551449?v=4",
+      "id": "ba504aec0c",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11,
+      "insight": "2.042 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-16T18:40:04.000Z",
+      "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "stars": 1912,
+      "language": "Python",
+      "image": "https://avatars.githubusercontent.com/u/284200730?v=4",
+      "id": "a70cae4c16",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.9,
+      "insight": "1.912 estrelas em poucos dias, escrito em Python."
+    },
+    {
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-21T14:40:27.000Z",
+      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "stars": 1530,
+      "language": "Rust",
+      "image": "https://avatars.githubusercontent.com/u/215285446?v=4",
+      "id": "3400785e00",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 10.6,
+      "insight": "1.530 estrelas em poucos dias, escrito em Rust."
+    }
+  ],
+  "counts": {
+    "total": 42
+  }
+}
