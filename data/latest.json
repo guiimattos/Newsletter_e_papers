@@ -1,45 +1,37 @@
 {
   "title": "OpenClaw Tech Brief",
-  "generatedAt": "2026-11-27T19:49:02.744Z",
-  "date": "2026-11-27",
-  "dateLabel": "27/11/2026 16:49",
+  "generatedAt": "2026-11-28T18:41:27.379Z",
+  "date": "2026-11-28",
+  "dateLabel": "28/11/2026 15:41",
   "summary": "As principais notícias de tecnologia, startups e pesquisa das últimas 48 horas, escolhidas entre dezenas de fontes.",
   "highlights": [],
   "tags": [
     {
       "tag": "IA",
-      "count": 23
+      "count": 19
     },
     {
       "tag": "Rodada",
-      "count": 10
-    },
-    {
-      "tag": "Segurança",
-      "count": 5
+      "count": 7
     },
     {
       "tag": "Big Tech",
-      "count": 5
+      "count": 6
     },
     {
       "tag": "Chips",
-      "count": 4
+      "count": 5
     },
     {
-      "tag": "Regulação",
+      "tag": "Segurança",
+      "count": 3
+    },
+    {
+      "tag": "Cripto",
       "count": 2
     },
     {
       "tag": "Dev",
-      "count": 2
-    },
-    {
-      "tag": "M&A",
-      "count": 1
-    },
-    {
-      "tag": "Cripto",
       "count": 1
     }
   ],
@@ -50,70 +42,50 @@
     "reads": 5,
     "papers": 6,
     "repos": 6,
-    "rounds": 8,
-    "sources": 30
+    "rounds": 6,
+    "sources": 29
   },
   "lead": {
-    "title": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q",
-    "source": "Bloomberg",
-    "publisher": "Bloomberg",
+    "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks",
+    "url": "https://x.com/edwinarbus/status/2126507795642187855",
+    "source": "@edwinarbus",
+    "publisher": "@edwinarbus",
     "section": "news",
-    "publishedAt": "2026-11-27T13:05:01.000Z",
-    "summary": "A pair of Chinese firms installed Nvidia Corp.'s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang …",
+    "publishedAt": "2026-11-28T03:35:05.000Z",
+    "summary": "Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn't sabotage. There have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we d...",
     "image": "",
     "points": 0,
     "readingMinutes": 0,
     "author": "",
-    "id": "a75001f3e9",
+    "id": "908640080e",
     "feed": "Techmeme",
     "tags": [
-      "Chips"
+      "IA"
     ],
-    "score": 53,
+    "score": 47,
     "insight": ""
   },
   "sections": {
     "news": [
       {
-        "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says",
-        "source": "Bloomberg",
-        "publisher": "Bloomberg",
+        "title": "The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom",
+        "url": "https://www.ft.com/content/76143592-b1c8-42d2-bf4c-17aa87255467?accessToken=zwAAAaIgiLyjkc92FDWSschC0tO_TBeqhyVUZw.MEQCIBmgVqJJzHOv1Qe-PIiWUFFtTF5ylTNetqBdlwsyHc7_AiAChLJ-vCeIaMVO5WUFLlz5TOaszBKx430YqEkEKnp9BA&sharetype=gift&token=838699d9-46f1-4d5e-8012-243438eac6c0",
+        "source": "Financial Times",
+        "publisher": "Financial Times",
         "section": "news",
-        "publishedAt": "2026-11-27T18:15:00.000Z",
-        "summary": "Euro-area workers are turning to artificial intelligence at a similar rate as their peers in the US, though obstacles remain …",
+        "publishedAt": "2026-11-28T16:15:03.000Z",
+        "summary": "Boeing and leading defence contractors wrestle with ballooning backlogs fuelled by a surge in air travel and military spending",
         "image": "",
         "points": 0,
         "readingMinutes": 0,
         "author": "",
-        "id": "441fe87563",
+        "id": "1335973949",
         "feed": "Techmeme",
         "tags": [
-          "IA"
+          "IA",
+          "Chips"
         ],
-        "score": 52.7,
-        "insight": ""
-      },
-      {
-        "title": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications",
-        "url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/",
-        "source": "Reuters",
-        "publisher": "Reuters",
-        "section": "news",
-        "publishedAt": "2026-11-27T12:10:01.000Z",
-        "summary": "Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the matter told Reuters …",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "4cc46f316e",
-        "feed": "Techmeme",
-        "tags": [
-          "Segurança",
-          "Big Tech"
-        ],
-        "score": 49.7,
+        "score": 46.3,
         "insight": ""
       },
       {
@@ -134,156 +106,199 @@
           "IA",
           "Big Tech"
         ],
-        "score": 48,
+        "score": 40.3,
         "insight": ""
       },
       {
-        "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions",
-        "url": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html?unlocked_article_code=1.TlE.eHV_.2f70GvuLgZxe&smid=nytcore-ios-share",
-        "source": "New York Times",
-        "publisher": "New York Times",
+        "title": "Power operators are using sensors and software to dynamically adjust grid safety limits, boosting existing network capacity amid rising AI-driven energy demand",
+        "url": "https://www.ft.com/content/7db3c2c9-dfad-4b5d-a8dc-aabf6fa87440",
+        "source": "Financial Times",
+        "publisher": "Financial Times",
         "section": "news",
-        "publishedAt": "2026-11-27T14:20:01.000Z",
-        "summary": "As China's access to Nvidia's advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
+        "publishedAt": "2026-11-28T12:40:01.000Z",
+        "summary": "Operators are using sensors and sophisticated software to eke out more capacity from installed transmission lines as they struggle …",
         "image": "",
         "points": 0,
         "readingMinutes": 0,
         "author": "",
-        "id": "99be43e2d4",
+        "id": "154ed201cb",
         "feed": "Techmeme",
         "tags": [
-          "IA",
-          "Chips"
+          "IA"
         ],
-        "score": 44.3,
+        "score": 40,
         "insight": ""
       },
       {
-        "title": "Group chat where your AI talks behind your back",
-        "url": "https://construct22.com/",
-        "source": "Hacker News",
-        "publisher": "",
+        "title": "Q&A with Q.ANT CEO Michael Förtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more",
+        "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+        "source": "Wired",
+        "publisher": "Wired",
         "section": "news",
-        "publishedAt": "2026-11-27T06:44:34.000Z",
-        "summary": "616 pontos e discussão ativa no Hacker News.",
-        "image": "",
-        "points": 616,
-        "readingMinutes": 0,
-        "author": "utiiiD",
-        "id": "48b0d8d3f8",
-        "feed": "Hacker News",
-        "tags": [
-          "IA",
-          "Segurança"
-        ],
-        "score": 38.7,
-        "insight": ""
-      },
-      {
-        "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles",
-        "url": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
-        "source": "New York Times",
-        "publisher": "New York Times",
-        "section": "news",
-        "publishedAt": "2026-11-27T00:30:01.000Z",
-        "summary": "Members of both parties say they want to tackle artificial intelligence policy, but the slow pace of legislating and turf battles could stand in the way.",
+        "publishedAt": "2026-11-28T14:40:01.000Z",
+        "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
         "image": "",
         "points": 0,
         "readingMinutes": 0,
         "author": "",
-        "id": "3f2b777bd4",
+        "id": "3c1d86a549",
         "feed": "Techmeme",
         "tags": [
-          "IA",
-          "Regulação"
+          "IA"
+        ],
+        "score": 39.7,
+        "insight": ""
+      },
+      {
+        "title": "Trump-backed World Liberty's WLFI token falls ~50% overnight; the company says Binance automatically closed perpetual futures positions tied to it",
+        "url": "https://www.reuters.com/legal/government/trump-backed-world-liberty-crypto-token-falls-around-50-overnight-2026-11-28/",
+        "source": "Reuters",
+        "publisher": "Reuters",
+        "section": "news",
+        "publishedAt": "2026-11-28T17:25:00.000Z",
+        "summary": "The cryptocurrency token of Trump family-backed World Liberty Financial lost around 50% of its value overnight, highlighting volatility in politically linked crypto assets.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "019ddd5d08",
+        "feed": "Techmeme",
+        "tags": [
+          "Cripto"
         ],
         "score": 37.7,
         "insight": ""
       },
       {
-        "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses",
-        "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398",
-        "source": "Financial Times",
-        "publisher": "Financial Times",
-        "section": "news",
-        "publishedAt": "2026-11-27T18:50:02.000Z",
-        "summary": "US group pursues company owned by Searchlight Capital and Canada's BCI in push to boost its presence in New England region",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "3403457aa9",
-        "feed": "Techmeme",
-        "tags": [],
-        "score": 36,
-        "insight": ""
-      },
-      {
-        "title": "AI made self-hosting fun again",
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "title": "Audible removes download option for purchased audiobooks",
+        "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
         "source": "Hacker News",
         "publisher": "",
         "section": "news",
-        "publishedAt": "2026-11-26T21:47:45.000Z",
-        "summary": "1023 pontos e discussão ativa no Hacker News.",
+        "publishedAt": "2026-11-28T11:51:27.000Z",
+        "summary": "602 pontos e discussão ativa no Hacker News.",
         "image": "",
-        "points": 1023,
+        "points": 602,
         "readingMinutes": 0,
-        "author": "jlelse",
-        "id": "19dd464158",
+        "author": "DeepLogin",
+        "id": "6e1690b680",
         "feed": "Hacker News",
         "tags": [
-          "IA",
           "Segurança"
         ],
-        "score": 35.7,
+        "score": 35,
         "insight": ""
       },
       {
-        "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX",
-        "url": "https://www.calcalistech.com/ctechnews/article/h18nob7kml",
-        "source": "CTech",
-        "publisher": "CTech",
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "source": "Hacker News",
+        "publisher": "",
         "section": "news",
-        "publishedAt": "2026-11-27T03:15:01.000Z",
-        "summary": "Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI agents and connects their activity to the employees responsible for them.",
+        "publishedAt": "2026-11-27T23:06:29.000Z",
+        "summary": "550 pontos e discussão ativa no Hacker News.",
         "image": "",
-        "points": 0,
+        "points": 550,
         "readingMinutes": 0,
-        "author": "",
-        "id": "0c1d8a9119",
-        "feed": "Techmeme",
+        "author": "ComputedCamp995",
+        "id": "bcf32450ca",
+        "feed": "Hacker News",
         "tags": [
-          "IA",
           "Segurança",
-          "Rodada"
+          "Big Tech"
         ],
         "score": 34.7,
         "insight": ""
       },
       {
-        "title": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub",
-        "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
-        "source": "SecurityWeek",
-        "publisher": "SecurityWeek",
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "source": "TechCrunch",
+        "publisher": "",
         "section": "news",
-        "publishedAt": "2026-11-27T16:35:08.000Z",
-        "summary": "SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code.",
+        "publishedAt": "2026-11-26T20:03:54.000Z",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "Connie Loizos",
+        "id": "94305b427e",
+        "feed": "TechCrunch",
+        "tags": [
+          "IA",
+          "Chips"
+        ],
+        "score": 33,
+        "insight": ""
+      },
+      {
+        "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+        "url": "https://unkernel.dev/",
+        "source": "Hacker News",
+        "publisher": "",
+        "section": "news",
+        "publishedAt": "2026-11-28T03:19:20.000Z",
+        "summary": "518 pontos e discussão ativa no Hacker News.",
+        "image": "",
+        "points": 518,
+        "readingMinutes": 0,
+        "author": "nreece",
+        "id": "7d5642ecb0",
+        "feed": "Hacker News",
+        "tags": [
+          "Segurança"
+        ],
+        "score": 32,
+        "insight": ""
+      },
+      {
+        "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO",
+        "url": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?st=NG91Cq",
+        "source": "Wall Street Journal",
+        "publisher": "Wall Street Journal",
+        "section": "news",
+        "publishedAt": "2026-11-28T07:40:01.000Z",
+        "summary": "As a longtime friend of the Nvidia CEO puts it, \"Jensen will always pull a rabbit out of a hat\"",
         "image": "",
         "points": 0,
         "readingMinutes": 0,
         "author": "",
-        "id": "62ce00fb3a",
+        "id": "4062c57b0d",
         "feed": "Techmeme",
         "tags": [
-          "Segurança",
-          "Dev"
+          "Chips"
         ],
-        "score": 33,
+        "score": 31.3,
         "insight": ""
       }
     ],
     "startups": [
+      {
+        "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2lqQlhlRHFGbHdncGpUY1dpaGZtMmNWQlhiT2hrWFF6WXEyd252NVVaOVJaejc2WHJ4c3RIVVJDWHFrT1ZsaWpKX3R0S1liRkZoWjcyQkdjQUcyck9CcDZxSzV5MmNBc2VIX2I5cnFzY2pCckZQZ1UwRTRYN0luNGtDb0lqeXdwaWxWMXhJYlRhaXM3RU8xTnVFUWJIRmJXSmhERkp2d1RPNzZxQV9BM25CSG9LZGc?oc=5",
+        "source": "The Decoder",
+        "publisher": "The Decoder",
+        "section": "startup",
+        "publishedAt": "2026-11-28T10:48:18.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "d0fbb0e123",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 110000000,
+          "round": "seed"
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 52.7,
+        "insight": ""
+      },
       {
         "title": "Andreessen Horowitz (a16z) leads AI agent startup Linq’s $90 mn Series B at $1 bn valuation",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeG9YS2tYY3llc01ZWTc5MXRIbUZkTHhOZmZpR08yVmtsckZhLVJJTFBOWFRwekVrV1dOWTY5ZnVxQVB3VFVBVl9CZTZaY0FYMEtfamtPaGwxcXNUZTVRekNydG9fbTlLSmp2RmFBVHRSWXNPWWhrMkpBSmN0QnBvNkVnanl6UWs?oc=5",
@@ -307,7 +322,58 @@
           "IA",
           "Rodada"
         ],
-        "score": 50.6,
+        "score": 43,
+        "insight": ""
+      },
+      {
+        "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+",
+        "url": "https://tech.eu/2026/11/24/trustly-completes-60m-funding-raise/",
+        "source": "Tech.eu",
+        "publisher": "Tech.eu",
+        "section": "startup",
+        "publishedAt": "2026-11-28T06:45:01.000Z",
+        "summary": "Trustly has raised the funds from existing investors. &mdash; Swedish fintech Trustly today confirmed it had completed a $60m funding round …",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "6463ba4f94",
+        "feed": "Techmeme",
+        "funding": {
+          "currency": "USD",
+          "amount": 60000000,
+          "round": ""
+        },
+        "tags": [
+          "Rodada"
+        ],
+        "score": 37.1,
+        "insight": ""
+      },
+      {
+        "title": "Dunzo co-founder Kabeer Biswas’s AI startup M reportedly raises $9 million",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzlGQ3g5SDVkLURBWmhaQ3VjaTNFM290bFdvYmJ3M3kwUGswNnBwQUhUNjdVdTdER2lycjlzT1J2QjNnOVhLVUVJS3BZSzh2bnVTZ0M1MG1lV1VZS0Q4NWpGeTI4eC1aaVNueVA1eU82RWJST1pxemxqcWNNRDdwQnBZUFk1LWJLczlnZU1oTHFTY2FudlZhVDVtckdoSHR4SVB3NDladFo?oc=5",
+        "source": "CXO Digitalpulse",
+        "publisher": "CXO Digitalpulse",
+        "section": "startup",
+        "publishedAt": "2026-11-28T10:47:10.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "4887ea1987",
+        "feed": "Google News: Funding",
+        "funding": {
+          "currency": "USD",
+          "amount": 9000000,
+          "round": ""
+        },
+        "tags": [
+          "IA",
+          "Rodada"
+        ],
+        "score": 36.6,
         "insight": ""
       },
       {
@@ -333,7 +399,7 @@
           "IA",
           "Rodada"
         ],
-        "score": 42.6,
+        "score": 35,
         "insight": ""
       },
       {
@@ -359,226 +425,113 @@
           "IA",
           "Rodada"
         ],
-        "score": 37,
+        "score": 29.7,
         "insight": ""
       },
       {
-        "title": "UK startup raises $2.8m for AI tech to detect algae blooms, taps former Norway salmon CEO",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5",
-        "source": "Undercurrent News",
-        "publisher": "Undercurrent News",
+        "title": "LTSE outlines seven-step roadmap for startups seeking U.S. funding",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2xCVmE0RjQ1aWdtaUVRWm9qcm1ZYmU3bV9CYmsxMVJyazBSR2Y2VzNHcGlwdWZUalQ3OUM5S1ZQbDlILVM5V1BXMTdYUHBSb29ZWDA0NHhfaW93SDVDNXBSNXpGOE85YWhiWGFBdEJrdFdtZnhxcW8wNFRYLUMtUkd5bkFtX2FwYmtaTEhvQW1Mdw?oc=5",
+        "source": "Traders Union",
+        "publisher": "Traders Union",
         "section": "startup",
-        "publishedAt": "2026-11-27T11:57:21.000Z",
+        "publishedAt": "2026-11-28T18:21:25.000Z",
         "summary": "",
         "image": "",
         "points": 0,
         "readingMinutes": 0,
         "author": "",
-        "id": "dc32c4de08",
+        "id": "4efdcbe018",
         "feed": "Google News: Funding",
-        "funding": {
-          "currency": "USD",
-          "amount": 2800000,
-          "round": ""
-        },
-        "tags": [
-          "IA",
-          "Rodada"
-        ],
-        "score": 36.1,
-        "insight": ""
-      },
-      {
-        "title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout",
-        "source": "Bloomberg",
-        "publisher": "Bloomberg",
-        "section": "startup",
-        "publishedAt": "2026-11-27T07:30:00.000Z",
-        "summary": "Foreign investors dumped a record amount of Taiwanese stocks so far in November, underscoring how heavily the global AI bellwether …",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "009f81f10c",
-        "feed": "Techmeme",
         "funding": null,
         "tags": [
-          "IA",
           "Rodada"
         ],
-        "score": 36,
+        "score": 29,
         "insight": ""
       },
       {
-        "title": "Dunzo founder's AI startup M raises $9M to automate the home",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTF6TFBWbnVld2tjcXBrRldxZEg0MGZWd3l2aHZjU3d6Sm5aRm1QSkQ2QmJHaS1XR1FLNmdZTW82UkpSNFluX0c3UWNJZ1hNZ2dENEVDTVA4SU5XQnBhYWltMU5ORWZiMnk3bmJ2Ymt0cVc3bmc2MXo2bW54RzVITmVCeFZka2lKMTl5MnZYeHprbm1vREgxVg?oc=5",
-        "source": "Dealroom",
-        "publisher": "Dealroom",
+        "title": "This new sports app is designed specifically for women’s sports",
+        "url": "https://techcrunch.com/2026/11/28/this-new-sports-app-is-designed-specifically-for-womens-sports/",
+        "source": "TechCrunch Startups",
+        "publisher": "",
         "section": "startup",
-        "publishedAt": "2026-11-27T10:12:06.000Z",
-        "summary": "",
+        "publishedAt": "2026-11-28T16:43:39.000Z",
+        "summary": "A new sports app is looking to change the way fans engage with women’s sports — without real-money gambling.",
         "image": "",
         "points": 0,
         "readingMinutes": 0,
-        "author": "",
-        "id": "38ca8bf912",
-        "feed": "Google News: Funding",
-        "funding": {
-          "currency": "USD",
-          "amount": 9000000,
-          "round": ""
-        },
-        "tags": [
-          "IA",
-          "Rodada"
-        ],
-        "score": 36,
-        "insight": ""
-      },
-      {
-        "title": "Dutch AI imaging startup SPCTR raises €2.8m",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGl1eDdVRmNkMDFTTFRfUUJyb0JwVHc4OHBNZ0NaZjRSenNhY25qdVFkdUNGQWJ5TFhCWm9PYURGanpZODBuVS1aaUpEZkNrVWIwTkhxOXBuMHUyU3hMS1doTllDdk5RWkMzOWg4ZkpSQXkxVGwtd0lIRU9Dc2xpbFJsWEo4N1dENGxIT3Qxa20?oc=5",
-        "source": "FemTech World",
-        "publisher": "FemTech World",
-        "section": "startup",
-        "publishedAt": "2026-11-27T09:05:37.000Z",
-        "summary": "",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "e75efa6ecc",
-        "feed": "Google News: Funding",
-        "funding": {
-          "currency": "EUR",
-          "amount": 2800000,
-          "round": ""
-        },
-        "tags": [
-          "IA",
-          "Rodada"
-        ],
-        "score": 35.1,
-        "insight": ""
-      },
-      {
-        "title": "Portuguese startup Lampsy raises €1.1M for an AI lamp that detects epilepsy seizures during sleep",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdm93REZPaDNlSFNzN3J1ellZczJfY2Nob2NhWGRwbDgzSlVCYTZFRXdhT2tlbEtDNkNLa1gxR2stRkZENXkyemtPV3hxMm5relk4ZHN4cFJZZXZNQ1VMenVteUtldk04SXFTcFp2WHd3VnB3NDNINXJWd2psYWdGY2FSV0FiY3R1aXE4OXhZaUlOMnI3TTMzcjN3QXlDblBxbExzU3JtVElsSVduSnA1aW9ROTc5ZUFiTGR6MHBoRUU0WERY?oc=5",
-        "source": "Tech Funding News",
-        "publisher": "Tech Funding News",
-        "section": "startup",
-        "publishedAt": "2026-11-27T10:34:27.000Z",
-        "summary": "",
-        "image": "",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "",
-        "id": "e1e8f9467e",
-        "feed": "Google News: Funding",
-        "funding": {
-          "currency": "EUR",
-          "amount": 1100000,
-          "round": ""
-        },
-        "tags": [
-          "IA",
-          "Rodada"
-        ],
-        "score": 35,
+        "author": "Lauren Forristal",
+        "id": "1fb67f66e9",
+        "feed": "TechCrunch Startups",
+        "funding": null,
+        "tags": [],
+        "score": 27.7,
         "insight": ""
       }
     ],
     "brasil": [
       {
-        "title": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela",
-        "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-tomar-vaga-do-gemini-no-android-fazendo-ligacoes-e-lendo-a-tela/",
+        "title": "Como funciona o Claude Docs e Slides? 6 prompts para aprender a usar",
+        "url": "https://canaltech.com.br/inteligencia-artificial/como-funciona-claude-docs-slides-prompts-para-aprender/",
         "source": "Canaltech",
         "publisher": "",
         "section": "brasil",
-        "publishedAt": "2026-11-27T15:02:00.000Z",
-        "summary": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela A OpenAI trabalha em uma série de recursos que permitirão ao ChatGPT realizar ligações, enviar mensagens e interpretar o conteúdo da tela de celulares Android. As novidades aproximariam a inteligência artificial (IA) da…",
-        "image": "https://tl.ctcdn.com.br/MQLxUZjp6ylPSPJMwmKLobWZKQ4=/1200x675/smart/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
+        "publishedAt": "2026-11-28T17:30:00.000Z",
+        "summary": "Como funciona o Claude Docs e Slides? 6 prompts para aprender a usar O Claude, da Anthropic, agora tem integração nativa com o Google Docs, Planilhas (Sheets) e Apresentações (Slides) para criar e editar arquivos com a ajuda da IA. Com o recurso, é possível produzir documentos, reorganizar textos e…",
+        "image": "https://tl.ctcdn.com.br/XlkkFDmYSGBFWNkXE1wRPmumhKA=/1200x675/smart/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
         "points": 0,
         "readingMinutes": 0,
-        "author": "Marcelo Fischer",
-        "id": "d4e8c23b04",
-        "feed": "Canaltech",
-        "funding": null,
-        "tags": [
-          "IA"
-        ],
-        "score": 42.7,
-        "insight": ""
-      },
-      {
-        "title": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA",
-        "url": "https://canaltech.com.br/apps/gemini-live-vai-ganhar-aba-de-atividade-para-gerenciar-tarefas-e-rotinas-da-ia/",
-        "source": "Canaltech",
-        "publisher": "",
-        "section": "brasil",
-        "publishedAt": "2026-11-27T17:02:00.000Z",
-        "summary": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA O Google trabalha em uma atualização para o Gemini Live que permitirá acompanhar tarefas executadas pela inteligência artificial (IA) em segundo plano. O modo de conversas por voz do Gemini ganhará uma seção chamada…",
-        "image": "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "Marcelo Fischer",
-        "id": "e2757cbeb5",
+        "author": "Viviane França",
+        "id": "1708b3d543",
         "feed": "Canaltech",
         "funding": null,
         "tags": [
           "IA",
           "Big Tech"
         ],
-        "score": 39.3,
+        "score": 39.7,
         "insight": ""
       },
       {
-        "title": "Avra faz rodada para escalar sua AI para PMEs",
-        "url": "https://braziljournal.com/avra-faz-rodada-para-escalar-sua-ai-para-pmes",
-        "source": "Brazil Journal",
+        "title": "Como a inteligência artificial está acelerando ports não oficiais de jogos",
+        "url": "https://canaltech.com.br/games/como-a-inteligencia-artificial-esta-acelerando-ports-nao-oficiais-de-jogos/",
+        "source": "Canaltech",
         "publisher": "",
         "section": "brasil",
-        "publishedAt": "2026-11-26T09:50:00.000Z",
-        "summary": "A Avra – uma startup brasileira que desenvolveu um modelo fundacional de AI focado em decisões de crédito, fraudes e aquisição de clientes – acaba de levantar uma rodada que vai financiar a evolução de sua tecnologia e esforços comerciais. A captação de US$ 6 milhões – R$ 35 milhões ao câmbio de…",
-        "image": "https://codex-braziljournal.codexcdn.net/assets/asbA3sWnE7VC9dM7S.jpg",
+        "publishedAt": "2026-11-28T17:00:00.000Z",
+        "summary": "Como a inteligência artificial está acelerando ports não oficiais de jogos Muitos jogadores veem uma verdadeira corrida pelos ports não oficiais de jogos, cujo objetivo é recriar as principais experiências do PlayStation, Nintendo e XBOX nos computadores. Quanto mais veloz e mais recursos…",
+        "image": "https://tl.ctcdn.com.br/eZqzOOeRV3-oZGzCLiA2K43k-GU=/1200x675/smart/filters:format(webp):quality(85)/1b281f3e-3d57-4adf-b302-640c650ff4cc.jpg",
         "points": 0,
         "readingMinutes": 0,
-        "author": "Pedro Arbex",
-        "id": "b4640812e2",
-        "feed": "Brazil Journal",
-        "funding": {
-          "currency": "USD",
-          "amount": 6000000,
-          "round": ""
-        },
-        "tags": [
-          "IA",
-          "Rodada",
-          "M&A"
-        ],
-        "score": 30.8,
-        "insight": ""
-      },
-      {
-        "title": "B3 lança stablecoin em parceria com bancos",
-        "url": "https://startups.com.br/negocios/cripto/b3-lanca-stablecoin-em-parceria-com-bancos/",
-        "source": "Startups.com.br",
-        "publisher": "",
-        "section": "brasil",
-        "publishedAt": "2026-11-27T14:57:19.000Z",
-        "summary": "Edifício da B3 em São Paulo. Foto: Divulgação Batizada de Open BRL, a iniciativa reúne, além da bolsa, o Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP O post B3 lança stablecoin em parceria com bancos apareceu primeiro em Startups.",
-        "image": "https://startups.com.br/wp-content/uploads/2025/04/B3-1.jpg",
-        "points": 0,
-        "readingMinutes": 0,
-        "author": "Stephanie Tondo",
-        "id": "9a1310e95d",
-        "feed": "Startups.com.br",
+        "author": "Diego Corumba",
+        "id": "0b16c518e0",
+        "feed": "Canaltech",
         "funding": null,
         "tags": [
-          "Cripto"
+          "IA"
         ],
-        "score": 29.7,
+        "score": 25.7,
+        "insight": ""
+      },
+      {
+        "title": "Os bastidores da guerra entre um ‘unicórnio’ de IA e entidades de advogados no Brasil",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNFFLUG04cHZFTk1FQ1pOc0x2Y2JVYnlrTlk3emhqRkRNaDVWNTRBbEpnMHZDeXRFSFU4OEd0SWt4aURYVEhmZlpDaURRby1aSGl4ZUdBSGlvaUxYZHB2aXVMQV82bExqWm1GcVBNTHdTYzZMcHBNS3pzd2xHXzJuNDBEMDR1azNqd1NNcEtWNHdxa25iMVJib3JLODZXLVVMSEF6SlhPYkNTbE5HenVIRnVFRFlKWU1halRQM3JfVXJ2bGtPVkxReHFkRHFBOTVwRVVFelBTd2vSAecBQVVfeXFMTlJNa1o0bTZMY1RJdHBndnhoeXcxTkNLdnJuNVpOR1hhaWRfTnYtTnJRemQ3aUlrN3VxOGFRcWY2NmpLVXpHTjlXQjJQdklIR3AyUjJkR2FSUDZ5aEYzOXV6Tko3NG53NHJDaWk4QXNVQWtpQ3AwandtTHlVbUpGbnZPeFdScVEta1d1WDZrSVc1bHNWNXNPQUp6XzA2TzVkTzJTZ2E0eXpBRzlBUDNOUUFLeTZzTk8zZEhXbzlDRlV4ODlzQmszOGU2ZE1UUWN5Ym5PRjNoc2lxWG1fUHZiMGtBNi14cVNZ?oc=5",
+        "source": "O GLOBO",
+        "publisher": "O GLOBO",
+        "section": "brasil",
+        "publishedAt": "2026-11-28T09:00:00.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "ca361ee2d4",
+        "feed": "Google News: Startups BR",
+        "funding": null,
+        "tags": [
+          "IA"
+        ],
+        "score": 25,
         "insight": ""
       },
       {
@@ -599,28 +552,49 @@
         "tags": [
           "IA"
         ],
-        "score": 27.7,
+        "score": 24,
         "insight": ""
       },
       {
-        "title": "Regulador valida R$ 97,8 bilhões em obras da Sabesp e reduz incertezas sobre aumento da conta de água",
-        "url": "https://neofeed.com.br/negocios/regulador-valida-r-978-bilhoes-em-obras-da-sabesp-e-reduz-incertezas-sobre-aumento-da-conta-de-agua/",
-        "source": "Neofeed",
+        "title": "B3 lança stablecoin em parceria com bancos",
+        "url": "https://startups.com.br/negocios/cripto/b3-lanca-stablecoin-em-parceria-com-bancos/",
+        "source": "Startups.com.br",
         "publisher": "",
         "section": "brasil",
-        "publishedAt": "2026-11-27T16:42:58.000Z",
-        "summary": "A Sabesp obteve o aval para sua base de ativos regulatórios (BAR) de R$ 97,8 bilhões, referente a dezembro de 2025. Para analistas, a aprovação desse estoque de investimentos prudentes e necessários já realizados por uma concessionária de serviço público representa mais um passo na redução dos…",
-        "image": "https://neofeed.com.br/wp-content/uploads/2026/11/sabesp_860x484-1-300x169.jpg",
+        "publishedAt": "2026-11-27T14:57:19.000Z",
+        "summary": "Edifício da B3 em São Paulo. Foto: Divulgação Batizada de Open BRL, a iniciativa reúne, além da bolsa, o Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP O post B3 lança stablecoin em parceria com bancos apareceu primeiro em Startups.",
+        "image": "https://startups.com.br/wp-content/uploads/2025/04/B3-1.jpg",
         "points": 0,
         "readingMinutes": 0,
-        "author": "Elisa Calmon",
-        "id": "852b7e103e",
-        "feed": "Neofeed",
+        "author": "Stephanie Tondo",
+        "id": "9a1310e95d",
+        "feed": "Startups.com.br",
         "funding": null,
         "tags": [
-          "Regulação"
+          "Cripto"
         ],
-        "score": 24,
+        "score": 22,
+        "insight": ""
+      },
+      {
+        "title": "Ex-Google criam veículo para investir em startups no Brasil e Portugal",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjNTOUxjTThVMEVEa1o1NlBrdTBCYmVmN012RG1ZV2VrcmY2ZVlPODVRYXJzRmtmcF80Q1ViZVhESkRpX0dnSDhtQ256YjhXaFRKY19MTXdFWVFTNWtVZ0RrdXlFYU1OZnlLd2RJczc1UXJ2dUh3d2JwWnlPOUZVdFFwQVZvWFMyVkxMVkkwT3ZXRllWakE?oc=5",
+        "source": "Acia Araçatuba",
+        "publisher": "Acia Araçatuba",
+        "section": "brasil",
+        "publishedAt": "2026-11-27T19:26:38.000Z",
+        "summary": "",
+        "image": "",
+        "points": 0,
+        "readingMinutes": 0,
+        "author": "",
+        "id": "ed2e25cd6f",
+        "feed": "Google News: Startups BR",
+        "funding": null,
+        "tags": [
+          "Big Tech"
+        ],
+        "score": 20.3,
         "insight": ""
       }
     ],
@@ -643,7 +617,7 @@
           "IA",
           "Dev"
         ],
-        "score": 44.8,
+        "score": 42.9,
         "insight": "Leitura de 9 min."
       },
       {
@@ -663,7 +637,7 @@
         "tags": [
           "IA"
         ],
-        "score": 35.3,
+        "score": 33.4,
         "insight": "Análise para ler com calma."
       },
       {
@@ -685,7 +659,7 @@
           "Chips",
           "Big Tech"
         ],
-        "score": 33.8,
+        "score": 31.8,
         "insight": "Leitura de 29 min."
       },
       {
@@ -707,7 +681,7 @@
           "Chips",
           "Big Tech"
         ],
-        "score": 28.3,
+        "score": 26.4,
         "insight": "Leitura de 1 min."
       },
       {
@@ -725,7 +699,7 @@
         "id": "fed16a1b47",
         "feed": "Not Boring",
         "tags": [],
-        "score": 26.5,
+        "score": 24.6,
         "insight": "Leitura de 11 min."
       }
     ],
@@ -738,7 +712,7 @@
         "publishedAt": "2026-11-27T00:00:00.000Z",
         "summary": "A live cross-platform benchmark evaluates computer-using agents on long-horizon workflows across Windows, Ubuntu, macOS, iOS, Android, and Web, showing that current agents remain far from platform-robust computer use and trail humans on iOS and macOS.",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34232.png",
-        "upvotes": 101,
+        "upvotes": 114,
         "github": "https://github.com/OS-Copilot/OS-Omni",
         "authors": [
           "Hui Shen",
@@ -749,8 +723,8 @@
         "id": "ea247b47b5",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 61.7,
-        "insight": "Em alta na comunidade, com 101 upvotes no Hugging Face."
+        "score": 56,
+        "insight": "Em alta na comunidade, com 114 upvotes no Hugging Face."
       },
       {
         "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
@@ -760,7 +734,7 @@
         "publishedAt": "2026-11-27T00:00:00.000Z",
         "summary": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how…",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34852.png",
-        "upvotes": 24,
+        "upvotes": 25,
         "github": "https://github.com/ZJU-REAL/DRBenchPro",
         "authors": [
           "Han Huang",
@@ -771,8 +745,30 @@
         "id": "f7df6e6b82",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 59.5,
-        "insight": "Em alta na comunidade, com 24 upvotes no Hugging Face."
+        "score": 54.2,
+        "insight": "Em alta na comunidade, com 25 upvotes no Hugging Face."
+      },
+      {
+        "title": "Playfulness as Feedback for Agentic Game Development",
+        "url": "https://huggingface.co/papers/2611.33457",
+        "source": "Hugging Face Papers",
+        "section": "paper",
+        "publishedAt": "2026-11-26T00:00:00.000Z",
+        "summary": "Play2Evolve uses AI agents to iteratively playtest, diagnose, and improve generated games through initialization, refinement, and evolution stages, enhancing functionality, visuals, and gameplay quality.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.33457.png",
+        "upvotes": 22,
+        "github": "https://github.com/showlab/Play2Evolve",
+        "authors": [
+          "Weijia Mao",
+          "Kevin Qinghong Lin",
+          "Zhen Fang"
+        ],
+        "organization": "Show Lab",
+        "id": "a556368df1",
+        "feed": "Hugging Face Papers",
+        "tags": [],
+        "score": 52.1,
+        "insight": "Em alta na comunidade, com 22 upvotes no Hugging Face."
       },
       {
         "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
@@ -782,7 +778,7 @@
         "publishedAt": "2026-11-27T00:00:00.000Z",
         "summary": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium,…",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34813.png",
-        "upvotes": 49,
+        "upvotes": 63,
         "github": "",
         "authors": [
           "Dezhi Luo",
@@ -793,8 +789,8 @@
         "id": "07af9c5780",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 56.7,
-        "insight": "Em alta na comunidade, com 49 upvotes no Hugging Face."
+        "score": 51,
+        "insight": "Em alta na comunidade, com 63 upvotes no Hugging Face."
       },
       {
         "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
@@ -815,7 +811,7 @@
         "id": "4342d45f5c",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 55.7,
+        "score": 50,
         "insight": "Em alta na comunidade, com 36 upvotes no Hugging Face."
       },
       {
@@ -826,7 +822,7 @@
         "publishedAt": "2026-11-27T00:00:00.000Z",
         "summary": "StateWeaver improves long-video generation by preserving cross-shot consistency and updating visual references through active state tracking and hierarchical collaboration.",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34290.png",
-        "upvotes": 26,
+        "upvotes": 28,
         "github": "https://github.com/ghost233lism/StateWeaver",
         "authors": [
           "Modi Jin",
@@ -837,30 +833,8 @@
         "id": "cf71a125cc",
         "feed": "Hugging Face Papers",
         "tags": [],
-        "score": 53.2,
-        "insight": "Em alta na comunidade, com 26 upvotes no Hugging Face."
-      },
-      {
-        "title": "Playfulness as Feedback for Agentic Game Development",
-        "url": "https://huggingface.co/papers/2611.33457",
-        "source": "Hugging Face Papers",
-        "section": "paper",
-        "publishedAt": "2026-11-26T00:00:00.000Z",
-        "summary": "Play2Evolve uses AI agents to iteratively playtest, diagnose, and improve generated games through initialization, refinement, and evolution stages, enhancing functionality, visuals, and gameplay quality.",
-        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.33457.png",
-        "upvotes": 21,
-        "github": "https://github.com/showlab/Play2Evolve",
-        "authors": [
-          "Weijia Mao",
-          "Kevin Qinghong Lin",
-          "Zhen Fang"
-        ],
-        "organization": "Show Lab",
-        "id": "a556368df1",
-        "feed": "Hugging Face Papers",
-        "tags": [],
-        "score": 51.8,
-        "insight": "Em alta na comunidade, com 21 upvotes no Hugging Face."
+        "score": 48.1,
+        "insight": "Em alta na comunidade, com 28 upvotes no Hugging Face."
       }
     ],
     "repos": [
@@ -871,46 +845,30 @@
         "section": "repo",
         "publishedAt": "2026-11-23T21:47:25.000Z",
         "summary": "An attempt at running GTA VI on PC",
-        "stars": 13743,
+        "stars": 14101,
         "language": "Rust",
         "image": "https://avatars.githubusercontent.com/u/60314886?v=4",
         "id": "1306e07eb1",
         "feed": "GitHub",
         "tags": [],
-        "score": 13.7,
-        "insight": "13.743 estrelas em poucos dias, escrito em Rust."
+        "score": 13.8,
+        "insight": "14.101 estrelas em poucos dias, escrito em Rust."
       },
       {
-        "title": "4lwayz/portwatch-vi",
-        "url": "https://github.com/4lwayz/portwatch-vi",
+        "title": "trustno1-coder/VIctory-NVIDIA",
+        "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
         "source": "GitHub",
         "section": "repo",
-        "publishedAt": "2026-11-21T23:16:41.000Z",
-        "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-        "stars": 6576,
-        "language": "JavaScript",
-        "image": "https://avatars.githubusercontent.com/u/359682649?v=4",
-        "id": "dc1eef8847",
-        "feed": "GitHub",
-        "tags": [],
-        "score": 12.7,
-        "insight": "6.576 estrelas em poucos dias, escrito em JavaScript."
-      },
-      {
-        "title": "EL4CTEO/fast-anything",
-        "url": "https://github.com/EL4CTEO/fast-anything",
-        "source": "GitHub",
-        "section": "repo",
-        "publishedAt": "2026-11-21T14:40:27.000Z",
-        "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++,…",
-        "stars": 4429,
+        "publishedAt": "2026-11-25T23:35:29.000Z",
+        "summary": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats…",
+        "stars": 6269,
         "language": "Rust",
-        "image": "https://avatars.githubusercontent.com/u/215285446?v=4",
-        "id": "3400785e00",
+        "image": "https://avatars.githubusercontent.com/u/361337194?v=4",
+        "id": "0ffd98433c",
         "feed": "GitHub",
         "tags": [],
-        "score": 12.1,
-        "insight": "4.429 estrelas em poucos dias, escrito em Rust."
+        "score": 12.6,
+        "insight": "6.269 estrelas em poucos dias, escrito em Rust."
       },
       {
         "title": "fxceless/victory-fork",
@@ -919,14 +877,14 @@
         "section": "repo",
         "publishedAt": "2026-11-24T18:02:37.000Z",
         "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
-        "stars": 3348,
+        "stars": 3379,
         "language": "Rust",
         "image": "https://avatars.githubusercontent.com/u/36782933?v=4",
         "id": "8042194496",
         "feed": "GitHub",
         "tags": [],
         "score": 11.7,
-        "insight": "3.348 estrelas em poucos dias, escrito em Rust."
+        "insight": "3.379 estrelas em poucos dias, escrito em Rust."
       },
       {
         "title": "ProjectLeonida/mandy",
@@ -935,14 +893,14 @@
         "section": "repo",
         "publishedAt": "2026-11-23T23:54:39.000Z",
         "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-        "stars": 2616,
+        "stars": 3205,
         "language": "Python",
         "image": "https://avatars.githubusercontent.com/u/360438810?v=4",
         "id": "f0130f0003",
         "feed": "GitHub",
         "tags": [],
-        "score": 11.4,
-        "insight": "2.616 estrelas em poucos dias, escrito em Python."
+        "score": 11.6,
+        "insight": "3.205 estrelas em poucos dias, escrito em Python."
       },
       {
         "title": "nexu-io/opengame",
@@ -951,77 +909,73 @@
         "section": "repo",
         "publishedAt": "2026-11-25T10:35:45.000Z",
         "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and…",
-        "stars": 2113,
+        "stars": 2870,
         "language": "TypeScript",
         "image": "https://avatars.githubusercontent.com/u/263625318?v=4",
         "id": "9a2d977585",
         "feed": "GitHub",
         "tags": [],
-        "score": 11,
-        "insight": "2.113 estrelas em poucos dias, escrito em TypeScript."
+        "score": 11.5,
+        "insight": "2.870 estrelas em poucos dias, escrito em TypeScript."
+      },
+      {
+        "title": "alesha-pro/llm.asm",
+        "url": "https://github.com/alesha-pro/llm.asm",
+        "source": "GitHub",
+        "section": "repo",
+        "publishedAt": "2026-11-25T07:28:51.000Z",
+        "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+        "stars": 2743,
+        "language": "Assembly",
+        "image": "https://avatars.githubusercontent.com/u/68546545?v=4",
+        "id": "a519f60a21",
+        "feed": "GitHub",
+        "tags": [],
+        "score": 11.4,
+        "insight": "2.743 estrelas em poucos dias, escrito em Assembly."
       }
     ]
   },
   "items": [
     {
-      "title": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q",
-      "source": "Bloomberg",
-      "publisher": "Bloomberg",
+      "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks",
+      "url": "https://x.com/edwinarbus/status/2126507795642187855",
+      "source": "@edwinarbus",
+      "publisher": "@edwinarbus",
       "section": "news",
-      "publishedAt": "2026-11-27T13:05:01.000Z",
-      "summary": "A pair of Chinese firms installed Nvidia Corp.'s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang …",
+      "publishedAt": "2026-11-28T03:35:05.000Z",
+      "summary": "Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn't sabotage. There have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we d...",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
       "author": "",
-      "id": "a75001f3e9",
-      "feed": "Techmeme",
-      "tags": [
-        "Chips"
-      ],
-      "score": 53,
-      "insight": ""
-    },
-    {
-      "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says",
-      "source": "Bloomberg",
-      "publisher": "Bloomberg",
-      "section": "news",
-      "publishedAt": "2026-11-27T18:15:00.000Z",
-      "summary": "Euro-area workers are turning to artificial intelligence at a similar rate as their peers in the US, though obstacles remain …",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "441fe87563",
+      "id": "908640080e",
       "feed": "Techmeme",
       "tags": [
         "IA"
       ],
-      "score": 52.7,
+      "score": 47,
       "insight": ""
     },
     {
-      "title": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications",
-      "url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/",
-      "source": "Reuters",
-      "publisher": "Reuters",
+      "title": "The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom",
+      "url": "https://www.ft.com/content/76143592-b1c8-42d2-bf4c-17aa87255467?accessToken=zwAAAaIgiLyjkc92FDWSschC0tO_TBeqhyVUZw.MEQCIBmgVqJJzHOv1Qe-PIiWUFFtTF5ylTNetqBdlwsyHc7_AiAChLJ-vCeIaMVO5WUFLlz5TOaszBKx430YqEkEKnp9BA&sharetype=gift&token=838699d9-46f1-4d5e-8012-243438eac6c0",
+      "source": "Financial Times",
+      "publisher": "Financial Times",
       "section": "news",
-      "publishedAt": "2026-11-27T12:10:01.000Z",
-      "summary": "Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the matter told Reuters …",
+      "publishedAt": "2026-11-28T16:15:03.000Z",
+      "summary": "Boeing and leading defence contractors wrestle with ballooning backlogs fuelled by a surge in air travel and military spending",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
       "author": "",
-      "id": "4cc46f316e",
+      "id": "1335973949",
       "feed": "Techmeme",
       "tags": [
-        "Segurança",
-        "Big Tech"
+        "IA",
+        "Chips"
       ],
-      "score": 49.7,
+      "score": 46.3,
       "insight": ""
     },
     {
@@ -1042,152 +996,195 @@
         "IA",
         "Big Tech"
       ],
-      "score": 48,
+      "score": 40.3,
       "insight": ""
     },
     {
-      "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions",
-      "url": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html?unlocked_article_code=1.TlE.eHV_.2f70GvuLgZxe&smid=nytcore-ios-share",
-      "source": "New York Times",
-      "publisher": "New York Times",
+      "title": "Power operators are using sensors and software to dynamically adjust grid safety limits, boosting existing network capacity amid rising AI-driven energy demand",
+      "url": "https://www.ft.com/content/7db3c2c9-dfad-4b5d-a8dc-aabf6fa87440",
+      "source": "Financial Times",
+      "publisher": "Financial Times",
       "section": "news",
-      "publishedAt": "2026-11-27T14:20:01.000Z",
-      "summary": "As China's access to Nvidia's advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
+      "publishedAt": "2026-11-28T12:40:01.000Z",
+      "summary": "Operators are using sensors and sophisticated software to eke out more capacity from installed transmission lines as they struggle …",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
       "author": "",
-      "id": "99be43e2d4",
+      "id": "154ed201cb",
       "feed": "Techmeme",
       "tags": [
-        "IA",
-        "Chips"
+        "IA"
       ],
-      "score": 44.3,
+      "score": 40,
       "insight": ""
     },
     {
-      "title": "Group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "source": "Hacker News",
-      "publisher": "",
+      "title": "Q&A with Q.ANT CEO Michael Förtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "source": "Wired",
+      "publisher": "Wired",
       "section": "news",
-      "publishedAt": "2026-11-27T06:44:34.000Z",
-      "summary": "616 pontos e discussão ativa no Hacker News.",
-      "image": "",
-      "points": 616,
-      "readingMinutes": 0,
-      "author": "utiiiD",
-      "id": "48b0d8d3f8",
-      "feed": "Hacker News",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "score": 38.7,
-      "insight": ""
-    },
-    {
-      "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles",
-      "url": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
-      "source": "New York Times",
-      "publisher": "New York Times",
-      "section": "news",
-      "publishedAt": "2026-11-27T00:30:01.000Z",
-      "summary": "Members of both parties say they want to tackle artificial intelligence policy, but the slow pace of legislating and turf battles could stand in the way.",
+      "publishedAt": "2026-11-28T14:40:01.000Z",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
       "author": "",
-      "id": "3f2b777bd4",
+      "id": "3c1d86a549",
       "feed": "Techmeme",
       "tags": [
-        "IA",
-        "Regulação"
+        "IA"
+      ],
+      "score": 39.7,
+      "insight": ""
+    },
+    {
+      "title": "Trump-backed World Liberty's WLFI token falls ~50% overnight; the company says Binance automatically closed perpetual futures positions tied to it",
+      "url": "https://www.reuters.com/legal/government/trump-backed-world-liberty-crypto-token-falls-around-50-overnight-2026-11-28/",
+      "source": "Reuters",
+      "publisher": "Reuters",
+      "section": "news",
+      "publishedAt": "2026-11-28T17:25:00.000Z",
+      "summary": "The cryptocurrency token of Trump family-backed World Liberty Financial lost around 50% of its value overnight, highlighting volatility in politically linked crypto assets.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "019ddd5d08",
+      "feed": "Techmeme",
+      "tags": [
+        "Cripto"
       ],
       "score": 37.7,
       "insight": ""
     },
     {
-      "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses",
-      "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398",
-      "source": "Financial Times",
-      "publisher": "Financial Times",
-      "section": "news",
-      "publishedAt": "2026-11-27T18:50:02.000Z",
-      "summary": "US group pursues company owned by Searchlight Capital and Canada's BCI in push to boost its presence in New England region",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "3403457aa9",
-      "feed": "Techmeme",
-      "tags": [],
-      "score": 36,
-      "insight": ""
-    },
-    {
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "title": "Audible removes download option for purchased audiobooks",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
       "source": "Hacker News",
       "publisher": "",
       "section": "news",
-      "publishedAt": "2026-11-26T21:47:45.000Z",
-      "summary": "1023 pontos e discussão ativa no Hacker News.",
+      "publishedAt": "2026-11-28T11:51:27.000Z",
+      "summary": "602 pontos e discussão ativa no Hacker News.",
       "image": "",
-      "points": 1023,
+      "points": 602,
       "readingMinutes": 0,
-      "author": "jlelse",
-      "id": "19dd464158",
+      "author": "DeepLogin",
+      "id": "6e1690b680",
       "feed": "Hacker News",
       "tags": [
-        "IA",
         "Segurança"
       ],
-      "score": 35.7,
+      "score": 35,
       "insight": ""
     },
     {
-      "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX",
-      "url": "https://www.calcalistech.com/ctechnews/article/h18nob7kml",
-      "source": "CTech",
-      "publisher": "CTech",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "source": "Hacker News",
+      "publisher": "",
       "section": "news",
-      "publishedAt": "2026-11-27T03:15:01.000Z",
-      "summary": "Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI agents and connects their activity to the employees responsible for them.",
+      "publishedAt": "2026-11-27T23:06:29.000Z",
+      "summary": "550 pontos e discussão ativa no Hacker News.",
       "image": "",
-      "points": 0,
+      "points": 550,
       "readingMinutes": 0,
-      "author": "",
-      "id": "0c1d8a9119",
-      "feed": "Techmeme",
+      "author": "ComputedCamp995",
+      "id": "bcf32450ca",
+      "feed": "Hacker News",
       "tags": [
-        "IA",
         "Segurança",
-        "Rodada"
+        "Big Tech"
       ],
       "score": 34.7,
       "insight": ""
     },
     {
-      "title": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub",
-      "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
-      "source": "SecurityWeek",
-      "publisher": "SecurityWeek",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "publisher": "",
       "section": "news",
-      "publishedAt": "2026-11-27T16:35:08.000Z",
-      "summary": "SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code.",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "Connie Loizos",
+      "id": "94305b427e",
+      "feed": "TechCrunch",
+      "tags": [
+        "IA",
+        "Chips"
+      ],
+      "score": 33,
+      "insight": ""
+    },
+    {
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev/",
+      "source": "Hacker News",
+      "publisher": "",
+      "section": "news",
+      "publishedAt": "2026-11-28T03:19:20.000Z",
+      "summary": "518 pontos e discussão ativa no Hacker News.",
+      "image": "",
+      "points": 518,
+      "readingMinutes": 0,
+      "author": "nreece",
+      "id": "7d5642ecb0",
+      "feed": "Hacker News",
+      "tags": [
+        "Segurança"
+      ],
+      "score": 32,
+      "insight": ""
+    },
+    {
+      "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO",
+      "url": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?st=NG91Cq",
+      "source": "Wall Street Journal",
+      "publisher": "Wall Street Journal",
+      "section": "news",
+      "publishedAt": "2026-11-28T07:40:01.000Z",
+      "summary": "As a longtime friend of the Nvidia CEO puts it, \"Jensen will always pull a rabbit out of a hat\"",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
       "author": "",
-      "id": "62ce00fb3a",
+      "id": "4062c57b0d",
       "feed": "Techmeme",
       "tags": [
-        "Segurança",
-        "Dev"
+        "Chips"
       ],
-      "score": 33,
+      "score": 31.3,
+      "insight": ""
+    },
+    {
+      "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2lqQlhlRHFGbHdncGpUY1dpaGZtMmNWQlhiT2hrWFF6WXEyd252NVVaOVJaejc2WHJ4c3RIVVJDWHFrT1ZsaWpKX3R0S1liRkZoWjcyQkdjQUcyck9CcDZxSzV5MmNBc2VIX2I5cnFzY2pCckZQZ1UwRTRYN0luNGtDb0lqeXdwaWxWMXhJYlRhaXM3RU8xTnVFUWJIRmJXSmhERkp2d1RPNzZxQV9BM25CSG9LZGc?oc=5",
+      "source": "The Decoder",
+      "publisher": "The Decoder",
+      "section": "startup",
+      "publishedAt": "2026-11-28T10:48:18.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "d0fbb0e123",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 110000000,
+        "round": "seed"
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 52.7,
       "insight": ""
     },
     {
@@ -1213,7 +1210,58 @@
         "IA",
         "Rodada"
       ],
-      "score": 50.6,
+      "score": 43,
+      "insight": ""
+    },
+    {
+      "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+",
+      "url": "https://tech.eu/2026/11/24/trustly-completes-60m-funding-raise/",
+      "source": "Tech.eu",
+      "publisher": "Tech.eu",
+      "section": "startup",
+      "publishedAt": "2026-11-28T06:45:01.000Z",
+      "summary": "Trustly has raised the funds from existing investors. &mdash; Swedish fintech Trustly today confirmed it had completed a $60m funding round …",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "6463ba4f94",
+      "feed": "Techmeme",
+      "funding": {
+        "currency": "USD",
+        "amount": 60000000,
+        "round": ""
+      },
+      "tags": [
+        "Rodada"
+      ],
+      "score": 37.1,
+      "insight": ""
+    },
+    {
+      "title": "Dunzo co-founder Kabeer Biswas’s AI startup M reportedly raises $9 million",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzlGQ3g5SDVkLURBWmhaQ3VjaTNFM290bFdvYmJ3M3kwUGswNnBwQUhUNjdVdTdER2lycjlzT1J2QjNnOVhLVUVJS3BZSzh2bnVTZ0M1MG1lV1VZS0Q4NWpGeTI4eC1aaVNueVA1eU82RWJST1pxemxqcWNNRDdwQnBZUFk1LWJLczlnZU1oTHFTY2FudlZhVDVtckdoSHR4SVB3NDladFo?oc=5",
+      "source": "CXO Digitalpulse",
+      "publisher": "CXO Digitalpulse",
+      "section": "startup",
+      "publishedAt": "2026-11-28T10:47:10.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "4887ea1987",
+      "feed": "Google News: Funding",
+      "funding": {
+        "currency": "USD",
+        "amount": 9000000,
+        "round": ""
+      },
+      "tags": [
+        "IA",
+        "Rodada"
+      ],
+      "score": 36.6,
       "insight": ""
     },
     {
@@ -1239,7 +1287,7 @@
         "IA",
         "Rodada"
       ],
-      "score": 42.6,
+      "score": 35,
       "insight": ""
     },
     {
@@ -1265,224 +1313,111 @@
         "IA",
         "Rodada"
       ],
-      "score": 37,
+      "score": 29.7,
       "insight": ""
     },
     {
-      "title": "UK startup raises $2.8m for AI tech to detect algae blooms, taps former Norway salmon CEO",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5",
-      "source": "Undercurrent News",
-      "publisher": "Undercurrent News",
+      "title": "LTSE outlines seven-step roadmap for startups seeking U.S. funding",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2xCVmE0RjQ1aWdtaUVRWm9qcm1ZYmU3bV9CYmsxMVJyazBSR2Y2VzNHcGlwdWZUalQ3OUM5S1ZQbDlILVM5V1BXMTdYUHBSb29ZWDA0NHhfaW93SDVDNXBSNXpGOE85YWhiWGFBdEJrdFdtZnhxcW8wNFRYLUMtUkd5bkFtX2FwYmtaTEhvQW1Mdw?oc=5",
+      "source": "Traders Union",
+      "publisher": "Traders Union",
       "section": "startup",
-      "publishedAt": "2026-11-27T11:57:21.000Z",
+      "publishedAt": "2026-11-28T18:21:25.000Z",
       "summary": "",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
       "author": "",
-      "id": "dc32c4de08",
+      "id": "4efdcbe018",
       "feed": "Google News: Funding",
-      "funding": {
-        "currency": "USD",
-        "amount": 2800000,
-        "round": ""
-      },
-      "tags": [
-        "IA",
-        "Rodada"
-      ],
-      "score": 36.1,
-      "insight": ""
-    },
-    {
-      "title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout",
-      "source": "Bloomberg",
-      "publisher": "Bloomberg",
-      "section": "startup",
-      "publishedAt": "2026-11-27T07:30:00.000Z",
-      "summary": "Foreign investors dumped a record amount of Taiwanese stocks so far in November, underscoring how heavily the global AI bellwether …",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "009f81f10c",
-      "feed": "Techmeme",
       "funding": null,
       "tags": [
-        "IA",
         "Rodada"
       ],
-      "score": 36,
+      "score": 29,
       "insight": ""
     },
     {
-      "title": "Dunzo founder's AI startup M raises $9M to automate the home",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTF6TFBWbnVld2tjcXBrRldxZEg0MGZWd3l2aHZjU3d6Sm5aRm1QSkQ2QmJHaS1XR1FLNmdZTW82UkpSNFluX0c3UWNJZ1hNZ2dENEVDTVA4SU5XQnBhYWltMU5ORWZiMnk3bmJ2Ymt0cVc3bmc2MXo2bW54RzVITmVCeFZka2lKMTl5MnZYeHprbm1vREgxVg?oc=5",
-      "source": "Dealroom",
-      "publisher": "Dealroom",
+      "title": "This new sports app is designed specifically for women’s sports",
+      "url": "https://techcrunch.com/2026/11/28/this-new-sports-app-is-designed-specifically-for-womens-sports/",
+      "source": "TechCrunch Startups",
+      "publisher": "",
       "section": "startup",
-      "publishedAt": "2026-11-27T10:12:06.000Z",
-      "summary": "",
+      "publishedAt": "2026-11-28T16:43:39.000Z",
+      "summary": "A new sports app is looking to change the way fans engage with women’s sports — without real-money gambling.",
       "image": "",
       "points": 0,
       "readingMinutes": 0,
-      "author": "",
-      "id": "38ca8bf912",
-      "feed": "Google News: Funding",
-      "funding": {
-        "currency": "USD",
-        "amount": 9000000,
-        "round": ""
-      },
-      "tags": [
-        "IA",
-        "Rodada"
-      ],
-      "score": 36,
+      "author": "Lauren Forristal",
+      "id": "1fb67f66e9",
+      "feed": "TechCrunch Startups",
+      "funding": null,
+      "tags": [],
+      "score": 27.7,
       "insight": ""
     },
     {
-      "title": "Dutch AI imaging startup SPCTR raises €2.8m",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGl1eDdVRmNkMDFTTFRfUUJyb0JwVHc4OHBNZ0NaZjRSenNhY25qdVFkdUNGQWJ5TFhCWm9PYURGanpZODBuVS1aaUpEZkNrVWIwTkhxOXBuMHUyU3hMS1doTllDdk5RWkMzOWg4ZkpSQXkxVGwtd0lIRU9Dc2xpbFJsWEo4N1dENGxIT3Qxa20?oc=5",
-      "source": "FemTech World",
-      "publisher": "FemTech World",
-      "section": "startup",
-      "publishedAt": "2026-11-27T09:05:37.000Z",
-      "summary": "",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "e75efa6ecc",
-      "feed": "Google News: Funding",
-      "funding": {
-        "currency": "EUR",
-        "amount": 2800000,
-        "round": ""
-      },
-      "tags": [
-        "IA",
-        "Rodada"
-      ],
-      "score": 35.1,
-      "insight": ""
-    },
-    {
-      "title": "Portuguese startup Lampsy raises €1.1M for an AI lamp that detects epilepsy seizures during sleep",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdm93REZPaDNlSFNzN3J1ellZczJfY2Nob2NhWGRwbDgzSlVCYTZFRXdhT2tlbEtDNkNLa1gxR2stRkZENXkyemtPV3hxMm5relk4ZHN4cFJZZXZNQ1VMenVteUtldk04SXFTcFp2WHd3VnB3NDNINXJWd2psYWdGY2FSV0FiY3R1aXE4OXhZaUlOMnI3TTMzcjN3QXlDblBxbExzU3JtVElsSVduSnA1aW9ROTc5ZUFiTGR6MHBoRUU0WERY?oc=5",
-      "source": "Tech Funding News",
-      "publisher": "Tech Funding News",
-      "section": "startup",
-      "publishedAt": "2026-11-27T10:34:27.000Z",
-      "summary": "",
-      "image": "",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "",
-      "id": "e1e8f9467e",
-      "feed": "Google News: Funding",
-      "funding": {
-        "currency": "EUR",
-        "amount": 1100000,
-        "round": ""
-      },
-      "tags": [
-        "IA",
-        "Rodada"
-      ],
-      "score": 35,
-      "insight": ""
-    },
-    {
-      "title": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela",
-      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-tomar-vaga-do-gemini-no-android-fazendo-ligacoes-e-lendo-a-tela/",
+      "title": "Como funciona o Claude Docs e Slides? 6 prompts para aprender a usar",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-funciona-claude-docs-slides-prompts-para-aprender/",
       "source": "Canaltech",
       "publisher": "",
       "section": "brasil",
-      "publishedAt": "2026-11-27T15:02:00.000Z",
-      "summary": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela A OpenAI trabalha em uma série de recursos que permitirão ao ChatGPT realizar ligações, enviar mensagens e interpretar o conteúdo da tela de celulares Android. As novidades aproximariam a inteligência artificial (IA) da…",
-      "image": "https://tl.ctcdn.com.br/MQLxUZjp6ylPSPJMwmKLobWZKQ4=/1200x675/smart/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
+      "publishedAt": "2026-11-28T17:30:00.000Z",
+      "summary": "Como funciona o Claude Docs e Slides? 6 prompts para aprender a usar O Claude, da Anthropic, agora tem integração nativa com o Google Docs, Planilhas (Sheets) e Apresentações (Slides) para criar e editar arquivos com a ajuda da IA. Com o recurso, é possível produzir documentos, reorganizar textos e…",
+      "image": "https://tl.ctcdn.com.br/XlkkFDmYSGBFWNkXE1wRPmumhKA=/1200x675/smart/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
       "points": 0,
       "readingMinutes": 0,
-      "author": "Marcelo Fischer",
-      "id": "d4e8c23b04",
-      "feed": "Canaltech",
-      "funding": null,
-      "tags": [
-        "IA"
-      ],
-      "score": 42.7,
-      "insight": ""
-    },
-    {
-      "title": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA",
-      "url": "https://canaltech.com.br/apps/gemini-live-vai-ganhar-aba-de-atividade-para-gerenciar-tarefas-e-rotinas-da-ia/",
-      "source": "Canaltech",
-      "publisher": "",
-      "section": "brasil",
-      "publishedAt": "2026-11-27T17:02:00.000Z",
-      "summary": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA O Google trabalha em uma atualização para o Gemini Live que permitirá acompanhar tarefas executadas pela inteligência artificial (IA) em segundo plano. O modo de conversas por voz do Gemini ganhará uma seção chamada…",
-      "image": "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "Marcelo Fischer",
-      "id": "e2757cbeb5",
+      "author": "Viviane França",
+      "id": "1708b3d543",
       "feed": "Canaltech",
       "funding": null,
       "tags": [
         "IA",
         "Big Tech"
       ],
-      "score": 39.3,
+      "score": 39.7,
       "insight": ""
     },
     {
-      "title": "Avra faz rodada para escalar sua AI para PMEs",
-      "url": "https://braziljournal.com/avra-faz-rodada-para-escalar-sua-ai-para-pmes",
-      "source": "Brazil Journal",
+      "title": "Como a inteligência artificial está acelerando ports não oficiais de jogos",
+      "url": "https://canaltech.com.br/games/como-a-inteligencia-artificial-esta-acelerando-ports-nao-oficiais-de-jogos/",
+      "source": "Canaltech",
       "publisher": "",
       "section": "brasil",
-      "publishedAt": "2026-11-26T09:50:00.000Z",
-      "summary": "A Avra – uma startup brasileira que desenvolveu um modelo fundacional de AI focado em decisões de crédito, fraudes e aquisição de clientes – acaba de levantar uma rodada que vai financiar a evolução de sua tecnologia e esforços comerciais. A captação de US$ 6 milhões – R$ 35 milhões ao câmbio de…",
-      "image": "https://codex-braziljournal.codexcdn.net/assets/asbA3sWnE7VC9dM7S.jpg",
+      "publishedAt": "2026-11-28T17:00:00.000Z",
+      "summary": "Como a inteligência artificial está acelerando ports não oficiais de jogos Muitos jogadores veem uma verdadeira corrida pelos ports não oficiais de jogos, cujo objetivo é recriar as principais experiências do PlayStation, Nintendo e XBOX nos computadores. Quanto mais veloz e mais recursos…",
+      "image": "https://tl.ctcdn.com.br/eZqzOOeRV3-oZGzCLiA2K43k-GU=/1200x675/smart/filters:format(webp):quality(85)/1b281f3e-3d57-4adf-b302-640c650ff4cc.jpg",
       "points": 0,
       "readingMinutes": 0,
-      "author": "Pedro Arbex",
-      "id": "b4640812e2",
-      "feed": "Brazil Journal",
-      "funding": {
-        "currency": "USD",
-        "amount": 6000000,
-        "round": ""
-      },
-      "tags": [
-        "IA",
-        "Rodada",
-        "M&A"
-      ],
-      "score": 30.8,
-      "insight": ""
-    },
-    {
-      "title": "B3 lança stablecoin em parceria com bancos",
-      "url": "https://startups.com.br/negocios/cripto/b3-lanca-stablecoin-em-parceria-com-bancos/",
-      "source": "Startups.com.br",
-      "publisher": "",
-      "section": "brasil",
-      "publishedAt": "2026-11-27T14:57:19.000Z",
-      "summary": "Edifício da B3 em São Paulo. Foto: Divulgação Batizada de Open BRL, a iniciativa reúne, além da bolsa, o Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP O post B3 lança stablecoin em parceria com bancos apareceu primeiro em Startups.",
-      "image": "https://startups.com.br/wp-content/uploads/2025/04/B3-1.jpg",
-      "points": 0,
-      "readingMinutes": 0,
-      "author": "Stephanie Tondo",
-      "id": "9a1310e95d",
-      "feed": "Startups.com.br",
+      "author": "Diego Corumba",
+      "id": "0b16c518e0",
+      "feed": "Canaltech",
       "funding": null,
       "tags": [
-        "Cripto"
+        "IA"
       ],
-      "score": 29.7,
+      "score": 25.7,
+      "insight": ""
+    },
+    {
+      "title": "Os bastidores da guerra entre um ‘unicórnio’ de IA e entidades de advogados no Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNFFLUG04cHZFTk1FQ1pOc0x2Y2JVYnlrTlk3emhqRkRNaDVWNTRBbEpnMHZDeXRFSFU4OEd0SWt4aURYVEhmZlpDaURRby1aSGl4ZUdBSGlvaUxYZHB2aXVMQV82bExqWm1GcVBNTHdTYzZMcHBNS3pzd2xHXzJuNDBEMDR1azNqd1NNcEtWNHdxa25iMVJib3JLODZXLVVMSEF6SlhPYkNTbE5HenVIRnVFRFlKWU1halRQM3JfVXJ2bGtPVkxReHFkRHFBOTVwRVVFelBTd2vSAecBQVVfeXFMTlJNa1o0bTZMY1RJdHBndnhoeXcxTkNLdnJuNVpOR1hhaWRfTnYtTnJRemQ3aUlrN3VxOGFRcWY2NmpLVXpHTjlXQjJQdklIR3AyUjJkR2FSUDZ5aEYzOXV6Tko3NG53NHJDaWk4QXNVQWtpQ3AwandtTHlVbUpGbnZPeFdScVEta1d1WDZrSVc1bHNWNXNPQUp6XzA2TzVkTzJTZ2E0eXpBRzlBUDNOUUFLeTZzTk8zZEhXbzlDRlV4ODlzQmszOGU2ZE1UUWN5Ym5PRjNoc2lxWG1fUHZiMGtBNi14cVNZ?oc=5",
+      "source": "O GLOBO",
+      "publisher": "O GLOBO",
+      "section": "brasil",
+      "publishedAt": "2026-11-28T09:00:00.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "ca361ee2d4",
+      "feed": "Google News: Startups BR",
+      "funding": null,
+      "tags": [
+        "IA"
+      ],
+      "score": 25,
       "insight": ""
     },
     {
@@ -1503,28 +1438,49 @@
       "tags": [
         "IA"
       ],
-      "score": 27.7,
+      "score": 24,
       "insight": ""
     },
     {
-      "title": "Regulador valida R$ 97,8 bilhões em obras da Sabesp e reduz incertezas sobre aumento da conta de água",
-      "url": "https://neofeed.com.br/negocios/regulador-valida-r-978-bilhoes-em-obras-da-sabesp-e-reduz-incertezas-sobre-aumento-da-conta-de-agua/",
-      "source": "Neofeed",
+      "title": "B3 lança stablecoin em parceria com bancos",
+      "url": "https://startups.com.br/negocios/cripto/b3-lanca-stablecoin-em-parceria-com-bancos/",
+      "source": "Startups.com.br",
       "publisher": "",
       "section": "brasil",
-      "publishedAt": "2026-11-27T16:42:58.000Z",
-      "summary": "A Sabesp obteve o aval para sua base de ativos regulatórios (BAR) de R$ 97,8 bilhões, referente a dezembro de 2025. Para analistas, a aprovação desse estoque de investimentos prudentes e necessários já realizados por uma concessionária de serviço público representa mais um passo na redução dos…",
-      "image": "https://neofeed.com.br/wp-content/uploads/2026/11/sabesp_860x484-1-300x169.jpg",
+      "publishedAt": "2026-11-27T14:57:19.000Z",
+      "summary": "Edifício da B3 em São Paulo. Foto: Divulgação Batizada de Open BRL, a iniciativa reúne, além da bolsa, o Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP O post B3 lança stablecoin em parceria com bancos apareceu primeiro em Startups.",
+      "image": "https://startups.com.br/wp-content/uploads/2025/04/B3-1.jpg",
       "points": 0,
       "readingMinutes": 0,
-      "author": "Elisa Calmon",
-      "id": "852b7e103e",
-      "feed": "Neofeed",
+      "author": "Stephanie Tondo",
+      "id": "9a1310e95d",
+      "feed": "Startups.com.br",
       "funding": null,
       "tags": [
-        "Regulação"
+        "Cripto"
       ],
-      "score": 24,
+      "score": 22,
+      "insight": ""
+    },
+    {
+      "title": "Ex-Google criam veículo para investir em startups no Brasil e Portugal",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjNTOUxjTThVMEVEa1o1NlBrdTBCYmVmN012RG1ZV2VrcmY2ZVlPODVRYXJzRmtmcF80Q1ViZVhESkRpX0dnSDhtQ256YjhXaFRKY19MTXdFWVFTNWtVZ0RrdXlFYU1OZnlLd2RJczc1UXJ2dUh3d2JwWnlPOUZVdFFwQVZvWFMyVkxMVkkwT3ZXRllWakE?oc=5",
+      "source": "Acia Araçatuba",
+      "publisher": "Acia Araçatuba",
+      "section": "brasil",
+      "publishedAt": "2026-11-27T19:26:38.000Z",
+      "summary": "",
+      "image": "",
+      "points": 0,
+      "readingMinutes": 0,
+      "author": "",
+      "id": "ed2e25cd6f",
+      "feed": "Google News: Startups BR",
+      "funding": null,
+      "tags": [
+        "Big Tech"
+      ],
+      "score": 20.3,
       "insight": ""
     },
     {
@@ -1535,7 +1491,7 @@
       "publishedAt": "2026-11-27T00:00:00.000Z",
       "summary": "A live cross-platform benchmark evaluates computer-using agents on long-horizon workflows across Windows, Ubuntu, macOS, iOS, Android, and Web, showing that current agents remain far from platform-robust computer use and trail humans on iOS and macOS.",
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34232.png",
-      "upvotes": 101,
+      "upvotes": 114,
       "github": "https://github.com/OS-Copilot/OS-Omni",
       "authors": [
         "Hui Shen",
@@ -1546,8 +1502,8 @@
       "id": "ea247b47b5",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 61.7,
-      "insight": "Em alta na comunidade, com 101 upvotes no Hugging Face."
+      "score": 56,
+      "insight": "Em alta na comunidade, com 114 upvotes no Hugging Face."
     },
     {
       "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
@@ -1557,7 +1513,7 @@
       "publishedAt": "2026-11-27T00:00:00.000Z",
       "summary": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how…",
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34852.png",
-      "upvotes": 24,
+      "upvotes": 25,
       "github": "https://github.com/ZJU-REAL/DRBenchPro",
       "authors": [
         "Han Huang",
@@ -1568,8 +1524,30 @@
       "id": "f7df6e6b82",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 59.5,
-      "insight": "Em alta na comunidade, com 24 upvotes no Hugging Face."
+      "score": 54.2,
+      "insight": "Em alta na comunidade, com 25 upvotes no Hugging Face."
+    },
+    {
+      "title": "Playfulness as Feedback for Agentic Game Development",
+      "url": "https://huggingface.co/papers/2611.33457",
+      "source": "Hugging Face Papers",
+      "section": "paper",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "summary": "Play2Evolve uses AI agents to iteratively playtest, diagnose, and improve generated games through initialization, refinement, and evolution stages, enhancing functionality, visuals, and gameplay quality.",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.33457.png",
+      "upvotes": 22,
+      "github": "https://github.com/showlab/Play2Evolve",
+      "authors": [
+        "Weijia Mao",
+        "Kevin Qinghong Lin",
+        "Zhen Fang"
+      ],
+      "organization": "Show Lab",
+      "id": "a556368df1",
+      "feed": "Hugging Face Papers",
+      "tags": [],
+      "score": 52.1,
+      "insight": "Em alta na comunidade, com 22 upvotes no Hugging Face."
     },
     {
       "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
@@ -1579,7 +1557,7 @@
       "publishedAt": "2026-11-27T00:00:00.000Z",
       "summary": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium,…",
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34813.png",
-      "upvotes": 49,
+      "upvotes": 63,
       "github": "",
       "authors": [
         "Dezhi Luo",
@@ -1590,8 +1568,8 @@
       "id": "07af9c5780",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 56.7,
-      "insight": "Em alta na comunidade, com 49 upvotes no Hugging Face."
+      "score": 51,
+      "insight": "Em alta na comunidade, com 63 upvotes no Hugging Face."
     },
     {
       "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
@@ -1612,7 +1590,7 @@
       "id": "4342d45f5c",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 55.7,
+      "score": 50,
       "insight": "Em alta na comunidade, com 36 upvotes no Hugging Face."
     },
     {
@@ -1623,7 +1601,7 @@
       "publishedAt": "2026-11-27T00:00:00.000Z",
       "summary": "StateWeaver improves long-video generation by preserving cross-shot consistency and updating visual references through active state tracking and hierarchical collaboration.",
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34290.png",
-      "upvotes": 26,
+      "upvotes": 28,
       "github": "https://github.com/ghost233lism/StateWeaver",
       "authors": [
         "Modi Jin",
@@ -1634,30 +1612,8 @@
       "id": "cf71a125cc",
       "feed": "Hugging Face Papers",
       "tags": [],
-      "score": 53.2,
-      "insight": "Em alta na comunidade, com 26 upvotes no Hugging Face."
-    },
-    {
-      "title": "Playfulness as Feedback for Agentic Game Development",
-      "url": "https://huggingface.co/papers/2611.33457",
-      "source": "Hugging Face Papers",
-      "section": "paper",
-      "publishedAt": "2026-11-26T00:00:00.000Z",
-      "summary": "Play2Evolve uses AI agents to iteratively playtest, diagnose, and improve generated games through initialization, refinement, and evolution stages, enhancing functionality, visuals, and gameplay quality.",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.33457.png",
-      "upvotes": 21,
-      "github": "https://github.com/showlab/Play2Evolve",
-      "authors": [
-        "Weijia Mao",
-        "Kevin Qinghong Lin",
-        "Zhen Fang"
-      ],
-      "organization": "Show Lab",
-      "id": "a556368df1",
-      "feed": "Hugging Face Papers",
-      "tags": [],
-      "score": 51.8,
-      "insight": "Em alta na comunidade, com 21 upvotes no Hugging Face."
+      "score": 48.1,
+      "insight": "Em alta na comunidade, com 28 upvotes no Hugging Face."
     },
     {
       "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
@@ -1677,7 +1633,7 @@
         "IA",
         "Dev"
       ],
-      "score": 44.8,
+      "score": 42.9,
       "insight": "Leitura de 9 min."
     },
     {
@@ -1697,7 +1653,7 @@
       "tags": [
         "IA"
       ],
-      "score": 35.3,
+      "score": 33.4,
       "insight": "Análise para ler com calma."
     },
     {
@@ -1719,7 +1675,7 @@
         "Chips",
         "Big Tech"
       ],
-      "score": 33.8,
+      "score": 31.8,
       "insight": "Leitura de 29 min."
     },
     {
@@ -1741,7 +1697,7 @@
         "Chips",
         "Big Tech"
       ],
-      "score": 28.3,
+      "score": 26.4,
       "insight": "Leitura de 1 min."
     },
     {
@@ -1759,7 +1715,7 @@
       "id": "fed16a1b47",
       "feed": "Not Boring",
       "tags": [],
-      "score": 26.5,
+      "score": 24.6,
       "insight": "Leitura de 11 min."
     },
     {
@@ -1769,46 +1725,30 @@
       "section": "repo",
       "publishedAt": "2026-11-23T21:47:25.000Z",
       "summary": "An attempt at running GTA VI on PC",
-      "stars": 13743,
+      "stars": 14101,
       "language": "Rust",
       "image": "https://avatars.githubusercontent.com/u/60314886?v=4",
       "id": "1306e07eb1",
       "feed": "GitHub",
       "tags": [],
-      "score": 13.7,
-      "insight": "13.743 estrelas em poucos dias, escrito em Rust."
+      "score": 13.8,
+      "insight": "14.101 estrelas em poucos dias, escrito em Rust."
     },
     {
-      "title": "4lwayz/portwatch-vi",
-      "url": "https://github.com/4lwayz/portwatch-vi",
+      "title": "trustno1-coder/VIctory-NVIDIA",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
       "source": "GitHub",
       "section": "repo",
-      "publishedAt": "2026-11-21T23:16:41.000Z",
-      "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "stars": 6576,
-      "language": "JavaScript",
-      "image": "https://avatars.githubusercontent.com/u/359682649?v=4",
-      "id": "dc1eef8847",
-      "feed": "GitHub",
-      "tags": [],
-      "score": 12.7,
-      "insight": "6.576 estrelas em poucos dias, escrito em JavaScript."
-    },
-    {
-      "title": "EL4CTEO/fast-anything",
-      "url": "https://github.com/EL4CTEO/fast-anything",
-      "source": "GitHub",
-      "section": "repo",
-      "publishedAt": "2026-11-21T14:40:27.000Z",
-      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++,…",
-      "stars": 4429,
+      "publishedAt": "2026-11-25T23:35:29.000Z",
+      "summary": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats…",
+      "stars": 6269,
       "language": "Rust",
-      "image": "https://avatars.githubusercontent.com/u/215285446?v=4",
-      "id": "3400785e00",
+      "image": "https://avatars.githubusercontent.com/u/361337194?v=4",
+      "id": "0ffd98433c",
       "feed": "GitHub",
       "tags": [],
-      "score": 12.1,
-      "insight": "4.429 estrelas em poucos dias, escrito em Rust."
+      "score": 12.6,
+      "insight": "6.269 estrelas em poucos dias, escrito em Rust."
     },
     {
       "title": "fxceless/victory-fork",
@@ -1817,14 +1757,14 @@
       "section": "repo",
       "publishedAt": "2026-11-24T18:02:37.000Z",
       "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
-      "stars": 3348,
+      "stars": 3379,
       "language": "Rust",
       "image": "https://avatars.githubusercontent.com/u/36782933?v=4",
       "id": "8042194496",
       "feed": "GitHub",
       "tags": [],
       "score": 11.7,
-      "insight": "3.348 estrelas em poucos dias, escrito em Rust."
+      "insight": "3.379 estrelas em poucos dias, escrito em Rust."
     },
     {
       "title": "ProjectLeonida/mandy",
@@ -1833,14 +1773,14 @@
       "section": "repo",
       "publishedAt": "2026-11-23T23:54:39.000Z",
       "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-      "stars": 2616,
+      "stars": 3205,
       "language": "Python",
       "image": "https://avatars.githubusercontent.com/u/360438810?v=4",
       "id": "f0130f0003",
       "feed": "GitHub",
       "tags": [],
-      "score": 11.4,
-      "insight": "2.616 estrelas em poucos dias, escrito em Python."
+      "score": 11.6,
+      "insight": "3.205 estrelas em poucos dias, escrito em Python."
     },
     {
       "title": "nexu-io/opengame",
@@ -1849,14 +1789,30 @@
       "section": "repo",
       "publishedAt": "2026-11-25T10:35:45.000Z",
       "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and…",
-      "stars": 2113,
+      "stars": 2870,
       "language": "TypeScript",
       "image": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "id": "9a2d977585",
       "feed": "GitHub",
       "tags": [],
-      "score": 11,
-      "insight": "2.113 estrelas em poucos dias, escrito em TypeScript."
+      "score": 11.5,
+      "insight": "2.870 estrelas em poucos dias, escrito em TypeScript."
+    },
+    {
+      "title": "alesha-pro/llm.asm",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "source": "GitHub",
+      "section": "repo",
+      "publishedAt": "2026-11-25T07:28:51.000Z",
+      "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "stars": 2743,
+      "language": "Assembly",
+      "image": "https://avatars.githubusercontent.com/u/68546545?v=4",
+      "id": "a519f60a21",
+      "feed": "GitHub",
+      "tags": [],
+      "score": 11.4,
+      "insight": "2.743 estrelas em poucos dias, escrito em Assembly."
     }
   ],
   "counts": {
